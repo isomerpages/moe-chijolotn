@@ -2,5 +2,6 @@ collections:
   success-stories:
     output: true
     order:
+      - Staff/2022.md
       - Staff/2021.md
       - Staff/.keep
