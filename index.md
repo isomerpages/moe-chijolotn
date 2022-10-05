@@ -9,9 +9,12 @@ sections:
   - hero:
       background: /images/hero-banner.png
       key_highlights:
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: Success Stories
+          description: ""
+          url: /success-stories/students/2022
+        - title: Announcements
+          description: ""
+          url: /announcements
         - title: Contact Us
           description: ""
           url: /contact-us
