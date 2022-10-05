@@ -8,7 +8,7 @@ description: ""
 <p><strong>Feedback</strong></p>
 <p>We would like to hear from you. Write to us for any feedback to&nbsp;<a href="mailto:chijoln@moe.edu.sg" target="">chijoln@moe.edu.sg</a></p>
 <p><strong>Emails</strong></p>
-<p>School email address:&nbsp;<a href="mailto:chijoln@moe.edu.sg" target="">chijoln@moe.edu.sg</a><br /><a href="https://chijourladyofthenativity.moe.edu.sg/school-information/our-people/key-personnel" target="_blank" rel="noopener">Key personnel</a><br /><a href="https://chijourladyofthenativity.moe.edu.sg/school-information/our-people/teaching-staff" target="_blank" rel="noopener">Teaching staff</a></p>
+<p>School email address:&nbsp;<a href="mailto:chijoln@moe.edu.sg" target="">chijoln@moe.edu.sg</a><br /><a href="/school-information/our-people/key-personnel" target="_blank" rel="noopener">Key personnel</a><br /><a href="/school-information/our-people/teaching-staff" target="_blank" rel="noopener">Teaching staff</a></p>
 <p><strong>Main Telephone Contacts</strong></p>
 <p>Tel: 6385 2455<br />Fax: 6385 2012</p>
 <p><strong>Mailing Address</strong></p>
