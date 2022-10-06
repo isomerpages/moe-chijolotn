@@ -2,4 +2,5 @@ collections:
   student-well-being:
     output: true
     order:
+      - Cyber Wellness.md
       - Signature Programmes.md
