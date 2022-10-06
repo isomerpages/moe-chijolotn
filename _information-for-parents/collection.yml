@@ -2,5 +2,6 @@ collections:
   information-for-parents:
     output: true
     order:
+      - Updates on COVID–19.md
       - Frequently Asked Questions.md
       - PSLE Banding and S1 Sch Selection.md
