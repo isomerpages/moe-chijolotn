@@ -139,8 +139,6 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
-<div>
-<div>
 <h4 style="text-align: center;"><strong>Level Heads (LH)</strong></h4>
 <table>
 <tbody>
@@ -201,5 +199,3 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
-</div>
-</div>
