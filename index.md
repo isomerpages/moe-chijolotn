@@ -8,7 +8,7 @@ notification: "CHIJ Our Lady of the Nativity, 1257 Upper Serangoon Road,
   Singapore 534793. Email: chijoln@moe.edu.sg . Tel: 6385 2455 Fax: 6385 2012"
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/banner.gif
       key_highlights:
         - title: Success Stories
           description: ""
@@ -19,10 +19,4 @@ sections:
         - title: Contact Us
           description: ""
           url: /contact-us
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
 ---
