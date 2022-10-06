@@ -22,7 +22,47 @@ description: ""
 </li>
 <li><input id="accordion2" type="checkbox" /> <label for="accordion2">School Programmes</label>
 <div>
-<p>This is a simple one line item</p>
+<ul>
+<li><strong>What are some of the school&rsquo;s key programmes?</strong></li>
+</ul>
+<p><u>OLN 360<br /></u>OLN 360 is a compulsory programme for all P3 to P6. Through this programme, students will be able to explore and experience success in a range of activities, apply learning beyond the classroom, develop their Learning Dispositions and grow in our school&rsquo;s GRACIA values. Students will be exposed to topics and activities in 4 different domains, namely, Sports (Ready, Steady, Go!), Life Skills (Pockets of Joy!), New Media Literacies (#thinkER) and Inquiring into Our World (Have a Heart!).</p>
+<p><u>REAL (Rich, Enduring and Active Learning)<br /></u>Through a customized English Language Programme, REAL (Rich, Enduring and Active Learning) programme, the school makes use of literature texts during lessons to help our students learn grammar and extended their vocabulary within authentic contexts as well as improved their skills in applying plot structure and character development in their written work.</p>
+<p><u>Mathematics in Modules Programme (M<sup>2</sup>P)<br /></u>The Mathematics department adopted a modular approach to deliver the P5 and P6 Maths curriculum whereby similar topics covered in both P5 and P6 were restructured and taught as modules so that students could make connections when acquiring mathematical skills and concepts, and this strengthened their understanding of the topics. This programme built on the spiral teaching of heuristics and problem-solving skills advocated by the MOE Mathematics syllabus.</p>
+<p><u>Character &amp; Citizenship Education (CCE) @OLN<br /></u>Guided by the revamped V-LIVE (Vision realized through Love, Internalization, Values-based education and Engagement of stakeholders) framework, the Values Education programme (V-Ed) was initiated in 2015. This programme helped students understand and adopt the G.R.A.C.I.A values progressively from P1 to P6, and was supported by a series of six teacher-designed G.R.A.C.I.A. STAR booklets and classroom resources.&nbsp;</p>
+<p><u>LLP (Learning for Life Programme): OLN SPARK (SPorts for Active and Resilient Kids)<br /></u>OLN SPARK (SPorts for Active and Resilient Kids) provided opportunities for broad-based development across various sports as well as specialization in a specific sport, for all students via a 3-Tier Approach i.e. Tier 1 Exposure (Sports for All), Tier 2 Engagement (for identified students) and Tier 3 Excellence (for students who excel in CCA). This resulted in P2 students participating in modules focused on specific skills related to Netball, Floorball, Table Tennis and Bowling. P2 students were also assessed by the Coach and the PE teacher, and those with the aptitude were then invited to join the Netball, Floorball, Table Tennis or Bowling CCA in P3.&nbsp;</p>
+<ul>
+<li><strong>When can my child join CCA and what are the CCAs offered?</strong></li>
+</ul>
+<p>All Primary 3 to 6 students are strongly encouraged to participate in a CCA of their choice. CCA is not compulsory for all primary school students. The CCAs offered are:</p>
+<table>
+<tbody>
+<tr>
+<th>Sports</th>
+<th>Uniformed Group</th>
+<th>Visual and Performing Arts</th>
+</tr>
+<tr>
+<td>Bowling</td>
+<td>Brownies</td>
+<td>Creative Crew</td>
+</tr>
+<tr>
+<td>Floorball</td>
+<td>&nbsp;</td>
+<td>Brass band</td>
+</tr>
+<tr>
+<td>Netball</td>
+<td>&nbsp;</td>
+<td>Choir</td>
+</tr>
+<tr>
+<td>Table-Tennis</td>
+<td>&nbsp;</td>
+<td>Dance Inc. (International Dance, Chinese Dance and Malay Dance</td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3">P1 Registration Exercise</label>
