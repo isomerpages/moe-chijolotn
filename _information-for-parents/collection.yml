@@ -2,6 +2,7 @@ collections:
   information-for-parents:
     output: true
     order:
+      - Communications/.keep
       - Messaging System/Parents Gateway.md
       - Messaging System/Tok Tok.md
       - Messaging System/.keep
