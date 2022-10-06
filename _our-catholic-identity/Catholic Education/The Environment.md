@@ -20,3 +20,21 @@ third_nav_title: Catholic Education
 </tr>
 </tbody>
 </table>
+<p>In the canteen, the &lsquo;Prayer for Grace before Meals&rsquo; Banner invites children to give thanks for the food they have been blessed with.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 70%;"><img src="/images/enviro4.jpg"><strong>Prayer Room</strong></td>
+<td style="width: 30%;"><img src="/images/enviro5.jpg"><strong>Statue of Mother Mary in the Prayer Room</strong></td>
+</tr>
+</tbody>
+</table>
+<p>A cosy and welcoming Prayer Room is available for all to use. In this calm and peaceful retreat, they can talk to God.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 60%;"><img src="/images/enviro6.jpg"><strong>Students using the Prayer Room during recess</strong></td>
+<td style="width: 40%;"><img src="/images/enviro7.jpg"><strong>Altar in the Prayer Room</strong></td>
+</tr>
+</tbody>
+</table>
