@@ -2,6 +2,7 @@ collections:
   information-for-parents:
     output: true
     order:
+      - School Calendar.md
       - Code of Conduct for Parents.md
       - Communications/.keep
       - Messaging System/Parents Gateway.md
