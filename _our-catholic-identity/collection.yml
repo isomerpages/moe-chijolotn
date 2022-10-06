@@ -2,6 +2,7 @@ collections:
   our-catholic-identity:
     output: true
     order:
+      - Our Founder – Father Barre.md
       - Mother Mathilde.md
       - History of CHIJ Schools.md
       - Catholic Education/The Environment.md
