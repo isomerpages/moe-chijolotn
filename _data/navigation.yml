@@ -1,6 +1,13 @@
 logo: /images/logo1.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: Our Catholic Identity
+    url: /our-catholic-identity/our-founder-father-barre
+    sublinks:
+      - title: Our Founder - Father Barre
+        url: /our-catholic-identity/our-founder-father-barre
+      - title: Mother Mathilde
+        url: /our-catholic-identity/mother-mathilde
+      - title: History of CHIJ Schools
+        url: /our-catholic-identity/history-of-chij-schools
+      - title: Catholic Education
+        url: /our-catholic-identity/catholic-education/the-environment
