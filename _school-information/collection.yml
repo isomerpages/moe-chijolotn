@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - Our People/Teaching Staff.md
       - Our People/SEN Officers & Counsellor.md
       - Our People/Executive & Admin Staff.md
       - Our People/.keep
