@@ -15,6 +15,6 @@ description: ""
 <h4><a href="/contact-us/notification-of-absence"><strong>Notification of Absence from School to Teachers</strong></a></h4>
 <p>To submit your child's absence&nbsp;<a href="/contact-us/notification-of-absence">click here</a>&nbsp;to see how you can via our online form.</p>
 <hr>
-<h4><a href="/information-for-parents/messaging-system"><strong>Technical Help for School Messaging System</strong></a></h4>
+<h4><a href="/information-for-parents/messaging-system/parents-gateway"><strong>Technical Help for School Messaging System</strong></a></h4>
 <p>If you encounter technical issues, you can send an email to services@tok-tok.me with your child's school, name, class, mobile number and smartphone device model.</p>
 <hr>
