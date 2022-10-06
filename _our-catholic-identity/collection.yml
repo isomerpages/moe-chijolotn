@@ -2,5 +2,6 @@ collections:
   our-catholic-identity:
     output: true
     order:
+      - Catholic Education/School–Wide Programmes for All.md
       - Catholic Education/Programmes for Catholics.md
       - Catholic Education/.keep
