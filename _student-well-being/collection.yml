@@ -1,4 +1,5 @@
 collections:
   student-well-being:
     output: true
-    order: []
+    order:
+      - Signature Programmes.md
