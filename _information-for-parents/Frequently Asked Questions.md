@@ -67,12 +67,46 @@ description: ""
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3">P1 Registration Exercise</label>
 <div>
-<p>This is a simple one line item</p>
+<ul>
+<li><strong>What are the registration dates?</strong></li>
+</ul>
+<p>For more information on P1 Registration Exercise details you can refer to the&nbsp;<a href="https://www.moe.gov.sg/primary/p1-registration" target="_blank" rel="noopener">MOE website</a>.</p>
+<ul>
+<li><strong>How many vacancies are available at CHIJ Our Lady of the Nativity?</strong></li>
+</ul>
+<p>For information on vacancies please refer to the&nbsp;<a href="https://www.moe.gov.sg/primary/p1-registration/vacancies-and-balloting" target="_blank" rel="noopener">MOE website on vacancies</a>.</p>
+<ul>
+<li><strong>How can I find out if I am staying within 1km or 2km of the school?</strong></li>
+</ul>
+<p>You can refer to&nbsp;<a href="https://www.onemap.sg/" target="_blank" rel="noopener">OneMa</a>p&nbsp;for home-school distance category.</p>
+<ul>
+<li><strong>If I am an ex-girl of CHIJ Ponggol and my child is a Singapore Citizen / Singapore Permanent Resident, which phase do I fall under?</strong></li>
+</ul>
+<p>If you are an ex-girl of CHIJ Ponggol and your child is a Singapore Citizen / Singapore Permanent Resident, you can register your child under Phase 2A2.&nbsp;</p>
+<ul>
+<li><strong>Can I join the Alumni?</strong></li>
+</ul>
+<p>Currently, the school Alumni is inactive.</p>
+<ul>
+<li><strong>If I am a Roman Catholic and and my child is a Singapore Citizen / Singapore Permanent Resident, which phase do I fall under?</strong></li>
+</ul>
+<p>If you are a Roman Catholic and your child is a Singapore Citizen / Singapore Permanent Resident, you can register your child under Phase 2B.</p>
+<ul>
+<li><strong>Does your school have an Open House?</strong></li>
+</ul>
+<p>Due to the current COVID-19 situation, we will be having an eOpen House on 9 July 2021.&nbsp;<br />Follow us on&nbsp;<a href="https://www.facebook.com/chijoln.official/" target="_blank" rel="noopener">Facebook</a>&nbsp;and&nbsp;<a href="https://www.instagram.com/chijoln.official/" target="_blank" rel="noopener">Instagram</a>&nbsp;for the latest updates!</p>
 </div>
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4">Other Information</label>
 <div>
-<p>This is a simple one line item</p>
+<ul>
+<li><strong>My child is in another primary school. Can I put my child on the wait list?</strong></li>
+</ul>
+<p>You can download the application form and submit the completed form to us at&nbsp;<a href="mailto:chijoln@moe.edu.sg" target="">chijoln@moe.edu.sg</a>.<br /><a href="/files/Waiting%20List%20-%20General.pdf" target="_blank" rel="noopener">Click here for waiting list form</a></p>
+<ul>
+<li><strong>Is CHIJ Our Lady of the Nativity affiliated to any secondary school?</strong></li>
+</ul>
+<div>Yes. Both our school and CHIJ Our Lady of Good Counsel are affiliated to&nbsp;<a href="https://chijstjosephsconvent.moe.edu.sg/" target="_blank" rel="noopener">CHIJ St. Joseph&rsquo;s Convent</a>. You can refer to the MOE&rsquo;s affiliation guidelines&nbsp;<a href="https://va.ecitizen.gov.sg/cfp/customerPages/moe/explorefaq.aspx?Search=affiliation&amp;Category=0&amp;Mesid=823006" target="_blank" rel="noopener">here</a>.</div>
 </div>
 </li>
 </ul>
