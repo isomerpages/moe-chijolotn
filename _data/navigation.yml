@@ -32,3 +32,12 @@ links:
         url: /school-information/privacy-statement
       - title: IJ Board of Members
         url: /school-information/ij-board-of-members
+  - title: Student Well-Being
+    url: /student-well-being/signature-programmes
+    sublinks:
+      - title: Signature Programmes
+        url: student-well-being/signature-programmes
+      - title: Cyber Wellness
+        url: /student-well-being/cyber-wellness
+      - title: Sexuality Education
+        url: /student-well-being/sexuality-education
