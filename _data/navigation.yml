@@ -11,3 +11,24 @@ links:
         url: /our-catholic-identity/history-of-chij-schools
       - title: Catholic Education
         url: /our-catholic-identity/catholic-education/the-environment
+  - title: School Information
+    url: /school-information/principals-message
+    sublinks:
+      - title: Principal's Message
+        url: /school-information/principals-message
+      - title: Vision, Mission, Core Values
+        url: /school-information/vision-mission-core-values
+      - title: School Crest
+        url: /school-information/school-crest
+      - title: School Song
+        url: /school-information/school-song
+      - title: IJ Songs
+        url: /school-information/ij-songs
+      - title: Our People
+        url: /school-information/our-people/key-personnel
+      - title: General Information
+        url: /school-information/general-information/financial-matters
+      - title: Privacy Statement
+        url: /school-information/privacy-statement
+      - title: IJ Board of Members
+        url: /school-information/ij-board-of-members
