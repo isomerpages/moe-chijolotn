@@ -2,6 +2,7 @@ collections:
   information-for-parents:
     output: true
     order:
+      - Messaging System/Tok Tok.md
       - Messaging System/.keep
       - P1–eOrientation.md
       - P1 Registration Exercise.md
