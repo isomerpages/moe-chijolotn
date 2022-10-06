@@ -2,6 +2,7 @@ collections:
   information-for-parents:
     output: true
     order:
+      - P1 Registration Exercise.md
       - Parent Support Group.md
       - Subject–Based Banding.md
       - Updates on COVID–19.md
