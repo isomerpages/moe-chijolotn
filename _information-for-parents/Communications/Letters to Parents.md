@@ -111,139 +111,139 @@ third_nav_title: Communications
 </tr>
 <tr>
 <td>P5</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T3/2022OLN_0316%20-%20Kopi%20Chats%20%20OLN%20Primary%205.pdf" target="_blank" rel="noopener">2022OLN_0316</a></td>
+<td><a href="/files/2022OLN_0316%20-%20Kopi%20Chats%20%20OLN%20Primary%205.pdf" target="_blank" rel="noopener">2022OLN_0316</a></td>
 <td>Kopi Chats @ CHIJ OLN (Primary 5)</td>
 <td>18 Jul</td>
 </tr>
 <tr>
 <td>P6</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T3/2022OLN_0315%20-%20Kopi%20Chats%20%20OLN%20Primary%206.pdf" target="_blank" rel="noopener">2022OLN_0315</a></td>
+<td><a href="/files/2022OLN_0315%20-%20Kopi%20Chats%20%20OLN%20Primary%206.pdf" target="_blank" rel="noopener">2022OLN_0315</a></td>
 <td>Kopi Chats @ CHIJ OLN (Primary 6)</td>
 <td>18 Jul</td>
 </tr>
 <tr>
 <td>P1 - P5</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T3/2022OLN_0297%20-%20P1-P5%20Home-Based%20Learning%20on%2022%20July%202022.pdf" target="_blank" rel="noopener">2022OLN_0297</a></td>
+<td><a href="/files/2022OLN_0297%20-%20P1-P5%20Home-Based%20Learning%20on%2022%20July%202022.pdf" target="_blank" rel="noopener">2022OLN_0297</a></td>
 <td>P1-P5 Home-Based Learning on 22 July 2022</td>
 <td>5 Jul</td>
 </tr>
 <tr>
 <td>P6&nbsp;</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T3/2022OLN_0296%20-%20P6%20Preliminary%20Examination%202022.pdf" target="_blank" rel="noopener">2022OLN_0296</a></td>
+<td><a href="/files/2022OLN_0296%20-%20P6%20Preliminary%20Examination%202022.pdf" target="_blank" rel="noopener">2022OLN_0296</a></td>
 <td>P6 Preliminary Examination 2022</td>
 <td>5 Jul</td>
 </tr>
 <tr>
 <td>All</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T3/2022OLN_0260%20-%202022%20Term%203%20Welcome%20Letter%20and%20Change%20in%20Dismissal%20Time%20002.pdf" target="_blank" rel="noopener">2022OLN_0260</a></td>
-<td>2022 Term 3 Welcome Letter and Change in Dismissal Time<br /><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T3/2022OLN_0260A-%20Attachment%20for%20Term%203%20Letter%20Health%20Protocols%20as%20of%2026%20Apr%202022.jpg" target="_blank" rel="noopener">2022OLN_0260A</a></td>
+<td><a href="/files/2022OLN_0260%20-%202022%20Term%203%20Welcome%20Letter%20and%20Change%20in%20Dismissal%20Time%20002.pdf" target="_blank" rel="noopener">2022OLN_0260</a></td>
+<td>2022 Term 3 Welcome Letter and Change in Dismissal Time<br /><a href="h/files/2022OLN_0260A-%20Attachment%20for%20Term%203%20Letter%20Health%20Protocols%20as%20of%2026%20Apr%202022.jpg" target="_blank" rel="noopener">2022OLN_0260A</a></td>
 <td>24 Jun</td>
 </tr>
 <tr>
 <td>All</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T2/2022OLN_0250%20-%20School%20Health%20Visit%20for%20P1%20to%20P6%20Students.pdf" target="_blank" rel="noopener">2022OLN_0250</a></td>
+<td><a href="/files//2022OLN_0250%20-%20School%20Health%20Visit%20for%20P1%20to%20P6%20Students.pdf" target="_blank" rel="noopener">2022OLN_0250</a></td>
 <td>School Health Visit for P1 to P6 Students</td>
 <td>30 May</td>
 </tr>
 <tr>
 <td>All</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T2/2022OLN_0246%20-%20Advisory%20for%20the%20Coming%20School%20Holidays.pdf" target="_blank" rel="noopener">2022OLN_0246</a></td>
-<td>Advisory for the Coming School Holidays<br /><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T2/2022OLN_0246A%20-%20Joint%20SPF%20CNB%20MOE%20School%20Advisory%20-%20Jun%202022.pdf" target="_blank" rel="noopener">Joint SPF CNB MOE School Advisory - Jun 2022</a></td>
+<td><a href="/files/2022OLN_0246%20-%20Advisory%20for%20the%20Coming%20School%20Holidays.pdf" target="_blank" rel="noopener">2022OLN_0246</a></td>
+<td>Advisory for the Coming School Holidays<br /><a href="/files/2022OLN_0246A%20-%20Joint%20SPF%20CNB%20MOE%20School%20Advisory%20-%20Jun%202022.pdf" target="_blank" rel="noopener">Joint SPF CNB MOE School Advisory - Jun 2022</a></td>
 <td>25 May</td>
 </tr>
 <tr>
 <td>All</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T2/2022OLN_0240%20-%20Term%202%20Week%2010%20Updates.pdf" target="_blank" rel="noopener">2022OLN_0240</a></td>
+<td><a href="/files/2022OLN_0240%20-%20Term%202%20Week%2010%20Updates.pdf" target="_blank" rel="noopener">2022OLN_0240</a></td>
 <td>Term 2 Week 10 Updates</td>
 <td>20 May</td>
 </tr>
 <tr>
 <td>P6</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T2/2022OLN_0235%20-%20P6%20Support%20Programme%20Letter%20To%20Parent_2022%20Sem%202%201.pdf" target="_blank" rel="noopener">2022OLN_0235</a></td>
+<td><a href="/files/2022OLN_0235%20-%20P6%20Support%20Programme%20Letter%20To%20Parent_2022%20Sem%202%201.pdf" target="_blank" rel="noopener">2022OLN_0235</a></td>
 <td>2022 P6 Supplementary Lessons: Schedule For Semester 2</td>
 <td>18 May&nbsp;</td>
 </tr>
 <tr>
 <td>P6</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T2/2022OLN_0215%20-%202022%20Direct%20Sch%20Admission%20for%20Sec%20Schs%20DSA-Sec.pdf" target="_blank" rel="noopener">2022OLN_0215</a></td>
-<td>2022 Direct Sch Admission for Sec Schs (DSA-Sec)<br /><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T2/2022OLN_0215%20Annex%20A%20Info%20Sheet%20on%202022%20DSA-Sec.pdf" target="_blank" rel="noopener">Annex A - Info Sheet</a></td>
+<td><a href="/files/2022OLN_0215%20-%202022%20Direct%20Sch%20Admission%20for%20Sec%20Schs%20DSA-Sec.pdf" target="_blank" rel="noopener">2022OLN_0215</a></td>
+<td>2022 Direct Sch Admission for Sec Schs (DSA-Sec)<br /><a href="/files/2022OLN_0215%20Annex%20A%20Info%20Sheet%20on%202022%20DSA-Sec.pdf" target="_blank" rel="noopener">Annex A - Info Sheet</a></td>
 <td>05 May</td>
 </tr>
 <tr>
 <td>P6</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T2/2022OLN_0206%20-%20SWLJ%20-%20Primary%206%20Science%20Centre.pdf" target="_blank" rel="noopener">2022OLN_0206</a></td>
+<td><a href="/files/2022OLN_0206%20-%20SWLJ%20-%20Primary%206%20Science%20Centre.pdf" target="_blank" rel="noopener">2022OLN_0206</a></td>
 <td>SWLJ - Primary 6 Science Centre</td>
 <td>27 Apr</td>
 </tr>
 <tr>
 <td>P5</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T2/2022OLN_0205%20-%20SWLJ%20-%20Primary%205%20Singapore%20Discovery%20Centre.pdf" target="_blank" rel="noopener">2022OLN_0205</a></td>
+<td><a href="/files/2022OLN_0205%20-%20SWLJ%20-%20Primary%205%20Singapore%20Discovery%20Centre.pdf" target="_blank" rel="noopener">2022OLN_0205</a></td>
 <td>SWLJ - Primary 5 Singapore Discovery Centre</td>
 <td>27 Apr</td>
 </tr>
 <tr>
 <td>P4</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T2/2022OLN_0204%20-%20SWLJ%20-%20Primary%204%20Little%20India.pdf" target="_blank" rel="noopener">2022OLN_0204</a></td>
+<td><a href="/files/2022OLN_0204%20-%20SWLJ%20-%20Primary%204%20Little%20India.pdf" target="_blank" rel="noopener">2022OLN_0204</a></td>
 <td>SWLJ - Primary 4 Little India</td>
 <td>27 Apr</td>
 </tr>
 <tr>
 <td>P3</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T2/2022OLN_0203%20-%20SWLJ%20-%20Primary%203%20Bollywood%20Farms.pdf" target="_blank" rel="noopener">2022OLN_0203</a></td>
+<td><a href="/files/2022OLN_0203%20-%20SWLJ%20-%20Primary%203%20Bollywood%20Farms.pdf" target="_blank" rel="noopener">2022OLN_0203</a></td>
 <td>SWLJ - Primary 3 Bollywood Farms</td>
 <td>27 Apr</td>
 </tr>
 <tr>
 <td>P2</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T2/2022OLN_0202%20-%20SWLJ%20-%20Primary%202%20River%20Wonders.pdf" target="_blank" rel="noopener">2022OLN_0202</a></td>
+<td><a href="/files/2022OLN_0202%20-%20SWLJ%20-%20Primary%202%20River%20Wonders.pdf" target="_blank" rel="noopener">2022OLN_0202</a></td>
 <td>SWLJ - Primary 2 River Wonders</td>
 <td>27 Apr</td>
 </tr>
 <tr>
 <td>P1</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T2/2022OLN_0201%20-%20SWLJ%20-%20Primary%201%20The%20Singapore%20Zoo%202.pdf" target="_blank" rel="noopener">2022OLN_0201&nbsp;</a></td>
+<td><a href="/files/2022OLN_0201%20-%20SWLJ%20-%20Primary%201%20The%20Singapore%20Zoo%202.pdf" target="_blank" rel="noopener">2022OLN_0201&nbsp;</a></td>
 <td>SWLJ - Primary 1 The Singapore Zoo</td>
 <td>27 Apr</td>
 </tr>
 <tr>
 <td>All</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T2/2022OLN_0210%20-%20Register%20Now%20%20Parents%20Workshops%20from%20HPB.pdf" target="_blank" rel="noopener">2022OLN_0210</a></td>
-<td>Register Now ! Parents' Workshops from HPB<br /><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T2/2022OLN_0210A%20-%20How-to%20Register%20Guide%20H365%20Private%20Events.pdf" target="_blank" rel="noopener">How-to Register Guide H365 (Private Events)</a><br /><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T2/2022OLN_0210B%20-%20COTM%201hr%207-12%20yrs.pdf" target="_blank" rel="noopener">Colours of The Mind (1hr) for parents of 7 - 12 years old</a><br /><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T2/2022OLN_0210C%20-%20HEAL%207-12%20yrs.pdf" target="_blank" rel="noopener">HEAL 7-12 years old</a></td>
+<td><a href="/files/2022OLN_0210%20-%20Register%20Now%20%20Parents%20Workshops%20from%20HPB.pdf" target="_blank" rel="noopener">2022OLN_0210</a></td>
+<td>Register Now ! Parents' Workshops from HPB<br /><a href="/files/2022OLN_0210A%20-%20How-to%20Register%20Guide%20H365%20Private%20Events.pdf" target="_blank" rel="noopener">How-to Register Guide H365 (Private Events)</a><br /><a href="/files/2022OLN_0210B%20-%20COTM%201hr%207-12%20yrs.pdf" target="_blank" rel="noopener">Colours of The Mind (1hr) for parents of 7 - 12 years old</a><br /><a href="/files/2022OLN_0210C%20-%20HEAL%207-12%20yrs.pdf" target="_blank" rel="noopener">HEAL 7-12 years old</a></td>
 <td>26 Apr</td>
 </tr>
 <tr>
 <td>All</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T2/2022OLN_0209%20-%20Registration%20Exercise%20for%20Admission%20to%20P1%20in%202023%20-%20Phase%201%20Registration.pdf" target="_blank" rel="noopener">2022OLN_0209</a></td>
+<td><a href="/files/2022OLN_0209%20-%20Registration%20Exercise%20for%20Admission%20to%20P1%20in%202023%20-%20Phase%201%20Registration.pdf" target="_blank" rel="noopener">2022OLN_0209</a></td>
 <td>Registration Exercise for Admission to P1 in 2023 - Phase 1 Registration</td>
 <td>25 Apr</td>
 </tr>
 <tr>
 <td>All</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T2/2022OLN_0200%20-%20Glow%20and%20Grow%20with%20your%20Child%20.pdf" target="_blank" rel="noopener">2022OLN_0200</a></td>
-<td>Glow and Grow with your Child #2 Session (Reminder)<br /><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T2/2022OLN_0171A%20-%20Glow%20%20Grow%20with%20your%20child%202_poster.png" target="_blank" rel="noopener">Event Poster</a></td>
+<td><a href="/files/2022OLN_0200%20-%20Glow%20and%20Grow%20with%20your%20Child%20.pdf" target="_blank" rel="noopener">2022OLN_0200</a></td>
+<td>Glow and Grow with your Child #2 Session (Reminder)<br /><a href="h/files/2022OLN_0171A%20-%20Glow%20%20Grow%20with%20your%20child%202_poster.png" target="_blank" rel="noopener">Event Poster</a></td>
 <td>25 Apr</td>
 </tr>
 <tr>
 <td>P6</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T2/2022OLN_0184%20-%20P6%20PSLE%20Registration%20Exercise.pdf" target="_blank" rel="noopener">2022OLN_0184</a></td>
+<td><a href="/files/2022OLN_0184%20-%20P6%20PSLE%20Registration%20Exercise.pdf" target="_blank" rel="noopener">2022OLN_0184</a></td>
 <td>P6 PSLE Registration Exercise</td>
 <td>6 Apr</td>
 </tr>
 <tr>
 <td>P6</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T2/2022OLN_0181%20-%20P6%20Parents_Online%20Teaching%20Videos%201.pdf" target="_blank" rel="noopener">2022OLN_0181</a></td>
+<td><a href="/files/2022OLN_0181%20-%20P6%20Parents_Online%20Teaching%20Videos%201.pdf" target="_blank" rel="noopener">2022OLN_0181</a></td>
 <td>Teaching Package on use of Mathematics Heuristics (P6)</td>
 <td>6 Apr</td>
 </tr>
 <tr>
 <td>P5</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T2/2022OLN_0180%20-%20P5%20Parents_Online%20Teaching%20Videos%201.pdf" target="_blank" rel="noopener">2022OLN_0180</a></td>
+<td><a href="/files/2022OLN_0180%20-%20P5%20Parents_Online%20Teaching%20Videos%201.pdf" target="_blank" rel="noopener">2022OLN_0180</a></td>
 <td>Teaching Package on use of Mathematics Heuristics (P5)</td>
 <td>6 Apr</td>
 </tr>
 <tr>
 <td>P4</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T2/2022OLN_0179%20-%20P4%20Parents_Online%20Teaching%20Videos%201.pdf" target="_blank" rel="noopener">2022OLN_0179</a></td>
+<td><a href="/files/2022OLN_0179%20-%20P4%20Parents_Online%20Teaching%20Videos%201.pdf" target="_blank" rel="noopener">2022OLN_0179</a></td>
 <td>Teaching Package on use of Mathematics Heuristics (P4)</td>
 <td>6 Apr</td>
 </tr>
