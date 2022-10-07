@@ -24,3 +24,4 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p><strong>Other useful links:</strong><br /><a href="https://www.facebook.com/moesingapore/posts/10158904455987004" target="_blank" rel="noopener">Debunking Myths on P1 Preparation (MOE)</a><br /><a href="http://www.posb.com.sg/chijoln" target="_blank" rel="noopener">How to sign up for POSB Smart Buddy</a></p>
