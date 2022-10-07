@@ -15,3 +15,12 @@ description: ""
 </tr>
 </tbody>
 </table>
+<img style="width: 30%;" src="/images/p1o6.png">
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%; text-align: right;"><a href="https://www.instagram.com/chijoln.official/"><img style="width: 30%;" src="/images/p1o7.jpg"></a></td>
+<td style="width: 50%; text-align: left;"><a href="https://www.facebook.com/chijoln.official/"><img style="width: 30%;" src="/images/p108.jpg"></a></td>
+</tr>
+</tbody>
+</table>
