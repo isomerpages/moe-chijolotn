@@ -4,3 +4,24 @@ permalink: /information-for-parents/communications/oln-connect/
 description: ""
 third_nav_title: Communications
 ---
+<h4 style="text-align: center;"><strong>2022</strong></h4>
+<table class="ive_eobj_center iveo_table ives_tab_simple3">
+<tbody>
+<tr>
+<td><a href="/files/OLN_Connect_P001r1.pdf" target="_blank" rel="noopener">January&nbsp;</a></td>
+<td>&nbsp;<a href="/files/OLN_Connect_P002.pdf" target="_blank" rel="noopener">February</a></td>
+<td><a href="/files/OLN_Connect_P003rv3.pdf" target="_blank" rel="noopener">March</a></td>
+<td><a href="/files/OLN_Connect_P004r3.pdf" target="_blank" rel="noopener">April</a></td>
+<td><a href="/files/OLN_Connect_P005.pdf" target="_blank" rel="noopener">May</a></td>
+<td><a href="/files/OLN_Connect_P006.pdf" target="_blank" rel="noopener">June</a></td>
+</tr>
+<tr>
+<td><a href="/files/OLN_Connect_P007.pdf" target="_blank" rel="noopener">July</a></td>
+<td>&nbsp;<a href="/files/OLN_Connect_P0081.pdf" target="_blank" rel="noopener">August</a></td>
+<td><a href="/files/OLN_Connect_P009.pdf" target="_blank" rel="noopener">September</a></td>
+<td><a href="/files/OLN_Connect_P010r1.pdf" target="_blank" rel="noopener">October</a></td>
+<td>November</td>
+<td>December</td>
+</tr>
+</tbody>
+</table>
