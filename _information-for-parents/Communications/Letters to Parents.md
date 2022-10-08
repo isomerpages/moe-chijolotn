@@ -249,194 +249,194 @@ third_nav_title: Communications
 </tr>
 <tr>
 <td>P3</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T2/2022OLN_0178%20-%20P3%20Parents_Online%20Teaching%20Videos%205.pdf" target="_blank" rel="noopener">2022OLN_0178</a></td>
+<td><a href="/files/2022OLN_0178%20-%20P3%20Parents_Online%20Teaching%20Videos%205.pdf" target="_blank" rel="noopener">2022OLN_0178</a></td>
 <td>Teaching Package on use of Mathematics Heuristics (P3)</td>
 <td>6 Apr</td>
 </tr>
 <tr>
 <td>All</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T2/2022OLN_0171%20-%20Glow%20%20Grow%20with%20your%20child%202.pdf" target="_blank" rel="noopener">2022OLN_0171</a></td>
-<td>Glow &amp; Grow With Your Child (2) @ CHIJ OLN<br /><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T2/2022OLN_0171A%20-%20Glow%20%20Grow%20with%20your%20child%202_poster.png" target="_blank" rel="noopener">Event Poster</a></td>
+<td><a href="/files/2022OLN_0171%20-%20Glow%20%20Grow%20with%20your%20child%202.pdf" target="_blank" rel="noopener">2022OLN_0171</a></td>
+<td>Glow &amp; Grow With Your Child (2) @ CHIJ OLN<br /><a href="/files/2022OLN_0171A%20-%20Glow%20%20Grow%20with%20your%20child%202_poster.png" target="_blank" rel="noopener">Event Poster</a></td>
 <td>6 Apr</td>
 </tr>
 <tr>
 <td>P6</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T2/2022OLN_0166%20-%202022%20P6%20Mid-Year%20Examinations.pdf" target="_blank" rel="noopener">2022OLN_0166</a></td>
+<td><a href="/files/2022OLN_0166%20-%202022%20P6%20Mid-Year%20Examinations.pdf" target="_blank" rel="noopener">2022OLN_0166</a></td>
 <td>2022 P6 Mid-Year Examinations</td>
 <td>30 Mar</td>
 </tr>
 <tr>
 <td>P6&nbsp;</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T2/2022OLN_0155%20-%20P6%20PSLE%20Registration%20Exercise.pdf" target="_blank" rel="noopener">2022OLN_0155</a></td>
+<td><a href="/files/2022OLN_0155%20-%20P6%20PSLE%20Registration%20Exercise.pdf" target="_blank" rel="noopener">2022OLN_0155</a></td>
 <td>P6 PSLE Registration Exercise</td>
 <td>21 Mar</td>
 </tr>
 <tr>
 <td>All</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T2/2022OLN_0142%20-%20Term%202%20Welcome%20Letter.pdf" target="_blank" rel="noopener">2022OLN_0142</a></td>
+<td><a href="/files/2022OLN_0142%20-%20Term%202%20Welcome%20Letter.pdf" target="_blank" rel="noopener">2022OLN_0142</a></td>
 <td>Term 2 Welcome Letter</td>
 <td>20 Mar</td>
 </tr>
 <tr>
 <td>P6</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T1/2022OLN_0118%20-%20P6%20Supplementary%20Lessons%20Letter%20To%20Parent_2022%20Term%202.pdf" target="_blank" rel="noopener">2022OLN_0118</a></td>
+<td><a href="/files/2022OLN_0118%20-%20P6%20Supplementary%20Lessons%20Letter%20To%20Parent_2022%20Term%202.pdf" target="_blank" rel="noopener">2022OLN_0118</a></td>
 <td>P6 Supplementary Lessons Letter To Parent_2022 Term 2</td>
 <td>7 Mar</td>
 </tr>
 <tr>
 <td>P1</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T1/2022OLN_0120%20-%202022%20P1%20Phonics%20Speech%20and%20Drama%20Programme%20School%20Bill%201.pdf" target="_blank" rel="noopener">2022OLN_0120</a></td>
+<td><a href="/files/2022OLN_0120%20-%202022%20P1%20Phonics%20Speech%20and%20Drama%20Programme%20School%20Bill%201.pdf" target="_blank" rel="noopener">2022OLN_0120</a></td>
 <td>P1 PHONICS SPEECH AND DRAMA PROGRAMME</td>
 <td>4 Mar</td>
 </tr>
 <tr>
 <td>P6</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T1/2022OLN_0119%20-%20An%20Invitation%20from%20the%20School%20of%20Arts%20Singapore%20SOTA.pdf" target="_blank" rel="noopener">2022OLN_0119</a></td>
+<td><a href="/files/2022OLN_0119%20-%20An%20Invitation%20from%20the%20School%20of%20Arts%20Singapore%20SOTA.pdf" target="_blank" rel="noopener">2022OLN_0119</a></td>
 <td>An Invitation from the School of the Arts Singapore (SOTA)</td>
 <td>4 Mar</td>
 </tr>
 <tr>
 <td>P6</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T1/2022OLN_0117%20-%20SJI%20International%20-%202023%20Lasallian%20Scholarship%20Prog.pdf" target="_blank" rel="noopener">2022OLN_0117</a></td>
-<td>SJI International - 2023 Lasallian Scholarship Programme<br /><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T1/2022OLN_0117A%20-%202023%20Lasallian%20Scholarships.pdf" target="_blank" rel="noopener">Brochure</a></td>
+<td><a href="/files/2022OLN_0117%20-%20SJI%20International%20-%202023%20Lasallian%20Scholarship%20Prog.pdf" target="_blank" rel="noopener">2022OLN_0117</a></td>
+<td>SJI International - 2023 Lasallian Scholarship Programme<br /><a href="/files/2022OLN_0117A%20-%202023%20Lasallian%20Scholarships.pdf" target="_blank" rel="noopener">Brochure</a></td>
 <td>4 Mar</td>
 </tr>
 <tr>
 <td>All&nbsp;</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T1/2022OLN_0116%20-%20Student%20Travel%20Declaration.pdf" target="_blank" rel="noopener">2022OLN_0116</a></td>
-<td>Travel Declaration for March Holidays<br /><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T1/2022OLN_0116A%20-%20Attachment%201%20-%20Advisory%20on%20Travel%20-%20March%202022.pdf" target="_blank" rel="noopener">Advisory on Travel - March 2022</a></td>
+<td><a href="/files/2022OLN_0116%20-%20Student%20Travel%20Declaration.pdf" target="_blank" rel="noopener">2022OLN_0116</a></td>
+<td>Travel Declaration for March Holidays<br /><a href="/files/2022OLN_0116A%20-%20Attachment%201%20-%20Advisory%20on%20Travel%20-%20March%202022.pdf" target="_blank" rel="noopener">Advisory on Travel - March 2022</a></td>
 <td>4 Mar</td>
 </tr>
 <tr>
 <td>All</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T1/2022OLN_0097%20-%20GLOW%20%20GROW%20WITH%20YOUR%20CHILD-Parents%20letter%203%201.pdf" target="_blank" rel="noopener">2022OLN_0097</a></td>
-<td>Glow &amp; Grow With Your Child @ CHIJ OLN<br /><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T1/2022OLN_0097A%20-%20ANNEX%20A_Glow%20%20Grow%20with%20your%20child%20CHIJ%20OLN%202022%206.pdf" target="_blank" rel="noopener">Annex A</a></td>
+<td><a href="/files/2022OLN_0097%20-%20GLOW%20%20GROW%20WITH%20YOUR%20CHILD-Parents%20letter%203%201.pdf" target="_blank" rel="noopener">2022OLN_0097</a></td>
+<td>Glow &amp; Grow With Your Child @ CHIJ OLN<br /><a href="/files/2022OLN_0097A%20-%20ANNEX%20A_Glow%20%20Grow%20with%20your%20child%20CHIJ%20OLN%202022%206.pdf" target="_blank" rel="noopener">Annex A</a></td>
 <td>25 Feb</td>
 </tr>
 <tr>
 <td>P6</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T1/2022OLN_0091%20-%20Purchase%20of%20P6%20PSLE%20Booklets.pdf" target="_blank" rel="noopener">2022OLN_0091</a></td>
+<td><a href="/files/2022OLN_0091%20-%20Purchase%20of%20P6%20PSLE%20Booklets.pdf" target="_blank" rel="noopener">2022OLN_0091</a></td>
 <td>Purchase of P6 PSLE Booklets</td>
 <td>21 Feb</td>
 </tr>
 <tr>
 <td>All</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T1/2022OLN_0077%20-%20Vaccination%20Arrangements%20for%20Children%20Aged%205%20to%2011.pdf" target="_blank" rel="noopener">2022OLN_0077</a></td>
+<td><a href="/files/2022OLN_0077%20-%20Vaccination%20Arrangements%20for%20Children%20Aged%205%20to%2011.pdf" target="_blank" rel="noopener">2022OLN_0077</a></td>
 <td>Vaccination Arrangements for Children Aged 5 to 11</td>
 <td>07 Feb</td>
 </tr>
 <tr>
 <td>All</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T1/2022OLN_0062%20-%20Being%20Role%20Models%20of%20Safety%20and%20Graciousness.pdf" target="_blank" rel="noopener">2022OLN_0062</a></td>
+<td><a href="/files/2022OLN_0062%20-%20Being%20Role%20Models%20of%20Safety%20and%20Graciousness.pdf" target="_blank" rel="noopener">2022OLN_0062</a></td>
 <td>Being Role Models of Safety and Graciousness</td>
 <td>03 Feb</td>
 </tr>
 <tr>
 <td>P1</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T1/2022OLN_0052%20-%20P1%20Student%20Dismissal%20Arrangement%20via%20Gate%202%20from%2031%20Jan%202022.pdf" target="_blank" rel="noopener">2022OLN_0052</a></td>
+<td><a href="/files/2022OLN_0052%20-%20P1%20Student%20Dismissal%20Arrangement%20via%20Gate%202%20from%2031%20Jan%202022.pdf" target="_blank" rel="noopener">2022OLN_0052</a></td>
 <td>P1 Student Dismissal Arrangement via Gate 2 from 31 Jan 2022</td>
 <td>28 Jan&nbsp;</td>
 </tr>
 <tr>
 <td>All</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T1/2022OLN_0051%20-%20SafetyCHIJOLN.pdf" target="_blank" rel="noopener">2022OLN_0051</a></td>
+<td><a href="/files/2022OLN_0051%20-%20SafetyCHIJOLN.pdf" target="_blank" rel="noopener">2022OLN_0051</a></td>
 <td>Safety@CHIJOLN</td>
 <td>25 Jan</td>
 </tr>
 <tr>
 <td>P6</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T1/2022OLN_0039%20-%202022%20P6%20Letter%20on%20Assessment.pdf" target="_blank" rel="noopener">2022OLN_0039</a></td>
+<td><a href="/files/2022OLN_0039%20-%202022%20P6%20Letter%20on%20Assessment.pdf" target="_blank" rel="noopener">2022OLN_0039</a></td>
 <td>P6 Letter on Assessment</td>
 <td>17 Jan</td>
 </tr>
 <tr>
 <td>P3 - P5</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T1/2022OLN_0038%20-%202022%20P3%20to%20P5%20Letter%20on%20Assessment.pdf" target="_blank" rel="noopener">2022OLN_0038</a></td>
+<td><a href="/files/2022OLN_0038%20-%202022%20P3%20to%20P5%20Letter%20on%20Assessment.pdf" target="_blank" rel="noopener">2022OLN_0038</a></td>
 <td>P3 to P5 Letter on Assessment</td>
 <td>17 Jan</td>
 </tr>
 <tr>
 <td>P1</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T1/2022OLN_0036%20-%20Consent%20to%20Publication%20of%20PhotographsVideos.pdf" target="_blank" rel="noopener">2022OLN_0036</a></td>
+<td><a href="/files/2022OLN_0036%20-%20Consent%20to%20Publication%20of%20PhotographsVideos.pdf" target="_blank" rel="noopener">2022OLN_0036</a></td>
 <td>Consent to Publication of Photographs/Videos</td>
 <td>13 Jan</td>
 </tr>
 <tr>
 <td>All</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T1/2022OLN_0033%20-%20ACTIVATION%20OF%20STUDENT%20ICONS.pdf" target="_blank" rel="noopener">2022OLN_0033</a></td>
-<td>Activation of Student iCON Account<br /><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T1/2022OLN_0033A%20-%20Onboarding%20Guide%20for%20Student%20iCON.pdf" target="_blank" rel="noopener">Onboarding Guide for Student iCON</a></td>
+<td><a href="/files/2022OLN_0033%20-%20ACTIVATION%20OF%20STUDENT%20ICONS.pdf" target="_blank" rel="noopener">2022OLN_0033</a></td>
+<td>Activation of Student iCON Account<br /><a href="/files/2022OLN_0033A%20-%20Onboarding%20Guide%20for%20Student%20iCON.pdf" target="_blank" rel="noopener">Onboarding Guide for Student iCON</a></td>
 <td>12 Jan</td>
 </tr>
 <tr>
 <td>All</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T1/2022OLN_0025%20-%20Virtual%20Networking%20Session.pdf" target="_blank" rel="noopener">2022OLN_0025</a></td>
+<td><a href="/files/2022OLN_0025%20-%20Virtual%20Networking%20Session.pdf" target="_blank" rel="noopener">2022OLN_0025</a></td>
 <td>Virtual Networking Session</td>
 <td>10 Jan</td>
 </tr>
 <tr>
 <td>P1 &amp; P2</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T1/2022OLN_0020%20-%20Positive%20Parenting%20Program%20Triple%20P%20for%20P1%20%20P2%20Parents.pdf" target="_blank" rel="noopener">2022OLN_0020</a></td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T1/2022OLN_00201%20-%20Positive%20Parenting%20Programme%20Triple%20P_P1%20%202.pdf" target="_blank" rel="noopener">Triple P Programme</a><br /><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T1/2022OLN_0020A%20-%20Pre-teens%20Run%203%20Triple%20P.pdf" target="_blank" rel="noopener">English</a>&nbsp;|&nbsp;<a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T1/2022OLN_0020B%20-%20Mandarin%20Pre-teens%20Run%205%20Triple%20P.pdf" target="_blank" rel="noopener">Mandarin</a>&nbsp;Information on Seminars</td>
+<td><a href="/files/2022OLN_0020%20-%20Positive%20Parenting%20Program%20Triple%20P%20for%20P1%20%20P2%20Parents.pdf" target="_blank" rel="noopener">2022OLN_0020</a></td>
+<td><a href="/files/2022OLN_00201%20-%20Positive%20Parenting%20Programme%20Triple%20P_P1%20%202.pdf" target="_blank" rel="noopener">Triple P Programme</a><br /><a href="/files/2022OLN_0020A%20-%20Pre-teens%20Run%203%20Triple%20P.pdf" target="_blank" rel="noopener">English</a>&nbsp;|&nbsp;<a href="/files/2022OLN_0020B%20-%20Mandarin%20Pre-teens%20Run%205%20Triple%20P.pdf" target="_blank" rel="noopener">Mandarin</a>&nbsp;Information on Seminars</td>
 <td>10 Jan</td>
 </tr>
 <tr>
 <td>P5</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T1/2022OLN_0019%20-%20P5%20CODE%20FOR%20FUN%20PROGRAMME.pdf" target="_blank" rel="noopener">2022OLN_0019</a></td>
+<td><a href="/files/2022OLN_0019%20-%20P5%20CODE%20FOR%20FUN%20PROGRAMME.pdf" target="_blank" rel="noopener">2022OLN_0019</a></td>
 <td>P5 Code for Fun Programme</td>
 <td>07 Jan</td>
 </tr>
 <tr>
 <td>All</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T1/2022OLN_0017%20-%20Permission%20to%20bring%20handphone%20to%20school%202022.pdf" target="_blank" rel="noopener">2022OLN_0017</a></td>
+<td><a href="/files/2022OLN_0017%20-%20Permission%20to%20bring%20handphone%20to%20school%202022.pdf" target="_blank" rel="noopener">2022OLN_0017</a></td>
 <td>Permission to Bring a Handphone to School&nbsp;</td>
 <td>06 Jan</td>
 </tr>
 <tr>
 <td>P2</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T1/2022OLN_0002%20-%20Welcome%20Letter%20for%20P2%20Parents.pdf" target="_blank" rel="noopener">2022OLN_0002</a></td>
+<td><a href="/files/2022OLN_0002%20-%20Welcome%20Letter%20for%20P2%20Parents.pdf" target="_blank" rel="noopener">2022OLN_0002</a></td>
 <td>Welcome letter for P2 - A New Beginning for 2022</td>
 <td>05 Jan</td>
 </tr>
 <tr>
 <td>P3&nbsp;</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T1/2022OLN_0003%20-%20Welcome%20Letter%20for%20P3%20Parents.pdf" target="_blank" rel="noopener">2022OLN_0003</a></td>
+<td><a href="/files/2022OLN_0003%20-%20Welcome%20Letter%20for%20P3%20Parents.pdf" target="_blank" rel="noopener">2022OLN_0003</a></td>
 <td>Welcome letter for P3 - A New Beginning for 2022</td>
 <td>05 Jan</td>
 </tr>
 <tr>
 <td>P4</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T1/2022OLN_0004%20-%20Welcome%20Letter%20for%20P4%20Parents.pdf" target="_blank" rel="noopener">2022OLN_0004</a></td>
+<td><a href="/files/2022OLN_0004%20-%20Welcome%20Letter%20for%20P4%20Parents.pdf" target="_blank" rel="noopener">2022OLN_0004</a></td>
 <td>Welcome letter for P4 - A New Beginning for 2022</td>
 <td>05 Jan</td>
 </tr>
 <tr>
 <td>P5</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T1/2022OLN_0005%20-%20Welcome%20Letter%20for%20P5%20Parents.pdf" target="_blank" rel="noopener">2022OLN_0005</a></td>
+<td><a href="/files/2022OLN_0005%20-%20Welcome%20Letter%20for%20P5%20Parents.pdf" target="_blank" rel="noopener">2022OLN_0005</a></td>
 <td>Welcome letter for P5 - A New Beginning for 2022</td>
 <td>05 Jan</td>
 </tr>
 <tr>
 <td>P6</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T1/2022OLN_0006%20-%20Welcome%20Letter%20for%20P6%20Parents.pdf" target="_blank" rel="noopener">2022OLN_0006</a></td>
+<td><a href="/files/2022OLN_0006%20-%20Welcome%20Letter%20for%20P6%20Parents.pdf" target="_blank" rel="noopener">2022OLN_0006</a></td>
 <td>Welcome letter for P6 - A New Beginning for 2022</td>
 <td>05 Jan</td>
 </tr>
 <tr>
 <td>All</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T1/2022OLN_0007%20-%20CONSENT%20TO%20ACCESS%20MOE%20SYSTEMS%20STUDENT%20ICON.pdf" target="_blank" rel="noopener">2022OLN_0007</a></td>
+<td><a href="/files/2022OLN_0007%20-%20CONSENT%20TO%20ACCESS%20MOE%20SYSTEMS%20STUDENT%20ICON.pdf" target="_blank" rel="noopener">2022OLN_0007</a></td>
 <td>Consent to Use MOE's Centralised ICT Systems</td>
 <td>04 Jan</td>
 </tr>
 <tr>
 <td>P1</td>
 <td>2022OLN_0008</td>
-<td><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T1/P1%20PARENTS%20BRIEFING%20_%20BTS%20Slides%202022_by%20Ms%20Teo.pdf" target="_blank" rel="noopener">P1 Day 1 Programme Briefing Slides (Back To School Programme)</a><br /><a href="https://chijourladyofthenativity.moe.edu.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T1/Briefing%20by%20Principal%20for%20P1%20Parents%204%20Jan%202022.pdf" target="_blank" rel="noopener">Briefing Slides by Principal for P1 Parents (4 Jan 2022)</a></td>
+<td><a href="/files/P1%20PARENTS%20BRIEFING%20_%20BTS%20Slides%202022_by%20Ms%20Teo.pdf" target="_blank" rel="noopener">P1 Day 1 Programme Briefing Slides (Back To School Programme)</a><br /><a href="/files/Briefing%20by%20Principal%20for%20P1%20Parents%204%20Jan%202022.pdf" target="_blank" rel="noopener">Briefing Slides by Principal for P1 Parents (4 Jan 2022)</a></td>
 <td>04 Jan</td>
 </tr>
 <tr>
 <td>P1</td>
-<td><a href="https://chijourladyofthenativity-moe-edu-sg-admin.cwp.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T1/2022OLN_0001%20-%202022%20P1%20SLS%20ONBOARDING%20LETTER%20FOR%20APPROVAL.pdf" target="_blank" rel="noopener">2022OLN_0001</a></td>
-<td>Access to Student Learning Space<br /><a href="https://chijourladyofthenativity-moe-edu-sg-admin.cwp.sg/qql/slot/u425/Information%20for%20Parents/Letters%20to%20Parents/2022/T1/2022OLN_0001A%20-%20ANNEX%20A%20-%20GETTING%20STARTED%20WITH%20SLS%20-%20PG%20ANNEX.pdf" target="_blank" rel="noopener">Annex A</a></td>
+<td><a href="/files/2022OLN_0001%20-%202022%20P1%20SLS%20ONBOARDING%20LETTER%20FOR%20APPROVAL.pdf" target="_blank" rel="noopener">2022OLN_0001</a></td>
+<td>Access to Student Learning Space<br /><a href="/files/2022OLN_0001A%20-%20ANNEX%20A%20-%20GETTING%20STARTED%20WITH%20SLS%20-%20PG%20ANNEX.pdf" target="_blank" rel="noopener">Annex A</a></td>
 <td>04 Jan</td>
 </tr>
 </tbody>
