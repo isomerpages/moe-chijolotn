@@ -156,3 +156,77 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4><strong>Mother Tongue Language (Banded Classes)</strong></h4>
+<table>
+<tbody>
+<tr>
+<th style="text-align: center;">Level \Class</th>
+<td style="text-align: center;">&nbsp;</td>
+<th style="text-align: center;">Faith</th>
+<th style="text-align: center;">Grace</th>
+<th style="text-align: center;">Hope</th>
+<th style="text-align: center;">Joy</th>
+<td style="text-align: center;"><strong>Love&nbsp;</strong></td>
+<td style="text-align: center;"><strong>Peace</strong></td>
+<td style="text-align: center;"><strong>Truth</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>P2</strong></td>
+<td style="text-align: center;">
+<div><a href="/files/2%20ML.pdf" target="_blank" rel="noopener">ML</a></div>
+<div><a href="/files/2%20TL.pdf" target="_blank" rel="noopener">TL</a></div>
+</td>
+<td style="text-align: center;"><a href="/files/2%20FAITH%20CL.pdf" target="_blank" rel="noopener">CL</a></td>
+<td style="text-align: center;"><a href="/files/2%20GRACE%20CL.pdf" target="_blank" rel="noopener">CL</a></td>
+<td style="text-align: center;"><a href="/files/2%20HOPE%20CL.pdf" target="_blank" rel="noopener">CL</a></td>
+<td style="text-align: center;"><a href="/files/2%20JOY%20CL.pdf" target="_blank" rel="noopener">CL</a></td>
+<td style="text-align: center;"><a href="/files/2%20LOVE%20CL.pdf" target="_blank" rel="noopener">CL</a></td>
+<td style="text-align: center;"><a href="/files/2%20PEACE%20CL.pdf" target="_blank" rel="noopener">CL</a></td>
+<td style="text-align: center;"><a href="/files/2%20TRUTH%20CL.pdf" target="_blank" rel="noopener">CL</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>P3</strong></td>
+<td style="text-align: center;">
+<div><a href="/files/3%20ML.pdf" target="_blank" rel="noopener">ML</a></div>
+<div><a href="/files/3%20TL.pdf" target="_blank" rel="noopener">TL</a></div>
+<div><a href="/files/3%20ABLE%20CL.pdf" target="_blank" rel="noopener">ABLE CL</a></div>
+</td>
+<td style="text-align: center;">&nbsp;-</td>
+<td style="text-align: center;">&nbsp;-</td>
+<td style="text-align: center;"><a href="/files/3%20HOPE%20CL.pdf" target="_blank" rel="noopener">CL</a></td>
+<td style="text-align: center;"><a href="/files/3%20JOY%20CL.pdf" target="_blank" rel="noopener">CL</a></td>
+<td style="text-align: center;"><a href="/files/3%20LOVE%20CL.pdf" target="_blank" rel="noopener">CL</a></td>
+<td style="text-align: center;"><a href="/files/3%20PEACE%20CL.pdf" target="_blank" rel="noopener">CL</a></td>
+<td style="text-align: center;"><a href="/files/3%20TRUTH%20CL.pdf" target="_blank" rel="noopener">CL</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>P4</strong></td>
+<td style="text-align: center;">
+<div><a href="/files/4%20ML.pdf" target="_blank" rel="noopener">ML</a></div>
+<div><a href="/files/4%20TL.pdf" target="_blank" rel="noopener">TL</a></div>
+<div><a href="/files/4%20ABLE%20CL.pdf" target="_blank" rel="noopener">ABLE CL</a></div>
+</td>
+<td style="text-align: center;">-</td>
+<td style="text-align: center;">&nbsp;-</td>
+<td style="text-align: center;"><a href="/files/4%20HOPE%20CL.pdf" target="_blank" rel="noopener">CL</a></td>
+<td style="text-align: center;"><a href="/files/4%20JOY%20CL.pdf" target="_blank" rel="noopener">CL</a></td>
+<td style="text-align: center;"><a href="/files/4%20LOVE%20CL.pdf" target="_blank" rel="noopener">CL</a></td>
+<td style="text-align: center;"><a href="/files/4%20PEACE%20CL.pdf" target="_blank" rel="noopener">CL</a></td>
+<td style="text-align: center;"><a href="/files/4%20TRUTH%20CL.pdf" target="_blank" rel="noopener">CL</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>P5</strong></td>
+<td style="text-align: center;">
+<div><a href="/files/5%20ML.pdf" target="_blank" rel="noopener">ML</a></div>
+<div><a href="/files/5%20TL.pdf" target="_blank" rel="noopener">TL</a></div>
+</td>
+<td style="text-align: center;"><a href="/files/5%20FAITH%20CL.pdf" target="_blank" rel="noopener">CL</a></td>
+<td style="text-align: center;">&nbsp;<a href="/files/5%20GRACE%20CL.pdf" target="_blank" rel="noopener">CL</a></td>
+<td style="text-align: center;"><a href="/files/5%20HOPE%20CL.pdf" target="_blank" rel="noopener">CL</a></td>
+<td style="text-align: center;"><a href="/files/5%20JOY%20CL.pdf" target="_blank" rel="noopener">CL</a></td>
+<td style="text-align: center;"><a href="/files/5%20LOVE%20CL.pdf" target="_blank" rel="noopener">CL</a></td>
+<td style="text-align: center;"><a href="/files/5%20PEACE%20CL.pdf" target="_blank" rel="noopener">CL</a></td>
+<td style="text-align: center;"><a href="/files/5%20TRUTH%20CL.pdf" target="_blank" rel="noopener">CL</a></td>
+</tr>
+</tbody>
+</table>
