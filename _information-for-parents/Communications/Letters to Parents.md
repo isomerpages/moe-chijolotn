@@ -136,7 +136,7 @@ third_nav_title: Communications
 <tr>
 <td>All</td>
 <td><a href="/files/2022OLN_0260%20-%202022%20Term%203%20Welcome%20Letter%20and%20Change%20in%20Dismissal%20Time%20002.pdf" target="_blank" rel="noopener">2022OLN_0260</a></td>
-<td>2022 Term 3 Welcome Letter and Change in Dismissal Time<br /><a href="h/files/2022OLN_0260A-%20Attachment%20for%20Term%203%20Letter%20Health%20Protocols%20as%20of%2026%20Apr%202022.jpg" target="_blank" rel="noopener">2022OLN_0260A</a></td>
+<td>2022 Term 3 Welcome Letter and Change in Dismissal Time<br /><a href="/files/2022OLN_0260A-%20Attachment%20for%20Term%203%20Letter%20Health%20Protocols%20as%20of%2026%20Apr%202022.jpg" target="_blank" rel="noopener">2022OLN_0260A</a></td>
 <td>24 Jun</td>
 </tr>
 <tr>
