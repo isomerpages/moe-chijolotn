@@ -2,5 +2,6 @@ collections:
   learn-at-ij-oln:
     output: true
     order:
+      - Co Curricular Activities/.keep
       - Support Lessons.md
       - Home–Based Learning.md
