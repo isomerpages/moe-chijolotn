@@ -230,3 +230,4 @@ description: ""
 </tr>
 </tbody>
 </table>
+<img style="width: 60%;" src="/images/home1.jpg" />
