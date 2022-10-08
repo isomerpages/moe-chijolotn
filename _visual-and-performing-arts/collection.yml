@@ -2,5 +2,6 @@ collections:
   visual-and-performing-arts:
     output: true
     order:
+      - Choir.md
       - Creative Crew.md
       - Dance Inc.md
