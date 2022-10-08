@@ -231,3 +231,32 @@ description: ""
 </tbody>
 </table>
 <img style="width: 60%;" src="/images/home1.jpg" />
+<h4><strong>Guide For Students/Parents&nbsp;</strong></h4>
+<p>Students are required to complete the assignments via the various e-learning platforms as part of their learning.&nbsp;<br />Information on full Home-Based Learning (HBL) and guides for accessing the various e-learning platforms:</p>
+<table>
+<tbody>
+<tr>
+<th colspan="2">Information and Guides</th>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="/files/2021%20INFO%20FOR%20PARENTS.pdf" target="_blank" rel="noopener">Home-Based Learning Info Sheet for Parents (2021)&nbsp;</a></td>
+<td style="text-align: center;"><a href="/files/Guide%20to%20SLS%20Account%20Management.pdf" target="_blank" rel="noopener">Guide to SLS Account Management</a>&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="/files/MOE%20HBL%20Resource%20Kit%20for%20Parents%20Part%201.pdf" target="_blank" rel="noopener">MOE HBL Resource Kit for Parents (Part 1)</a>&nbsp;</td>
+<td style="text-align: center;"><a href="/files/Google%20Meet%20-%20How%20To%20for%20Students.pdf" target="_blank" rel="noopener">Google Meet - Guide for Students</a></td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="/files/MOE%20HBL%20Resource%20Kit%20for%20Parents%20Part%202.pdf" target="_blank" rel="noopener">MOE HBL Resource Kit for Parents (Part 2)</a>&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="/files/Resource%20Kit%20-%20HBL%20Part%203.pdf" target="_blank" rel="noopener">MOE HBL Resource Kit for Parents (Part 3)</a>&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="/files/Keep%20CALM%20and%20Carry%20On%20Parenting%20Resource%20Kit.pdf" target="_blank" rel="noopener">Keep CALM and Carry On Parenting Resource Kit&nbsp;</a></td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
