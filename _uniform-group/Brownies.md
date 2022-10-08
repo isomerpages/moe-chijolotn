@@ -63,3 +63,20 @@ description: ""
 </tr>
 </tbody>
 </table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%; text-align: center;"><strong>TEACHERS-IN-CHARGE</strong></td>
+<td style="width: 50%; text-align: center;"><strong><em>JOIN US NOW!</em></strong></td>
+</tr>
+<tr>
+<td style="width: 50%;">
+<p style="text-align: center;"><a href="mailto:brindha_menon_siva_kumar@moe.edu.sg" target="">Mrs Shoban</a><br /><a href="mailto:kasturi_gnanachegaran@moe.edu.sg" target="">Miss Kasturi</a><br /><a href="mailto:yeo_chun_hui@moe.edu.sg" target="">Miss Yeo Chun Hui</a><br /><a href="mailto:chew_yin_sy@moe.edu.sg" target="">Mrs Kwek Yin Sy</a></p>
+</td>
+<td style="width: 50%;">
+<p style="text-align: center;">Day:&nbsp; Every Thursday<br />Time:&nbsp; 3.15 to 5.15 pm<br />Venue:&nbsp; P1 Classrooms / Lower Punggol</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><strong><a href="/learn-at-ij-oln/co-curricular-activities/cca-policy" target="_blank" rel="noopener">CCA Policy</a> | <a href="/learn-at-ij-oln/co-curricular-activities/cca-schedule" target="_blank" rel="noopener">CCA Schedule</a></strong></p>
