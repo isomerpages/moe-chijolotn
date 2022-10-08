@@ -26,3 +26,39 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p>Dance Inc has participated in various competitions namely, Singapore Youth Festival and achieved several awards. Every student has the opportunity to perform on stage and showcase her talent during public performances and various school events. We aim to provide a fruitful and meaningful experience for our students to help build their confidence and increase their self-esteem and perseverance through dance.&nbsp;</p>
+<p style="text-align: center;"><strong>SEE US IN ACTION!</strong></p>
+<h4><strong>TEACHERS-IN-CHARGE</strong></h4>
+<table>
+<tbody>
+<tr>
+<th style="text-align: center;">Dance Inc 1</th>
+<th style="text-align: center;">Dance Inc 2</th>
+<th style="text-align: center;">Dance Inc 3</th>
+<th style="text-align: center;">Dance Inc 4</th>
+</tr>
+<tr>
+<td style="text-align: center;">
+<div><a href="mailto:oh_soo_hwee@moe.edu.sg" target="">Ms Oh Soo Hwee</a></div>
+<div><a href="mailto:aileen_yap_hui_ling@moe.edu.sg" target="">Ms Aileen Yap</a></div>
+</td>
+<td style="text-align: center;">
+<div><a href="mailto:wu_li_chuang_stephanie@moe.edu.sg" target="">Mdm Stephanie Wu</a></div>
+<div><a href="mailto:noor_hayati_yusof@moe.edu.sg" target="">Mdm Hayati</a>&nbsp;</div>
+</td>
+<td style="text-align: center;">
+<div><a href="mailto:li_ning@moe.edu.sg" target="">Mdm Li Ning</a></div>
+<div><a href="mailto:jin_xiumei@moe.edu.sg" target="">Mdm Jin Xiumei</a></div>
+<div><a href="mailto:koh_shi_pei_krystal@moe.edu.sg" target="">Ms Krystal Koh Pei Shi</a></div>
+</td>
+<td style="text-align: center;">
+<div><a href="mailto:norfadilah_sufke@moe.edu.sg" target="">Mdm Norfadilah</a></div>
+<div><a href="mailto:sangeetha_m_suppiah@moe.edu.sg" target="">Mrs Jabar</a></div>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>CCA SCHEDULE</strong></h4>
+<p>Day: Mondays<br />Time: 3.15 to 5.15 pm<br />Venue: PAL Room 1 &amp; 2, Dance Room, Library, Gym Room</p>
+<p>*All Primary 3 students joining Dance Inc will have the opportunity to learn the different genres mainly Modern, Chinese and Malay Dance termly. This will help to broaden the dance experience of the students, it encourages students to be more creative as they expresses themselves in the different dance moves. After the exposure, students will be channelled to enhance their potential in a particular dance genre further.</p>
+<p style="text-align: center;"><strong><a href="/learn-at-ij-oln/co-curricular-activities/cca-policy" target="_blank" rel="noopener">CCA Policy</a> | <a href="/learn-at-ij-oln/co-curricular-activities/cca-schedule" target="_blank" rel="noopener">CCA Schedule</a></strong></p>
