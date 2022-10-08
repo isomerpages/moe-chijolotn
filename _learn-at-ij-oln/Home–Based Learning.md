@@ -260,3 +260,30 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4>HBL Technical Support</h4>
+<ol>
+<li>During school operating hours, contact the School-based Helpline for all queries (SLS access matters, Google Classroom assignments issues etc.</li>
+<ul>
+<ul>
+<li>School-based Helpline: 6385 2455</li>
+<li>Mondays &ndash; Fridays : 8am &ndash; 4pm</li>
+</ul>
+</ul>
+<li>Outside school operating hours, contact the SLS Helpdesk for support</li>
+<ul>
+<ul>
+<li>SLS Helpdesk : 6702 6513</li>
+<li>Mondays &ndash; Fridays : 4pm &ndash; 9pm</li>
+<li>Saturdays : 9am &ndash; 9pm</li>
+</ul>
+</ul>
+<li>For SLS matters, you may also email the SLS Central Helpdesk at helpdesk@sls.ufinity.com at any time for assistance. Please include your daughter&rsquo;s full name, name of school and form class.</li>
+<li>Please fill in this&nbsp;<a href="https://go.gov.sg/chijolnpasswordreset" target="_blank" rel="noopener">form</a>&nbsp;to request for the following:</li>
+<ul>
+<ul>
+<li>Password Reset for SLS and/or Student iCON account</li>
+<li>Unlocking of SLS Account</li>
+</ul>
+</ul>
+</ol>
+<p>We will get back to you with the new password soon.</p>
