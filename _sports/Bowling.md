@@ -71,3 +71,4 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p style="text-align: center;"><strong><a href="/learn-at-ij-oln/co-curricular-activities/cca-policy" target="_blank" rel="noopener">CCA Policy</a> | <a href="/learn-at-ij-oln/co-curricular-activities/cca-schedule" target="_blank" rel="noopener">CCA Schedule</a></strong></p>
