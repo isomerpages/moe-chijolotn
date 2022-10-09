@@ -2,6 +2,7 @@ collections:
   learn-at-ij-oln:
     output: true
     order:
+      - Co Curricular Programmes/Learning Journeys & Camps.md
       - Co Curricular Programmes/Enrichment Activities.md
       - Co Curricular Programmes/.keep
       - Co Curricular Activities/Co–Curricular Activities.md
