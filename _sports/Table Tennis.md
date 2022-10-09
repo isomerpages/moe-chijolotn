@@ -41,3 +41,58 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4><strong>ACHIEVEMENTS</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/ttt7.jpg"></td>
+<td rowspan="2">
+<p><strong>2019<br /></strong><strong>Participation by P5 and P6 students in the South Zone Table Tennis Championship:<br /></strong><u>National Junior Table Tennis Championship</u></p>
+<ul>
+<li>Olivia Ng Wen Sze achieved 2nd place in Singles Tier 2</li>
+<li>Jacelyn Lim Fang Su achieved 3rd place in Singles Tier 2</li>
+<li>Lexia Amelia Caleb and Lim Wei Yi achieved 3rd place in Doubles Tier 4</li>
+<li>Cho Yeonwoo and Yashica Arulalan achieved 4th place in Doubles Tier 4</li>
+<li>Theophilia Ong Hui En and Megan Tan Rae achieved 1st place in Doubles Tier 4</li>
+<li>Mynampati Advitha and Chua Jia En Meagan achieved 5th place in Doubles Tier 4</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/ttt8.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/ttt9.jpg"></td>
+<td style="width: 50%;">
+<p><strong>2018<br /></strong>National Schools Games South Zone Table Tennis (Team) Championships Senior Division Girls (4th)</p>
+</td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/ttt10.jpg"></td>
+<td style="width: 50%;">
+<p><strong>2017<br /></strong>National Schools Games South Zone Table Tennis Championships Senior Division Girls (4th)</p>
+</td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/ttt11.jpg"></td>
+<td style="width: 50%;">
+<p><strong>2016<br /></strong>National Schools Games South Zone Table Tennis Championships<br />Junior Division Girls (3rd)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Teachers-in-Charge</strong></h4>
+<p><strong>Overall Teacher in-charge:<br /></strong><a href="mailto:tan_hwee_khoon_a@moe.edu.sg" target="">Mrs Lee Hwee Khoon</a></p>
+<p><strong>Teachers in-charge:<br /></strong><a href="mailto:lai_meiyu@moe.edu.sg" target="">Mdm Lai Mei Yu</a><br /><a href="mailto:peh_bee_leng@moe.edu.sg" target="">Mdm Peh Bee Leng</a><br /><a href="mailto:rabiah_begum_angullia_musa@moe.edu.sg" target="">Ms Rabiah</a></p>
+<h4><strong>CCA SCHEDULE</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/ttt12.jpg"></td>
+<td style="width: 50%;">
+<p><strong>Tuesdays: P3 &amp; P6</strong><br /><strong>Thursdays: P4 &amp; P5 </strong><br /><strong>Time: 3.15 - 5.15 pm</strong><br /><strong>Venue: Gym (Level 6)</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><strong><a href="/learn-at-ij-oln/co-curricular-activities/cca-policy" target="_blank" rel="noopener">CCA Policy</a> | <a href="/learn-at-ij-oln/co-curricular-activities/cca-schedule" target="_blank" rel="noopener">CCA Schedule</a></strong></p>
