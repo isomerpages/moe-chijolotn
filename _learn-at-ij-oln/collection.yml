@@ -2,6 +2,7 @@ collections:
   learn-at-ij-oln:
     output: true
     order:
+      - Our Curriculum/.keep
       - Curricular Programmes/.keep
       - Co Curricular Programmes/OLN 360 Programme.md
       - Co Curricular Programmes/Programme for Active Learning (PAL).md
