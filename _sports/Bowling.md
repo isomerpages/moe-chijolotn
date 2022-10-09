@@ -31,3 +31,31 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4><strong>ACHIEVEMENTS</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td rowspan="4">
+<p><strong>NSG Tenpin Bowling Championships Senior Division Girls Doubles 2021<br /></strong>CHRISTABELLE TAN YU YUN - BRONZE<br />EVONE RODJIO - BRONZE</p>
+<p><strong>NSG Tenpin Bowling Championships Senior Division Girls Quartet 2021<br /></strong>(6th Team Placing)</p>
+<p><strong>NSG Tenpin Bowling Championships Junior Division Girls Quartet 2019<br /></strong>(6th Team Placing)</p>
+<p><strong>Achievement Pins Recipient<br /></strong>JAY WAI LYNN GERRAINE &ndash; SILVER<br />CADENCE NG YU EN - SILVER<br />CHRISTABELLE TAN YUYUN - BRONZE</p>
+<p><strong>NSG Tenpin Bowling Championships Senior Division Girls Quartet 2018<br /></strong>(3rd Team Placing)</p>
+<p><strong>14th National Primary Schools TenPin Bowling Championships 2015 </strong><strong>Singapore Primary Schools Sports Council (SPSSC)<br /></strong>JULITTA JANNANII JOSHUA (6 JOY)&nbsp; - 5th position in the Senior Division Girls All Events category.</p>
+<p><strong>Singapore Primary Schools Sports Council (SPSSC) Masters Event 2015<br /></strong>JULITTA JANNANII JOSHUA (6 JOY)&nbsp; - 10th position.</p>
+<p><strong>Singapore Primary Schools Sports Council (SPSSC) Best Sportsmanship Award<br /></strong>JULITTA JANNANII JOSHUA (6 JOY)</p>
+</td>
+<td style="width: 50%;"><img src="/images/bowl5.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/bowl6.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/bowl7.jpg"></td>
+</tr>
+<tr>
+<td style="width: 50%;"><img src="/images/bowl8.jpg"></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
