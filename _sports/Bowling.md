@@ -58,4 +58,16 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<h4><strong>CCA SCHEDULE</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/bowl9.jpg"></td>
+<td style="width: 50%;">
+<p>Day : Mondays (Currently suspended till further notice)<br />Time: 3.15 &ndash; 5.15 pm<br />Venue : External. Students will assemble in school and be dismissed from school.</p>
+<p><strong>Overall Teacher-in-Charge :&nbsp;<br /></strong><a href="mailto:poh_shi_ling_edna@moe.edu.sg" target="">Ms Edna Poh</a></p>
+<p><strong>Teachers in-charge :&nbsp;<br /></strong><a href="mailto:hang_yun@moe.edu.sg" target="">Mdm Hang Yun</a><br /><a href="mailto:bao_hong@moe.edu.sg" target="">Mdm Bao Hong</a></p>
+</td>
+</tr>
+</tbody>
+</table>
