@@ -2,6 +2,7 @@ collections:
   learn-at-ij-oln:
     output: true
     order:
+      - Co Curricular Programmes/.keep
       - Co Curricular Activities/Co–Curricular Activities.md
       - Co Curricular Activities/CCA Policy.md
       - Co Curricular Activities/CCA Schedule.md
