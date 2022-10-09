@@ -42,3 +42,27 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p style="text-align: center;"><strong>Twinning Programme with Sekolah Kebangsaan Sri Bintang Utara (SKSBU)</strong></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/mal4.png"></td>
+<td style="width: 50%;"><img src="/images/mal5.png"></td>
+</tr>
+</tbody>
+</table>
+<p>Since 2010, students from SKSBU visited our school to learn about our students learning culture and to foster friendship with our students. Feedback given by the SKSBU's students and teachers are very encouraging as they enjoyed the lessons shared by the CHIJ OLN teachers and they are indeed looking forward to visiting the school again in the second half of the year. In addition, teachers and the students from our school are also given the opportunity to visit SKSBU for the exchange programme.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 25%;"><img src="/images/mal6.png"></td>
+<td style="width: 75%;"><p>Malay Language Competitions<br />The students are encouraged to participate in competitions so as to build up their self-confidence and to interact with students from other schools. To date, we have participated in competitions such as Juara Tok Selampit, IJ Warna-Warni Bahasa and Karya Minda Kreatif.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Links</strong></h4>
+<p><strong>Student Learning Space (SLS)<br /></strong><a href="https://vle.learning.moe.edu.sg/login" target="_blank" rel="noopener">https://vle.learning.moe.edu.sg/login</a><br />A learning portal for students to learn Mother Tongue Languages so as to enhance their listening, speaking, reading and writing skills.</p>
+<p><strong>Malay Language Learning and promotion Committee<br /></strong><a href="https://www.mllpc.sg/" target="_blank" rel="noopener">http://www.mllpc.sg/</a><br />A website to access interactive resources and updates on the latest events/ performances in the Malay community.</p>
+<p><strong>Pusat Rujukan Persuratan Melayu<br /></strong><a href="http://prpm.dbp.gov.my/" target="_blank" rel="noopener">http://prpm.dbp.gov.my</a><br />An online dictionary from Dewan Bahasa dan Pustaka as a guide for pupils in Malay Language.</p>
+<p><strong>Majlis Bahasa Melayu Singapura<br /></strong><a href="http://mbms.sg/en" target="_blank" rel="noopener">http://mbms.sg/en</a><br />Malay Language Council of Singapore - a website to provide the latest happenings/events in Singapore.</p>
