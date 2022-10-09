@@ -40,3 +40,18 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4><strong>CCA SCHEDULE</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img src="/images/nb5.jpeg"></td>
+<td style="width: 33.3333%;"><img src="/images/nb6.jpeg"></td>
+<td style="width: 33.3333%;"><img src="/images/nb7.jpeg"></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Primary 3<br /></strong>CCA schedule:<br />Mondays, 3.15 - 5.15 pm<br />Venue : School Hall<br />Overall Teacher-in-charge:&nbsp;<a href="mailto:laura_ann_netto@moe.edu.sg" target="">Mrs Laura Stephen</a><br />Teacher(s)-in-charge:&nbsp;<a href="mailto:joycelyn_agnes_ferdinand_john@moe.edu.sg" target="">Mrs Joycelyn Trevor</a></p>
+<p><strong>Primary 4<br /></strong>CCA schedule:<br />Mondays, 3.15 - 5.45 pm &amp; Wednesdays, 2 - 4 pm<br />Venue : Punggol Lower (ISH Level 1)<br />Overall Teacher-in-charge:&nbsp;<a href="mailto:foo_weng_heng_fiona@moe.edu.sg" target="">Mdm Fiona Foo</a><br />Teacher(s)-in-charge:&nbsp;<a href="mailto:law_ee_peng@moe.edu.sg" target="">Ms Law Ee Peng</a>&nbsp;,&nbsp;<a href="mailto:chew_min_xuan@moe.edu.sg" target="">Mr Chew Min Xuan</a></p>
+<p><strong>Primary 5<br /></strong>CCA schedule:<br />Tuesday, 3.15 - 5.45 pm &amp; Thursday, 3.15 - 5.45 pm&nbsp;<br />Venue : Punggol Upper (ISH Level 2)<br />Overall Teacher-in-charge:&nbsp;<a href="mailto:kenett_wong_tick_woon@moe.edu.sg" target="">Mr Kenett Wong</a><br />Teacher(s)-in-charge:&nbsp;<a href="mailto:nurathirah_md_sharoni@moe.edu.sg" target="">Mdm Thirah</a>&nbsp;,&nbsp;<a href="mailto:nai_ting-tiang_jacqueline@moe.edu.sg" target="">Ms Jacqueline Nai</a></p>
+<p><strong>Primary 6<br /></strong>CCA schedule:<br />Every Tuesday and Thursday, 3.15 - 5.15 pm<br />Venue : Punggol Upper (ISH Level 2)<br />Overall Teacher-in-charge:&nbsp;<a href="mailto:alena_ho_li_na@moe.edu.sg" target="">Ms Alena Ho</a><br /><br />Teacher(s)-in-charge:&nbsp;<a href="mailto:foo_weng_heng_fiona@moe.edu.sg" target="">Mdm Fiona</a>,&nbsp;<a href="mailto:elena_ong_yijin@moe.edu.sg" target="">Ms Elena Ong</a></p>
+<p style="text-align: center;"><strong><a href="/learn-at-ij-oln/co-curricular-activities/cca-policy" target="_blank" rel="noopener">CCA Policy</a> | <a href="/learn-at-ij-oln/co-curricular-activities/cca-schedule" target="_blank" rel="noopener">CCA Schedule</a></strong></p>
