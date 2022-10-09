@@ -1,4 +1,5 @@
 collections:
   mother-tongue-languages:
     output: true
-    order: []
+    order:
+      - Tamil Language.md
