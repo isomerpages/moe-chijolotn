@@ -27,3 +27,13 @@ third_nav_title: Co Curricular Programmes
 </tr>
 </tbody>
 </table>
+<p>In the programme, students are given the opportunity to hone their creativity&nbsp;and problem solving skills. The programme also allows students to work collaboratively&nbsp;on a given scenario or problem to solve. With only a limited number of materials&nbsp;provided, students are steered to be critical thinkers as they solve the problems together.</p>
+<p><strong>Code for Fun</strong></p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;"><img src="/images/ea6.jpg"></td>
+<td style="width: 50%;"><img src="/images/ea7.jpg"></td>
+</tr>
+</tbody>
+</table>
