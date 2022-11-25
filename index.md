@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/bannerNew.gif
+      background: /images/Banner and Logo/bannerNew.gif
       key_highlights:
         - title: Success Stories
           description: ""
