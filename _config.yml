@@ -2,11 +2,11 @@ title: CHIJ Our Lady of the Nativity
 url: https://chijourladyofthenativity.moe.edu.sg
 favicon: /images/logo.jpg
 colors:
-  primary-color: "#3c00a5"
-  secondary-color: "#006813"
+  primary-color: "#0812b1"
+  secondary-color: "#0812b1"
   media-colors:
     - title: media-color-one
-      color: "#000000"
+      color: "#f50909"
     - title: media-color-two
       color: "#f7f414"
     - title: media-color-three
