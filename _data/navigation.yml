@@ -83,3 +83,8 @@ links:
         url: /information-for-parents/frequently-asked-questions
       - title: PSLE Banding & S1 Selection
         url: /information-for-parents/psle-banding-and-s1-sch-selection
+  - title: Contact
+    url: /permalink
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
