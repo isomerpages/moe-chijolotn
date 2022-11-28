@@ -21,7 +21,7 @@ third_nav_title: Catholic Education
 </tbody>
 </table>
 <p>In the canteen, the &lsquo;Prayer for Grace before Meals&rsquo; Banner invites children to give thanks for the food they have been blessed with.</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 70%;"><img src="/images/enviro4.jpg"><strong>Prayer Room</strong></td>
