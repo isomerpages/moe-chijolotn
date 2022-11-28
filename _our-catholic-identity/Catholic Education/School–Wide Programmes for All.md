@@ -6,7 +6,7 @@ third_nav_title: Catholic Education
 ---
 <p>Our faith-related programmes are for students of all religions. If they are not Christian, they are invited to sit in respect and/or pray in their hearts, the way their parents taught them at home.</p>
 <h4><strong>Daily Prayer</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/sw1.jpg"><strong>Singing our CHIJ OLN Thanksgiving Prayer after recess</strong></td>
@@ -85,7 +85,7 @@ third_nav_title: Catholic Education
 </tbody>
 </table>
 <p>We kick off our commemoration of Ash Wednesday and Lent with informative displays. Students are invited to write a prayer for loved ones and also to perform an act of love for their friends, family or classmates. This year, we celebrated Easter with girls writing about what they were grateful for.&nbsp;</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/sw11.jpg"><strong>Information on Easter</strong></td>
@@ -105,7 +105,7 @@ third_nav_title: Catholic Education
 </tbody>
 </table>
 <h4>Recitation of the Rosary in May and October</h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/sw16.jpg"></td>
