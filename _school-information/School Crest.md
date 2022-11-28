@@ -5,7 +5,7 @@ description: ""
 ---
 <h4><strong>The School Crest</strong></h4>
 <h4>History of the Badge</h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 20%;"><img src="/images/crest1.jpg"></td>
