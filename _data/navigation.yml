@@ -87,7 +87,7 @@ links:
     url: /permalink
     sublinks: []
   - title: Contact
-    url: /permalink
+    url: /contact-us/
     sublinks:
       - title: Notification of Absence
         url: /contact-us/notification-of-absence/
