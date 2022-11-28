@@ -17,7 +17,7 @@ third_nav_title: Catholic Education
 </tbody>
 </table>
 <h4><strong>Meaningful Monday</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 33.3333%;"><img src="/images/sw2.png"><strong>A verse taken from Sunday's readings</strong></td>
@@ -56,7 +56,7 @@ third_nav_title: Catholic Education
 </table>
 <p>The values and teachings of our faith are woven into school events such as the start of a school year and Chinese New Year. In addition, we also celebrate main events in the Catholic calendar.</p>
 <h4>School Masses</h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/sw5.jpg"><strong>School mass being live streamed to classrooms</strong></td>
@@ -66,7 +66,7 @@ third_nav_title: Catholic Education
 </table>
 <p>We celebrate the start of each school year with a mass. Currently, school mass is live streamed to classrooms.</p>
 <h4>Chinese New Year: Blessings of Oranges</h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/sw7.jpg"><strong>Fr Kenson conducting mass which was then live streamed to classes</strong></td>
@@ -76,7 +76,7 @@ third_nav_title: Catholic Education
 </table>
 <p>Our Chinese New Year celebration is always an exciting event. Not only do we listen to CNY songs and enjoy CNY&ndash;related craft, we also invite Father Kenson from the Church of the Nativity of the Blessed Virgin Mary to bless all our oranges via live stream. Our girls are always excited to offer up the oranges for blessing!&nbsp;</p>
 <h4>Ash Wednesday, Lent and Easter</h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/sw9.jpg"><strong>Information on Lent</strong></td>
@@ -96,7 +96,7 @@ third_nav_title: Catholic Education
 </table>
 <p>The girls also witness the symbolic act of the Washing of the Feet. Catholic students also participate in Lenten Penitential Services and the Stations of the Cross. They are guided to reflect on each station and relate it to their daily lives.</p>
 <p>The Sacrament of Reconciliation (Confession) is scheduled for the Catholic girls during Lent, and made possible by the priests from the Serangoon District. Teachers guide students by providing questions for them to examine their conscience.</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 50%;"><img style="width: 80%;" src="/images/sw14.png"></td>
@@ -114,7 +114,7 @@ third_nav_title: Catholic Education
 </tbody>
 </table>
 <p style="text-align: center;"><strong>An example of reflection questions to help the girls better understand the mystery</strong></p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 35%;">
@@ -128,7 +128,7 @@ third_nav_title: Catholic Education
 </table>
 <h4><strong>Project G.O.O.D (Gift of One Dollar)</strong></h4>
 <p>Every year, we encourage students to put aside one dollar over the 40 days of Lent. The money that is collected is donated to IJHCC (Infant Jesus Homes and Children's Centres). In the past, we encouraged student leaders to rally their schoolmates to contribute their dollar. However, in 2020 and 2021, donations and collections were done in class to minimize intermingling.</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 33.3333%;"><img src="/images/sw19.jpg"></td>
