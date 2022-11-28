@@ -4,7 +4,7 @@ permalink: /our-catholic-identity/mother-mathilde/
 description: ""
 ---
 <h4><strong>Early Life : "Be Holy as I am Holy."</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 80%;">
