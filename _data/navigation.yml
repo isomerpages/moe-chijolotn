@@ -88,6 +88,8 @@ links:
     sublinks:
       - title: Student
         url: /permalink
+      - title: Staff
+        url: /permalink
   - title: Contact
     url: /contact-us/
     sublinks:
