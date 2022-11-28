@@ -83,8 +83,11 @@ links:
         url: /information-for-parents/frequently-asked-questions
       - title: PSLE Banding & S1 Selection
         url: /information-for-parents/psle-banding-and-s1-sch-selection
+  - title: Success Stories
+    url: /permalink
+    sublinks: []
   - title: Contact
     url: /permalink
     sublinks:
-      - title: Submenu Title
-        url: /permalink
+      - title: Notification of Absence
+        url: /contact-us/notification-of-absence/
