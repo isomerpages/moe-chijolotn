@@ -12,7 +12,7 @@ third_nav_title: Catholic Education
 <p><strong>Term Masses</strong><br />Once a term, Catholic students and teachers come together and participate in a mass at the Church of the Nativity of the Blessed Virgin Mary. However, due to Safe Management Measures, this is currently suspended.</p>
 <p><strong>Holy Days of Obligation</strong><br />On the Holy Days of Obligation (Solemnity of the Ascension of the Lord, Solemnity of the Assumption of the Blessed Virgin Mary, Solemnity of All Saints&rsquo; Day), we conduct mass for Catholic students in the mornings at 7.00a.m before school starts. Parents are also invited to join us in the mass. Although currently also suspended, we look forward to the time when we can celebrate the Holy Days of Obligation together again!</p>
 <h4><strong>Celebrating the Marian Months of May and October</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 33.3333%;"><strong><img src="/images/poc2.jpg">A craft session for P5 Catholic students</strong></td>
