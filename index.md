@@ -9,9 +9,6 @@ sections:
   - hero:
       background: /images/Banner and Logo/bannerNew.gif
       key_highlights:
-        - title: Success Stories
-          description: ""
-          url: /success-stories/students/2022
         - title: Announcements
           description: ""
           url: /announcements
