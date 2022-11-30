@@ -12,5 +12,4 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements
-      subtitle: Girls of Today for Tomorrow
 ---
