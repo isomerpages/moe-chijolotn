@@ -47,16 +47,19 @@ third_nav_title: Our People
 <td>Mrs Kiranjit Kaur-Singh</td>
 <td>kiranjit_kaur_a@moe.edu.sg</td>
 </tr>
+	
 <tr style="text-align: center;">
 <td>Upper Primary</td>
 <td>Ms Wendy Woo</td>
 <td>woo_kah_wai@moe.edu.sg</td>
 </tr>
-<tr>
-<td style="text-align: center;">School Staff Developer</td>
-<td style="text-align: center;">Ms Heng Meow Ern</td>
-<td style="text-align: center;">heng_meow_ern@moe.edu.sg</td>
+	
+<tr style="text-align: center;">
+<td>School Staff Developer</td>
+<td>Ms Heng Meow Ern</td>
+<td>heng_meow_ern@moe.edu.sg</td>
 </tr>
+	
 </tbody>
 </table>
 <h4 style="text-align: center;"><strong>Heads of Department (HOD)</strong></h4>
