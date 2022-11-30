@@ -22,11 +22,12 @@ third_nav_title: Our People
 <td>Mrs Annie Yuen</td>
 <td>annie_lim_hui_meow@moe.edu.sg</td>
 </tr>
-<tr>
-<td style="text-align: center;">Vice-Principal (Academic)</td>
-<td style="text-align: center;">Mrs Catherine Michelle Beins</td>
-<td style="text-align: center;">catherine_michelle@moe.edu.sg</td>
+<tr style="text-align: center;">
+<td>Vice-Principal (Academic)</td>
+<td>Mrs Catherine Michelle Beins</td>
+<td>catherine_michelle@moe.edu.sg</td>
 </tr>
+	
 </tbody>
 </table>
 <h4 style="text-align: center;"><strong>Year Heads (YH) and School Staff Developer (SSD)</strong></h4>
@@ -108,7 +109,7 @@ third_nav_title: Our People
 </tr>
 	
 <tr style="text-align: center;">
-<td>&nbsp;Character &amp; Citizenship Education (CCE)</td>
+<td>Character &amp; Citizenship Education (CCE)</td>
 <td>Mrs Vanessa Tan</td>
 <td >low_tze_lin_vanessa@moe.edu.sg</td>
 </tr>
@@ -138,10 +139,10 @@ third_nav_title: Our People
 <td>Mdm Farhanna Zainal</td>
 <td>farhanna_zainal@moe.edu.sg</td>
 </tr>
-<tr>
-<td style="text-align: center;">Character &amp; Citizenship Education (CCE)</td>
-<td style="text-align: center;">Mrs Ngoh Hui Erl</td>
-<td style="text-align: center;">wong_hui_erl@moe.edu.sg</td>
+<tr style="text-align: center;">
+<td >Character &amp; Citizenship Education (CCE)</td>
+<td>Mrs Ngoh Hui Erl</td>
+<td>wong_hui_erl@moe.edu.sg</td>
 </tr>
 </tbody>
 </table>
@@ -163,11 +164,12 @@ third_nav_title: Our People
 <td>Mdm Elaine Siaw</td>
 <td>siaw_yee_looi@moe.edu.sg</td>
 </tr>
-<tr>
-<td style="text-align: center;">Chinese Language</td>
-<td style="text-align: center;">Ms Serene Ler</td>
-<td style="text-align: center;">ler_ser_ling_serene@moe.edu.sg</td>
+<tr style="text-align: center;">
+<td>Chinese Language</td>
+<td>Ms Serene Ler</td>
+<td>ler_ser_ling_serene@moe.edu.sg</td>
 </tr>
+	
 </tbody>
 </table>
 <h4 style="text-align: center;"><strong>Senior Teachers (ST)</strong></h4>
@@ -198,10 +200,10 @@ third_nav_title: Our People
 <td style="text-align: center;">Mrs Eileen Goh</td>
 <td style="text-align: center;">goh_sing_hwee_eileen@moe.edu.sg</td>
 </tr>
-<tr>
-<td style="text-align: center;">Chinese Language</td>
-<td style="text-align: center;">Mdm Yang Wenxia</td>
-<td style="text-align: center;">yang_wenxia@moe.edu.sg</td>
+<tr style="text-align: center;">
+<td>Chinese Language</td>
+<td>Mdm Yang Wenxia</td>
+<td>yang_wenxia@moe.edu.sg</td>
 </tr>
 </tbody>
 </table>
