@@ -7,9 +7,10 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner and Logo/bannerNew.gif
+      background: /images/Banner and Logo/bannerNew1200x630.jpg
       key_highlights:
         - title: Announcements
           description: ""
           url: /announcements
+      subtitle: Girls of Today for Tomorrow
 ---
