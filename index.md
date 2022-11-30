@@ -11,4 +11,7 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements
+      title: CHIJ OLN
+      subtitle: Girls of Today for Tomorrow
+      background: /images/Banner and Logo/bannerNew1920.jpg
 ---
