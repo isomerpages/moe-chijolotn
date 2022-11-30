@@ -4,7 +4,7 @@ permalink: /learn-at-ij-oln/co-curricular-activities/uniform-group/brownies/
 description: ""
 ---
 <h4><strong>WHO ARE WE</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 20%;"><img style="width: 50%;" src="/images/bro1.png"></td>
@@ -15,7 +15,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 50%; text-align: center;">
