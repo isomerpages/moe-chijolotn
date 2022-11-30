@@ -100,16 +100,19 @@ third_nav_title: Our People
 <td>Mr Edwin Njoo</td>
 <td>njoo_kiat_chong_edwin@moe.edu.sg</td>
 </tr>
+	
 <tr style="text-align: center;">
 <td>Infocomm Technology (ICT)</td>
 <td>Ms Sarina Md Ismail</td>
 <td>sarina_md_ismail@moe.edu.sg</td>
 </tr>
-<tr>
-<td style="text-align: center;">&nbsp;Character &amp; Citizenship Education (CCE)</td>
-<td style="text-align: center;">Mrs Vanessa Tan</td>
-<td style="text-align: center;">low_tze_lin_vanessa@moe.edu.sg</td>
+	
+<tr style="text-align: center;">
+<td>&nbsp;Character &amp; Citizenship Education (CCE)</td>
+<td>Mrs Vanessa Tan</td>
+<td >low_tze_lin_vanessa@moe.edu.sg</td>
 </tr>
+	
 </tbody>
 </table>
 <h4 style="text-align: center;"><strong>Subject Heads (SH)</strong></h4>
