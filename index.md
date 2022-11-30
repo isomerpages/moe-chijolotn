@@ -13,4 +13,5 @@ sections:
           description: ""
           url: /announcements
       subtitle: Girls of Today for Tomorrow
+      title: CHIJ OLN
 ---
