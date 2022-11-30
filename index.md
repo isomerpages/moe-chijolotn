@@ -12,4 +12,10 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
