@@ -180,20 +180,20 @@ third_nav_title: Our People
 <th style="text-align: center;">Personnel</th>
 <th style="text-align: center;">Email</th>
 </tr>
-<tr>
-<td style="text-align: center;">English Language</td>
-<td style="text-align: center;">Mrs Josephine Raj</td>
-<td style="text-align: center;">png_lay_koon_josephine@moe.edu.sg</td>
+<tr style="text-align: center;">
+<td>English Language</td>
+<td>Mrs Josephine Raj</td>
+<td>png_lay_koon_josephine@moe.edu.sg</td>
 </tr>
-<tr>
-<td style="text-align: center;">English Language</td>
-<td style="text-align: center;">Mdm Noor Hayati Yusof</td>
-<td style="text-align: center;">noor_hayati_yusof@moe.edu.sg</td>
+<tr style="text-align: center;">
+<td>English Language</td>
+<td>Mdm Noor Hayati Yusof</td>
+<td>noor_hayati_yusof@moe.edu.sg</td>
 </tr>
-<tr>
-<td style="text-align: center;">Mathematics</td>
-<td style="text-align: center;">Mrs Tan Cheh Hia</td>
-<td style="text-align: center;">tan_cheh_hia@moe.edu.sg</td>
+<tr style="text-align: center;">
+<td >Mathematics</td>
+<td >Mrs Tan Cheh Hia</td>
+<td >tan_cheh_hia@moe.edu.sg</td>
 </tr>
 
 <tr style="text-align: center;">
