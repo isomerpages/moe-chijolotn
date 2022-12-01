@@ -195,11 +195,7 @@ third_nav_title: Our People
 <td style="text-align: center;">Mrs Tan Cheh Hia</td>
 <td style="text-align: center;">tan_cheh_hia@moe.edu.sg</td>
 </tr>
-<tr>
-<td style="text-align: center;">Mathematics</td>
-<td style="text-align: center;">Mrs Eileen Goh</td>
-<td style="text-align: center;">goh_sing_hwee_eileen@moe.edu.sg</td>
-</tr>
+
 <tr style="text-align: center;">
 <td>Chinese Language</td>
 <td>Mdm Yang Wenxia</td>
