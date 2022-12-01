@@ -20,4 +20,4 @@ third_nav_title: Our Curriculum
 </ul>
 <img style="width: 60%;" src="/images/tl.png" />
 <p>Each of the school&rsquo;s 8 departments builds their learning programmes based on this framework. Information on the learning of subjects can be found&nbsp;<a href="/learn-at-ij-oln/our-curriculum/tnl-framework" target="">here</a>.</p>
-<p>The holistic programme goes beyond class learning and is supported by a vibrant co-curricular programme. Information on the co-curricular programme can be found&nbsp;<a href="/learn-at-ij-oln/co-curricular-programmes" target="">here</a>.&nbsp;</p>
+<p>The holistic programme goes beyond class learning and is supported by a vibrant co-curricular programme. Information on the co-curricular programme can be found&nbsp;<a href="/learn-at-ij-oln/co-curricular-programmes/" target="">here</a>.&nbsp;</p>
