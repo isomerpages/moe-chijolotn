@@ -2,7 +2,6 @@ collections:
   sports:
     output: true
     order:
-      - Netball.md
       - Floorball.md
       - Table Tennis.md
       - Bowling.md
