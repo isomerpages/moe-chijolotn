@@ -1,5 +1,4 @@
 collections:
   uniform-group:
     output: true
-    order:
-      - Brownies.md
+    order: []
