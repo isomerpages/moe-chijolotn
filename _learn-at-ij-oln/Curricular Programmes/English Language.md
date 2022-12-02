@@ -4,7 +4,7 @@ permalink: /learn-at-ij-oln/curricular-programmes/english-language/
 description: ""
 third_nav_title: Curricular Programmes
 ---
-<h4><strong>Vision</strong><br /><strong>&ldquo;Lit. for Life&rdquo;</strong></h4>
+<h4><strong>Vision</strong><br />&ldquo;Lit. for Life&rdquo;</h4>
 <p>The EL Department&rsquo;s vision is &ldquo;Lit. for Life&rdquo;. The word &ldquo;Lit.&rdquo; represents Literacy, Literature and the notion of being &ldquo;lit&rdquo;; that is having one&rsquo;s horizons broadened through engaging and enriching lessons.</p>
 <h4><strong>Key Programmes</strong></h4>
 <h4>Enhanced STELLAR (Lower Primary)</h4>
