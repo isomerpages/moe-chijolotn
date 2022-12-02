@@ -25,7 +25,7 @@ third_nav_title: Curricular Programmes
 </table>
 <p>The MTL Fortnight is an initiative started by MOE to provide opportunities for students in the learning and use of Malay Language outside the context of their daily academic lessons. A variety of engaging and exciting activities is being organized for the students. These activities provided them with platforms to use the Malay Language in authentic settings. Through the language games, dance workshops, competitions and cultural activities, students were able to enrich their vocabulary and enhance their writing and oral skills in a fun and meaningful way.</p>
 <h4>Combined IJ School Camps</h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 30%;"><img src="/images/mal3.jpg"></td>
@@ -35,7 +35,7 @@ third_nav_title: Curricular Programmes
 </tbody>
 </table>
 <p style="text-align: center;"><strong>Twinning Programme with Sekolah Kebangsaan Sri Bintang Utara (SKSBU)</strong></p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/mal4.png"></td>
