@@ -4,17 +4,6 @@ permalink: /learn-at-ij-oln/curricular-programmes/mother-tongue-languages/tamil-
 description: ""
 third_nav_title: Curricular Programmes
 ---
-
-
-<table>
-<tbody>
-<tr>
-<td><a href="/learn-at-ij-oln/curricular-programmes/mother-tongue-languages/chinese-language" target="">Chinese Language</a></td>
-<td><a href="/learn-at-ij-oln/curricular-programmes/mother-tongue-languages/malay-language" target="">Malay Language</a></td>
-<td><a href="/learn-at-ij-oln/curricular-programmes/mother-tongue-languages/tamil-language" target="">Tamil Language</a></td>
-</tr>
-</tbody>
-</table>
 <h4><strong>Vision</strong></h4>
 <p>The Tamil Language Department strives to develop competent and passionate users of the Tamil Language. Ample opportunities are provided for students to appreciate the language and culture.&nbsp;</p>
 <p>The department uses interactive and innovative pedagogies in the Teaching and Learning of Tamil Language to make learning fun and interesting. Spoken Tamil is emphasized and students are encouraged to articulate or express themselves freely.&nbsp;</p>
