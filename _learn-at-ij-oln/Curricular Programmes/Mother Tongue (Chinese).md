@@ -4,18 +4,6 @@ permalink: /learn-at-ij-oln/curricular-programmes/mother-tongue-languages/chines
 description: ""
 third_nav_title: Curricular Programmes
 ---
-
-
-
-<table>
-<tbody>
-<tr>
-<td><a href="/learn-at-ij-oln/curricular-programmes/mother-tongue-languages/chinese-language" target="">Chinese Language</a></td>
-<td><a href="/learn-at-ij-oln/curricular-programmes/mother-tongue-languages/malay-language" target="">Malay Language</a></td>
-<td><a href="/learn-at-ij-oln/curricular-programmes/mother-tongue-languages/tamil-language" target="">Tamil Language</a></td>
-</tr>
-</tbody>
-</table>
 <h4><strong>Our Vision</strong></h4>
 <p>The Chinese Language department aims to develop students into confident and competent Chinese Language users who are able to appreciate their own culture and traditional values.</p>
 <p>Our objective is to nurture students&rsquo; interest and passion for the language by creating a fun and interesting learning environment for them</p>
