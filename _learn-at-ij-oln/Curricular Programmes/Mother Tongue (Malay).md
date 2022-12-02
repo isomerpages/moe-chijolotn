@@ -4,18 +4,6 @@ permalink: /learn-at-ij-oln/curricular-programmes/mother-tongue-languages/malay-
 description: ""
 third_nav_title: Curricular Programmes
 ---
-
-
-
-<table>
-<tbody>
-<tr>
-<td><a href="/learn-at-ij-oln/curricular-programmes/mother-tongue-languages/chinese-language" target="">Chinese Language</a></td>
-<td><a href="/learn-at-ij-oln/curricular-programmes/mother-tongue-languages/malay-language" target="">Malay Language</a></td>
-<td><a href="/learn-at-ij-oln/curricular-programmes/mother-tongue-languages/tamil-language" target="">Tamil Language</a></td>
-</tr>
-</tbody>
-</table>
 <h4><strong>Vision</strong></h4>
 <p>The Malay Language department&rsquo;s goal is to promote the Malay Language as a life-long language. We aim to inculcate the language in our students through active and interactive methods with the aim of getting students to appreciate the language and its culture.</p>
 <p>Students are encouraged to use the language effectively by creating an enjoyable classroom teaching and learning environment. This is done by exposing our students to class-discussions, singing, presenting, poetry recitation, story-telling and role-playing activities. Also, several key programmes have been planned for the students on a yearly basis.</p>
