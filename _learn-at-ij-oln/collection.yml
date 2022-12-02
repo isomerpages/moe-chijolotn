@@ -2,8 +2,6 @@ collections:
   learn-at-ij-oln:
     output: true
     order:
-      - Visual and Performing Arts CCA/.keep
-      - Uniform Groups CCA/.keep
       - Our Curriculum/.keep
       - Our Curriculum/Our Curriculum.md
       - Our Curriculum/T&L Framework.md
@@ -32,5 +30,7 @@ collections:
       - Sports CCA/Bowling.md
       - Sports CCA/Floorball.md
       - Sports CCA/Table Tennis.md
+      - Uniform Groups CCA/.keep
+      - Visual and Performing Arts CCA/.keep
       - Support Lessons.md
       - Home–Based Learning.md
