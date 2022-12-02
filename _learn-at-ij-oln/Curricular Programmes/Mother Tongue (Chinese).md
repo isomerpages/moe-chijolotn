@@ -16,7 +16,7 @@ third_nav_title: Curricular Programmes
 <li>Twinning Programme with Beihang</li>
 </ul>
 <h4>Reading Programme</h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/chi1.jpg"></td>
