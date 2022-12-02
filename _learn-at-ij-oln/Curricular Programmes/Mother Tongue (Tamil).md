@@ -31,7 +31,7 @@ third_nav_title: Curricular Programmes
 <li>Thoranam Making (Our P6 students demonstrated &lsquo;Thoranam&rsquo; making for Beihan delegates)&nbsp;</li>
 </ul>
 <h4>3. Learning Journey to Ponggal Bazaar during the Harvest Festival</h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 50%; text-align: right;"><img style="width: 60%;" src="/images/tam2.png" /></td>
