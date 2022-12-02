@@ -78,7 +78,7 @@ third_nav_title: Curricular Programmes
 <li>P4 Camp 2D1N</li>
 <li>P5 Camp 3D2N</li>
 </ul>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/pe3.png"></td>
