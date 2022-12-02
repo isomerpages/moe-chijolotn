@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Curricular Programmes
 ---
 <h4><strong>Vision Mission</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 40%;"><img src="/images/cce1.jpg"></td>
