@@ -13,7 +13,7 @@ third_nav_title: Curricular Programmes
 <img style="width: 80%;" src="/images/el1.jpg" />
 <p>REAL is a TLLM curriculum innovation unique to our school. It is an English enrichment platform for&nbsp;students. REAL sparks a love for language with authentic, rich texts that create language-rich environments and enables&nbsp;students&nbsp;to appreciate language and issues beyond the classroom. There is also promotion of extensive reading to help&nbsp;students&nbsp;sharpen reading comprehension and narrative writing capabilities, and provision of discussion platforms to hone oracy. REAL sees engagement with Literature and in the process, develops critical thinking in&nbsp;students. In recent years, REAL has seen the infusion of film as part of active and multimodal learning. In the long run, REAL will infuse P4C (Philosophy for Children) as a pedagogical tool to develop creative and critical thinking along with effective communication skills &ndash; skills that are essential to the 21st century</p>
 <h4>Key Programmes Speech and Drama (Primary 1 and 2)</h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 50%;"><img style="width: 80%;" src="/images/el2.jpg" /></td>
