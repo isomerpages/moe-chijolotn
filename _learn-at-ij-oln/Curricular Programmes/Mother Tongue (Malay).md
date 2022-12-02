@@ -15,7 +15,7 @@ third_nav_title: Curricular Programmes
 <li>Malay Language Competitions</li>
 </ol>
 <h4>Mother Tongue Language (MTL) Fortnight</h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/mal1.png"></td>
