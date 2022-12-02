@@ -28,7 +28,7 @@ third_nav_title: Curricular Programmes
 </ul>
 </ul>
 <p style="padding-left: 40px;">All Primary 5&nbsp;students&nbsp;go through a 10-hour Code For Fun Programme in Semester 1. The curriculum covers fundamentals of computational thinking and exposure to emerging technologies. Students&nbsp;will be involved in experiential learning activities to help them grasp computational thinking concepts.</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 60%;"><img src="/images/ict1.jpg"></td>
