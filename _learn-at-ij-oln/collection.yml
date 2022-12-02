@@ -2,6 +2,7 @@ collections:
   learn-at-ij-oln:
     output: true
     order:
+      - CCA   Sports/Netball.md
       - CCA   Sports/.keep
       - Our Curriculum/Our Curriculum.md
       - Our Curriculum/T&L Framework.md
