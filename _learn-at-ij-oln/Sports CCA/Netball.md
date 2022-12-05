@@ -4,9 +4,6 @@ permalink: /learn-at-ij-oln/co-curricular-activities/sports/netball/
 description: ""
 third_nav_title: Sports CCA
 ---
-
-
-
 <h4><strong>WHO ARE WE</strong></h4>
 <p><strong>PRIDE OF CHIJ OLN<br /></strong>The CHIJ OLN Netball team is a close-knit family with players who support each other on and off the court.<br />As the niche CCA in CHIJ OLN, the Netball team aims to reinforce the school&rsquo;s GRACIA values, cultivating positive lifelong values and 21st century competencies such as self-awareness, relationship management and responsible decision-making.</p>
 <h4><strong>WHAT WE DO</strong></h4>
@@ -23,7 +20,7 @@ third_nav_title: Sports CCA
 <p><strong>EXPOSURE TO COMPETITION</strong><br /><em>Our Primary 4 team participates in netball carnivals at the end of each year. Friendly matches with other schools are organized to gear them up for the inter-school competitions at Primary 5 and Primary 6. Our Primary 5 and 6 School Teams participate in the South Zone Netball Championships. The top 4 schools in each zone will then compete in the National Netball Championships.</em></p>
 <img style="width: 80%;" src="/images/nb2.jpg" />
 <h4><strong>ACHIEVEMENTS</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 50%; text-align: center;"><img src="/images/nb3.jpg">Our Netballers with Minister Ong Ye Kung</td>
@@ -45,7 +42,7 @@ third_nav_title: Sports CCA
 </tbody>
 </table>
 <h4><strong>CCA SCHEDULE</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 33.3333%;"><img src="/images/nb5.jpeg"></td>
