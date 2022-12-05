@@ -4,7 +4,7 @@ permalink: /student-well-being/signature-programmes/
 description: ""
 ---
 <h4><strong>Sisterly Love</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <th style="width: 50%;">
@@ -21,7 +21,7 @@ description: ""
 </tbody>
 </table>
 <h4><strong>Back-to-School</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <th style="width: 50%;">
