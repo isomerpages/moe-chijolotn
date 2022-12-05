@@ -4,12 +4,11 @@ permalink: /learn-at-ij-oln/co-curricular-activities/sports/floorball/
 description: ""
 third_nav_title: Sports CCA
 ---
-
 <h4><strong>WHO ARE WE</strong></h4>
 <p>Floorball started as a CCA in 2005 and comprises students from Primary 3 to Primary 6. Our team has come a long way since we first started and we are working our way up to achieving greater heights.</p>
 <p>Together, our team trains hard to become better floorball players who exemplify the GRACIA values of our school. Our team takes part in the annual National School Games Floorball Championships to compete with schools all over Singapore.</p>
 <h4><strong>WHAT WE DO</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/fb1.jpeg"></td>
@@ -28,7 +27,7 @@ third_nav_title: Sports CCA
 </tr>
 </tbody>
 </table>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/fb4.jpg"></td>
@@ -37,7 +36,7 @@ third_nav_title: Sports CCA
 </tbody>
 </table>
 <h4><strong>ACHIEVEMENTS</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 33.3333%;"><img src="/images/fb6.jpg"></td>
@@ -68,7 +67,7 @@ third_nav_title: Sports CCA
 </table>
 <h4><strong>Teachers-in-Charge</strong></h4>
 <p><a href="mailto:poh_shi_ling_edna@moe.edu.sg" target="">Ms Edna Poh</a>,&nbsp;<a href="mailto:rabiah_begum_angullia_musa@moe.edu.sg" target="">Ms Rabiah</a>,&nbsp;<a href="mailto:sim_fatimah_mohammed@moe.edu.sg" target="">Ms Fatimah Sim</a>&nbsp;&amp;&nbsp;<a href="mailto:masturah_salman@moe.edu.sg" target="">Mrs Masturah Azman</a><br /><a href="mailto:muhammad_nazri_subawi@moe.edu.sg" target="">Mr Nazri</a>&nbsp;(Overall Teacher In-Charge)</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 60%;">
@@ -84,7 +83,7 @@ third_nav_title: Sports CCA
 </tbody>
 </table>
 <h4><strong>CCA SCHEDULE</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/fb10.jpg"></td>
