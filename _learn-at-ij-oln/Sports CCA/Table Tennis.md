@@ -4,12 +4,11 @@ permalink: /learn-at-ij-oln/co-curricular-activities/sports/table-tennis/
 description: ""
 third_nav_title: Sports CCA
 ---
-
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQvJAkXewRUj5lopRRQB3HzOcCY_OmUgT0lbfk4o1uAJ-UDSURzO3K7OOL1QV06zGu0KtTl0iI5tiVF/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 <h4><strong>WHO ARE WE</strong></h4>
 <p>The CHIJ OLN Table Tennis team is a family of dynamic players who train hard together. Our aim is to instill discipline, resilience and sportsmanship in every student. The students train twice weekly with professional coaches. Skills such as the different styles of service, attacking and defending strategies as well as footwork are taught during training. The weekly training enables our students to be focused and to think on their feet. This will help them to make quick decisions in order to counter the opponents&rsquo; actions.</p>
 <p>The CHIJ OLN Table Tennis team continues to strive towards excellence in training as well as competitions. Selected students will take part in the National School Games South Zone Table Tennis Championships and the National Primary Schools Table Tennis Championships. This gives them a platform to put their training to the test. The experiences from the games are invaluable to the team.</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 65%;"><ul>
@@ -22,7 +21,7 @@ third_nav_title: Sports CCA
 </tr>
 </tbody>
 </table>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/ttt2.jpg"></td>
@@ -30,7 +29,7 @@ third_nav_title: Sports CCA
 </tr>
 </tbody>
 </table>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 37%;">
@@ -44,7 +43,7 @@ third_nav_title: Sports CCA
 </tbody>
 </table>
 <h4><strong>ACHIEVEMENTS</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/ttt7.jpg"></td>
@@ -87,7 +86,7 @@ third_nav_title: Sports CCA
 <p><strong>Overall Teacher in-charge:<br /></strong><a href="mailto:tan_hwee_khoon_a@moe.edu.sg" target="">Mrs Lee Hwee Khoon</a></p>
 <p><strong>Teachers in-charge:<br /></strong><a href="mailto:lai_meiyu@moe.edu.sg" target="">Mdm Lai Mei Yu</a><br /><a href="mailto:peh_bee_leng@moe.edu.sg" target="">Mdm Peh Bee Leng</a><br /><a href="mailto:rabiah_begum_angullia_musa@moe.edu.sg" target="">Ms Rabiah</a></p>
 <h4><strong>CCA SCHEDULE</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/ttt12.jpg"></td>
