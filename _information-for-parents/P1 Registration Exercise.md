@@ -13,7 +13,7 @@ description: ""
 <li><a href="https://youtu.be/d9jsUjqcdhQ" target="_blank" rel="noopener">Lower Primary MT: Chinese Made Easy</a></li>
 <li><a href="https://youtu.be/HTUSlUjbsCE" target="_blank" rel="noopener">Parent Volunteer Sharing</a></li>
 </ul>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 15%;"><a href="https://www.facebook.com/chijoln.official/"><img src="/images/fb.jpg"></a></td>
