@@ -4,9 +4,8 @@ permalink: /learn-at-ij-oln/co-curricular-activities/visual-and-performing-arts/
 description: ""
 third_nav_title: Visual and Performing Arts CCA
 ---
-
 <h4><strong>WHO WE ARE</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/cho1.png"></td>
@@ -18,7 +17,7 @@ third_nav_title: Visual and Performing Arts CCA
 </tbody>
 </table>
 <h4><strong>HIGHLIGHTS OF 2020</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 50%;"><iframe width="400" height="320" src="https://www.youtube.com/embed/m4SBWY7HgZo" title="First Light: Video A - Chan Jing Yi Clarissa & friends (SYFgoesOnline!_SYFpiecesReimagined)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
@@ -30,7 +29,7 @@ third_nav_title: Visual and Performing Arts CCA
 </tbody>
 </table>
 <h4><strong>WHAT WE DO</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/cho2.jpeg"></td>
@@ -42,7 +41,7 @@ third_nav_title: Visual and Performing Arts CCA
 </tbody>
 </table>
 <h4><strong>OUR CHOIR INSTRUCTORS</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 50%; text-align: center;">
@@ -58,7 +57,7 @@ third_nav_title: Visual and Performing Arts CCA
 </table>
 <h4><strong>TEACHERS-IN-CHARGE</strong></h4>
 <p><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a><br /><a href="mailto:oh_wah_gee@moe.edu.sg" target="">Mrs Cindy Oh</a><br /><a href="mailto:wan_yin_seong_angela@moe.edu.sg" target="">Ms Angela Wan</a></p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 50%;">
@@ -75,7 +74,7 @@ third_nav_title: Visual and Performing Arts CCA
 </tbody>
 </table>
 <h4><strong>CCA SCHEDULE</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/cho6.jpg"></td>
