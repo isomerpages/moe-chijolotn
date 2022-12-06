@@ -289,7 +289,7 @@ description: ""
 <p>We will get back to you with the new password soon.</p>
 <hr>
 <h4><strong>Cyber Wellness Guide</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/home2.jpg"></td>
