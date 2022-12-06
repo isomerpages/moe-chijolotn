@@ -4,9 +4,8 @@ permalink: /learn-at-ij-oln/co-curricular-activities/visual-and-performing-arts/
 description: ""
 third_nav_title: Visual and Performing Arts CCA
 ---
-
 <h4><strong>WHO ARE WE</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/bb1.jpg"></td>
@@ -25,7 +24,7 @@ third_nav_title: Visual and Performing Arts CCA
 </tr>
 </tbody>
 </table>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/bb2.jpg"></td>
@@ -36,7 +35,7 @@ third_nav_title: Visual and Performing Arts CCA
 <h4><strong>VIDEOS OF PAST PERFORMANCES</strong></h4>
 <iframe width="760" height="515" src="https://www.youtube.com/embed/Up4BC1KFGmI" title="Band Fiesta Presentation 2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p style="text-align: center;"><strong>Outdoor performance @ Garden by the Bay 2019</strong></p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 50%; text-align: center;">
@@ -52,7 +51,7 @@ third_nav_title: Visual and Performing Arts CCA
 </table>
 <h4><strong>WHAT WE DO</strong></h4>
 <p>The disciplined routines that our band members go through allow them to learn the values of discipline, teamwork, responsibility and commitment.</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/bb4.jpg"></td>
@@ -66,7 +65,7 @@ third_nav_title: Visual and Performing Arts CCA
 </tr>
 </tbody>
 </table>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 33.3333%;"><img src="/images/bb5.jpg"></td>
@@ -85,7 +84,7 @@ third_nav_title: Visual and Performing Arts CCA
 <li><a href="mailto:raniah_mohd_noor@moe.edu.sg" target="">Mdm Raniah</a></li>
 </ul>
 <h4><strong>WE WANT YOU...</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/bb8.jpg"></td>
