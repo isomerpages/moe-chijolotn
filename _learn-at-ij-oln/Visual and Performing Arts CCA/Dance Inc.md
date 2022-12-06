@@ -4,7 +4,6 @@ permalink: /learn-at-ij-oln/co-curricular-activities/visual-and-performing-arts/
 description: ""
 third_nav_title: Visual and Performing Arts CCA
 ---
-
 <h4><strong>WHO ARE WE</strong></h4>
 <img style="width: 80%;" src="/images/di1.png" />
 <p style="text-align: center;">Dance is a form of art and a creative expression of the ideas and feelings of individual. It allows students to express their ideas about the world around them through a non-verbal means of communication.&nbsp;</p>
@@ -12,7 +11,7 @@ third_nav_title: Visual and Performing Arts CCA
 <p style="text-align: center;">P3 students in Dance Inc will have the opportunity to learn different genres (namely Modern, Chinese and Malay) termly. This broadens the dance experience of the students. In P4, students will be channelled to develop their potential in a particular dance genre.&nbsp;</p>
 <p><strong> Dance Inc 1 - International Dance (Competitive)<br /></strong><strong>Dance Inc 2 - International Dance (Recreational)<br /></strong><strong>Dance Inc 3 - Chinese Dance<br /></strong><strong>Dance Inc 4 - Malay Dance</strong></p>
 <h4><strong>WHAT WE DO</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/di2.jpg"></td>
