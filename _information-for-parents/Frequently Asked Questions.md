@@ -13,7 +13,7 @@ description: ""
 <ul>
 <li><strong>What are the school fees like?</strong></li>
 </ul>
-<p>If your child is a Singaporean, her school fee per month will be $13.00, out of which $6.50 can be paid via your child&rsquo;s Edusave Account.<br />If your child is a non-Singaporean, please visit&nbsp;<a href="https://moe.gov.sg/fees-assistance-awards-scholarships/fees/" target="_blank" rel="noopener">MOE website</a>&nbsp;for the latest school fees.</p>
+<p>If your child is a Singaporean, her school fee per month will be $13.00, out of which $6.50 can be paid via your child&rsquo;s Edusave Account.<br />If your child is a non-Singaporean, please visit&nbsp;<a href="https://www.moe.gov.sg/financial-matters/fees" target="_blank" rel="noopener">MOE website</a>&nbsp;for the latest school fees.</p>
 <ul>
 <li><strong>Does your school have a School-Based Student Care Centre (SCC)?</strong></li>
 </ul>
