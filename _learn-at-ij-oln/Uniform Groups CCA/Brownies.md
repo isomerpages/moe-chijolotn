@@ -4,7 +4,6 @@ permalink: /learn-at-ij-oln/co-curricular-activities/uniform-group/brownies/
 description: ""
 third_nav_title: Uniform Groups CCA
 ---
-
 <h4><strong>WHO ARE WE</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
@@ -57,7 +56,7 @@ third_nav_title: Uniform Groups CCA
 <li>National Day Celebrations - Ceremony</li>
 <li>Brownies Cookie Project</li>
 </ul>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 30%;"><img style="width: 100%;" src="/images/bro7.jpg"></td>
@@ -65,7 +64,7 @@ third_nav_title: Uniform Groups CCA
 </tr>
 </tbody>
 </table>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 50%; text-align: center;"><strong>TEACHERS-IN-CHARGE</strong></td>
