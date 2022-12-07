@@ -22,5 +22,5 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>Should you like information on P1 Registration Exercise, please refer to the MOE website:&nbsp;<a href="https://www.moe.gov.sg/admissions/primary-one-registration" target="_blank" rel="noopener">https://www.moe.gov.sg/admissions/primary-one-registration</a>&nbsp;.</p>
+<p>Should you like information on P1 Registration Exercise, please refer to the MOE website:&nbsp;<a href="https://www.moe.gov.sg/primary/p1-registration" target="_blank" rel="noopener">https://www.moe.gov.sg/primary/p1-registration</a>&nbsp;.</p>
 <p>You can refer to OneMap at&nbsp;<a href="https://www.onemap.sg/" target="_blank" rel="noopener">https://www.onemap.sg</a>&nbsp;to check the home-school distance category.</p>
