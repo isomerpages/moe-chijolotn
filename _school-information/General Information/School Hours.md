@@ -27,32 +27,32 @@ third_nav_title: General Information
 </tr>
 <tr>
 <td style="text-align: center;">Pri 1</td>
-<td style="text-align: center;">8.15am - 8.45am</td>
+<td style="text-align: center;">10.30am - 11.00am</td>
 <td style="text-align: center;">Canteen</td>
 </tr>
 <tr>
 <td style="text-align: center;">Pri 2</td>
-<td style="text-align: center;">10.15am - 10.45am</td>
+<td style="text-align: center;">8.30am - 9.00am</td>
 <td style="text-align: center;">Canteen</td>
 </tr>
 <tr>
 <td style="text-align: center;">Pri 3</td>
-<td style="text-align: center;">9.15 am - 9.45 am</td>
+<td style="text-align: center;">9.00 am - 9.30 am</td>
 <td style="text-align: center;">Canteen</td>
 </tr>
 <tr>
 <td style="text-align: center;">Pri 4</td>
-<td style="text-align: center;">8.45 am - 9.15 am (Mon - Thu)<br />11.15am - 12.00nm (Fri)&nbsp;&nbsp;</td>
+<td style="text-align: center;">11.00 am - 11.30 am (Mon - Thu)<br />11.15am - 12.00nm (Fri)&nbsp;&nbsp;</td>
 <td style="text-align: center;">Canteen</td>
 </tr>
 <tr>
 <td style="text-align: center;">Pri 5</td>
-<td style="text-align: center;">10.45am - 11.15am</td>
+<td style="text-align: center;">9.30am - 10.00am</td>
 <td style="text-align: center;">Canteen</td>
 </tr>
 <tr>
 <td style="text-align: center;">Pri 6</td>
-<td style="text-align: center;">9.45am - 10.15am</td>
+<td style="text-align: center;">10.00am - 10.30am</td>
 <td style="text-align: center;">Canteen</td>
 </tr>
 <tr>
