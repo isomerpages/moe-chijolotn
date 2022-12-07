@@ -11,6 +11,9 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements
+        - title: Success Stories
+          description: Achievements by Pupils & Staff
+          url: ""
       subtitle: Girls of Today for Tomorrow
       background: /images/Banner and Logo/bannerNew1920.jpg
 ---
