@@ -42,7 +42,7 @@ third_nav_title: General Information
 </tr>
 <tr>
 <td style="text-align: center;">Pri 4</td>
-<td style="text-align: center;">11.00 am - 11.30 am (Mon - Thu)<br />11.15am - 12.00nm (Fri)&nbsp;&nbsp;</td>
+<td style="text-align: center;">11.00 am - 11.30 am</td>
 <td style="text-align: center;">Canteen</td>
 </tr>
 <tr>
