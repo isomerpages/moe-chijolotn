@@ -21,7 +21,7 @@ third_nav_title: Co Curricular Activities (CCA)
 </tbody>
 </table>
 <h4><strong>CCA@OLN Framework</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 35%;"><img src="/images/cca.png"></td>
