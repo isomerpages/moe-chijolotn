@@ -36,7 +36,7 @@ third_nav_title: Curricular Programmes
 </tbody>
 </table>
 <h4>Upper Primary Oral Skills Training Camp</h4>
-<table style="border-collapse: collapse; width: 100%;" border="10">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/chi2.jpg" /></td>
@@ -58,7 +58,7 @@ third_nav_title: Curricular Programmes
 </tbody>
 </table>
 <h4>Twinning Programme with Beihang School (Incoming &amp; Outgoing)</h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/chi4.jpg" /></td>
