@@ -30,7 +30,7 @@ description: ""
 <p><strong>Sexuality Education</strong>&nbsp;: &ldquo;Curious Minds (2nd Edition)&rdquo; (Primary 5 &amp; 6) Teaching &amp; Learning resource package</p>
 <p>6. The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. &ldquo;Curious Minds&rdquo; is a response to these challenges.</p>
 <p>7. The Primary 5 &amp; 6 Sexuality Education Teaching and Learning resource package, &ldquo;Curious Minds (2nd Edition)&rdquo;, aims to meet students&rsquo; developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes, build healthy relationships, especially online relationships, and exercise safety.&nbsp;</p>
-<p><strong>At CHIJ OUR LADY OF THE NATIVITY, the following lessons from the&nbsp;</strong><strong>Sexuality Education lessons</strong><strong>&nbsp;will be taught in&nbsp;<u>2022</u>:</strong></p>
+<p><strong>At CHIJ OUR LADY OF THE NATIVITY, the following lessons from the&nbsp;</strong><strong>Sexuality Education lessons</strong><strong>&nbsp;will be taught in&nbsp;<u>2023</u>:</strong></p>
 <p style="text-align: center;"><strong>PRIMARY 5</strong></p>
 <table width="846">
 <thead>
@@ -326,6 +326,6 @@ description: ""
 </table>
 <h4><strong>INFORMATION FOR PARENTS</strong></h4>
 <p>8. Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.&nbsp;</p>
-<p>9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form was sent to parents in November 2021.&nbsp;</p>
+<p>9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form was sent to parents in November 2022.&nbsp;</p>
 <p>10. Parents can contact the school at Email:&nbsp;<a href="mailto:chijoln@moe.edu.sg" target=""><strong>chijoln@moe.edu.sg</strong></a>&nbsp;or Tel:&nbsp;<strong>6385 2455</strong>&nbsp;for discussion or to seek clarification about the school&rsquo;s sexuality education programme.</p>
 <p>11. Parents who wish to attend the school sexuality education programmes, should also contact the school to make the necessary arrangements.</p>
