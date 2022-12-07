@@ -9,7 +9,7 @@ third_nav_title: Curricular Programmes
 <li><a href="/learn-at-ij-oln/curricular-programmes/english-language" target="">English Language</a></li>
 <li><a href="/learn-at-ij-oln/curricular-programmes/mathematics" target="">Mathematics</a></li>
 <li><a href="/learn-at-ij-oln/curricular-programmes/science" target="">Science</a></li>
-<li><a href="g/learn-at-ij-oln/curricular-programmes/mother-tongue-languages" target="">Mother Tongue Languages</a></li>
+<li>Mother Tongue Languages</li>
 <ul>
 <li>Chinese Language</li>
 <li>Malay Language</li>
