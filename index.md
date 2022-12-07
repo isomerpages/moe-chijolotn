@@ -13,7 +13,7 @@ sections:
           url: /announcements
         - title: Success Stories
           description: Achievements by Pupils & Staff
-          url: Success Stories
+          url: /student-well-being/signature-programmes/
       subtitle: Girls of Today for Tomorrow
       background: /images/Banner and Logo/bannerNew1920.jpg
 ---
