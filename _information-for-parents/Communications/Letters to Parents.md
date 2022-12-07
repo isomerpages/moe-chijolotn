@@ -21,9 +21,9 @@ third_nav_title: Communications
 </tr>
 	<tr>
 <td>All</td>
-<td><a href="/files/2022OLN_0451 - Enchancement to FAS Notification October.pdf" target="_blank" rel="noopener">2022OLN_0451</a></td>
-<td>Enhancement to MOE Financial Assistance Scheme</td>
-<td>17 Oct</td>
+<td><a href="/files/2022OLN_0476 - CHIJ OLN IJ Bazaar 2022.pdf" target="_blank" rel="noopener">2022OLN_0476</a></td>
+<td>CHIJ OLN IJ Bazaar</td>
+<td>03 Nov</td>
 </tr>
 <tr>
 <td>All</td>
@@ -33,9 +33,9 @@ third_nav_title: Communications
 </tr>
 <tr>
 <td>All</td>
-<td><a href="/files/2022OLN_0476 - CHIJ OLN IJ Bazaar 2022.pdf" target="_blank" rel="noopener">2022OLN_0476</a></td>
-<td>CHIJ OLN IJ Bazaar</td>
-<td>03 Nov</td>
+<td><a href="/files/2022OLN_0451 - Enchancement to FAS Notification October.pdf" target="_blank" rel="noopener">2022OLN_0451</a></td>
+<td>Enhancement to MOE Financial Assistance Scheme</td>
+<td>17 Oct</td>
 </tr>
 	<tr>
 <td>All</td>
