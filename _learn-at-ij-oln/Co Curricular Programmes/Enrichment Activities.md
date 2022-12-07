@@ -15,7 +15,7 @@ third_nav_title: Co Curricular Programmes
 <li>Activities held after school e.g. MakerSpace and Code for Fun</li>
 </ol>
 <p><strong>MakerSpace</strong></p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/ea2.jpg"></td>
@@ -29,7 +29,7 @@ third_nav_title: Co Curricular Programmes
 </table>
 <p>In the programme, students are given the opportunity to hone their creativity&nbsp;and problem solving skills. The programme also allows students to work collaboratively&nbsp;on a given scenario or problem to solve. With only a limited number of materials&nbsp;provided, students are steered to be critical thinkers as they solve the problems together.</p>
 <p><strong>Code for Fun</strong></p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/ea6.jpg"></td>
