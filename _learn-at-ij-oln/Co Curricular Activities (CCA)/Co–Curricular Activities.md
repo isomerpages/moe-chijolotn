@@ -9,7 +9,11 @@ third_nav_title: Co Curricular Activities (CCA)
 <tbody>
 <tr>
 <th>
-<p><Strong><u>Sports:<br /></u></Strong><a href="/learn-at-ij-oln/co-curricular-activities/sports/netball" target="_blank" rel="noopener">Netball</a><br /><a href="/learn-at-ij-oln/co-curricular-activities/sports/bowling" target="_blank" rel="noopener">Bowling</a><br /><a href="/learn-at-ij-oln/co-curricular-activities/sports/floorball" target="_blank" rel="noopener">Floorball</a><br /><a href="/learn-at-ij-oln/co-curricular-activities/sports/table-tennis" target="_blank" rel="noopener">Table-Tennis</a></p>
+<p><Strong><u>Sports:<br/></u></Strong>
+	<a href="/learn-at-ij-oln/co-curricular-activities/sports/netball" target="_blank" rel="noopener">Netball</a><br />
+	<a href="/learn-at-ij-oln/co-curricular-activities/sports/bowling" target="_blank" rel="noopener">Bowling</a><br />
+	<a href="/learn-at-ij-oln/co-curricular-activities/sports/floorball" target="_blank" rel="noopener">Floorball</a><br />
+	<a href="/learn-at-ij-oln/co-curricular-activities/sports/table-tennis" target="_blank" rel="noopener">Table-Tennis</a></p>
 </th>
 <td>
 <p><strong><u>Uniformed Groups:<br /></u></strong><a href="/learn-at-ij-oln/co-curricular-activities/uniform-group/brownies" target="_blank" rel="noopener">Brownies</a>&nbsp;</p>
