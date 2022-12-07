@@ -4,7 +4,6 @@ permalink: /learn-at-ij-oln/co-curricular-programmes/oln-360-programme/
 description: ""
 third_nav_title: Co Curricular Programmes
 ---
-
 <ol>
 <li>The purpose of the OLN 360 programme is to facilitate the delivery of the OLN Outcomes by broadening the holistic curriculum and learning domains encountered by our students. This will enhance the holistic development of our girls.&nbsp;</li>
 <li>OLN 360 takes place during the school day on Fridays from 7.45 a.m. to 9.15 a.m for all P3 to P6 students. Through this programme, our students will be able to explore and experience success in a range of activities, apply learning beyond the classroom, develop their Learning Dispositions and grow in our school&rsquo;s GRACIA values.&nbsp;</li>
@@ -31,7 +30,7 @@ third_nav_title: Co Curricular Programmes
 <p><a name="Q7"></a><br /><strong>7. Will members of the CCAs removed, have to join another CCA?&nbsp;</strong><br />No, they do not have to. CCA is not compulsory at the primary level. However, students will be given an option to join other CCAs they show an aptitude for.</p>
 <p><a name="Q8"></a><br /><strong>8. Do children with CCAs need to take part in the OLN 360 programme?&nbsp;</strong><br />Yes. The OLN 360 programme is a school programme and compulsory, and the aims of the CCAs and the OLN 360 programme differ. The OLN 360 programme is not a replacement for CCA but a separate programme designed to enhance the delivery of the OLN Outcomes.</p>
 <h4><strong>Have a Heart!&nbsp;</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 33.3333%;"><img src="/images/oln2.jpeg"></td>
@@ -42,7 +41,7 @@ third_nav_title: Co Curricular Programmes
 </table>
 <p>Our girls engage in rich discussions on current affairs such as the disadvantaged in the Singapore. They also reinforce their learning through role plays and team reflections.</p>
 <h4><strong>Pockets of Joy!</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 33.3333%;"><img src="/images/oln5.jpg"></td>
@@ -53,7 +52,7 @@ third_nav_title: Co Curricular Programmes
 </table>
 <p>Our girls hone their collaborative skills and learn table etiquette through the Mad Hatter&rsquo;s Party, one of the programmes under Pockets of Joy.</p>
 <h4><strong>Ready, Steady, Go!</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 33.3333%;"><img src="/images/oln8.jpg"></td>
@@ -64,7 +63,7 @@ third_nav_title: Co Curricular Programmes
 </table>
 <p>Our girls are exposed to a variety of sports such as table tennis and netball so that they appreciate different sports.</p>
 <h4><strong>#thinkER</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 33.3333%;"><img src="/images/oln11.jpg"></td>
