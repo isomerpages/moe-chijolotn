@@ -36,7 +36,7 @@ third_nav_title: Curricular Programmes
 </tbody>
 </table>
 <h4>Upper Primary Oral Skills Training Camp</h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="10">
 <tbody>
 <tr>
 <td style="width: 25%;"><img src="/images/chi2.jpg" /></td>
@@ -46,7 +46,7 @@ third_nav_title: Curricular Programmes
 </tr>
 </tbody>
 </table>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/chi3.jpg" /></td>
