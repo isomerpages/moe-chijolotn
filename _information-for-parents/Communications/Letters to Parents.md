@@ -21,6 +21,24 @@ third_nav_title: Communications
 </tr>
 	<tr>
 <td>All</td>
+<td><a href="/files/2022OLN_0451 - Enchancement to FAS Notification October.pdf" target="_blank" rel="noopener">2022OLN_0451</a></td>
+<td>Enhancement to MOE Financial Assistance Scheme</td>
+<td>17 Oct</td>
+</tr>
+<tr>
+<td>All</td>
+<td><a href="/files/2022OLN_0462 - Food Drive 2022 - Announcement to Parents_updated.pdf" target="_blank" rel="noopener">2022OLN_0462</a></td>
+<td>Food Drive 2022</td>
+<td>20 Oct</td>
+</tr>
+<tr>
+<td>All</td>
+<td><a href="/files/2022OLN_0476 - CHIJ OLN IJ Bazaar 2022.pdf" target="_blank" rel="noopener">2022OLN_0476</a></td>
+<td>CHIJ OLN IJ Bazaar</td>
+<td>03 Nov</td>
+</tr>
+	<tr>
+<td>All</td>
 <td><a href="/files/2022OLN_0449 - Travel Declaration for Year-End School Holidays 2022.pdf" target="_blank" rel="noopener">2022OLN_04449</a></td>
 <td>Travel Declaration for Year-End School Holidays</td>
 <td>14 Oct</td>
