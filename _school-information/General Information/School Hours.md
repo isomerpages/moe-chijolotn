@@ -60,18 +60,18 @@ third_nav_title: General Information
 </tr>
 <tr>
 <td style="text-align: center;">Pri 1</td>
-<td style="text-align: center;">1.15pm (Mon - Fri, except Wed)<br />1pm (Wed)</td>
+<td style="text-align: center;">1.30pm (Mon - Fri)</td>
 <td style="text-align: center;">Side Gate 2</td>
 </tr>
 <tr>
 <td style="text-align: center;">Pri 2</td>
-<td style="text-align: center;">1.20pm (Mon - Fri, except Wed)<br />1.05pm (Wed)</td>
+<td style="text-align: center;">1.30pm (Mon - Fri)</td>
 <td style="text-align: center;">Side Gate 2</td>
 </tr>
 <tr>
 <td style="text-align: center;">Pri 3</td>
-<td style="text-align: center;">1.20 pm (Mon - Fri, except Wed)<br />1.05pm (Wed)</td>
-<td style="text-align: center;">Side Gate 1</td>
+<td style="text-align: center;">1.30 pm (Mon - Fri)</td>
+<td style="text-align: center;">Side Gate 2</td>
 </tr>
 <tr>
 <td style="text-align: center;">Pri 4</td>
