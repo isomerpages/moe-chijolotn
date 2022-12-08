@@ -13,7 +13,7 @@ description: ""
 <li>Students who are not able to be present at the stipulated Google Meet / Zoom sessions, are to inform their Subject Teacher, who will then see to the necessary follow-up.</li>
 </ol>
 <hr>
-</b>
+</b>No Task sheets as at current date.</b> </b>
 <hr>
 
 <li>For SLS matters, you may also email the SLS Central Helpdesk at helpdesk@sls.ufinity.com at any time for assistance. Please include your daughter&rsquo;s full name, name of school and form class.</li>
