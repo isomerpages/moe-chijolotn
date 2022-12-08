@@ -106,7 +106,7 @@ description: ""
 <ul>
 <li><strong>Is CHIJ Our Lady of the Nativity affiliated to any secondary school?</strong></li>
 </ul>
-<div>Yes. Both our school and CHIJ Our Lady of Good Counsel are affiliated to&nbsp;<a href="https://chijstjosephsconvent.moe.edu.sg/" target="_blank" rel="noopener">CHIJ St. Joseph&rsquo;s Convent</a>. You can refer to the MOE&rsquo;s affiliation guidelines&nbsp;<a href="https://va.ecitizen.gov.sg/cfp/customerPages/moe/explorefaq.aspx?Search=affiliation&amp;Category=0&amp;Mesid=823006" target="_blank" rel="noopener">here</a>.</div>
+<div>Yes. Both our school and CHIJ Our Lady of Good Counsel are affiliated to&nbsp;<a href="https://chijstjosephsconvent.moe.edu.sg/" target="_blank" rel="noopener">CHIJ St. Joseph&rsquo;s Convent</a>. You can refer to the MOE&rsquo;s affiliation guidelines&nbsp;<a href="https://www.moe.gov.sg/faq?categoryid=16ACAB5DB5E04052B36BF3074B86FB88&faqid=A833B4AB26874C278511556F8CDFF5E3" target="_blank" rel="noopener">here</a>.</div>
 </div>
 </li>
 </ul>
