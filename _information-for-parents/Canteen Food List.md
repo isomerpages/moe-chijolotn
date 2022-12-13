@@ -13,6 +13,8 @@ description: ""
 
 <a href="/files/CanteenFood/STALL 1 – NOODLE.pdf" target="_blank">STALL 1 -  NOODLES</a>  
 <a href="/files/CanteenFood/STALL 3 – WESTERN & KAMPONG DELIGHTS.pdf" target="_blank">STALL 3 -  WESTERN and KAMPONG DELIGHTS</a>  
+<a href="/files/CanteenFood/STALL 4 – WESTERN.pdf" target="_blank">STALL 4 -  WESTERN</a>  
+<a href="/files/CanteenFood/STALL 5 – ORIENTAL.pdf" target="_blank">STALL 5 -  ORIENTAL</a>  
   
 	
 ##### Picture samples:
