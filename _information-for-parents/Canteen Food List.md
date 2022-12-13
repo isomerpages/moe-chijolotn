@@ -25,6 +25,6 @@ Picture samples:
 
 | Wok Specialties | Quick bites ||
 | -------- | -------- | -------- |
-| <img src="/images/CanteenFood/FriedBeeHoon.jpg" alt="">Fried Bee Hoon  | <img src="/images/CanteenFood/TunaSandwich.jpg" alt=""><Tuna Sandwich     |<img src="/images/CanteenFood/FoodFiller.jpg" alt="">
+| <img src="/images/CanteenFood/FriedBeeHoon.jpg" alt="">Fried Bee Hoon  | <img src="/images/CanteenFood/TunaSandwich.jpg" alt="">Tuna Sandwich     |<img src="/images/CanteenFood/FoodFiller.jpg" alt="">
 |<img src="/images/CanteenFood/FriedHKNoodles.jpg" alt="">Fried Hong Kong Noodles||
 |<img src="/images/CanteenFood/FriedNoodles.jpg" alt="">Fried Noodles|
