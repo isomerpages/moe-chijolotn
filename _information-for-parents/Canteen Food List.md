@@ -10,7 +10,10 @@ description: ""
 [STALL 6 - WOK SPECIALITIES](/files/CanteenFood/STALL%206%20–%20WOK%20SPECIALITIES.pdf)  
 [STALL 7 - SEDAP](/files/CanteenFood/STALL%207%20–%20SEDAP.pdf)  
 [STALL 8 - QUICK BITES](/files/CanteenFood/STALL%208%20–%20QUICK%20BITES.pdf)  
-  
+
+<a href="/files/CanteenFood/STALL 1 – NOODLE" target="_blank">STALL 1</a>  
+
+
 ##### Picture samples:
 
 | Kampong Delight | Western | Oriental |
