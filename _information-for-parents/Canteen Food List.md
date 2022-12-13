@@ -3,7 +3,7 @@ title: Canteen Food List
 permalink: /information-for-parents/permalink/
 description: ""
 ---
-STALL 1 – NOODLE</br>
+STALL 1 – [Noodle](STALL 1 – NOODLE.pdf)</br>
 STALL 3 – WESTERN & KAMPONG DELIGHT </br>
 STALL 4 – WESTERN </br>
 STALL 5 – ORIENTAL </br>
