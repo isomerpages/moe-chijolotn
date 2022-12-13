@@ -25,7 +25,7 @@ description: ""
 <br>
 <br>  
 
-| Wok Specialties | Quick bites ||
+|**Wok Specialties** | Quick bites ||
 | -------- | -------- | -------- |
 | <img src="/images/CanteenFood/FriedBeeHoon.jpg" alt="">Fried Bee Hoon  | <img src="/images/CanteenFood/TunaSandwich.jpg" alt="">Tuna Sandwich     |<img src="/images/CanteenFood/FoodFiller.jpg" alt="">
 |<img src="/images/CanteenFood/FriedHKNoodles.jpg" alt="">Fried Hong Kong Noodles||
