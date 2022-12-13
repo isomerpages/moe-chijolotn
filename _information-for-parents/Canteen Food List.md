@@ -24,4 +24,4 @@ Picture samples:
 
 | Wok Specialties | Quick bites |
 | -------- | -------- |
-| Text     | Text     |
+| <img src="/images/CanteenFood/Fried Bee Hoon.jpg" alt=""></br>Fried Bee Hoon  | Text     |
