@@ -3,4 +3,19 @@ title: Canteen Food List
 permalink: /information-for-parents/permalink/
 description: ""
 ---
-[]()
+STALL 1 – NOODLE </br>
+STALL 3 – WESTERN & KAMPONG DELIGHT </br>
+STALL 4 – WESTERN </br>
+STALL 5 – ORIENTAL </br>
+STALL 6 – WOK SPECIALITIES </br>
+STALL 7 – SEDAP </br>
+STALL 8 – QUICK BITES </br>
+</br>
+
+Picture samples:
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+|   | Doe      | Male     |
+| Mary     | Smith    | Female   |
+
+
