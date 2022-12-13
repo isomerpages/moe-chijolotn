@@ -18,10 +18,12 @@ Picture samples:
 | -------- | -------- | -------- |
 | <img src="/images/CanteenFood/Lontong.jpg" alt=""></br>Lontong      |<img src="/images/CanteenFood/PastaMeatballs.jpg" alt=""></br>Pasta - Meatballs   |<img src="/images/CanteenFood/RiceEgg.jpg" alt=""></br>Rice & egg
 | <img src="/images/CanteenFood/MeeRebus.jpg" alt=""></br>Mee Rebus      |<img src="/images/CanteenFood/SpaghettiChickenChop.jpg" alt=""></br>Spaghetti – Chicken Chop|<img src="/images/CanteenFood/FriedRice.jpg" alt=""></br>Fried rice
-|||<img src="/images/CanteenFood/CurryRice.jpg" alt=""></br>Fried rice
+|<img src="/images/CanteenFood/NasiAyam.jpg" alt=""></br>Nasi Ayam||<img src="/images/CanteenFood/CurryRice.jpg" alt=""></br>Fried rice
 
 
 
-| Wok Specialties | Quick bites |
-| -------- | -------- |
-| <img src="/images/CanteenFood/FriedBeeHoon.jpg" alt=""></br>Fried Bee Hoon  | Text     |
+| Wok Specialties | Quick bites |Col 3|
+| -------- | -------- | -------- |
+| <img src="/images/CanteenFood/FriedBeeHoon.jpg" alt=""></br>Fried Bee Hoon  | <img src="/images/CanteenFood/TunaSandwich.jpg" alt=""></br>Tuna Sandwich     |
+|<img src="/images/CanteenFood/FriedHKNoodles.jpg" alt=""></br>Fried Hong Kong Noodles||
+|<img src="/images/CanteenFood/FriedNoodles.jpg" alt=""></br>Fried Noodles||
