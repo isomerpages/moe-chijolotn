@@ -13,9 +13,7 @@ STALL 8 – QUICK BITES </br>
 </br>
 
 Picture samples:
-| Column 1 | Column 2 | Column 3 |
+| Stall 3 | Western | Stall 4 |
 | -------- | -------- | -------- |
-|   | Doe      | Male     |
+|   ![](/images/CanteenFood/Lontong.jpg)      | Male     |
 | Mary     | Smith    | Female   |
-
-
