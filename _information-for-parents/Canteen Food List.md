@@ -14,7 +14,14 @@ STALL 8 – QUICK BITES </br>
 
 Picture samples:
 
-| Stall 3 | Stall 4 | Stall 4 |
+| Kampong Delight | Western | Oriental |
 | -------- | -------- | -------- |
-| <img src="/images/CanteenFood/Lontong.jpg" alt=""></br>Lontong      | Male     |
-| <img src="/images/CanteenFood/MeeRebus.jpg" alt=""></br>Mee Rebus      | Smith    | Female   |
+| <img src="/images/CanteenFood/Lontong.jpg" alt=""></br>Lontong      |<img src="/images/CanteenFood/PastaMeatballs.jpg" alt=""></br>Pasta - Meatballs   |<img src="/images/CanteenFood/RiceEgg.jpg" alt=""></br>Rice & egg
+| <img src="/images/CanteenFood/MeeRebus.jpg" alt=""></br>Mee Rebus      |<img src="/images/CanteenFood/SpaghettiChickenChop.jpg" alt=""></br>Spaghetti – Chicken Chop|
+
+
+
+| Wok Specialties | Quick bites |
+| -------- | -------- |
+| Text     | Text     |
+
