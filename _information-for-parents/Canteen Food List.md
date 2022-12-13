@@ -21,7 +21,6 @@ Picture samples:
 |<img src="/images/CanteenFood/NasiAyam.jpg" alt=""></br>Nasi Ayam||<img src="/images/CanteenFood/CurryRice.jpg" alt=""></br>Fried rice
 
 
-
 | Wok Specialties | Quick bites ||
 | -------- | -------- | -------- |
 | <img src="/images/CanteenFood/FriedBeeHoon.jpg" alt=""></br>Fried Bee Hoon  | <img src="/images/CanteenFood/TunaSandwich.jpg" alt=""></br>Tuna Sandwich     |<img src="/images/CanteenFood/FoodFiller.jpg" alt=""></br>
