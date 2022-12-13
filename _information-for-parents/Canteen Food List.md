@@ -16,23 +16,15 @@ description: ""
 Picture samples:
 
 
-
 | Kampong Delight | Western | Oriental |
 | -------- | -------- | -------- |
-| ![Lontong](/images/CanteenFood/Lontong.jpg)    |![Pasta - Meatballs](/images/CanteenFood/PastaMeatballs.jpg)     | ![Rice & Egg](/images/CanteenFood/RiceEgg.jpg)Rice with egg     |
-|test|test|Test
-
-
-
-| Kampong Delight | Western | Oriental |
-| -------- | -------- | -------- |
-| <img src="/images/CanteenFood/Lontong.jpg" alt=""></br>Lontong|<img src="/images/CanteenFood/PastaMeatballs.jpg" alt=""></br>Pasta - Meatballs   |<img src="/images/CanteenFood/RiceEgg.jpg" alt=""></br>Rice with egg
-| <img src="/images/CanteenFood/MeeRebus.jpg" alt=""></br>Mee Rebus      |<img src="/images/CanteenFood/SpaghettiChickenChop.jpg" alt=""></br>Spaghetti – Chicken Chop|<img src="/images/CanteenFood/FriedRice.jpg" alt=""></br>Fried rice
-|<img src="/images/CanteenFood/NasiAyam.jpg" alt=""></br>Nasi Ayam||<img src="/images/CanteenFood/CurryRice.jpg" alt=""></br>Fried rice
+| <img src="/images/CanteenFood/Lontong.jpg" alt="">Lontong|<img src="/images/CanteenFood/PastaMeatballs.jpg" alt="">Pasta - Meatballs   |<img src="/images/CanteenFood/RiceEgg.jpg" alt="">Rice with egg
+| <img src="/images/CanteenFood/MeeRebus.jpg" alt="">Mee Rebus      |<img src="/images/CanteenFood/SpaghettiChickenChop.jpg" alt="">Spaghetti – Chicken Chop|<img src="/images/CanteenFood/FriedRice.jpg" alt="">Fried rice
+|<img src="/images/CanteenFood/NasiAyam.jpg" alt="">Nasi Ayam||<img src="/images/CanteenFood/CurryRice.jpg" alt="">Fried rice
 
 
 | Wok Specialties | Quick bites ||
 | -------- | -------- | -------- |
 | <img src="/images/CanteenFood/FriedBeeHoon.jpg" alt="">Fried Bee Hoon  | <img src="/images/CanteenFood/TunaSandwich.jpg" alt=""><Tuna Sandwich     |<img src="/images/CanteenFood/FoodFiller.jpg" alt="">
 |<img src="/images/CanteenFood/FriedHKNoodles.jpg" alt="">Fried Hong Kong Noodles||
-|<img src="/images/CanteenFood/FriedNoodles.jpg" alt=""></br>Fried Noodles|
+|<img src="/images/CanteenFood/FriedNoodles.jpg" alt="">Fried Noodles|
