@@ -2,16 +2,15 @@ collections:
   information-for-parents:
     output: true
     order:
-      - Canteen Food List.md
       - School Calendar.md
       - Code of Conduct for Parents.md
+      - Communications/.keep
       - Communications/Letters to Parents.md
       - Communications/OLN Connect.md
       - Communications/Networking.md
-      - Communications/.keep
+      - Messaging System/.keep
       - Messaging System/Parents Gateway.md
       - Messaging System/Tok Tok.md
-      - Messaging System/.keep
       - P1–eOrientation.md
       - P1 Registration Exercise.md
       - Parent Support Group.md
@@ -19,3 +18,4 @@ collections:
       - Updates on COVID–19.md
       - Frequently Asked Questions.md
       - PSLE and S1 Sch Selection.md
+      - Canteen Food List.md
