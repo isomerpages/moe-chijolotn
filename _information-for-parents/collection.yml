@@ -2,6 +2,7 @@ collections:
   information-for-parents:
     output: true
     order:
+      - Canteen Food List.md
       - School Calendar.md
       - Code of Conduct for Parents.md
       - Communications/Letters to Parents.md
