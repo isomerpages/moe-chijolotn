@@ -12,11 +12,12 @@ description: ""
 [STALL 8 - QUICK BITES](/files/CanteenFood/STALL%208%20–%20QUICK%20BITES.pdf)  
 
 <a href="/files/CanteenFood/STALL 1 – NOODLE.pdf" target="_blank">STALL 1 -  NOODLES</a>  
+<a href="/files/CanteenFood/STALL 3 – WESTERN & KAMPONG DELIGHTS.pdf" target="_blank">STALL 3 -  WESTERN and KAMPONG DELIGHTS</a>  
   
 	
 ##### Picture samples:
 
-| Kampong Delight | Western | Oriental |
+| Kampong Delights | Western | Oriental |
 | -------- | -------- | -------- |
 | <img src="/images/CanteenFood/Lontong.jpg" alt="">Lontong|<img src="/images/CanteenFood/PastaMeatballs.jpg" alt="">Pasta - Meatballs   |<img src="/images/CanteenFood/RiceEgg.jpg" alt="">Rice with egg
 | <img src="/images/CanteenFood/MeeRebus.jpg" alt="">Mee Rebus      |<img src="/images/CanteenFood/SpaghettiChickenChop.jpg" alt="">Spaghetti – Chicken Chop|<img src="/images/CanteenFood/FriedRice.jpg" alt="">Fried rice
