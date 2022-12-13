@@ -4,12 +4,13 @@ permalink: /information-for-parents/permalink/
 description: ""
 ---
 <a href="/files/CanteenFood/STALL 1 – NOODLE.pdf" target="_blank" rel="noopener">STALL 1 – NOODLE</a></br>
-STALL 3 – WESTERN & KAMPONG DELIGHT </br>
-STALL 4 – WESTERN </br>
-STALL 5 – ORIENTAL </br>
-STALL 6 – WOK SPECIALITIES </br>
-STALL 7 – SEDAP </br>
-STALL 8 – QUICK BITES </br>
+<a href="/files/CanteenFood/STALL 3 – WESTERN & KAMPONG DELIGHT.pdf" target="_blank" rel="noopener">STALL 3 – WESTERN & KAMPONG DELIGHT</a> </br>
+<a href="/files/CanteenFood/STALL 4 – WESTERN.pdf" target="_blank" rel="noopener">STALL 4 – WESTERN</a> </br>
+<a href="/files/CanteenFood/STALL 5 – ORIENTAL.pdf" target="_blank" rel="noopener">STALL 5 – ORIENTAL</a> </br>
+<a href="/files/CanteenFood/STALL 6 – WOK SPECIALITIES.pdf" target="_blank" rel="noopener">STALL 6 – WOK SPECIALITIES</a> </br>
+<a href="/files/CanteenFood/STALL 7 – SEDAP.pdf" target="_blank" rel="noopener">STALL 7 – SEDAP</a> </br>
+<a href="/files/CanteenFood/STALL 8 – QUICK BITES.pdf" target="_blank" rel="noopener">STALL 8 – QUICK BITES</a>
+ </br>
 </br>
 
 Picture samples:
