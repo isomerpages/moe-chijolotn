@@ -3,8 +3,6 @@ title: Canteen Food List
 permalink: /information-for-parents/Canteen-Food-List/
 description: ""
 ---
-
-
 ##### Canteen Food Prices  
 
 <a href="/files/CanteenFood/STALL 1 – NOODLE.pdf" target="_blank">STALL 1 -  NOODLES</a>  
@@ -24,7 +22,8 @@ description: ""
 | <img src="/images/CanteenFood/MeeRebus.jpg" alt="">Mee Rebus      |<img src="/images/CanteenFood/SpaghettiChickenChop.jpg" alt="">Spaghetti – Chicken Chop|<img src="/images/CanteenFood/FriedRice.jpg" alt="">Fried rice
 |<img src="/images/CanteenFood/NasiAyam.jpg" alt="">Nasi Ayam||<img src="/images/CanteenFood/CurryRice.jpg" alt="">Fried rice
   
-	
+<br>
+<br>  
 
 | Wok Specialties | Quick bites ||
 | -------- | -------- | -------- |
