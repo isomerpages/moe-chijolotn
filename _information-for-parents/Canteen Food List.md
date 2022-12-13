@@ -19,10 +19,16 @@ Picture samples:
 
 | Kampong Delight | Western | Oriental |
 | -------- | -------- | -------- |
+| ![Lontong](/images/CanteenFood/Lontong.jpg)    | Text     | Text     |
+
+
+
+| Kampong Delight | Western | Oriental |
+| -------- | -------- | -------- |
 | <img src="/images/CanteenFood/Lontong.jpg" alt=""></br>Lontong|<img src="/images/CanteenFood/PastaMeatballs.jpg" alt=""></br>Pasta - Meatballs   |<img src="/images/CanteenFood/RiceEgg.jpg" alt=""></br>Rice & egg
 | <img src="/images/CanteenFood/MeeRebus.jpg" alt=""></br>Mee Rebus      |<img src="/images/CanteenFood/SpaghettiChickenChop.jpg" alt=""></br>Spaghetti – Chicken Chop|<img src="/images/CanteenFood/FriedRice.jpg" alt=""></br>Fried rice
 |<img src="/images/CanteenFood/NasiAyam.jpg" alt=""></br>Nasi Ayam||<img src="/images/CanteenFood/CurryRice.jpg" alt=""></br>Fried rice
-</n>
+
 
 | Wok Specialties | Quick bites ||
 | -------- | -------- | -------- |
