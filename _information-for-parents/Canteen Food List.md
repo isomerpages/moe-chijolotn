@@ -12,8 +12,8 @@ description: ""
 [STALL 8 - QUICK BITES](/files/CanteenFood/STALL%208%20–%20QUICK%20BITES.pdf)  
 
 <a href="/files/CanteenFood/STALL 1 – NOODLE" target="_blank">STALL 1 -  NOODLES</a>  
-
-
+  
+	
 ##### Picture samples:
 
 | Kampong Delight | Western | Oriental |
