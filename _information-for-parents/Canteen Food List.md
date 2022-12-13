@@ -3,6 +3,9 @@ title: Canteen Food List
 permalink: /information-for-parents/permalink/
 description: ""
 ---
+[STALL 1 - NOODLES](/files/CanteenFood/STALL%201%20–%20NOODLE.pdf)
+[STALL 3 - WESTERN and KAMPONG DELIGHTS](/files/CanteenFood/STALL%203%20–%20WESTERN%20&%20KAMPONG%20DELIGHTS.pdf)
+
 <a href="/files/CanteenFood/STALL 1 – NOODLE.pdf" target="_blank" rel="noopener">STALL 1 – NOODLE</a></br>
 <a href="/files/CanteenFood/STALL 3 – WESTERN & KAMPONG DELIGHT.pdf" target="_blank" rel="noopener">STALL 3 – WESTERN & KAMPONG DELIGHT</a> </br>
 <a href="/files/CanteenFood/STALL 4 – WESTERN.pdf" target="_blank" rel="noopener">STALL 4 – WESTERN</a> </br>
@@ -10,8 +13,7 @@ description: ""
 <a href="/files/CanteenFood/STALL 6 – WOK SPECIALITIES.pdf" target="_blank" rel="noopener">STALL 6 – WOK SPECIALITIES</a> </br>
 <a href="/files/CanteenFood/STALL 7 – SEDAP.pdf" target="_blank" rel="noopener">STALL 7 – SEDAP</a> </br>
 <a href="/files/CanteenFood/STALL 8 – QUICK BITES.pdf" target="_blank" rel="noopener">STALL 8 – QUICK BITES</a>
- </br>
-</br>
+ 
 
 Picture samples:
 
