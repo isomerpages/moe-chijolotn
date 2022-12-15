@@ -2,7 +2,6 @@ collections:
   learn-at-ij-oln:
     output: true
     order:
-      - Student Well Being/.keep
       - Our Curriculum/.keep
       - Our Curriculum/Our Curriculum.md
       - Our Curriculum/T&L Framework.md
@@ -24,6 +23,7 @@ collections:
       - Co Curricular Programmes/Programme for Active Learning (PAL).md
       - Co Curricular Programmes/Learning Journeys & Camps.md
       - Co Curricular Programmes/Enrichment Activities.md
+      - Student Well Being/.keep
       - Co Curricular Activities (CCA)/.keep
       - Co Curricular Activities (CCA)/Co–Curricular Activities.md
       - Co Curricular Activities (CCA)/CCA Policy.md
