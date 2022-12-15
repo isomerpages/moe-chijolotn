@@ -1,5 +1,4 @@
 collections:
   student-well-being:
     output: true
-    order:
-      - Sexuality Education.md
+    order: []
