@@ -15,5 +15,4 @@ sections:
           description: Achievements by Pupils & Staff
           url: /success-stories/students/2022/
       subtitle: Girls of Today for Tomorrow
-      background: /images/Banner and Logo/bannerNew1920.jpg
 ---
