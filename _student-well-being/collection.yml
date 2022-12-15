@@ -2,6 +2,5 @@ collections:
   student-well-being:
     output: true
     order:
-      - Signature Programmes.md
       - Cyber Wellness.md
       - Sexuality Education.md
