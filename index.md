@@ -14,7 +14,5 @@ sections:
         - title: Success Stories
           description: Achievements by Pupils & Staff
           url: /success-stories/students/2022/
-      subtitle: Girls of Today for Tomorrow
-      title: CHIJ OLN
       background: /images/Banner and Logo/subpage-banner.jpg
 ---
