@@ -2,5 +2,4 @@ collections:
   student-well-being:
     output: true
     order:
-      - Cyber Wellness.md
       - Sexuality Education.md
