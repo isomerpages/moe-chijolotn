@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Our Curriculum/.keep
-      - Our Curriculum/Our Curriculum.md
+      - Our Curriculum/General Information.md
       - Our Curriculum/T&L Framework.md
       - Curricular Programmes/.keep
       - Curricular Programmes/Curricular Programmes.md
