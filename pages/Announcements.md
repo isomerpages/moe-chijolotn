@@ -6,6 +6,6 @@ description: ""
 ## Nominate today! 
 Nominations for PAT 2023 and OYEA 2023 are now open and will **close on Wednesday, 11 January 2023**.  
  
-[go.gov.sg/oyea2023](go.gov.sg/oyea2023)  
+[go.gov.sg/oyea2023](https://go.gov.sg/oyea2023)  
 [go.gov.sg/pat2023](go.gov.sg/pat2023)  
 ![](/images/Announcement/PAT-OYEA2023_SM.jpg)
