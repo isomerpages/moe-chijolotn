@@ -16,6 +16,6 @@ sections:
           url: /success-stories/students/2022/
         - title: Social Media
           description: FB, Instagram, OLNConnect
-          url: ""
+          url: /SocialMedia/
       background: /images/Banner and Logo/subpage-banner.jpg
 ---
