@@ -2,4 +2,5 @@ collections:
   kivhiddenpages:
     output: true
     order:
+      - P1 Registration Exercise.md
       - P1–eOrientation.md
