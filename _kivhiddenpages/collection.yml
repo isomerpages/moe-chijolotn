@@ -1,4 +1,5 @@
 collections:
   kivhiddenpages:
     output: true
-    order: []
+    order:
+      - P1–eOrientation.md
