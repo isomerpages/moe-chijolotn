@@ -28,7 +28,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <ul>
 <li><strong>How do I find out the CCA schedule?</strong></li>
 </ul>
-<p>You can visit the individual CCA pages or CCA Schedule page to see the current schedule. When the 2022 schedule is ready, parents will be informed via Parents Gateway, the school website and the CCA Pages.</p>
+<p>You can visit the individual CCA pages or CCA Schedule page to see the current schedule. When the schedule is ready, parents will be informed via Parents Gateway, the school website and the CCA Pages.</p>
 <ul>
 <li><strong>How does my child withdraw from a CCA?</strong></li>
 </ul>
