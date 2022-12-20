@@ -9,7 +9,7 @@ description: ""
 <ul>
 <li><strong>What are the school hours?</strong></li>
 </ul>
-<p>The official school hours for 2022 are as follows:<br />Monday &ndash; Friday : 7.30am - 1.30pm<br />All students are expected to report daily by 7.25am. Assembly will begin promptly at 7.30am and students who are not with their class for assembly at 7.30am will be considered late. Please refer to&nbsp;<a href="/school-information/general-information/school-hours" target="_blank" rel="noopener">School Information</a>&nbsp;for full details.<br /><em>(Due to the current COVID-19 situation, students no longer assemble in the hall but proceed directly to their classrooms upon arrival.)</em></p>
+<p>The official school hours for 2023 are as follows:<br />Monday &ndash; Friday : 7.30am - 1.30pm<br />All students are expected to report daily by 7.25am. Assembly will begin promptly at 7.30am and students who are not with their class for assembly at 7.30am will be considered late. Please refer to&nbsp;<a href="/school-information/general-information/school-hours" target="_blank" rel="noopener">School Information</a>&nbsp;for full details.<br /><em>(Due to the current COVID-19 situation, students no longer assemble in the hall but proceed directly to their classrooms upon arrival.)</em></p>
 <ul>
 <li><strong>What are the school fees like?</strong></li>
 </ul>
