@@ -60,8 +60,8 @@ third_nav_title: Visual and Performing Arts CCA
 </tbody>
 </table>
 <h4><strong>TEACHERS-IN-CHARGE</strong></h4>
-<img style="width: 80%;" src="/images/cc20.jpg" />
-<p style="text-align: center;"><a href="mailto:wong_wendy@moe.edu.sg" target="">Ms Wendy Wong</a>,&nbsp;<a href="mailto:nur_safikha_abdul_ghapar@moe.edu.sg" target="">Mdm Safikha</a>,&nbsp;<a href="mailto:sum_qiu_mei_sharon@moe.edu.sg" target="">Mrs Sharon Lai</a>,&nbsp;<a href="mailto:nur_ilyana_mohamed_anwar@moe.edu.sg" target="">Mdm Ilyana</a>&nbsp;(left to right)</p>
+
+<p style="text-align: center;"><a href="mailto:wong_wendy@moe.edu.sg" target="">Ms Wendy Wong</a>,&nbsp;<a href="mailto:nur_safikha_abdul_ghapar@moe.edu.sg" target="">Mdm Safikha</a>,&nbsp;<a href="mailto:sum_qiu_mei_sharon@moe.edu.sg" target="">Mrs Sharon Lai</a></p>
 <h4><strong>CCA SCHEDULE</strong></h4>
 <p>Day: Tuesdays (Primary 5 and 6) &amp; Thursdays (Primary 3 and 4)<br />Time: 3.15 to 5.15 pm<br />Venue: Art Room 1 &amp; 2</p>
 <p style="text-align: center;"><strong><a href="/learn-at-ij-oln/co-curricular-activities/cca-policy" target="_blank" rel="noopener">CCA Policy</a> | <a href="/learn-at-ij-oln/co-curricular-activities/cca-schedule" target="_blank" rel="noopener">CCA Schedule</a></strong></p>
