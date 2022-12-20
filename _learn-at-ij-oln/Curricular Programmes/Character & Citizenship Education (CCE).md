@@ -9,7 +9,7 @@ third_nav_title: Curricular Programmes
 <tbody>
 <tr>
 <td style="width: 40%;"><img src="/images/cce1.jpg"></td>
-<td style="width: 60%;"><p>OLN&rsquo;s Character and Citizenship Education (CCE) department puts in place structures, processes and programmes to inculcate values and build competencies in our students so that they become persons of good character and useful citizens of Singapore.&nbsp; Working hand-in-hand with the other departments of the school, the CCE department aims to develop Girls of Today for Tomorrow.&nbsp;&nbsp;</p></td>
+<td style="width: 60%;"><p>IJ OLN&rsquo;s Character and Citizenship Education (CCE) department puts in place structures, processes and programmes to inculcate values and build competencies in our students so that they become persons of good character and useful citizens of Singapore.&nbsp; Working hand-in-hand with the other departments of the school, the CCE department aims to develop Girls of Today for Tomorrow.&nbsp;&nbsp;</p></td>
 </tr>
 </tbody>
 </table>
