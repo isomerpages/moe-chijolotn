@@ -77,11 +77,7 @@ third_nav_title: Our People
 <td style="text-align: center;">Mdm Wong Bee Leng&nbsp;</td>
 <td style="text-align: center;">&nbsp;</td>
 </tr>
-<tr>
-<td style="text-align: center;">Office Support Officer</td>
-<td style="text-align: center;">Mdm Sim Yang</td>
-<td style="text-align: center;">&nbsp;</td>
-</tr>
+
 </tbody>
 </table>
 <h4 style="text-align: center;"><strong>&nbsp;Support Staff</strong></h4>
