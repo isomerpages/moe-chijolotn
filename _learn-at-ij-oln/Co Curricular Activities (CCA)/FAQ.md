@@ -12,7 +12,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <ul>
 <li><strong>When will CCA commence?</strong></li>
 </ul>
-<p>CCA sessions will commence in Term 1, Week 3 2023. Teachers-in-charge of the various CCAs will get in touch with the
+<p>CCA sessions will commence in Term 1, Week 3. Teachers-in-charge of the various CCAs will get in touch with the
 <ul>
 <li><strong>Can my child only come for CCA on alternate weeks?</strong></li>
 </ul>
