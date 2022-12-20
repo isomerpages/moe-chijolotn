@@ -6,7 +6,7 @@ third_nav_title: Curricular Programmes
 ---
 <h4><strong>Vision</strong></h4>
 <p>Numerate individual with the love for Mathematics</p>
-<h4>Aims Of Mathematics Education In OLN</h4>
+<h4>Aims Of Mathematics Education In IJ OLN</h4>
 <ul>
 <li>acquire the necessary mathematical concepts and skills for everyday life</li>
 <li>develop the necessary process skills for acquisition and application of mathematical concepts and skills</li>
@@ -17,7 +17,7 @@ third_nav_title: Curricular Programmes
 </ul>
 <h4>Mathematics Framework</h4>
 <img style="width: 60%;" src="/images/math1.png" />
-<p>The department&rsquo;s framework is adapted from MOE&rsquo;s Mathematics Framework.&nbsp; It shows the underlying principles of an effective mathematics programme.&nbsp; It sets the direction for teaching, learning and assessment of mathematics in OLN.</p>
+<p>The department&rsquo;s framework is adapted from MOE&rsquo;s Mathematics Framework.&nbsp; It shows the underlying principles of an effective mathematics programme.&nbsp; It sets the direction for teaching, learning and assessment of mathematics in IJ OLN.</p>
 <h4><strong>Key Programmes</strong></h4>
 <h4><strong>Teaching Of Heuristics and Problem Solving</strong></h4>
 <p>A school-wide approach is adopted in the teaching of Heuristic and problem-solving skills.</p>
