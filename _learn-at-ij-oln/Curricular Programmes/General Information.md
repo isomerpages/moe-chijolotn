@@ -4,8 +4,7 @@ permalink: /learn-at-ij-oln/curricular-programmes/
 description: ""
 third_nav_title: Curricular Programmes
 ---
-
-<p>The&nbsp;<a href="/learn-at-ij-oln/our-curriculum/tnl-framework" target="">OLN T&amp;L Framework</a>&nbsp;guides the development of T&amp;L plans by the various departments. Each department adopts relevant and appropriate pedagogies, programmes and activities to enhance student learning.&nbsp;</p>
+<p>The&nbsp;<a href="/learn-at-ij-oln/our-curriculum/tnl-framework" target="">IJ OLN T&amp;L Framework</a>&nbsp;guides the development of T&amp;L plans by the various departments. Each department adopts relevant and appropriate pedagogies, programmes and activities to enhance student learning.&nbsp;</p>
 <ul>
 <li>English Language</li>
 <li>Mathematics</li>
