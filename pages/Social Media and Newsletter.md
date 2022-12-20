@@ -4,7 +4,7 @@ permalink: /SocialMedia/
 description: ""
 ---
 ##### Get the latest updates about IJ OLN!
-##### Follow us on our social media!  
+##### Follow us on social media!  
 
 <table>
   <tr>
