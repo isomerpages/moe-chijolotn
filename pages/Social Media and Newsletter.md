@@ -3,8 +3,7 @@ title: Social Media and Newsletter
 permalink: /SocialMedia/
 description: ""
 ---
-##### Get the latest updates about IJ OLN!
-##### Follow us on social media or download our newsletter!  
+##### Get the latest updates about IJ OLN!  Follow us on social media or download our newsletter!  
 
 <table>
   <tr>
