@@ -11,6 +11,6 @@ We look forward to helping your girl grow up over her primary years. Growing up 
 
 My colleagues and I look forward to working with you. We know that our girls will thrive when school and home work hand in hand. Together then, we will attain our vision of “Girls for Today for tomorrow”.
 
-God bless,
-Ms Christina Teo
+God bless,  
+Ms Christina Teo  
 Principal
