@@ -24,7 +24,7 @@ third_nav_title: Curricular Programmes
 <h4>STAR Reading (SR) &amp; Accelerated Reader (AR)</h4>
 <p>LOG IN HERE:&nbsp;<a href="http://www.people-comm.com/chijoln" target="_blank" rel="noopener">www.people-comm.com/chijoln</a></p>
 <p>If you wish to check the book level of a book, you may find it at&nbsp;<a href="http://www.arbookfind.com/" target="_blank" rel="noopener">www.arbookfind.com</a></p>
-<p>To promote a reading culture and inculcate in&nbsp;students&nbsp;the love for reading, OLN is embarking on the STAR Reading (SR) &amp; Accelerated Reader (AR) Programme for Primary 1 and 2&nbsp;students&nbsp;. It is a reading programme that aims to empower&nbsp;students&nbsp;to become better readers independently.</p>
+<p>To promote a reading culture and inculcate in&nbsp;students&nbsp;the love for reading, IJ OLN is embarking on the STAR Reading (SR) &amp; Accelerated Reader (AR) Programme for Primary 1 and 2&nbsp;students&nbsp;. It is a reading programme that aims to empower&nbsp;students&nbsp;to become better readers independently.</p>
 <p>STAR Reading Diagnostic Tool (For ALL P1 &amp; P2&nbsp;Students)</p>
 <ul>
 <li>This is a computer adaptive test which determines the reading ability of students. It will be repeated several times within the year to monitor the development of students&rsquo; literacy skills.</li>
