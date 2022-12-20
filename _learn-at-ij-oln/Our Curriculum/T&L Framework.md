@@ -5,16 +5,16 @@ description: ""
 third_nav_title: Our Curriculum
 ---
 <h4><strong>Teaching &amp; Learning @ IJ OLN</strong></h4>
-<p>Conceptualised at the 2017 Staff Conference, the OLN Teaching &amp; Learning Framework, &lsquo;The Framework&rsquo; (Figure 1) serves as a blueprint as to how effective teaching and learning is achieved at IJ OLN. It encompasses the core beliefs that the IJ OLN family holds with regard to teaching and learning; that</p>
+<p>Conceptualised at the 2017 Staff Conference, the IJ OLN Teaching &amp; Learning Framework, &lsquo;The Framework&rsquo; (Figure 1) serves as a blueprint as to how effective teaching and learning is achieved at IJ OLN. It encompasses the core beliefs that the IJ OLN family holds with regard to teaching and learning; that</p>
 <ul>
 <li>Every child is a gift from God</li>
 <li>Every child can learn and grow</li>
 </ul>
 <p>These beliefs in turn inform curriculum implementation and instructional design. In addition, as a reference for professional practice, the Framework functions as a structure for focusing improvement efforts within professional development discourse.&nbsp;</p>
 <img style="width: 60%;" src="/images/tl.png" />
-<p style="text-align: center;"><em class="">Figure 1. The OLN Teaching and Learning Framework (&lsquo;The Framework&rsquo;)</em></p>
-<p><strong>1. OLN Outcomes</strong>&nbsp;</p>
-<p>At the heart of teaching and learning at OLN are our OLN outcomes. The vision of &lsquo;Girls of Today for Tomorrow&rsquo; envisions the IJ OLN Girl of Tomorrow as an individual who</p>
+<p style="text-align: center;"><em class="">Figure 1. The IJ OLN Teaching and Learning Framework (&lsquo;The Framework&rsquo;)</em></p>
+<p><strong>1. IJ OLN Outcomes</strong>&nbsp;</p>
+<p>At the heart of teaching and learning at IJ OLN are our IJ OLN outcomes. The vision of &lsquo;Girls of Today for Tomorrow&rsquo; envisions the IJ OLN Girl of Tomorrow as an individual who</p>
 <ol>
 <li>Acts according to the IJ Mission and our GRACIA values</li>
 <li>Leads with initiative, serves with love</li>
