@@ -4,7 +4,7 @@ permalink: /learn-at-ij-oln/curricular-programmes/information-and-communications
 description: ""
 third_nav_title: Curricular Programmes
 ---
-<h4><strong>Vision @ OLN</strong></h4>
+<h4><strong>Vision @ IJ OLN</strong></h4>
 <p>To Strengthen and Deepen ICT integration in curriculum and pedagogy</p>
 <h4><strong>Key Programmes</strong></h4>
 <p>The following ICT tools are infused in lessons pedagogically:</p>
