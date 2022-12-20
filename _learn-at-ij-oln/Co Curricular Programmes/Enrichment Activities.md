@@ -37,4 +37,4 @@ third_nav_title: Co Curricular Programmes
 </tr>
 </tbody>
 </table>
-<p>Code for Fun is offered to all Primary 5 students in Semester 1 of 2022. The curriculum covers fundamentals of computational thinking and exposure to emerging technologies. Students are involved in experiential learning activities to help them grasp computational thinking concepts.</p>
+<p>Code for Fun is offered to all Primary 5 students in Semester 1. The curriculum covers fundamentals of computational thinking and exposure to emerging technologies. Students are involved in experiential learning activities to help them grasp computational thinking concepts.</p>
