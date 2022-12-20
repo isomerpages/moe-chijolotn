@@ -16,11 +16,11 @@ description: ""
 	
 ##### **Some of the dishes we have**:
 
-| Kampong Delights | Western | Oriental |
+|  | | |
 | -------- | -------- | -------- |
 | <img src="/images/CanteenFood/Lontong.jpg" alt="">Lontong|<img src="/images/CanteenFood/PastaMeatballs.jpg" alt="">Pasta - Meatballs   |<img src="/images/CanteenFood/RiceEgg.jpg" alt="">Rice with egg
 | <img src="/images/CanteenFood/MeeRebus.jpg" alt="">Mee Rebus      |<img src="/images/CanteenFood/SpaghettiChickenChop.jpg" alt="">Spaghetti – Chicken Chop|<img src="/images/CanteenFood/FriedHKNoodles.jpg" alt="">Fried Hong Kong Noodles
 |<img src="/images/CanteenFood/NasiAyam.jpg" alt="">Nasi Ayam||<img src="/images/CanteenFood/TunaSandwich.jpg" alt="">Tuna Sandwich
   
 <br>
-<br>  
+<br>
