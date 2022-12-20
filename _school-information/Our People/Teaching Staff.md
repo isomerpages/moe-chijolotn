@@ -4,7 +4,7 @@ permalink: /school-information/our-people/teaching-staff/
 description: ""
 third_nav_title: Our People
 ---
-<p>Click on Teacher's name to email teacher using your default email client.<br />Right-click on Teacher's name to copy email address if you do not have a default email client setup.</p>
+<p>Click on the Teacher's name to email the teacher using your default email client.<br />Right-click on the Teacher's name to copy email address if you do not have a default email client setup.</p>
 <hr>
 <table>
 <tbody>
