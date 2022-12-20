@@ -6,7 +6,7 @@ third_nav_title: Curricular Programmes
 ---
 <h4><strong>Science Framework</strong></h4>
 <img style="width: 50%;" src="/images/sci1.png" />
-<p>The OLN Science Teaching and Learning Framework guides the OLN Science department in its quest to accomplish the department's vision which is 'To develop critical and inquisitive minds by stimulating interest in Science through scientific inquiry and investigation.' Aligned to the school's strategic trusts (ST1: Staff Competence &amp; ST3: Academic Excellence), the framework anchors on the school's teaching and learning framework of 'The Skillful Teacher' in the 'PETALS' environment.</p>
+<p>The IJ OLN Science Teaching and Learning Framework guides the IJ OLN Science department in its quest to accomplish the department's vision which is 'To develop critical and inquisitive minds by stimulating interest in Science through scientific inquiry and investigation.' Aligned to the school's strategic trusts (ST1: Staff Competence &amp; ST3: Academic Excellence), the framework anchors on the school's teaching and learning framework of 'The Skillful Teacher' in the 'PETALS' environment.</p>
 <h4><strong>Key Programmes</strong></h4>
 <table>
 <tbody>
@@ -55,10 +55,10 @@ third_nav_title: Curricular Programmes
 <img style="width: 50%;" src="/images/sci3.jpg" />
 <h4><strong>Vision</strong></h4>
 <h4>Department Aims</h4>
-<p>The OLN Science Department aims to provide students with experiences which build on their interest in and stimulate their curiosity about their environment. It also aims to provide students with opportunities to develop skills, habits of mind and attitudes necessary for scientific inquiry.</p>
+<p>The IJ OLN Science Department aims to provide students with experiences which build on their interest in and stimulate their curiosity about their environment. It also aims to provide students with opportunities to develop skills, habits of mind and attitudes necessary for scientific inquiry.</p>
 <h4>Inquiry-Based Teaching and Learning</h4>
 <p>Central to the Science Teaching and Learning Framework is the inculcation of the spirit of scientific inquiry. Inquiry-based learning is characterised by the degree of responsibility students have in posing and responding to questions, designing investigations, and evaluating and communicating their learning (student-directed inquiry) compared to the degree of involvement the teacher takes (teacher-guided inquiry). Students will best benefit from experiences that vary between these two inquiry approaches.</p>
-<p>OLN adopts the&nbsp;<strong>Biological Sciences Curriculum Studies (BSCS)</strong>&nbsp;5E Inquiry Model which advocates inquiry through the following process:</p>
+<p>IJ OLN adopts the&nbsp;<strong>Biological Sciences Curriculum Studies (BSCS)</strong>&nbsp;5E Inquiry Model which advocates inquiry through the following process:</p>
 <ul>
 <li><strong>Engage</strong></li>
 <li><strong>Explore</strong></li>
