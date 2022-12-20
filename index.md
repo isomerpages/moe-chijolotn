@@ -4,7 +4,7 @@ title: CHIJ Our Lady of the Nativity
 description: Brief site description here
 image: /images/logo.jpg
 permalink: /
-notification: ""
+notification: "New Announcement on "
 sections:
   - hero:
       key_highlights:
