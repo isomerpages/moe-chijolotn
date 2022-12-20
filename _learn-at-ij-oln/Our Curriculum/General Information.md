@@ -19,5 +19,5 @@ third_nav_title: Our Curriculum
 <li>Learn in a positive environment that encourages collaboration, that is supported by technology and is enriched by feedback.</li>
 </ul>
 <img style="width: 60%;" src="/images/tl.png" />
-<p>Each of the school&rsquo;s 8 departments builds their learning programmes based on this framework. Information on the learning of subjects can be found&nbsp;<a href="/learn-at-ij-oln/our-curriculum/tnl-framework" target="">here</a>.</p>
+<p>Each of the school&rsquo;s 8 departments builds their learning programmes based on this framework. Information on the learning of subjects can be found&nbsp;<a href="/learn-at-ij-oln/curricular-programmes/GenInfo" target="">here</a>.</p>
 <p>The holistic programme goes beyond class learning and is supported by a vibrant co-curricular programme. Information on the co-curricular programme can be found&nbsp;<a href="/learn-at-ij-oln/co-curricular-programmes/oln-360-programme/" target="">here</a>.&nbsp;</p>
