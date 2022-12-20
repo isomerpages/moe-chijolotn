@@ -17,5 +17,5 @@ description: ""
 <p>Girls of Today for Tomorrow</p>
 <h4><strong>School Values</strong></h4>
 <p>G Graciousness<br />R Responsibility<br />A Appreciation<br />C Compassion<br />I Integrity<br />A Adaptability</p>
-<h4><strong>Qualities of an OLN Graduate</strong></h4>
+<h4><strong>Qualities of an IJ OLN Graduate</strong></h4>
 <p>Acts according to the IJ Mission and our GRACIA values.<br />Leads with initiative, serves with love.<br />Communicates confidently.<br />Thinks creatively, reflects thoughtfully.<br />Remains steadfast in the face of challenges.</p>
