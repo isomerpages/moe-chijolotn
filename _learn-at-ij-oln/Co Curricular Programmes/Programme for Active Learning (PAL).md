@@ -4,9 +4,9 @@ permalink: /learn-at-ij-oln/co-curricular-programmes/programme-for-active-learni
 description: ""
 third_nav_title: Co Curricular Programmes
 ---
-<h4><strong>PAL @ OLN</strong></h4>
+<h4><strong>PAL @ IJ OLN</strong></h4>
 <p>The Programme for Active Learning (PAL) is a recommendation by the 2009 Primary Education Review Implementation (PERI) Committee to provide greater emphasis on non-academic programmes for all Primary 1 and 2 students. PAL is part of the curriculum and offered during time-tabled time. In PAL, students are exposed to varied and fun learning experiences in four domains: Sports and Games, Outdoor Education, Performing Arts and Visual Arts. Students also learn socio-emotional competencies such as respecting others and responsible decision making. PAL nurtures confidence, curiosity and cooperation skills in students.</p>
-<h4><strong>Implementing PAL@OLN</strong></h4>
+<h4><strong>Implementing PAL@IJOLN</strong></h4>
 <p>In our school, the 4 domains are experienced as follows in different semesters:</p>
 <table class="iveo_table ives_tab_simple3 ive_eobj_center">
 <tbody>
