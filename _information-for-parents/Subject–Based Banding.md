@@ -3,7 +3,6 @@ title: Subject–Based Banding
 permalink: /information-for-parents/subject-based-banding/
 description: ""
 ---
-
 <table>
 <tbody>
 <tr>
@@ -15,4 +14,4 @@ description: ""
 </tbody>
 </table>
 <p style="text-align: center;">Please access the MOE website for more details</p>
-<p style="text-align: center;"><a href="https://beta.moe.gov.sg/primary/curriculum/subject-based-banding/" target="_blank" rel="noopener"><strong>Enter</strong></a></p>
+<p style="text-align: center;"><a href="https://moe.gov.sg/primary/curriculum/subject-based-banding/" target="_blank" rel="noopener"><strong>Enter</strong></a></p>
