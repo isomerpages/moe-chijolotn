@@ -12,13 +12,13 @@ third_nav_title: Curricular Programmes
 <td style="width: 60%;">
 <p>Every student to reach their fullest artistic potential and appreciate the arts.</p>
 <div>
-<p><strong>Aesthetics@OLN<br /></strong>Arts Education is carried out in the formal curriculum through the Visual Art and Music Instructional Programmes, Programme for Active Learning (PAL) and various Co-Curricular Activities (CCAs). Through these programmes, every student will LEAP : <br /><strong>Learn&nbsp;</strong>about various art forms and techniques;<br /><strong>Express themselves through different aesthetic platforms;<br /></strong><strong>Appreciate different art forms; and<br /></strong><strong>Perform to the best of their ability.&nbsp;</strong></p>
+<p><strong>Aesthetics@IJOLN<br /></strong>Arts Education is carried out in the formal curriculum through the Visual Art and Music Instructional Programmes, Programme for Active Learning (PAL) and various Co-Curricular Activities (CCAs). Through these programmes, every student will LEAP : <br /><strong>Learn&nbsp;</strong>about various art forms and techniques;<br /><strong>Express themselves through different aesthetic platforms;<br /></strong><strong>Appreciate different art forms; and<br /></strong><strong>Perform to the best of their ability.&nbsp;</strong></p>
 </div>
 </td>
 </tr>
 </tbody>
 </table>
-<p>The OLN Aesthetics Framework structured the cognitive, psychomotor and affective development of our students under four behavioural domains : Learning, Expressing, Appreciating and Performing in order to develop creative, cultured citizens. This is very much in line with the school vision to develop girls of today for tomorrow.&nbsp;</p>
+<p>The IJ OLN Aesthetics Framework structured the cognitive, psychomotor and affective development of our students under four behavioural domains : Learning, Expressing, Appreciating and Performing in order to develop creative, cultured citizens. This is very much in line with the school vision to develop girls of today for tomorrow.&nbsp;</p>
 <p>In Learning, teachers provide opportunities for students to explore art, music and dance elements and theory through various engaging activities.</p>
 <p>In Expressing, teachers engage students through experiencing different art media and music genres and apply knowledge and skills in the creation of art, music and dance.&nbsp;</p>
 <p>In Appreciating, student learning is enriched through the exposure to different artists and composers.</p>
