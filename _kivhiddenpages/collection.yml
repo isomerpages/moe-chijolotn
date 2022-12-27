@@ -1,0 +1,7 @@
+collections:
+  kivhiddenpages:
+    output: true
+    order:
+      - Our Neighbourhood.md
+      - P1 Registration Exercise.md
+      - P1–eOrientation.md

@@ -1,32 +1,21 @@
 ---
 layout: homepage
-title: Isomer Site
+title: CHIJ Our Lady of the Nativity
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/logo.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Announcement - Nominations for PAT 2023 and OYEA 2023 are open!
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      key_highlights:
+        - title: Announcements
+          description: ""
+          url: /announcements
+        - title: Success Stories
+          description: Achievements by Pupils & Staff
+          url: /success-stories/students/2022/
+        - title: Social Media
+          description: FB, Instagram, OLNConnect
+          url: /SocialMedia/
+      background: /images/Banner and Logo/subpage-banner.jpg
 ---
-
