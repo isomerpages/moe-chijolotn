@@ -4,7 +4,7 @@ permalink: /learn-at-ij-oln/co-curricular-activities/visual-and-performing-arts/
 description: ""
 third_nav_title: Visual and Performing Arts CCA
 ---
-<h4><strong>WHO ARE WE</strong></h4>
+<h4><strong>WHO WE ARE</strong></h4>
 <img style="width: 80%;" src="/images/di1.png" />
 <p style="text-align: center;">Dance is a form of art and a creative expression of the ideas and feelings of individual. It allows students to express their ideas about the world around them through a non-verbal means of communication.&nbsp;</p>
 <p style="text-align: center;">In CHIJ OLN, Dance Inc develops in pupils an appreciation for the aesthetics. Through learning different types of dances, namely Chinese Dance, Modern Dance and Malay Dance, students are exposed to different types of music and are encouraged to think creatively through the dance and musical expressions. Students learn dance in a fun and easy way through a comprehensive and structured dance programme. During our weekly dance sessions, our experienced and dedicated instructors train students in dance techniques and prepare them for competitions and performances.&nbsp;</p>
