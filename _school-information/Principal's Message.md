@@ -9,7 +9,7 @@ As an IJ school, CHIJ OLN strives to help all our girls have a values – center
 
 We look forward to helping your girl grow up through her experiences in each of her primary years. Growing up is never an easy task. She will face challenges. We as the adults in her life will find it a challenging task too e.g. when we need to let go sometimes so that she can learn to be independent. However, the results will be so satisfying as your daughter and our student grows to be the confident and caring person God intends her to be.
 
-My colleagues and I look forward to working with you. We know that our girls will thrive when school and home work hand in hand. Together then, we will attain our vision of “Girls for Today for tomorrow”.
+As always, my colleagues and I look forward to working with you. We know that our girls will thrive when school and home work hand in hand. Together then, we will attain our vision of “Girls for Today for tomorrow”.
 
 God bless,  
 Ms Christina Teo  
