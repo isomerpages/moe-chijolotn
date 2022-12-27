@@ -4,7 +4,7 @@ permalink: /learn-at-ij-oln/co-curricular-activities/sports/floorball/
 description: ""
 third_nav_title: Sports CCA
 ---
-<h4><strong>WHO ARE WE</strong></h4>
+<h4><strong>WHO WE ARE</strong></h4>
 <p>Floorball started as a CCA in 2005 and comprises students from Primary 3 to Primary 6. Our team has come a long way since we first started and we are working our way up to achieving greater heights.</p>
 <p>Together, our team trains hard to become better floorball players who exemplify the GRACIA values of our school. Our team takes part in the annual National School Games Floorball Championships to compete with schools all over Singapore.</p>
 <h4><strong>WHAT WE DO</strong></h4>
