@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports CCA
 ---
 <img src="/images/bowl1.jpg">
-<h4><strong>WHO ARE WE</strong></h4>
+<h4><strong>WHO WE ARE</strong></h4>
 <p>The CHIJ OLN Bowling team is a group of enthusiastic bowlers who are interested in learning and excelling in the sport. Students will be introduced to the basic bowling skills such as footwork, stance mechanics, finishing position, swings as well as ball selection and scoring. Apart from learning the basic skills, student learn to be focused and to embrace a resilient attitude. Students build on their individual skills but also work collaboratively as a team. Bowling CCA thus also provides the students with the opportunities to develop their leadership qualities where leaders lead the team and juniors.</p>
 <p>In the quest to pursue sporting excellence, selected students will have the opportunity to represent the school in the annual National School Games Bowling Championships. Participating in this competition is a valuable learning experience. It allows them to hone their skills against the best in the region, giving them a platform to put their training to the test.</p>
 <p>In short, bowling aims to develop our students mentally and physically in a fun environment.</p>
