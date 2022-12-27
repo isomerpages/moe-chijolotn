@@ -4,7 +4,7 @@ permalink: /learn-at-ij-oln/co-curricular-activities/sports/netball/
 description: ""
 third_nav_title: Sports CCA
 ---
-<h4><strong>WHO ARE WE</strong></h4>
+<h4><strong>WHO WE ARE</strong></h4>
 <p><strong>PRIDE OF CHIJ OLN<br /></strong>The CHIJ OLN Netball team is a close-knit family with players who support each other on and off the court.<br />As the niche CCA in CHIJ OLN, the Netball team aims to reinforce the school&rsquo;s GRACIA values, cultivating positive lifelong values and 21st century competencies such as self-awareness, relationship management and responsible decision-making.</p>
 <h4><strong>WHAT WE DO</strong></h4>
 <iframe width="660" height="415" src="https://www.youtube.com/embed/D-eULgNRRvo" title="CCA in the Spotlight: NETBALL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
