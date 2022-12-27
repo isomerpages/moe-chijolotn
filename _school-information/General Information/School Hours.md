@@ -137,7 +137,7 @@ third_nav_title: General Information
 <td><strong>Mon to Fri</strong><br /><strong>6.30 a.m. - 8.00 a.m.</strong><br /><br /><strong>Mon to Fri</strong><br /><strong>1.30 p.m. - 2.00 p.m.</strong><br /><strong>3.00 p.m. - 3.30 p.m.</strong><br /><strong>5.00 p.m. - 5.45 p.m.</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;" colspan="2">Please note that on rainy days, P1 students will be dismissed via Side Gate 2 while P2 to&nbsp;P6 students will be dismissed via Side Gate 1.</td>
+
 </tr>
 </tbody>
 </table>
