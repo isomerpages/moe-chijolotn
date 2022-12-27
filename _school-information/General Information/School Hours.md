@@ -95,7 +95,7 @@ third_nav_title: General Information
 </tr>
 <tr>
 <td colspan="3">
-<p><strong>Note:<br /></strong>1) The above Information is subject to change, depending on the requirements of the Safe Management Measures in place.<br />2) Supplementary lessons will be conducted&nbsp;for all P6s from Term 2 onwards.&nbsp;</p>
+<p><strong>Note:<br /></strong>1) The above Information is subject to change, depending on the requirements of the Safe Management Measures in place.<br />2) Supplementary lessons will be conducted&nbsp;for all P6s from 16 Jan 2023.</p>
 </td>
 </tr>
 </tbody>
