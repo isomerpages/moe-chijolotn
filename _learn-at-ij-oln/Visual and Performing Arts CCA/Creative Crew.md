@@ -4,7 +4,7 @@ permalink: /learn-at-ij-oln/co-curricular-activities/visual-and-performing-arts/
 description: ""
 third_nav_title: Visual and Performing Arts CCA
 ---
-<h4><strong>WHO ARE WE</strong></h4>
+<h4><strong>WHO WE ARE</strong></h4>
 <p>Welcome to our IJ OLN Creative Crew! It is a haven for young artists who aspire to create, inspire and innovate a community for those with&hellip;In short, A PASSION FOR ART!</p>
 <p>All the different Art projects serve as platforms for our young artists to develop creativity and self-expression in their art-making process. Through these our young artists develop resilience, build character, cultivate the will to succeed and learn to appreciate, and sometimes work with fellow peers from different backgrounds to achieve shared goals.</p>
 <p>Our young artists also enjoy the occasional Learning Journeys to the museums. This will increase their awareness of Art in Singapore and the world. Furthermore, such journeys allow them to gain a greater understanding of concepts and ideas in Art, which can transform into refreshing and artistic masterpieces.</p>
