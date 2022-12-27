@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports CCA
 ---
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQvJAkXewRUj5lopRRQB3HzOcCY_OmUgT0lbfk4o1uAJ-UDSURzO3K7OOL1QV06zGu0KtTl0iI5tiVF/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
-<h4><strong>WHO ARE WE</strong></h4>
+<h4><strong>WHO WE ARE</strong></h4>
 <p>The CHIJ OLN Table Tennis team is a family of dynamic players who train hard together. Our aim is to instill discipline, resilience and sportsmanship in every student. The students train twice weekly with professional coaches. Skills such as the different styles of service, attacking and defending strategies as well as footwork are taught during training. The weekly training enables our students to be focused and to think on their feet. This will help them to make quick decisions in order to counter the opponents&rsquo; actions.</p>
 <p>The CHIJ OLN Table Tennis team continues to strive towards excellence in training as well as competitions. Selected students will take part in the National School Games South Zone Table Tennis Championships and the National Primary Schools Table Tennis Championships. This gives them a platform to put their training to the test. The experiences from the games are invaluable to the team.</p>
 <table style="border-collapse: collapse; width: 100%;" border="0">
