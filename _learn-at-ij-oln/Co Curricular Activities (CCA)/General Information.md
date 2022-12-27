@@ -4,7 +4,6 @@ permalink: /learn-at-ij-oln/co-curricular-activities/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-
 <p>While CCA is not compulsory at the primary school, we believe in developing further the talents of our girls in sports and the aesthetics as well as in community service. The CCAs our girls might want to participate in can be found below:</p>
 <table>
 <tbody>
@@ -25,7 +24,7 @@ third_nav_title: Co Curricular Activities (CCA)
 </tr>
 </tbody>
 </table>
-<h4><strong>CCA@OLN Framework</strong></h4>
+<h4><strong>CCA@IJOLN Framework</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
