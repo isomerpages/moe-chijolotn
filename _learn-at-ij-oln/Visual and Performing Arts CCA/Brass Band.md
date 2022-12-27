@@ -4,7 +4,7 @@ permalink: /learn-at-ij-oln/co-curricular-activities/visual-and-performing-arts/
 description: ""
 third_nav_title: Visual and Performing Arts CCA
 ---
-<h4><strong>WHO ARE WE</strong></h4>
+<h4><strong>WHO WE ARE</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
