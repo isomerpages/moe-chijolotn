@@ -11,7 +11,7 @@ description: ""
 <tr>
 <td style="width: 33.3333%;"><a href="/files/P1 Orientation Booklet 2023 _3 Nov 22.pdf"><img src="/images/p1o4.png"></a></td>
 <td style="width: 33.3333%;"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRs9dCvoirAzTIpNw7jOahXDn14pJf8e8_cQG36yvx_94cTWrNtzd6VlpGEl_QWFrBwzC5CPGQ_zo7f/embed?start=false&loop=false&delayms=10000" frameborder="0" width="300" height="300" allowfullscreen="true" ></iframe></td>
-<td style="width: 33.3333%;"><a href="/files/P1%20e-Orientation%20-%2011%20Nov%20Website.pdf"><img src="/images/p1o5.png"></a></td>
+<td style="width: 33.3333%;"><a href="/files/P1 Orientation - Briefing Slides 20221111.pdf"><img src="/images/p1o5.png"></a></td>
 </tr>
 </tbody>
 </table>
