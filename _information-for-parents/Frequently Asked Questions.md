@@ -94,7 +94,7 @@ description: ""
 <ul>
 <li><strong>Does your school have an Open House?</strong></li>
 </ul>
-<p>Follow us on&nbsp;<a href="https://www.facebook.com/chijoln.official/" target="_blank" rel="noopener">Facebook</a>&nbsp;and&nbsp;<a href="https://www.instagram.com/chijoln.official/" target="_blank" rel="noopener">Instagram</a>&nbsp;for the latest updates!</p>
+<p>Follow us on<a href="https://www.facebook.com/chijoln.official/" target="_blank" rel="noopener">Facebook</a>&nbsp;and&nbsp;<a href="https://www.instagram.com/chijoln.official/" target="_blank" rel="noopener">Instagram</a>&nbsp;for the latest updates!</p>
 </div>
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4">Other Information</label>
