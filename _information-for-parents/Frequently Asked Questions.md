@@ -82,7 +82,7 @@ description: ""
 <ul>
 <li><strong>If I am an ex-girl of CHIJ Ponggol and my child is a Singapore Citizen / Singapore Permanent Resident, which phase do I fall under?</strong></li>
 </ul>
-<p>If you are an ex-girl of CHIJ Ponggol and your child is a Singapore Citizen / Singapore Permanent Resident, you can register your child under Phase 2A2.&nbsp;</p>
+<p>If you are an ex-girl of CHIJ Ponggol and your child is a Singapore Citizen / Singapore Permanent Resident, you can register your child under Phase 2A.</p>
 <ul>
 <li><strong>Can I join the Alumni?</strong></li>
 </ul>
@@ -94,7 +94,7 @@ description: ""
 <ul>
 <li><strong>Does your school have an Open House?</strong></li>
 </ul>
-<p>Due to the current COVID-19 situation, we will be having an eOpen House on 9 July 2021.&nbsp;<br />Follow us on&nbsp;<a href="https://www.facebook.com/chijoln.official/" target="_blank" rel="noopener">Facebook</a>&nbsp;and&nbsp;<a href="https://www.instagram.com/chijoln.official/" target="_blank" rel="noopener">Instagram</a>&nbsp;for the latest updates!</p>
+<p>Follow us on<a href="https://www.facebook.com/chijoln.official/" target="_blank" rel="noopener">Facebook</a>&nbsp;and&nbsp;<a href="https://www.instagram.com/chijoln.official/" target="_blank" rel="noopener">Instagram</a>&nbsp;for the latest updates!</p>
 </div>
 </li>
 <li><input id="accordion4" type="checkbox" /> <label for="accordion4">Other Information</label>
