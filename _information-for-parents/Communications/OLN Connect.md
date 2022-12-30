@@ -8,7 +8,7 @@ third_nav_title: Communications
 <table class="ive_eobj_center iveo_table ives_tab_simple3">
 <tbody>
 <tr>
-<td><a href="/files/OLN_Connect_P001r1.pdf" target="_blank" rel="noopener">January&nbsp;</a></td>
+<td><a href="/files/2023Connect/OLN_Connect_P001.pdf" target="_blank" rel="noopener">January&nbsp;</a></td>
 <td>February</td>
 <td>March</td>
 <td>April</td>
