@@ -19,3 +19,10 @@ description: ""
 <li>To organise activities/workshops for parents.</li>
 <li>To enlist the help of more parents to render their services to the school.</li>
 </ul>
+
+<h4><strong> Thank you parents for your support</strong></h4>
+
+![](/images/PSG/PSG2.jpg)   
+![](/images/PSG/PSG1.jpg)  
+![](/images/PSG/PSG3.jpg) 
+
