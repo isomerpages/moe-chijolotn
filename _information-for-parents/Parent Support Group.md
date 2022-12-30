@@ -19,3 +19,5 @@ description: ""
 <li>To organise activities/workshops for parents.</li>
 <li>To enlist the help of more parents to render their services to the school.</li>
 </ul>
+
+<h4><strong> Thank you parents for your support</strong></h4>
