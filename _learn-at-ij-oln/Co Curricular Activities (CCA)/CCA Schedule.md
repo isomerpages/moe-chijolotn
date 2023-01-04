@@ -4,16 +4,14 @@ permalink: /learn-at-ij-oln/co-curricular-activities/cca-schedule/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
 ---
-
-
 <table>
 <tbody>
 <tr>
 <td>
 <p><strong><u>Sports<br /></u></strong>Netball</p>
 <ul>
-<li><a href="/files/T4%20-%20P3%20Netball.pdf" target="_blank" rel="noopener">P3</a></li>
-<li><a href="/files/T4%20-%20P4%20Netball.pdf" target="_blank" rel="noopener">P4</a></li>
+<li><a href="/files/2023CCASchedules/T1%20-%20P3%20Netball.pdf" target="_blank" rel="noopener">P3</a></li>
+<li><a href="/files/2023CCASchedules/T1%20-%20P4%20Netball.pdf" target="_blank" rel="noopener">P4</a></li>
 <li><a href="/files/T4%20-%20P5%20Netball_School%20Team.pdf" target="_blank" rel="noopener">P5&nbsp;School Team</a></li>
 <li><a href="/files/T4%20-%20P5%20Netball_Recreational%20Team.pdf" target="_blank" rel="noopener">P5 Recreational Team</a></li>
 </ul>
@@ -28,8 +26,10 @@ third_nav_title: Co Curricular Activities (CCA)
 <li><a href="/files/T4%20-%20Dance%20Inc%203.pdf" target="_blank" rel="noopener">Chinese</a></li>
 <li><a href="/files/T4%20-%20Dance%20Inc%204.pdf" target="_blank" rel="noopener">Malay</a></li>
 </ul>
-<p><strong><u>Uniform Group<br /></u></strong><a href="/files/T4%20-%20Brownies.pdf" target="_blank" rel="noopener">Brownies</a></p>
+<p><strong><u>Uniform Group<br /></u></strong><a href="/files/2023CCASchedules/T1%20-%20Bowling.pdf" target="_blank" rel="noopener">Brownies</a></p>
 </td>
 </tr>
 </tbody>
 </table>
+
+[](/files/2023CCASchedules/T1%20-%20P3%20Netball.pdf)
