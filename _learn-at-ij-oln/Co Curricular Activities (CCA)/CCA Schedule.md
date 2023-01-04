@@ -18,10 +18,11 @@ third_nav_title: Co Curricular Activities (CCA)
 </ul>
 <p><a href="/files/2023CCASchedules/T1%20-%20P3,%20P4%20&%20P5%20Floorball.pdf)" target="_blank" rel="noopener">P3, P4 &amp; P5 Floorball</a><br />
 	<a href="/files/2023CCASchedules/T1%20-%20Bowling.pdf)" target="_blank" rel="noopener">Bowling</a><br />
-	<a href="[](/files/2023CCASchedules/T1%20-%20Table%20Tennis.pdf)" target="_blank" rel="noopener">P3, P4 &amp; P5 Table Tennis</a></p>
+	<a href="/files/2023CCASchedules/T1%20-%20Table%20Tennis.pdf)" target="_blank" rel="noopener">P3, P4 &amp; P5 Table Tennis</a></p>
 </td>
 <td>
-<p><strong><u>Visual &amp;Performing Arts<br /></u></strong><a href="/files/T4%20-%20Creative%20Crew.pdf" target="_blank" rel="noopener">Creative Crew</a><br /><a href="/files/T4%20-%20Brass%20band.pdf" target="_blank" rel="noopener">Brass Band</a><br /><a href="/files/T4%20-%20Choir.pdf" target="_blank" rel="noopener">Choir</a></p>
+<p><strong><u>Visual &amp;Performing Arts<br /></u></strong><a href="/files/2023CCASchedules/T1%20-%20Creative%20Crew.pdf)" target="_blank" rel="noopener">Creative Crew</a><br />
+	<a href="/files/2023CCASchedules/T1%20-%20Brass%20Band.pdf)" target="_blank" rel="noopener">Brass Band</a><br /><a href="[](/files/2023CCASchedules/T1%20-%20Choir.pdf)" target="_blank" rel="noopener">Choir</a></p>
 <p>Dance Inc</p>
 <ul>
 <li><a href="/files/T4%20-%20Dance%20Inc%201.pdf" target="_blank" rel="noopener">International 1</a></li>
