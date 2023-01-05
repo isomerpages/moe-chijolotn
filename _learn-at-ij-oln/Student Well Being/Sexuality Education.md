@@ -163,6 +163,5 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 </table>
 <h4><strong>INFORMATION FOR PARENTS</strong></h4>
 <p>8. Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.&nbsp;</p>
-<p>9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form was sent to parents in November 2022.&nbsp;</p>
+<p>9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form has been sent out to parents in November 2022.</p>
 <p>10. Parents can contact the school at Email:&nbsp;<a href="mailto:chijoln@moe.edu.sg" target=""><strong>chijoln@moe.edu.sg</strong></a>&nbsp;or Tel:&nbsp;<strong>6385 2455</strong>&nbsp;for discussion or to seek clarification about the school&rsquo;s sexuality education programme.</p>
-<p>11. Parents who wish to attend the school sexuality education programmes, should also contact the school to make the necessary arrangements.</p>
