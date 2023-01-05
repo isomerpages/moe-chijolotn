@@ -54,17 +54,15 @@ third_nav_title: Student Well Being
 <tbody>
 <tr>
 <td style="text-align: center;" rowspan="4" width="119">
-<p>Gosh! I Am Changing</p>
+<p>Growing Years</p>
 </td>
 <td width="217">
-<p>What Is Happening To Me?</p>
-<p>(30 min)</p>
+<p>The changes in Me</p>
+<p>(60 min)</p>
 </td>
 <td width="352">
-<ul>
-<li>Know what puberty is</li>
-<li>Identify the physical changes during puberty</li>
-</ul>
+This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. 
+This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
 </td>
 <td style="text-align: center;" width="159">
 <p>Term 1</p>
@@ -72,16 +70,12 @@ third_nav_title: Student Well Being
 </tr>
 <tr>
 <td width="217">
-<p>What Can I Do? (Part 1)</p>
-<p>&nbsp;(30 min)</p>
+<p>Did You Know</p>
+<p>(60 min)</p>
 </td>
 <td width="352">
-<ul>
-<li>Identify the stresses caused by physical and emotional changes during puberty</li>
-<li>Describe healthy ways to manage the stresses caused by physical and emotional changes during puberty</li>
-<li>Describe the emotions caused by physical changes during puberty</li>
-<li>Recognise that one's identity does not change even when one's body is experiencing change due to puberty</li>
-</ul>
+This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <strong> ‘Stop-Think-Do’</strong>. 
+This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
 </td>
 <td style="text-align: center;" width="159">
 <p>Term 1</p>
