@@ -157,7 +157,8 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 </td>
 <td style="text-align: center;" width="159">Term 1</td>
 </tr>
-<tr><td colspan="3"><p>Please note:</p></td></tr>
+<tr><td colspan="3"><p>Please note:</p>
+	<p>*For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort. </p></td></tr>
 </tbody>
 </table>
 <h4><strong>INFORMATION FOR PARENTS</strong></h4>
