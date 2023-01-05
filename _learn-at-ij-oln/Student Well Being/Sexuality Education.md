@@ -53,7 +53,7 @@ third_nav_title: Student Well Being
 </thead>
 <tbody>
 <tr>
-<td style="text-align: center;" rowspan="4" width="119">
+<td style="text-align: center;" rowspan="3" width="119">
 <p>Growing Years</p>
 </td>
 <td width="217">
@@ -118,7 +118,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 </thead>
 <tbody>
 <tr>
-<td style="text-align: center;" rowspan="5" width="120">
+<td style="text-align: center;" rowspan="3" width="120">
 <p>Growing Years</p>
 </td>
 <td width="217">
