@@ -3,7 +3,7 @@ title: Teaching Staff 2023
 permalink: /kivhiddenpages/permalink/
 description: ""
 ---
-<center>2022</center>
+<center>2023</center>
 <p>Click on the Teacher's name to email the teacher using your default email client.<br />Right-click on the Teacher's name to copy email address if you do not have a default email client setup.</p>
 <hr>
 <table>
