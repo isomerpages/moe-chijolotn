@@ -64,8 +64,9 @@ third_nav_title: Student Well Being
 <p>(60 min)</p>
 </td>
 <td width="352">
-This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. 
-This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
+<p>This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. 
+	
+This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
 </td>
 <td style="text-align: center;" width="159">
 <p>Term 1</p>
