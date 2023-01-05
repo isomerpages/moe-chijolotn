@@ -97,19 +97,18 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 
 </tbody>
 </table>
-<p style="text-align: center;"><strong>PRIMARY 6</strong></p>
+<p style="text-align: center;"><strong>2023 SEXUALITY EDUCATION LESSONS IN CCE 2021</br>PRIMARY 6</strong></p>
 <table width="849">
 <thead>
 <tr>
 <td width="120">
-<p><strong>UNIT</strong></p>
+<p><strong>CCE(FTGP) THEME</strong></p>
 </td>
 <td width="217">
-<p><strong>LESSONS / DURATION</strong></p>
+<p><strong>LESSON TITLE / DURATION</strong></p>
 </td>
 <td width="353">
-<p><strong>Lesson Objectives</strong></p>
-<p><strong>At the end of the lesson,&nbsp;</strong><strong>students&nbsp;</strong><strong>will be able to:</strong></p>
+<p><strong>LESSON OVERVIEW</strong></p>
 </td>
 <td width="159">
 <div><strong>TIME PERIOD</strong></div>
@@ -120,7 +119,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 <tbody>
 <tr>
 <td style="text-align: center;" rowspan="5" width="120">
-<p>Are We More Than Friends?</p>
+<p>Are We More Than Friends? Lesson 1 (60 min)</p>
 </td>
 <td width="217">
 <p>Who Are My Friends?</p>
