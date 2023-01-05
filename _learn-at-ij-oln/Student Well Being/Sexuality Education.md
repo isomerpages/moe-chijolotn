@@ -127,25 +127,20 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 	<p>(60 min)</p>
 </td>
 <td width="353">
-<ul>
-<li>Identify the qualities of a healthy friendship</li>
-<li>Recognise the importance of making wise choices in friendship</li>
-</ul>
+In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.
 </td>
 <td style="text-align: center;" width="159">Term 1</td>
 </tr>
 <tr>
 <td width="217">
-<p>Am I A Good Friend?</p>
-<p>(30 min)</p>
+<p>Are We More than Friends?</p>
+<p>Lesson 2</p>
+	<p>(60 min)</p>
 </td>
 <td width="353">
-<ul>
-<li>Identify the qualities that they have as a friend</li>
-<li>Recognise the importance of developing in oneself the qualities of a good friend</li>
-</ul>
+In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.
 </td>
-<td style="text-align: center;" width="159">Term 2</td>
+<td style="text-align: center;" width="159">Term 1</td>
 </tr>
 <tr>
 <td width="217">
