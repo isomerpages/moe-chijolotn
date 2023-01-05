@@ -144,7 +144,7 @@ In this lesson, students will learn healthy ways to manage the emotions arising 
 </tr>
 <tr>
 <td width="217">
-<p>Do You Know?*</p>
+<p>Did You Know?*</p>
 <p>(60 min)</p>
 </td>
 <td width="353">
