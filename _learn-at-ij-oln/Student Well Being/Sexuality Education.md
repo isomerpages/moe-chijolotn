@@ -153,7 +153,7 @@ This lesson focuses on helping students to know what pornography is and how it c
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
 
 </td>
-<td style="text-align: center;" width="159">Term 2</td>
+<td style="text-align: center;" width="159">Term 1</td>
 </tr>
 <tr>
 <td width="217">
