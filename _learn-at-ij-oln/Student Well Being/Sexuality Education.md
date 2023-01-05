@@ -94,10 +94,11 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 <p>Term 1</p>
 </td>
 </tr>
-
 </tbody>
 </table>
-<p style="text-align: center;"><strong>2023 SEXUALITY EDUCATION LESSONS IN CCE 2021</br>PRIMARY 6</strong></p>
+<br>
+<br>
+<p style="text-align: center;"><strong>2023 SEXUALITY EDUCATION LESSONS IN CCE 2021<br>PRIMARY 6</strong></p>
 <table width="849">
 <thead>
 <tr>
