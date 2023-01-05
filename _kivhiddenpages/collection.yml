@@ -2,6 +2,7 @@ collections:
   kivhiddenpages:
     output: true
     order:
+      - Teaching Staff 2023.md
       - P1–eOrientation.md
       - Our Neighbourhood.md
       - P1 Registration Exercise.md
