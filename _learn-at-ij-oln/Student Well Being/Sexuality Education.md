@@ -34,7 +34,7 @@ third_nav_title: Student Well Being
 	<u>2023</u>:</strong></p>
 <br>
 <br>
-<img src="/images/MOELogo.jpg" alt="" width=20%>
+<img src="/images/MOELogo.jpg" alt="" style="width:20%;height:20%;">
 <p style="text-align: center;"><strong>2023 SEXUALITY EDUCATION LESSONS IN CCE 2021<br>PRIMARY 5</strong></p>
 <table width="846">
 <thead>
