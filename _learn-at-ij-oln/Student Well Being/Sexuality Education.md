@@ -154,7 +154,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 </td>
 <td style="text-align: center;" width="159">Term 1</td>
 </tr>
-<tr><td><p>Please note:</td></p></tr>
+<tr><td colspan="3"><p>Please note:</p></td></tr>
 </tbody>
 </table>
 <h4><strong>INFORMATION FOR PARENTS</strong></h4>
