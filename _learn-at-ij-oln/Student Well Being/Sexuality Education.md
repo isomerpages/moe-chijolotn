@@ -33,6 +33,7 @@ third_nav_title: Student Well Being
 <p><strong>At CHIJ OUR LADY OF THE NATIVITY, the following lessons from the&nbsp;</strong><strong>Sexuality Education lessons</strong><strong>will be taught in<u>2023</u>:</strong></p>
 <br>
 <br>
+![](/images/MOELogo.jpg)
 <p style="text-align: center;"><strong>2023 SEXUALITY EDUCATION LESSONS IN CCE 2021<br>PRIMARY 5</strong></p>
 <table width="846">
 <thead>
