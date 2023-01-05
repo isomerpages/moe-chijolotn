@@ -3,7 +3,7 @@ title: Notification of Absence
 permalink: /contact-us/notification-of-absence/
 description: ""
 ---
-<h4 style="text-align: center;">2022</h4>
+<h4 style="text-align: center;">2023</h4>
 <p>Dear Parents.<br />This is a one-stop portal for you to submit information about your child's absence. Please click on the class and provide the necessary details for the teacher to take note.</p>
 <table class="ive_eobj_center iveo_table ives_tab_1">
 <tbody>
