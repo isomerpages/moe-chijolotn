@@ -151,79 +151,8 @@ In this lesson, students will learn healthy ways to manage the emotions arising 
 This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <strong> ‘Stop-Think-Do’</strong>. 
 
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
-
 </td>
 <td style="text-align: center;" width="159">Term 1</td>
-</tr>
-<tr>
-<td width="217">
-<p>Am I Falling In Love?</p>
-<p>(30 min)</p>
-</td>
-<td width="353">
-<ul>
-<li>Manage strong feelings arising from infatuation</li>
-<li>Identify ways to manage and cope with teasing from peers</li>
-</ul>
-</td>
-<td style="text-align: center;" width="159">Term 2</td>
-</tr>
-<tr>
-<td width="217">
-<p>Main Task</p>
-<p>&nbsp;(30 min)</p>
-</td>
-<td width="353">
-<p>Description of the Main Task:</p>
-<p>Students are to play the role of a game designer who wants to create a board game to help students of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.</p>
-</td>
-<td style="text-align: center;" width="159">Term 2</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="3" width="120">
-<p>Friends or Foes?</p>
-</td>
-<td width="217">
-<p>Are You Really My Friend?</p>
-<p>(30 min)</p>
-</td>
-<td width="353">
-<ul>
-<li>Identify the pros and cons of forming relationships through social networking websites</li>
-<li>Know ways to keep themselves safe when using social networking websites</li>
-</ul>
-</td>
-<td style="text-align: center;" width="159">
-<p>Term 1</p>
-</td>
-</tr>
-<tr>
-<td width="217">
-<p>Is It All Safe?</p>
-<p>(30 min)</p>
-</td>
-<td width="353">
-<ul>
-<li>Know that some information (like pornography) received through the Internet may be harmful</li>
-<li>Know ways to keep themselves safe when using social networking websites or Internet</li>
-</ul>
-</td>
-<td style="text-align: center;" width="159">
-<p>Term 1</p>
-</td>
-</tr>
-<tr>
-<td width="217">
-<p>Main Task</p>
-<p>&nbsp;(30 min)</p>
-</td>
-<td width="353">
-<p>Description of the Main Task:</p>
-<p>Students are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety. These scenarios will provide students with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.</p>
-</td>
-<td style="text-align: center;" width="159">
-<p>Term 1</p>
-</td>
 </tr>
 </tbody>
 </table>
