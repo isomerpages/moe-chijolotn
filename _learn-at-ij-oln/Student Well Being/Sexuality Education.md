@@ -83,16 +83,12 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 </tr>
 <tr>
 <td width="217">
-<p>What Can I Do? (Part 2)</p>
-<p>&nbsp;(30 min)</p>
+<p>Keeping Myself Safe</p>
+<p>(60 min)</p>
 </td>
 <td width="352">
-<ul>
-<li>Identify the stresses caused by physical and emotional changes during puberty</li>
-<li>Describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty</li>
-<li>Describe the emotions caused by physical changes during puberty</li>
-<li>Recognise that one's identity does not change even when one's body is experiencing change due to puberty</li>
-</ul>
+In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.
+This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
 </td>
 <td style="text-align: center;" width="159">
 <p>Term 1</p>
