@@ -60,7 +60,7 @@ third_nav_title: Student Well Being
 <p>Growing Years</p>
 </td>
 <td width="217">
-<p>The changes in Me</p>
+<p>The Changes in Me</p>
 <p>(60 min)</p>
 </td>
 <td width="352">
