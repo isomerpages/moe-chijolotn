@@ -119,11 +119,12 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 <tbody>
 <tr>
 <td style="text-align: center;" rowspan="5" width="120">
-<p>Are We More Than Friends? Lesson 1 (60 min)</p>
+<p>Growing Years</p>
 </td>
 <td width="217">
-<p>Who Are My Friends?</p>
-<p>(30 min)</p>
+<p>Are We More than Friends?</p>
+<p>Lesson 1</p>
+	<p>(60 min)</p>
 </td>
 <td width="353">
 <ul>
