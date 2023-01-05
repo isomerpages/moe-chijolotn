@@ -74,12 +74,13 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 </tr>
 <tr>
 <td width="217">
-<p>Did You Know</p>
+<p>Did You Know?</p>
 <p>(60 min)</p>
 </td>
 <td width="352">
+	<p>
 This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <strong> ‘Stop-Think-Do’</strong>. 
-This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
+This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
 </td>
 <td style="text-align: center;" width="159">
 <p>Term 1</p>
