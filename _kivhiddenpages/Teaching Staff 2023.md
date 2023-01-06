@@ -96,7 +96,7 @@ description: ""
 <td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
 <td><a href="mailto:sum_qiu_mei_sharon@moe.edu.sg" target="">Mrs Sharon Lai</a></td>
 <td><a href="mailto:foo_weng_heng_fiona@moe.edu.sg" target="">Mdm Fiona Foo</a></td>
-<td><a href="mailto:laura_ann_netto@moe.edu.sg" target="">Mrs Laura Stephen</a></td>
+<td><a href="mailto:chia_ley_chin_lynette@moe.edu.sg" target="">Mrs Lynette Lim</a></td>
 </tr>
 <tr>
 <td><strong>1 Truth</strong></td>
