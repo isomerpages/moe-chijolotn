@@ -4,7 +4,7 @@ permalink: /our-catholic-identity/history-of-chij-schools/
 description: ""
 ---
 <h4><strong>School History</strong></h4>
-<img style="width: 43%;" src="/images/history.jpg" align = "left" />
+<img style="width: 70%;" src="/images/history.jpg" align = "" />
 <p>Originally known as CHIJ Ponggol, the school was renamed as CHIJ Our Lady of the Nativity in 2001. It is one of the eleven CHIJ schools in Singapore and is located in Upper Serangoon Road, next to the Church of the Nativity of the Blessed Virgin Mary. Established in 1957, the school celebrated its 60th Anniversary in 2017.</p>
 <p>CHIJ Ponggol arose from Rev. Mother St John's love for children and desire to serve the educational needs of girls residing in the Ponggol area. Rev. Mother St John, who was the Rev Mother Superior at that time, approached the Bishop of Malaya who readily agreed to her proposal to set up another Convent school in Punggol, and he provided the land for the project. This led to the establishment of CHIJ Ponggol in 1957. Its first principal was Ms Mabel Dodampe and she was appointed in 1960.</p>
 <p>The school grew quickly from just one P1 class of 38 in 1957 to 32 classes and 1216 students in the 1990s, and its original building was no longer adequate to house the growing enrolment. As such, plans were drawn up for a larger school located at the former Montfort School site at Upper Serangoon Road. The new building was completed in 2001, and officially opened on 28 May 2004.</p>
