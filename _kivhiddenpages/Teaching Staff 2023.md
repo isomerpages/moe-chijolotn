@@ -284,15 +284,15 @@ description: ""
 </tr>
 <tr>
 <td><strong>3 Love</strong></td>
-<td><a href="mailto:neo_wei_keong_alphonsus@moe.edu.sg" target="">Mr Alphonsus Neo</a></td>
-<td><a href="mailto:sangeetha_m_suppiah@moe.edu.sg" target="">Mrs Jabar</a></td>
-<td><a href="mailto:neo_wei_keong_alphonsus@moe.edu.sg" target="">Mr Alphonsus Neo</a></td>
-<td><a href="mailto:wong_heng_mui@moe.edu.sg" target="">Ms Wong Heng Mui</a></td>
-<td><a href="mailto:tan_yee_yinn_tracy@moe.edu.sg" target="">Mrs Tracy Wong</a></td>
-<td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
+<td><a href="mailto:law_ee_peng@moe.edu.sg" target="">Ms Law Ee Peng</a></td>
+<td><a href="mailto:yuvaraj_thenmozhi@moe.edu.sg" target="">Mrs Yuvaraj</a></td>
+<td><a href="mailto:julie_diana_chia_ai@moe.edu.sg" target="">Mdm Julia Diana</a></td>
+<td><a href="mailto:khoo_may_ying_elaine@moe.edu.sg" target="">Ms Elaine Khoo</a></td>
+<td><a href="mailto:chong_sheau_huey@moe.edu.sg" target="">Mrs Tan Sheau Huey</a></td>
+<td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
 <td><a href="mailto:sum_qiu_mei_sharon@moe.edu.sg" target="">Mrs Sharon Lai</a></td>
-<td><a href="mailto:tan_hwee_khoon_a@moe.edu.sg" target="">Mrs Lee Hwee Khoon</a></td>
-<td><a href="mailto:neo_wei_keong_alphonsus@moe.edu.sg" target="">Mr Alphonsus Neo</a></td>
+<td><a href="mailto:poh_shi_ling_edna@moe.edu.sg" target="">Ms Edna Poh</a></td>
+<td><a href="mailto:law_ee_peng@moe.edu.sg" target="">Ms Law Ee Peng</a></td>
 </tr>
 <tr>
 <td><strong>3 Peace</strong></td>
