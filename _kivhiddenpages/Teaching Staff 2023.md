@@ -163,10 +163,10 @@ description: ""
 <tr>
 <td><strong>2 Hope</strong></td>
 <td><a href="mailto:noor_hayati_mohamed_noor@moe.edu.sg" target="">Mdm Hayati</a></td>
-<td><a href="mailto:wong_hui_erl@moe.edu.sg" target="">Mrs Ngoh Hui Erl</a>&nbsp;</td>
-<td><a href="mailto:wong_hui_erl@moe.edu.sg" target="">Mrs Ngoh Hui Erl</a></td>
-<td><a href="mailto:wong_hui_erl@moe.edu.sg" target="">Mrs Ngoh Hui Erl</a>&nbsp;</td>
-<td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
+<td><a href="mailto:adeline_enriquez@moe.edu.sg" target="">Mrs Adeline Enriquez</a></td>
+<td><a href="mailto:adeline_enriquez@moe.edu.sg" target="">Mrs Adeline Enriquez</a></td>
+<td><a href="mailto:adeline_enriquez@moe.edu.sg" target="">Mrs Adeline Enriquez</a></td>
+<td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
 <td><a href="mailto:wong_wendy@moe.edu.sg" target="">Ms Wendy Wong</a></td>
 <td><a href="mailto:foo_weng_heng_fiona@moe.edu.sg" target="">Mdm Fiona Foo</a></td>
 <td><a href="mailto:laura_ann_netto@moe.edu.sg" target="">Mrs Laura Stephen</a></td>
