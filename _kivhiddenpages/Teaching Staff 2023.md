@@ -506,9 +506,9 @@ description: ""
 </tr>
 <tr>
 <td><strong>5 Peace</strong></td>
-<td><a href="mailto:wong_zhi_wei_amanda@moe.edu.sg" target="">Mrs Amanda Wong</a></td>
-<td><a href="mailto:peh_bee_leng@moe.edu.sg" target="">Mdm Peh Bee Leng</a>&nbsp;</td>
-<td><a href="mailto:wong_zhi_wei_amanda@moe.edu.sg" target="">Mrs Amanda Wong</a></td>
+<td><a href="mailto:siow_pei_ling@moe.edu.sg" target="">Mrs Toh Pei Ling</a></td>
+<td><a href="mailto:zanizam_zaini@moe.edu.sg" target="">Mr Zanizam Zaini</a></td>
+<td><a href="mailto:siow_pei_ling@moe.edu.sg" target="">Mrs Toh Pei Ling</a></td>
 <td><a href="mailto:chong_sheau_huey@moe.edu.sg" target="">Mrs Tan Sheau Huey</a>&nbsp;/<br /><a href="mailto:tan_lee_lee@moe.edu.sg" target="">Ms Jaslyn Tan</a></td>
 <td><a href="mailto:wong_zhi_wei_amanda@moe.edu.sg" target="">Mrs Amanda Wong</a></td>
 <td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
