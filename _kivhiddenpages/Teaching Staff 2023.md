@@ -587,7 +587,7 @@ description: ""
 <tr>
 <td><strong>6 Joy</strong></td>
 <td><a href="mailto:chen_yingru@moe.edu.sg" target="">Mrs Sim Yingru</a></td>
-<td><a href="mailto:veronica_lim_chuay_suan@moe.edu.sg" target="">Mrs Veronica Lim</a></td>
+<td><a href="mailto:heng_ai_ling@moe.edu.sg" target="">Mdm Heng Ai Ling</a></td>
 <td><a href="mailto:wan_yin_seong_angela@moe.edu.sg" target="">Ms Angela Wan</a></td>
 <td><a href="mailto:veronica_lim_chuay_suan@moe.edu.sg" target="">Mrs Veronica Lim</a></td>
 <td><a href="mailto:chen_yingru@moe.edu.sg" target="">Mrs Sim Yingru</a></td>
