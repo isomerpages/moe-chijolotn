@@ -13,11 +13,13 @@ description: ""
 <li>Students who are not able to be present at the stipulated Google Meet / Zoom sessions, are to inform their Subject Teacher, who will then see to the necessary follow-up.</li>
 </ul>
 
-***No Task sheets as at current date.***
+<h6>No Task sheets as at current date.</h6>
+<hr>
+<br>
+For SLS matters, you may also email the SLS Central Helpdesk at helpdesk@sls.ufinity.com at any time for assistance. Please include your daughter&rsquo;s full name, name of school and form class.
+<br><br>
+Please fill in this&nbsp;<a href="https://go.gov.sg/chijolnpasswordreset" target="_blank" rel="noopener">form</a>&nbsp;to request for the following:
 
-<li>For SLS matters, you may also email the SLS Central Helpdesk at helpdesk@sls.ufinity.com at any time for assistance. Please include your daughter&rsquo;s full name, name of school and form class.</li>
-<li>Please fill in this&nbsp;<a href="https://go.gov.sg/chijolnpasswordreset" target="_blank" rel="noopener">form</a>&nbsp;to request for the following:</li>
-<ul>
 <ul>
 <li>Password Reset for SLS and/or Student iCON account</li>
 <li>Unlocking of SLS Account</li>
