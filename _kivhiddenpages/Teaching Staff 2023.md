@@ -489,7 +489,7 @@ description: ""
 <td><a href="mailto:ng_hui_qi@moe.edu.sg" target="">Ms Ng Hui Qi</a></td>
 <td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
 <td><a href="mailto:wong_wendy@moe.edu.sg" target="">Ms Wendy Wong</a></td>
-<td><a href="mailto:zanizam_zaini@moe.edu.sg" target="">Mr Zanizam Zaini</a></td>
+<td><a href="mailto:muhammad_nazri_subawi@moe.edu.sg" target="">Mr Muhammad Nazri</a></td>
 <td><a href="mailto:ng_hui_qi@moe.edu.sg" target="">Ms Ng Hui Qi</a></td>
 </tr>
 <tr>
