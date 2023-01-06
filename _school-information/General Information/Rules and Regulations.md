@@ -28,6 +28,8 @@ third_nav_title: General Information
 <li>Students must be neat and properly attired in their school uniform at all times, inside and outside school.</li>
 <li>Students are allowed to wear the school's PE T-shirt the whole day (under their pinafore) on days they have PE lessons.</li>
 <li>Students must have their iron-on name tags on their school uniform and PE attire.&nbsp;</li>
+	<li>If students attend SwimSafer lessons, they are to change into the school's PE T-Shirt (under their pinafore) after the session.</li>
+	<li>Students who are going for camps should report to school in their PE/Camp T-Shirt and track pants. Swimming attire can be worn underneath the PE/CampT-Shirt if the first programme for the day involves water-based activity</li>
 <li>Students are not allowed to wear any jewellery or accessories or bring any valuables to school.</li>
 <li>There should not be any display of religious accessories.</li>
 <li>Only plain black hair accessories are allowed.</li>
@@ -91,7 +93,7 @@ third_nav_title: General Information
 <li>Do not bring bags, books, papers, notes, mobile phones or other unauthorised personal belongings (such as smart watches, fitness trackers and items with image capturing abilities) into the examination hall/room. Place them outside the examination room/hall or a place identified by the examiner or invigilator. If you are found to be in possession of any unauthorised materials, you will be liable to the same penalty as those who are caught cheating during the assessment.</li>
 <li>Bring only the stationery required for the assessment. Sharing of stationery during the assessment period is not allowed.</li>
 <li>Remain silent once you enter the examination room/hall.</li>
-<li>Obey all instructions given by the invigilator/examiner.</li>
+<li>Follow all instructions given by the invigilator/examiner.</li>
 <li>Inform the invigilator immediately by raising your hand should you find that:</li>
 <ul>
 <li>A wrong question paper has been given to you.</li>

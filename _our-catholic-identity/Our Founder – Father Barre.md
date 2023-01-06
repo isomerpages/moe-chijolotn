@@ -3,7 +3,7 @@ title: Our Founder – Father Barre
 permalink: /our-catholic-identity/our-founder-father-barre/
 description: ""
 ---
-<table style="border-collapse: collapse; width: 100%;" border="0">
+<table  style="align=left; border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td style="width: 80%;">

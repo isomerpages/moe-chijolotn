@@ -3,7 +3,6 @@ title: Contact Information
 permalink: /contact-us/
 description: ""
 ---
-
 <p><strong>Social Media</strong></p>
 <p>Facebook:&nbsp;<a href="https://www.facebook.com/chijoln.official/" target="_blank" rel="noopener">https://www.facebook.com/chijoln.official/</a><br />Instagram:&nbsp;<a href="https://www.instagram.com/chijoln.official/" target="_blank" rel="noopener">https://www.instagram.com/chijoln.official/</a></p>
 <p><strong>Feedback</strong></p>
@@ -15,6 +14,6 @@ description: ""
 <p><strong>Mailing Address</strong></p>
 <p>CHIJ - Our Lady of the Nativity<br />1257 Upper Serangoon Road, Singapore 534793</p>
 <p><span style="text-decoration: underline;"><strong>Travel Information</strong></span></p>
-<p><strong>Bus Services<br /></strong>74, 136, 147, 112, 113, 119, 102, 672, 324</p>
+<p><strong>Bus Services<br /></strong>74, 102, 112, 113, 119, 136, 147, 324, 672</p>
 <p><strong>Nearest MRT Station<br /></strong>Hougang MRT</p>
 <img src="/images/map.jpg">

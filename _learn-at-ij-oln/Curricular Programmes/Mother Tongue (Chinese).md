@@ -29,8 +29,6 @@ third_nav_title: Curricular Programmes
 <li>Cultivate appreciation for Chinese Literature</li>
 <li>Encourage parents to read with their children</li>
 </ul>
-</div>
-</div>
 </td>
 </tr>
 </tbody>

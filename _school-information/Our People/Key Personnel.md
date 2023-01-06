@@ -125,11 +125,6 @@ third_nav_title: Our People
 <th>Email</th>
 </tr>
 <tr style="text-align: center;">
-<td>Art</td>
-<td>Mdm Nur Ilyana Mohamed Anwar</td>
-<td>nur_ilyana_mohamed_anwar@moe.edu.sg</td>
-</tr>
-<tr style="text-align: center;">
 <td>PE &amp; CCA</td>
 <td>Mr Zanizam Zaini</td>
 <td>zanizam_zaini@moe.edu.sg</td>
@@ -139,10 +134,15 @@ third_nav_title: Our People
 <td>Mdm Farhanna Zainal</td>
 <td>farhanna_zainal@moe.edu.sg</td>
 </tr>
+	<tr style="text-align: center;">
+<td>Student Leadership</td>
+<td>Ms Ng Hui Qi</td>
+<td>ng_hui_qi@moe.edu.sg</td>
+</tr>
 <tr style="text-align: center;">
-<td >Character &amp; Citizenship Education (CCE)</td>
-<td>Mrs Ngoh Hui Erl</td>
-<td>wong_hui_erl@moe.edu.sg</td>
+<td >NESS</td>
+<td>Mdm Nurathirah Md Sharoni</td>
+<td>nurathirah_md_sharoni@moe.edu.sg</td>
 </tr>
 </tbody>
 </table>
@@ -156,7 +156,7 @@ third_nav_title: Our People
 </tr>
 <tr style="text-align: center;">
 <td>English Language</td>
-<td>Ms Charissa Chern</td>
+<td>Mrs Charissa Tan</td>
 <td>chern_shihui_charissa@moe.edu.sg</td>
 </tr>
 <tr style="text-align: center;">
@@ -195,11 +195,15 @@ third_nav_title: Our People
 <td >Mrs Tan Cheh Hia</td>
 <td >tan_cheh_hia@moe.edu.sg</td>
 </tr>
-
 <tr style="text-align: center;">
 <td>Chinese Language</td>
 <td>Mdm Yang Wenxia</td>
 <td>yang_wenxia@moe.edu.sg</td>
+</tr>
+	<tr style="text-align: center;">
+<td>Character & Citizenship Education (CCE)</td>
+<td>Mrs Ngoh Hui Erl</td>
+<td>wong_hui_erl@moe.edu.sg</td>
 </tr>
 </tbody>
 </table>
