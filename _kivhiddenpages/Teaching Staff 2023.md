@@ -140,14 +140,14 @@ description: ""
 </tr>
 <tr>
 <td><strong>2 Faith</strong></td>
-<td><a href="mailto:elena_ong_yijin@moe.edu.sg" target="">Ms Elena Ong</a></td>
-<td><a href="mailto:ler_ser_ling_serene@moe.edu.sg" target="">Ms Serene Ler</a></td>
-<td><a href="mailto:elena_ong_yijin@moe.edu.sg" target="">Ms Elena Ong</a></td>
-<td><a href="mailto:elena_ong_yijin@moe.edu.sg" target="">Ms Elena Ong</a></td>
-<td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
-<td><a href="mailto:nur_safikha_abdul_aghapar@moe.edu.sg" target="">Mdm Nur Safikha</a></td>
+<td><a href="mailto:zuwaria_parvin@moe.edu.sg" target="">Mdm Parvin</a></td>
+<td><a href="mailto:hang_yun@moe.edu.sg" target="">Mdm Hang Yun</a></td>
+<td><a href="mailto:zuwaria_parvin@moe.edu.sg" target="">Mdm Parvin</a></td>
+<td><a href="mailto:zuwaria_parvin@moe.edu.sg" target="">Mdm Parvin</a></td>
+<td><a href="mailto:tan_shin_shin_helen@moe.edu.sg" target="">Ms Helen Tan</a></td>
+<td><a href="mailto:sum_qiu_mei_sharon@moe.edu.sg" target="">Mrs Sharon Lai</a></td>
 <td><a href="mailto:tan_hwee_khoon_a@moe.edu.sg" target="">Mrs Lee Hwee Khoon</a></td>
-<td><a href="mailto:elena_ong_yijin@moe.edu.sg" target="">Ms Elena Ong</a></td>
+<td><a href="mailto:zuwaria_parvin@moe.edu.sg" target="">Mdm Parvin</a></td>
 </tr>
 <tr>
 <td><strong>2 Grace</strong></td>
