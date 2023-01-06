@@ -586,15 +586,15 @@ description: ""
 </tr>
 <tr>
 <td><strong>6 Joy</strong></td>
-<td><a href="mailto:kenett_wong_tick_woon@moe.edu.sg" target="">Mr Kenett Wong</a></td>
-<td><a href="mailto:sky_frank@moe.edu.sg" target="">Mrs Sky Frank</a></td>
-<td><a href="mailto:sky_frank@moe.edu.sg" target="">Mrs Sky Frank</a></td>
-<td><a href="mailto:woo_kah_wai@moe.edu.sg" target="">Ms Wendy Woo</a>&nbsp;/&nbsp;<br /><a href="mailto:khoo_may_ying_elaine@moe.edu.sg" target="">Ms Elaine Khoo</a></td>
-<td><a href="mailto:siaw_yee_looi@moe.edu.sg" target="">Mdm Elaine Siaw</a></td>
-<td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
-<td><a href="mailto:nur_ilyana_mohamed_anwar@moe.edu.sg" target="">Mdm Nur Ilyana</a></td>
-<td><a href="mailto:kenett_wong_tick_woon@moe.edu.sg" target="">Mr Kenett Wong</a></td>
-<td><a href="mailto:siaw_yee_looi@moe.edu.sg" target="">Mdm Elaine Siaw</a></td>
+<td><a href="mailto:chen_yingru@moe.edu.sg" target="">Mrs Sim Yingru</a></td>
+<td><a href="mailto:veronica_lim_chuay_suan@moe.edu.sg" target="">Mrs Veronica Lim</a></td>
+<td><a href="mailto:wan_yin_seong_angela@moe.edu.sg" target="">Ms Angela Wan</a></td>
+<td><a href="mailto:veronica_lim_chuay_suan@moe.edu.sg" target="">Mrs Veronica Lim</a></td>
+<td><a href="mailto:chen_yingru@moe.edu.sg" target="">Mrs Sim Yingru</a></td>
+<td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
+<td><a href="mailto:nur_safikha_abdul_ghapar@moe.edu.sg" target="">Mdm Nur Safikha</a></td>
+<td><a href="mailto:zanizam_zaini@moe.edu.sg" target="">Mr Zanizam Zaini</a></td>
+<td><a href="mailto:chen_yingru@moe.edu.sg" target="">Mrs Sim Yingru</a></td>
 </tr>
 <tr>
 <td><strong>6 Love</strong></td>
