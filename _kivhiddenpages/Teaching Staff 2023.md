@@ -579,7 +579,7 @@ description: ""
 <td><a href="mailto:noor_hayati_yusof@moe.edu.sg" target="">Mdm Noor Hayati Yusof</a></td>
 <td><a href="mailto:joyce_lynn_teo_yahui@moe.edu.sg" target="">Mrs Joyce Hong</a></td>
 <td><a href="mailto:ng_hui_qi@moe.edu.sg" target="">Ms Ng Hui Qi</a></td>
-<td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
+<td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
 <td><a href="mailto:wong_wendy@moe.edu.sg" target="">Ms Wendy Wong</a></td>
 <td><a href="mailto:zanizam_zaini@moe.edu.sg" target="">Mr Zanizam Zaini</a></td>
 <td><a href="mailto:joyce_lynn_teo_yahui@moe.edu.sg" target="">Mrs Joyce Hong</a></td>
