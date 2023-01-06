@@ -378,7 +378,7 @@ description: ""
 </tr>
 <tr>
 <td><strong>4 Joy</strong></td>
-<td><a href="mailto:brindha_menon_siva_kumar@moe.edu.sg" target="">Mrs Shoban</a></td>
+<td><a href="mailto:nurathirah_md_sharoni@moe.edu.sg" target="">Mdm Thirah</a></td>
 <td><a href="mailto:alena_ho_li_na@moe.edu.sg" target="">Ms Alena Ho</a></td>
 <td><a href="mailto:brindha_menon_siva_kumar@moe.edu.sg" target="">Mrs Shoban</a></td>
 <td><a href="mailto:tan_cheh_hia@moe.edu.sg" target="">Mrs Tan Cheh Hia</a></td>
