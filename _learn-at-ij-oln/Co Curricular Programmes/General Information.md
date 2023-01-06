@@ -4,14 +4,11 @@ permalink: /learn-at-ij-oln/Co-Curricular-Programmes/GenInfo/
 description: ""
 third_nav_title: Co Curricular Programmes
 ---
-
-
-
 This programme includes activities, programs, and learning experiences that complement, in some way, what students are learning through the academic curriculum and is an integral part of our students’ holistic education. Through these activities, students grow by
-Discovering interests and talents while developing values and competencies that will prepare them for a rapidly changing world. 
-Learn, play and grow together as friends and peers, thus  fostering the acquisition of socio-emotional competencies and deepening their sense of belonging, commitment and sense of responsibility to school, community and nation.
+* Discovering interests and talents while developing values and competencies that will prepare them for a rapidly changing world. 
+* Learn, play and grow together as friends and peers, thus  fostering the acquisition of socio-emotional competencies and deepening their sense of belonging, commitment and sense of responsibility to school, community and nation.
 
-The Co-curricular programme at CHIJ OLN includes a variety of programmes, of which the following are key:
+The Co-Curricular programme at CHIJ OLN includes a variety of programmes, of which the following are key:
 * The OLN 360 Programme
 * Programme for Active Learning
 * Learning Journeys & Camps
