@@ -272,15 +272,15 @@ description: ""
 </tr>
 <tr>
 <td><strong>3 Joy</strong></td>
-<td><a href="mailto:nurathirah_md_sharoni@moe.edu.sg" target="">Mdm Thirah</a></td>
-<td><a href="mailto:njoo_kiat_chong_edwin@moe.edu.sg" target="">Mr Edwin Njoo</a></td>
-<td><a href="mailto:nurathirah_md_sharoni@moe.edu.sg" target="">Mdm Thirah</a></td>
-<td><a href="mailto:nurathirah_md_sharoni@moe.edu.sg" target="">Mdm Thirah</a></td>
+<td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
+<td><a href="mailto:seow_lishan_cabrina_frances@moe.edu.sg" target="">Ms Cabrina Seow</a></td>
+<td><a href="mailto:seow_lishan_cabrina_frances@moe.edu.sg" target="">Ms Cabrina Seow</a></td>
+<td><a href="mailto:khoo_may_ying_elaine@moe.edu.sg" target="">Ms Elaine Khoo</a></td>
 <td><a href="mailto:chen_yingru@moe.edu.sg" target="">Mrs Sim Yingru</a></td>
-<td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
-<td><a href="mailto:sum_qiu_mei_sharon@moe.edu.sg" target="">Mrs Sharon Lai</a></td>
-<td><a href="mailto:njoo_kiat_chong_edwin@moe.edu.sg" target="">Mr Edwin Njoo</a></td>
-<td><a href="mailto:joyce_lynn_teo_yahui@moe.edu.sg" target="">Mrs Joyce Hong</a></td>
+<td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
+<td><a href="mailto:wong_wendy@moe.edu.sg" target="">Ms Wendy Wong</a></td>
+<td><a href="mailto:muhammad_nazri_subawi@moe.edu.sg" target="">Mr Muhammad Nazri</a></td>
+<td><a href="mailto:adeline_enriquez@moe.edu.sg" target="">Mrs Adeline Enriquez</a></td>
 </tr>
 <tr>
 <td><strong>3 Love</strong></td>
