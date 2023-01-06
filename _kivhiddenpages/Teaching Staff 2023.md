@@ -473,12 +473,12 @@ description: ""
 <td><a href="mailto:chew_yin_sy@moe.edu.sg" target="">Mrs Kwek Yin Sy</a></td>
 <td><a href="mailto:sarina_md_ismail@moe.edu.sg" target="">Ms Sarina</a></td>
 <td><a href="mailto:siow_pei_ling@moe.edu.sg" target="">Mrs Toh Pei Ling</a></td>
-<td><a href="mailto:joyce_lynn_teo_yahui@moe.edu.sg" target="">Mrs Joyce Hong</a></td>
-<td><a href="mailto:ng_hui_qi@moe.edu.sg" target="">Ms Ng Hui Qi</a></td>
+<td><a href="mailto:chew_yin_sy@moe.edu.sg" target="">Mrs Kwek Yin Sy</a></td>
+<td><a href="mailto:voo_ke_rui@moe.edu.sg" target="">Mdm Joy Voo</a></td>
 <td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
 <td><a href="mailto:wong_wendy@moe.edu.sg" target="">Ms Wendy Wong</a></td>
-<td><a href="mailto:zanizam_zaini@moe.edu.sg" target="">Mr Zanizam Zaini</a></td>
-<td><a href="mailto:joyce_lynn_teo_yahui@moe.edu.sg" target="">Mrs Joyce Hong</a></td>
+<td><a href="mailto:njoo_kiat_chong_edwin@moe.edu.sg" target="">Mr Edwin Njoo</a></td>
+<td><a href="mailto:chew_yin_sy@moe.edu.sg" target="">Mrs Kwek Yin Sy</a></td>
 </tr>
 <tr>
 <td><strong>5 Joy</strong></td>
