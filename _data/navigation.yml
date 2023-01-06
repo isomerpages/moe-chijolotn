@@ -81,7 +81,7 @@ links:
       - title: NEU PC PLUS Programme
         url: https://www.imda.gov.sg/neupc
   - title: Contact
-    url: /contact-us/
+    url: /contact-us
     sublinks:
       - title: Notification of Absence
         url: /contact-us/notification-of-absence/
