@@ -611,7 +611,7 @@ description: ""
 <tr>
 <td><strong>6 Peace</strong></td>
 <td><a href="mailto:peh_bee_leng@moe.edu.sg" target="">Mdm Peh Bee Leng</a></td>
-<td><a href="mailto:sky_frank@moe.edu.sg" target="">Mrs Sky FRank</a></td>
+<td><a href="mailto:sky_frank@moe.edu.sg" target="">Mrs Sky Frank</a></td>
 <td><a href="mailto:wong_zhi_wei_amanda@moe.edu.sg" target="">Mrs Amanda Wong</a></td>
 <td><a href="mailto:chong_sheau_huey@moe.edu.sg" target="">Mrs Tan Sheau Huey</a></td>
 <td><a href="mailto:wong_zhi_wei_amanda@moe.edu.sg" target="">Mrs Amanda Wong</a></td>
