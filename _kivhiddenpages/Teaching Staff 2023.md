@@ -308,15 +308,15 @@ description: ""
 </tr>
 <tr>
 <td><strong>3 Truth</strong></td>
+<td><a href="mailto:elena_ong_yijin@moe.edu.sg" target="">Ms Elena Ong</a></td>
+<td><a href="mailto:khoo_may_ying_elaine@moe.edu.sg" target="">Ms Elaine Khoo</a></td>
+<td><a href="mailto:elena_ong_yijin@moe.edu.sg" target="">Ms Elena Ong</a></td>
+<td><a href="mailto:elena_ong_yijin@moe.edu.sg" target="">Ms Elena Ong</a></td>
 <td><a href="mailto:norlela_ahmad@moe.edu.sg" target="">Mdm Norlela</a></td>
-<td><a href="mailto:sim_suat_lee@moe.edu.sg" target="">Mdm Sim Suat Lee</a></td>
-<td><a href="mailto:rabiah_begum_angullia_musa@moe.edu.sg" target="">Ms Rabiah</a></td>
-<td><a href="mailto:law_ee_peng@moe.edu.sg" target="">Ms Law Ee Peng</a></td>
-<td><a href="mailto:norlela_ahmad@moe.edu.sg" target="">Mdm Norlela</a></td>
-<td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
-<td><a href="mailto:nur_ilyana_mohamed_anwar@moe.edu.sg" target="">Mdm Nur Ilyana</a></td>
-<td><a href="mailto:poh_shi_ling_edna@moe.edu.sg" target="">Ms Edna Poh</a></td>
-<td><a href="mailto:chia_ley_chin_lynette@moe.edu.sg" target="">Mrs Lynette Lim</a></td>
+<td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
+<td><a href="mailto:lena_teo@moe.edu.sg" target="">Ms Lena Teo</a></td>
+<td><a href="mailto:foo_weng_heng_fiona@moe.edu.sg" target="">Mdm Fiona Foo</a></td>
+<td><a href="mailto:elena_ong_yijin@moe.edu.sg" target="">Ms Elena Ong</a></td>
 </tr>
 </tbody>
 </table>
