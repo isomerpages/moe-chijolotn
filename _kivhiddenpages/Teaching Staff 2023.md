@@ -470,9 +470,9 @@ description: ""
 </tr>
 <tr>
 <td><strong>5 Hope</strong></td>
-<td><a href="mailto:joyce_lynn_teo_yahui@moe.edu.sg" target="">Mrs Joyce Hong</a></td>
-<td><a href="mailto:li_ning@moe.edu.sg" target="">Mdm Li Ning</a></td>
-<td><a href="mailto:noor_hayati_yusof@moe.edu.sg" target="">Mdm Noor Hayati Yusof</a></td>
+<td><a href="mailto:chew_yin_sy@moe.edu.sg" target="">Mrs Kwek Yin Sy</a></td>
+<td><a href="mailto:sarina_md_ismail@moe.edu.sg" target="">Ms Sarina</a></td>
+<td><a href="mailto:siow_pei_ling@moe.edu.sg" target="">Mrs Toh Pei Ling</a></td>
 <td><a href="mailto:joyce_lynn_teo_yahui@moe.edu.sg" target="">Mrs Joyce Hong</a></td>
 <td><a href="mailto:ng_hui_qi@moe.edu.sg" target="">Ms Ng Hui Qi</a></td>
 <td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
