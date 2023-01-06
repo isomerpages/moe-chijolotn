@@ -30,7 +30,7 @@ description: ""
 <td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
 <td><a href="mailto:nur_safikha_abdul_ghapar@moe.edu.sg" target="">Mdm Nur Safikha</a></td>
 <td><a href="mailto:foo_weng_heng_fiona@moe.edu.sg" target="">Mdm Fiona Foo</a></td>
-<td><a href="mailto:elena_ong_yijin@moe.edu.sg" target="">Ms Elena Ong</a></td>
+<td><a href="mailto:goh_sing_hwee_eileen@moe.edu.sg" target="">Mrs Eileen Goh</a></td>
 </tr>
 <tr>
 <td><strong>1 Faith</strong></td>
