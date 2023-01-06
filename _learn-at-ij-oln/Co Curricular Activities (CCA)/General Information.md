@@ -45,7 +45,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <li>CCA also offer excellent platforms for students to learn core values, social and emotional competencies and the emerging 21st Century Competencies.</li>
 <li>All CCA emphasise social interaction by providing a common space for friendships and social integration amongst students of diverse backgrounds. Through CCA, students develop a sense of identity and belonging to the school.</li>
 </ul>
-<p><strong>Objectives<br /></strong>Through sustained and active participation in CCA, we hope that students will develop and demonstrate:</p>
+<p><h4><strong>Objectives<br /></strong></h4>Through sustained and active participation in CCA, we hope that students will develop and demonstrate:</p>
 <ul>
 <li>knowledge and skills related to their chosen CCA</li>
 <li>our school values (GRACIA), social and emotional competencies and the emerging 21st Century Competencies</li>
