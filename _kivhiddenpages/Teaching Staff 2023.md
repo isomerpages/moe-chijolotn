@@ -597,7 +597,7 @@ description: ""
 <td><a href="mailto:chen_yingru@moe.edu.sg" target="">Mrs Sim Yingru</a></td>
 </tr>
 <tr>
-<td><strong>5 Love</strong></td>
+<td><strong>6 Love</strong></td>
 <td><a href="mailto:wan_yin_seong_angela@moe.edu.sg" target="">Ms Angela Wan</a></td>
 <td><a href="mailto:siaw_yee_looi@moe.edu.sg" target="">Mdm Elaine Siaw</a></td>
 <td><a href="mailto:wan_yin_seong_angela@moe.edu.sg" target="">Ms Angela Wan</a></td>
