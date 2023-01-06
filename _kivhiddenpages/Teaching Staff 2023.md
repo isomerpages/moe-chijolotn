@@ -158,7 +158,7 @@ description: ""
 <td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
 <td><a href="mailto:wong_wendy@moe.edu.sg" target="">Ms Wendy Wong</a></td>
 <td><a href="mailto:foo_weng_heng_fiona@moe.edu.sg" target="">Mdm Fiona Foo</a></td>
-<td><a href="mailto:laura_ann_netto@moe.edu.sg" target="">Mrs Laura Stephen</a></td>
+<td><a href="mailto:masturah_salman@moe.edu.sg" target="">Mrs Masturah Azman</a></td>
 </tr>
 <tr>
 <td><strong>2 Hope</strong></td>
@@ -169,7 +169,7 @@ description: ""
 <td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
 <td><a href="mailto:wong_wendy@moe.edu.sg" target="">Ms Wendy Wong</a></td>
 <td><a href="mailto:foo_weng_heng_fiona@moe.edu.sg" target="">Mdm Fiona Foo</a></td>
-<td><a href="mailto:wong_hui_erl@moe.edu.sg" target="">Mrs Ngoh Hui Erl</a></td>
+<td><a href="mailto:laura_ann_netto@moe.edu.sg" target="">Mrs Laura Stephen</a></td>
 </tr>
 <tr>
 <td><strong>2 Joy</strong></td>
