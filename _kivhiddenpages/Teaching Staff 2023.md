@@ -195,14 +195,14 @@ description: ""
 </tr>
 <tr>
 <td><strong>2 Peace</strong></td>
-<td><a href="mailto:raniah_mohd_noor@moe.edu.sg" target="">Mdm Raniah</a></td>
-<td><a href="mailto:wu_li_chuang_stephanie@moe.edu.sg" target="">Mdm Stephanie Wu</a></td>
-<td><a href="mailto:raniah_mohd_noor@moe.edu.sg" target="">Mdm Raniah</a></td>
-<td><a href="mailto:raniah_mohd_noor@moe.edu.sg" target="">Mdm Raniah</a></td>
+<td><a href="mailto:ng_seet_mei@moe.edu.sg" target="">Mrs Clara Ong</a></td>
+<td><a href="mailto:sangeetha_m_suppiah@moe.edu.sg" target="">Mrs Jabar</a></td>
+<td><a href="mailto:ng_seet_mei@moe.edu.sg" target="">Mrs Clara Ong</a></td>
+<td><a href="mailto:ng_seet_mei@moe.edu.sg" target="">Mrs Clara Ong</a></td>
 <td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
-<td><a href="mailto:wong_wendy@moe.edu.sg" target="">Ms Wendy Wong</a></td>
-<td><a href="mailto:poh_shi_ling_edna@moe.edu.sg" target="">Ms Edna Poh</a></td>
-<td><a href="mailto:masturah_salman@moe.edu.sg" target="">Mrs Masturah Azman</a></td>
+<td><a href="mailto:lena_teo@moe.edu.sg" target="">Ms Lena Teo</a></td>
+<td><a href="mailto:poh_shi_ling_edna@moe.edu.sg" target="">Mrs Edna Poh</a></td>
+<td><a href="mailto:joycelyn_agnes_ferdinand_john@moe.edu.sg" target="">Mrs Joycelyn Trevor</a></td>
 </tr>
 <tr>
 <td><strong>2 Truth</strong></td>
