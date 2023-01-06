@@ -509,12 +509,12 @@ description: ""
 <td><a href="mailto:siow_pei_ling@moe.edu.sg" target="">Mrs Toh Pei Ling</a></td>
 <td><a href="mailto:zanizam_zaini@moe.edu.sg" target="">Mr Zanizam Zaini</a></td>
 <td><a href="mailto:siow_pei_ling@moe.edu.sg" target="">Mrs Toh Pei Ling</a></td>
-<td><a href="mailto:chong_sheau_huey@moe.edu.sg" target="">Mrs Tan Sheau Huey</a>&nbsp;/<br /><a href="mailto:tan_lee_lee@moe.edu.sg" target="">Ms Jaslyn Tan</a></td>
-<td><a href="mailto:wong_zhi_wei_amanda@moe.edu.sg" target="">Mrs Amanda Wong</a></td>
+<td><a href="mailto:woo_kah_wai@moe.edu.sg" target="">Ms Wendy Woo</a></td>
+<td><a href="mailto:chen_yingru@moe.edu.sg" target="">Mrs Sim Yingru</a></td>
 <td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
-<td><a href="mailto:wong_wendy@moe.edu.sg" target="">Ms Wendy Wong</a></td>
-<td><a href="mailto:kenett_wong_tick_woon@moe.edu.sg" target="">Mr Kenett Wong</a></td>
-<td><a href="mailto:wong_zhi_wei_amanda@moe.edu.sg" target="">Mrs Amanda Wong</a></td>
+<td><a href="mailto:lena_teo@moe.edu.sg" target="">Mrs Lena Teo</a></td>
+<td><a href="mailto:zanizam_zaini@moe.edu.sg" target="">Mr Zanizam Zaini</a></td>
+<td><a href="mailto:chen_yingru@moe.edu.sg" target="">Mrs Sim Yingru</a></td>
 </tr>
 <tr>
 <td><strong>5 Truth</strong></td>
