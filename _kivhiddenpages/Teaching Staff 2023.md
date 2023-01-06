@@ -340,9 +340,9 @@ description: ""
 </tr>
 <tr>
 <td><strong>4 Faith</strong></td>
-<td><a href="mailto:nadira_abdul_gani@moe.edu.sg" target="">Mdm Nadira</a></td>
-<td><a href="mailto:tan_yee_yinn_tracy@moe.edu.sg" target="">Mrs Tracy Wong</a></td>
-<td><a href="mailto:nadira_abdul_gani@moe.edu.sg" target="">Mdm Nadira</a></td>
+<td><a href="mailto:poh_shi_ling_edna@moe.edu.sg" target="">Ms Edna Poh</a></td>
+<td><a href="mailto:voo_ke_rui@moe.edu.sg" target="">Mdm Joy Voo</a></td>
+<td><a href="mailto:voo_ke_rui@moe.edu.sg" target="">Mdm Joy Voo</a></td>
 <td><a href="mailto:chua_sze_li_adeline@moe.edu.sg" target="">Mdm Adeline Chua</a></td>
 <td><a href="mailto:tan_yee_yinn_tracy@moe.edu.sg" target="">Mrs Tracy Wong</a></td>
 <td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
