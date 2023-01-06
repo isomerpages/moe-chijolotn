@@ -497,12 +497,12 @@ description: ""
 <td><a href="mailto:ang_i-ling@moe.edu.sg" target="">Mdm Ang I-Ling</a></td>
 <td><a href="mailto:kenett_wong_tick_woon@moe.edu.sg" target="">Mr Kenett Wong</a></td>
 <td><a href="mailto:chern_shihui_charissa@moe.edu.sg" target="">Mrs Charissa Tan</a></td>
-<td><a href="mailto:neo_wei_keong_alphonsus@moe.edu.sg" target="">Mr Alphonsus Neo</a></td>
+<td><a href="mailto:nai_ting-tiang_jacqueline@moe.edu.sg" target="">Mrs Jacqueline Nai</a></td>
 <td><a href="mailto:siaw_yee_looi@moe.edu.sg" target="">Mdm Elaine Siaw</a></td>
-<td><a href="mailto:tan_shin_shin_helen@moe.edu.sg" target="">Ms Helen Tan</a></td>
-<td><a href="mailto:wong_wendy@moe.edu.sg" target="">Ms Wendy Wong</a></td>
-<td><a href="mailto:njoo_kiat_chong_edwin@moe.edu.sg" target="">Mr Edwin Njoo</a></td>
-<td><a href="mailto:ng_hui_qi@moe.edu.sg" target="">Ms Ng Hui Qi</a></td>
+<td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
+<td><a href="mailto:lena_teo@moe.edu.sg" target="">Mrs Lena Teo</a></td>
+<td><a href="mailto:kenett_wong_tick_woon@moe.edu.sg" target="">Mr Kenett Wong</a></td>
+<td><a href="mailto:siaw_yee_looi@moe.edu.sg" target="">Mdm Elaine Siaw</a></td>
 </tr>
 <tr>
 <td><strong>5 Peace</strong></td>
