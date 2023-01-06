@@ -446,8 +446,8 @@ description: ""
 </tr>
 <tr>
 <td><strong>5 Faith</strong></td>
-<td><a href="mailto:tan_lee_hoon@moe.edu.sg" target="">Mdm Audrey Tan</a></td>
-<td><a href="mailto:yuvaraj_thenmozhi@moe.edu.sg" target="">Mrs Yuvaraj</a></td>
+<td><a href="mailto:chong_lai_kuan@moe.edu.sg" target="">Ms Joanne Chong</a></td>
+<td><a href="mailto:yong_ann_chie@moe.edu.sg" target="">Ms Yong Ann Chie</a></td>
 <td><a href="mailto:kiranjit_kaur_a@moe.edu.sg" target="">Mrs Kiranjit Singh</a></td>
 <td><a href="mailto:tan_lee_hoon@moe.edu.sg" target="">Mdm Audrey Tan</a></td>
 <td><a href="mailto:lim_soo_mei_serena@moe.edu.sg" target="">Mrs Serena Lee</a></td>
