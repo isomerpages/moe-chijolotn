@@ -206,13 +206,13 @@ description: ""
 </tr>
 <tr>
 <td><strong>2 Truth</strong></td>
-<td><a href="mailto:sum_qiu_mei_sharon@moe.edu.sg" target="">Mrs Sharon Lai</a></td>
-<td><a href="mailto:nurfaldillah_hussain@moe.edu.sg" target="">Mrs Birkan</a></td>
-<td><a href="mailto:nurfaldillah_hussain@moe.edu.sg" target="">Mrs Birkan</a></td>
-<td><a href="mailto:nurfaldillah_hussain@moe.edu.sg" target="">Mrs Birkan</a></td>
+<td><a href="mailto:joycelyn_agnes_ferdinand_john@moe.edu.sg" target="">Mrs Joycelyn Trevor</a></td>
+<td><a href="mailto:foo_weng_heng_fiona@moe.edu.sg" target="">Mdm Fiona Foo</a></td>
+<td><a href="mailto:joycelyn_agnes_ferdinand_john@moe.edu.sg" target="">Mrs Joycelyn Trevor</a></td>
+<td><a href="mailto:raniah_mohd_noor@moe.edu.sg" target="">Mdm Raniah</a></td>
 <td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
-<td><a href="mailto:sum_qiu_mei_sharon@moe.edu.sg" target="">Mrs Sharon Lai</a></td>
-<td><a href="mailto:zanizam_zaini@moe.edu.sg" target="">Mr Zanizam Zaini</a></td>
+<td><a href="mailto:wong_wendy@moe.edu.sg" target="">Ms Wendy Wong</a></td>
+<td><a href="mailto:foo_weng_heng_fiona@moe.edu.sg" target="">Mdm Fiona Foo</a></td>
 <td><a href="mailto:nurathirah_md_sharoni@moe.edu.sg" target="">Mdm Thirah</a></td>
 </tr>
 </tbody>
