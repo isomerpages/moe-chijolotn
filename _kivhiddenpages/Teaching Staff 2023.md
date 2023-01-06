@@ -450,11 +450,11 @@ description: ""
 <td><a href="mailto:yong_ann_chie@moe.edu.sg" target="">Ms Yong Ann Chie</a></td>
 <td><a href="mailto:chong_lai_kuan@moe.edu.sg" target="">Ms Joanne Chong</a></td>
 <td><a href="mailto:joseph_lim@moe.edu.sg" target="">Mr Joseph Lim</a></td>
-<td><a href="mailto:lim_soo_mei_serena@moe.edu.sg" target="">Mrs Serena Lee</a></td>
+<td><a href="mailto:chong_lai_kuan@moe.edu.sg" target="">Ms Joanne Chong</a></td>
 <td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
-<td><a href="mailto:wong_wendy@moe.edu.sg" target="">Ms Wendy Wong</a></td>
-<td><a href="mailto:zanizam_zaini@moe.edu.sg" target="">Mr Zanizam Zaini</a></td>
-<td><a href="mailto:cao_yexin@moe.edu.sg" target="">Ms Cao Yexin</a></td>
+<td><a href="mailto:sum_qiu_mei_sharon@moe.edu.sg" target="">Mrs Sharon Lai</a></td>
+<td><a href="mailto:njoo_kiat_chong_edwin@moe.edu.sg" target="">Mr Edwin Njoo</a></td>
+<td><a href="mailto:siaw_yee_looi@moe.edu.sg" target="">Mdm Elaine Siaw</a></td>
 </tr>
 <tr>
 <td><strong>5 Grace</strong></td>
