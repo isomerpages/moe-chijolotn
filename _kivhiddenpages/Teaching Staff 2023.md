@@ -392,9 +392,9 @@ description: ""
 <td><strong>4 Love</strong></td>
 <td><a href="mailto:neo_wei_keong_alphonsus@moe.edu.sg" target="">Mr Alphonsus Neo</a></td>
 <td><a href="mailto:heng_meow_ern@moe.edu.sg" target="">Ms Heng Meow Ern</a></td>
-<td><a href="mailto:seow_lishan_cabrina_frances@moe.edu.sg" target="">Ms Cabrina Seow</a></td>
-<td><a href="mailto:veronica_lim_chuay_suan@moe.edu.sg" target="">Mrs Veronica Lim</a></td>
-<td><a href="mailto:tan_yee_yinn_tracy@moe.edu.sg" target="">Mrs Tracy Wong</a></td>
+<td><a href="mailto:neo_wei_keong_alphonsus@moe.edu.sg" target="">Mr Alphonsus Neo</a></td>
+<td><a href="mailto:neo_wei_keong_alphonsus@moe.edu.sg" target="">Mr Alphonsus Neo</a></td>
+<td><a href="mailto:siaw_yee_looi@moe.edu.sg" target="">Mdm Elaine Siaw</a></td>
 <td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Yin</a></td>
 <td><a href="mailto:sum_qiu_mei_sharon@moe.edu.sg" target="">Mrs Sharon Lai</a></td>
 <td><a href="mailto:kenett_wong_tick_woon@moe.edu.sg" target="">Mr Kenett Wong</a></td>
