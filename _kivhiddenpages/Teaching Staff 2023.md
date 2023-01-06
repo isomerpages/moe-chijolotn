@@ -402,13 +402,13 @@ description: ""
 </tr>
 <tr>
 <td><strong>4 Peace</strong></td>
-<td><a href="mailto:nur_ilyana_mohamed_anwar@moe.edu.sg" target="">Mdm Nur Ilyana</a></td>
-<td><a href="mailto:chew_min_xuan@moe.edu.sg" target="">Mr Chew Min Xuan</a></td>
-<td><a href="mailto:chew_min_xuan@moe.edu.sg" target="">Mr Chew Min Xuan</a></td>
-<td><a href="mailto:chew_min_xuan@moe.edu.sg" target="">Mr Chew Min Xuan</a></td>
-<td><a href="mailto:toh_ai_di_eadelin@moe.edu.sg" target="">Mrs Eadelin Marzinek</a></td>
-<td><a href="mailto:tan_shin_shin_helen@moe.edu.sg" target="">Ms Helen Tan</a></td>
-<td><a href="mailto:nur_ilyana_mohamed_anwar@moe.edu.sg" target="">Mdm Nur Ilyana</a></td>
+<td><a href="mailto:muhammad_nazri_subawi@moe.edu.sg" target="">Mr Muhammad Nazri</a></td>
+<td><a href="mailto:nai_ting-tiang_jacqueline@moe.edu.sg" target="">Mrs Jacqueline Nai</a></td>
+<td><a href="mailto:sarina_md_ismail@moe.edu.sg" target="">Ms Sarina</a></td>
+<td><a href="mailto:nai_ting-tiang_jacqueline@moe.edu.sg" target="">Mrs Jacqueline Nai</a></td>
+<td><a href="mailto:norlela_ahmad@moe.edu.sg" target="">Mdm Norlela</a></td>
+<td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
+<td><a href="mailto:lena_teo@moe.edu.sg" target="">Mrs Lena Teo</a></td>
 <td><a href="mailto:muhammad_nazri_subawi@moe.edu.sg" target="">Mr Muhammad Nazri</a></td>
 <td><a href="mailto:sim_fatimah_mohammed@moe.edu.sg" target="">Ms Fatimah Sim</a></td>
 </tr>
