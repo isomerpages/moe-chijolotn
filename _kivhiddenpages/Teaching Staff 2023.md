@@ -562,7 +562,7 @@ description: ""
 </tr>
 <tr>
 <td><strong>6 Grace</strong></td>
-<td><a href="mailto:bao_hong@moe.edu.sg" target="">Mdm Bao Hong</a></td>
+<td><a href="mailto:lim_soo_mei_serena@moe.edu.sg" target="">Mrs Serena Lee</a></td>
 <td><a href="mailto:low_tze_lin_vanessa@moe.edu.sg" target="">Mrs Vanessa Tan</a></td>
 <td><a href="mailto:chern_shihui_charissa@moe.edu.sg" target="">Ms Charissa Chern</a></td>
 <td><a href="mailto:low_tze_lin_vanessa@moe.edu.sg" target="">Mrs Vanessa Tan</a></td>
