@@ -494,9 +494,9 @@ description: ""
 </tr>
 <tr>
 <td><strong>5 Love</strong></td>
-<td><a href="mailto:wan_yin_seong_angela@moe.edu.sg" target="">Ms Angela Wan</a></td>
-<td><a href="mailto:siaw_yee_looi@moe.edu.sg" target="">Mdm Elaine Siaw</a></td>
-<td><a href="mailto:wan_yin_seong_angela@moe.edu.sg" target="">Ms Angela Wan</a></td>
+<td><a href="mailto:ang_i-ling@moe.edu.sg" target="">Mdm Ang I-Ling</a></td>
+<td><a href="mailto:kenett_wong_tick_woon@moe.edu.sg" target="">Mr Kenett Wong</a></td>
+<td><a href="mailto:chern_shihui_charissa@moe.edu.sg" target="">Mrs Charissa Tan</a></td>
 <td><a href="mailto:neo_wei_keong_alphonsus@moe.edu.sg" target="">Mr Alphonsus Neo</a></td>
 <td><a href="mailto:siaw_yee_looi@moe.edu.sg" target="">Mdm Elaine Siaw</a></td>
 <td><a href="mailto:tan_shin_shin_helen@moe.edu.sg" target="">Ms Helen Tan</a></td>
