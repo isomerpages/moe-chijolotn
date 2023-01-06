@@ -213,7 +213,7 @@ description: ""
 <td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
 <td><a href="mailto:wong_wendy@moe.edu.sg" target="">Ms Wendy Wong</a></td>
 <td><a href="mailto:foo_weng_heng_fiona@moe.edu.sg" target="">Mdm Fiona Foo</a></td>
-<td><a href="mailto:nurathirah_md_sharoni@moe.edu.sg" target="">Mdm Thirah</a></td>
+<td><a href="mailto:julie_diana_chia_ai@moe.edu.sg" target="">Mdm Julia Diana</a></td>
 </tr>
 </tbody>
 </table>
