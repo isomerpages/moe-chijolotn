@@ -8,7 +8,7 @@ description: ""
 <tr>
 <td style="width: 80%;" style="text-align:left;">
 <h4><strong>Our Founder - Blessed Nicolas Barr&eacute;</strong><br /><strong>Early Life</strong></h4>
-<p>Nicolas Barr&eacute; was born in Amiens, France on 21 October 1621, the first-born and only son to Louis and Antoinette Barr&eacute;. He grew up in a wealthy merchant family and was educated at a Jesuit college in his hometown. As a young child, he had a deep sense of God. When one of his sisters fell ill, his strong faith in God and prayers led to her recovery.</p>
+<p style="text-align:left;" >Nicolas Barr&eacute; was born in Amiens, France on 21 October 1621, the first-born and only son to Louis and Antoinette Barr&eacute;. He grew up in a wealthy merchant family and was educated at a Jesuit college in his hometown. As a young child, he had a deep sense of God. When one of his sisters fell ill, his strong faith in God and prayers led to her recovery.</p>
 </td>
 <td style="width: 20%;">
 <img src="/images/father.png">
