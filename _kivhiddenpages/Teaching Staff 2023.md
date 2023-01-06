@@ -184,14 +184,14 @@ description: ""
 </tr>
 <tr>
 <td><strong>2 Love</strong></td>
-<td><a href="mailto:foo_weng_heng_fiona@moe.edu.sg" target="">Mdm Fiona Foo</a></td>
-<td><a href="mailto:chia_ley_chin_lynette@moe.edu.sg" target="">Mrs Lynette Lim</a></td>
-<td><a href="mailto:chia_ley_chin_lynette@moe.edu.sg" target="">Mrs Lynette Lim</a></td>
-<td><a href="mailto:chia_ley_chin_lynette@moe.edu.sg" target="">Mrs Lynette Lim</a></td>
+<td><a href="mailto:kwa_lay_khim_stephanie@moe.edu.sg" target="">Mrs Stephanie Ho</a></td>
+<td><a href="mailto:low-tay_lee_pheng_teresa@moe.edu.sg" target="">Mrs Teresa Low</a></td>
+<td><a href="mailto:kwa_lay_khim_stephanie@moe.edu.sg" target="">Mrs Stephanie Ho</a></td>
+<td><a href="mailto:kwa_lay_khim_stephanie@moe.edu.sg" target="">Mrs Stephanie Ho</a></td>
 <td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
-<td><a href="mailto:nur_ilyana_mohamed_anwar@moe.edu.sg" target="">Mdm Nur Ilyana</a></td>
-<td><a href="mailto:foo_weng_heng_fiona@moe.edu.sg" target="">Mdm Fiona Foo</a></td>
-<td><a href="mailto:chia_ley_chin_lynette@moe.edu.sg" target="">Mrs Lynette Lim</a></td>
+<td><a href="mailto:sum_qiu_mei_sharon@moe.edu.sg" target="">Mrs Sharon Lai</a></td>
+<td><a href="mailto:tan_hwee_khoon_a@moe.edu.sg" target="">Mrs Lee Hwee Khoon</a></td>
+<td><a href="mailto:kwa_lay_khim_stephanie@moe.edu.sg" target="">Mrs Stephanie Ho</a></td>
 </tr>
 <tr>
 <td><strong>2 Peace</strong></td>
