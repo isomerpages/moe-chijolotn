@@ -597,16 +597,16 @@ description: ""
 <td><a href="mailto:chen_yingru@moe.edu.sg" target="">Mrs Sim Yingru</a></td>
 </tr>
 <tr>
-<td><strong>6 Love</strong></td>
-<td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
-<td><a href="mailto:sarina_md_ismail@moe.edu.sg" target="">Ms Sarina</a></td>
-<td><a href="mailto:sarina_md_ismail@moe.edu.sg" target="">Ms Sarina</a></td>
-<td><a href="mailto:ho_pancy@moe.edu.sg" target="">Ms Pancy Ho</a></td>
-<td><a href="mailto:chen_yingru@moe.edu.sg" target="">Mrs Sim Yingru</a></td>
-<td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
-<td><a href="mailto:nur_ilyana_mohamed_anwar@moe.edu.sg" target="">Mdm Nur Ilyana</a></td>
-<td><a href="mailto:muhammad_nazri_subawi@moe.edu.sg" target="">Mr Muhammad Nazri</a></td>
-<td><a href="mailto:brindha_menon_siva_kumar@moe.edu.sg" target="">Mrs Shoban</a></td>
+<td><strong>5 Love</strong></td>
+<td><a href="mailto:wan_yin_seong_angela@moe.edu.sg" target="">Ms Angela Wan</a></td>
+<td><a href="mailto:siaw_yee_looi@moe.edu.sg" target="">Mdm Elaine Siaw</a></td>
+<td><a href="mailto:wan_yin_seong_angela@moe.edu.sg" target="">Ms Angela Wan</a></td>
+<td><a href="mailto:neo_wei_keong_alphonsus@moe.edu.sg" target="">Mr Alphonsus Neo</a></td>
+<td><a href="mailto:siaw_yee_looi@moe.edu.sg" target="">Mdm Elaine Siaw</a></td>
+<td><a href="mailto:tan_shin_shin_helen@moe.edu.sg" target="">Ms Helen Tan</a></td>
+<td><a href="mailto:wong_wendy@moe.edu.sg" target="">Ms Wendy Wong</a></td>
+<td><a href="mailto:njoo_kiat_chong_edwin@moe.edu.sg" target="">Mr Edwin Njoo</a></td>
+<td><a href="mailto:ng_hui_qi@moe.edu.sg" target="">Ms Ng Hui Qi</a></td>
 </tr>
 <tr>
 <td><strong>6 Peace</strong></td>
