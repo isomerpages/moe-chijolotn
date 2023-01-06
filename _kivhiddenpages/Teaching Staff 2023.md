@@ -352,7 +352,7 @@ description: ""
 </tr>
 <tr>
 <td><strong>4 Grace</strong></td>
-<td><a href="mailto:law_ee_peng@moe.edu.sg" target="">Ms Law Ee Peng</a></td>
+<td><a href="mailto:farhanna_zainal@moe.edu.sg" target="">Mdm Farhanna</a></td>
 <td><a href="mailto:tan_shin_shin_helen@moe.edu.sg" target="">Ms Helen Tan</a></td>
 <td><a href="mailto:sim_fatimah_mohammed@moe.edu.sg" target="">Ms Fatimah Sim</a></td>
 <td><a href="mailto:law_ee_peng@moe.edu.sg" target="">Ms Law Ee Peng</a></td>
