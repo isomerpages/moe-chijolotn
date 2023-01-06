@@ -414,15 +414,15 @@ description: ""
 </tr>
 <tr>
 <td><strong>4 Truth</strong></td>
-<td><a href="mailto:illiany_suhaily_mohamed_juhri@moe.edu.sg" target="">Ms Illiany</a></td>
+<td><a href="mailto:norlela_ahmad@moe.edu.sg" target="">Mdm Norlela</a></td>
+<td><a href="mailto:sim_suat_lee@moe.edu.sg" target="">Mdm Sim Suat Lee</a></td>
+<td><a href="mailto:rabiah_begum_angullia_musa@moe.edu.sg" target="">Mdm Rabiah</a></td>
+<td><a href="mailto:tan_lee_lee@moe.edu.sg" target="">Ms Jaslyn Tan</a></td>
+<td><a href="mailto:norlela_ahmad@moe.edu.sg" target="">Mdm Norlela</a></td>
 <td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
-<td><a href="mailto:seow_lishan_cabrina_frances@moe.edu.sg" target="">Ms Cabrina Seow</a></td>
-<td><a href="mailto:chew_yin_sy@moe.edu.sg" target="">Mrs Kwek Yin Sy</a></td>
-<td><a href="mailto:chua_sze_li_adeline@moe.edu.sg" target="">Mdm Adeline Chua</a></td>
-<td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
-<td><a href="mailto:sum_qiu_mei_sharon@moe.edu.sg" target="">Mrs Sharon Lai</a></td>
+<td><a href="mailto:wong_wendy@moe.edu.sg" target="">Ms Wendy Wong</a></td>
 <td><a href="mailto:kenett_wong_tick_woon@moe.edu.sg" target="">Mr Kenett Wong</a></td>
-<td><a href="mailto:ng_seet_mei@moe.edu.sg" target="">Mrs Clara Ong</a></td>
+<td><a href="mailto:norlela_ahmad@moe.edu.sg" target="">Mdm Norlela</a></td>
 </tr>
 </tbody>
 </table>
