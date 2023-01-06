@@ -28,6 +28,8 @@ third_nav_title: General Information
 <li>Students must be neat and properly attired in their school uniform at all times, inside and outside school.</li>
 <li>Students are allowed to wear the school's PE T-shirt the whole day (under their pinafore) on days they have PE lessons.</li>
 <li>Students must have their iron-on name tags on their school uniform and PE attire.&nbsp;</li>
+	<li>If students attend SwimSafer lessons, they are to change into the school PE T-Shirt (under their pinafore) after the session.</li>
+	<li>Students who are going for camps should report to school in the PE/Camp T-Shirt and track pants. Swimming attire can be worm underneath the PE/CampT-Shirt if the first programme for teh day involves water-based activity</li>
 <li>Students are not allowed to wear any jewellery or accessories or bring any valuables to school.</li>
 <li>There should not be any display of religious accessories.</li>
 <li>Only plain black hair accessories are allowed.</li>
