@@ -156,7 +156,7 @@ third_nav_title: Our People
 </tr>
 <tr style="text-align: center;">
 <td>English Language</td>
-<td>Ms Charissa Chern</td>
+<td>Mrs Charissa Tan</td>
 <td>chern_shihui_charissa@moe.edu.sg</td>
 </tr>
 <tr style="text-align: center;">
