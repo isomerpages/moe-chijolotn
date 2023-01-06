@@ -550,15 +550,15 @@ description: ""
 </tr>
 <tr>
 <td><strong>6 Faith</strong></td>
-<td><a href="mailto:ng_hui_qi@moe.edu.sg" target="">Ms Ng Hui Qi</a></td>
-<td><a href="mailto:chern_shihui_charissa@moe.edu.sg" target="">Ms Charissa Chern</a></td>
-<td><a href="mailto:chern_shihui_charissa@moe.edu.sg" target="">Ms Charissa Chern</a></td>
-<td><a href="mailto:ng_hui_qi@moe.edu.sg" target="">Ms Ng Hui Qi</a></td>
-<td><a href="mailto:ng_hui_qi@moe.edu.sg" target="">Ms Ng Hui Qi</a></td>
-<td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
+<td><a href="mailto:tan_lee_hoon@moe.edu.sg" target="">Mdm Audrey Tan</a></td>
+<td><a href="mailto:yuvaraj_thenmozhi@moe.edu.sg" target="">Mrs Yuvaraj</a></td>
+<td><a href="mailto:kiranjit_kaur_a@moe.edu.sg" target="">Mrs Kiranjit Singh</a></td>
+<td><a href="mailto:tan_lee_hoon@moe.edu.sg" target="">Mdm Audrey Tan</a></td>
+<td><a href="mailto:lim_soo_mei_serena@moe.edu.sg" target="">Mrs Serena Lee</a></td>
+<td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
 <td><a href="mailto:wong_wendy@moe.edu.sg" target="">Ms Wendy Wong</a></td>
-<td><a href="mailto:kenett_wong_tick_woon@moe.edu.sg" target="">Mr Kenett Wong</a></td>
-<td><a href="mailto:ng_hui_qi@moe.edu.sg" target="">Ms Ng Hui Qi</a></td>
+<td><a href="mailto:zanizam_zaini@moe.edu.sg" target="">Mr Zanizam Zaini</a></td>
+<td><a href="mailto:cao_yexin@moe.edu.sg" target="">Ms Cao Yexin</a></td>
 </tr>
 <tr>
 <td><strong>6 Grace</strong></td>
