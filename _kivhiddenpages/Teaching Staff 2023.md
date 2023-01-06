@@ -366,15 +366,15 @@ description: ""
 </tr>
 <tr>
 <td><strong>4 Hope</strong></td>
-<td><a href="mailto:sim_fatimah_mohammed@moe.edu.sg" target="">Ms Fatimah Sim</a></td>
-<td><a href="mailto:wong_wendy@moe.edu.sg" target="">Ms Wendy Wong</a></td>
-<td><a href="mailto:sim_fatimah_mohammed@moe.edu.sg" target="">Ms Fatimah Sim</a></td>
-<td><a href="mailto:tan_lee_lee@moe.edu.sg" target="">Ms Jaslyn Tan</a></td>
+<td><a href="mailto:rabiah_begum_angullia_musa@moe.edu.sg" target="">Mdm Rabiah</a></td>
+<td><a href="mailto:tan_shin_shin_helen@moe.edu.sg" target="">Ms Helen Tan</a></td>
+<td><a href="mailto:rabiah_begum_angullia_musa@moe.edu.sg" target="">Mdm Rabiah</a></td>
+<td><a href="mailto:law_ee_peng@moe.edu.sg" target="">Ms Law Ee Peng</a></td>
 <td><a href="mailto:toh_ai_di_eadelin@moe.edu.sg" target="">Mrs Eadelin Marzinek</a></td>
 <td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
 <td><a href="mailto:wong_wendy@moe.edu.sg" target="">Ms Wendy Wong</a></td>
 <td><a href="mailto:foo_weng_heng_fiona@moe.edu.sg" target="">Mdm Fiona Foo</a></td>
-<td><a href="mailto:aileen_yap_hui_ling@moe.edu.sg" target="">Ms Aileen Yap</a></td>
+<td><a href="mailto:rabiah_begum_angullia_musa@moe.edu.sg" target="">Mdm Rabiah</a></td>
 </tr>
 <tr>
 <td><strong>4 Joy</strong></td>
