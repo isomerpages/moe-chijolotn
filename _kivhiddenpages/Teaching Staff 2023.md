@@ -81,11 +81,11 @@ description: ""
 <td><a href="mailto:raniah_mohd_noor@moe.edu.sg" target="">Mdm Raniah</a></td>
 <td><a href="mailto:jin_xiumei@moe.edu.sg" target="">Mdm Jin Xiumei</a></td>
 <td><a href="mailto:tan_siew_choo_cynthia@moe.edu.sg" target="">Ms Cynthia Tan</a></td>
-<td><a href="mailto:kwa_lay_khim_stephanie@moe.edu.sg" target="">Mrs Stephanie Ho</a></td>
+<td><a href="mailto:raniah_mohd_noor@moe.edu.sg" target="">Mdm Raniah</a></td>
 <td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
 <td><a href="mailto:sum_qiu_mei_sharon@moe.edu.sg" target="">Mrs Sharon Lai</a></td>
-<td><a href="mailto:tan_hwee_khoon_a@moe.edu.sg" target="">Mrs Lee Hwee Khoon</a></td>
-<td><a href="mailto:aileen_yap_hui_ling@moe.edu.sg" target="">Ms Aileen Yap</a></td>
+<td><a href="mailto:poh_shi_ling_edna@moe.edu.sg" target="">Ms Edna Poh</a></td>
+<td><a href="mailto:raniah_mohd_noor@moe.edu.sg" target="">Mdm Raniah</a></td>
 </tr>
 <tr>
 <td><strong>1 Peace</strong></td>
