@@ -57,13 +57,13 @@ description: ""
 <tr>
 <td><strong>1 Hope</strong></td>
 <td><a href="mailto:tan_hwee_khoon_a@moe.edu.sg" target="">Mrs Lee Hwee Khoon</a></td>
-<td><a href="mailto:adeline_enriquez@moe.edu.sg" target="">Mrs Adeline Enriquez</a></td>
-<td><a href="mailto:adeline_enriquez@moe.edu.sg" target="">Mrs Adeline Enriquez</a></td>
-<td><a href="mailto:adeline_enriquez@moe.edu.sg" target="">Mrs Adeline Enriquez</a></td>
-<td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
-<td><a href="mailto:nur_safikha_abdul_ghapar@moe.edu.sg" target="">Mdm Nur Safikha</a></td>
+<td><a href="mailto:wong_hui_erl@moe.edu.sg" target="">Mrs Ngoh Hui Erl</a></td>
+<td><a href="mailto:wong_hui_erl@moe.edu.sg" target="">Mrs Ngoh Hui Erl</a></td>
+<td><a href="mailto:wong_hui_erl@moe.edu.sg" target="">Mrs Ngoh Hui Erl</a></td>
+<td><a href="mailto:tan_shin_shin_helen@moe.edu.sg" target="">Ms Helen Tan</a></td>
+<td><a href="mailto:sum_qiu_mei_sharon@moe.edu.sg" target="">Mrs Sharon Lai</a></td>
 <td><a href="mailto:tan_hwee_khoon_a@moe.edu.sg" target="">Mrs Lee Hwee Khoon</a></td>
-<td><a href="mailto:nurfaldillah_hussain@moe.edu.sg" target="">Mrs Birkan</a></td>
+<td><a href="mailto:aileen_yap_hui_ling@moe.edu.sg" target="">Ms Aileen Yap</a></td>
 </tr>
 <tr>
 <td><strong>1 Joy</strong></td>
