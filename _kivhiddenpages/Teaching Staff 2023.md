@@ -210,7 +210,7 @@ description: ""
 <td><a href="mailto:foo_weng_heng_fiona@moe.edu.sg" target="">Mdm Fiona Foo</a></td>
 <td><a href="mailto:joycelyn_agnes_ferdinand_john@moe.edu.sg" target="">Mrs Joycelyn Trevor</a></td>
 <td><a href="mailto:raniah_mohd_noor@moe.edu.sg" target="">Mdm Raniah</a></td>
-<td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
+<td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
 <td><a href="mailto:wong_wendy@moe.edu.sg" target="">Ms Wendy Wong</a></td>
 <td><a href="mailto:foo_weng_heng_fiona@moe.edu.sg" target="">Mdm Fiona Foo</a></td>
 <td><a href="mailto:julie_diana_chia_ai@moe.edu.sg" target="">Mdm Julia Diana</a></td>
