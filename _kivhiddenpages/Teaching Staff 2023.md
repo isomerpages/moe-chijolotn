@@ -612,13 +612,13 @@ description: ""
 <td><strong>6 Peace</strong></td>
 <td><a href="mailto:peh_bee_leng@moe.edu.sg" target="">Mdm Peh Bee Leng</a></td>
 <td><a href="mailto:sky_frank@moe.edu.sg" target="">Mrs Sky Frank</a></td>
-<td><a href="mailto:wong_zhi_wei_amanda@moe.edu.sg" target="">Mrs Amanda Wong</a></td>
+<td><a href="mailto:sky_frank@moe.edu.sg" target="">Mrs Sky Frank</a></td>
 <td><a href="mailto:chong_sheau_huey@moe.edu.sg" target="">Mrs Tan Sheau Huey</a></td>
-<td><a href="mailto:wong_zhi_wei_amanda@moe.edu.sg" target="">Mrs Amanda Wong</a></td>
-<td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
-<td><a href="mailto:wong_wendy@moe.edu.sg" target="">Ms Wendy Wong</a></td>
-<td><a href="mailto:kenett_wong_tick_woon@moe.edu.sg" target="">Mr Kenett Wong</a></td>
-<td><a href="mailto:wong_zhi_wei_amanda@moe.edu.sg" target="">Mrs Amanda Wong</a></td>
+<td><a href="mailto:chong_lai_kuan@moe.edu.sg" target="">Ms Joanne Chong</a></td>
+<td><a href="mailto:tan_shin_shin_helen@moe.edu.sg" target="">Ms Helen Tan</a></td>
+<td><a href="mailto:sum_qiu_mei_sharon@moe.edu.sg" target="">Mrs Sharon Lai</a></td>
+<td><a href="mailto:tan_hwee_khoon_a@moe.edu.sg" target="">Mrs Lee Hwee Khoon</a></td>
+<td><a href="mailto:chong_lai_kuan@moe.edu.sg" target="">Ms Joanne Chong</a></td>
 </tr>
 <tr>
 <td><strong>6 Truth</strong></td>
