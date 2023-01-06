@@ -89,13 +89,13 @@ description: ""
 </tr>
 <tr>
 <td><strong>1 Peace</strong></td>
-<td><a href="mailto:ng_seet_mei@moe.edu.sg" target="">Mrs Clara Ong</a></td>
-<td><a href="mailto:kasturi_gnanachegaran@moe.edu.sg" target="">Ms Kasturi</a></td>
-<td><a href="mailto:ng_seet_mei@moe.edu.sg" target="">Mrs Clara Ong</a></td>
-<td><a href="mailto:ng_seet_mei@moe.edu.sg" target="">Mrs Clara Ong</a></td>
-<td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
-<td><a href="mailto:nur_safikha_abdul_ghapar@moe.edu.sg" target="">Mdm Nur Safikha</a></td>
-<td><a href="mailto:poh_shi_ling_edna@moe.edu.sg" target="">Ms Edna Poh</a></td>
+<td><a href="mailto:sum_qiu_mei_sharon@moe.edu.sg" target="">Mrs Sharon Lai</a></td>
+<td><a href="mailto:chia_ley_chin_lynette@moe.edu.sg" target="">Mrs Lynette Lim</a></td>
+<td><a href="mailto:chia_ley_chin_lynette@moe.edu.sg" target="">Mrs Lynette Lim</a></td>
+<td><a href="mailto:chia_ley_chin_lynette@moe.edu.sg" target="">Mrs Lynette Lim</a></td>
+<td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
+<td><a href="mailto:sum_qiu_mei_sharon@moe.edu.sg" target="">Mrs Sharon Lai</a></td>
+<td><a href="mailto:foo_weng_heng_fiona@moe.edu.sg" target="">Mdm Fiona Foo</a></td>
 <td><a href="mailto:laura_ann_netto@moe.edu.sg" target="">Mrs Laura Stephen</a></td>
 </tr>
 <tr>
