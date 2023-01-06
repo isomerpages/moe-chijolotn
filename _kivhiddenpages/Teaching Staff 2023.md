@@ -594,7 +594,7 @@ description: ""
 <td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
 <td><a href="mailto:sum_qiu_mei_sharon@moe.edu.sg" target="">Mrs Sharon Lai</a></td>
 <td><a href="mailto:muhammad_nazri_subawi@moe.edu.sg" target="">Mr Muhammad Nazri</a></td>
-<td><a href="mailto:chen_yingru@moe.edu.sg" target="">Mrs Sim Yingru</a></td>
+<td><a href="mailto:sharon_jodi@moe.edu.sg" target="">Ms Sharon Jodi</a></td>
 </tr>
 <tr>
 <td><strong>6 Love</strong></td>
