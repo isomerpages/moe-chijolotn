@@ -464,9 +464,9 @@ description: ""
 <td><a href="mailto:woo_kah_wai@moe.edu.sg" target="">Ms Wendy Woo</a></td>
 <td><a href="mailto:tan_yee_yinn_tracy@moe.edu.sg" target="">Mrs Tracy Wong</a></td>
 <td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
-<td><a href="mailto:nur_ilyana_mohamed_anwar@moe.edu.sg" target="">Mdm Nur Ilyana</a></td>
-<td><a href="mailto:kenett_wong_tick_woon@moe.edu.sg" target="">Mr Kenett Wong</a></td>
-<td><a href="mailto:toh_ai_di_eadelin@moe.edu.sg" target="">Mrs Eadelin Marzinek</a></td>
+<td><a href="mailto:sum_qiu_mei_sharon@moe.edu.sg" target="">Mrs Sharon Lai</a></td>
+<td><a href="mailto:muhammad_nazri_subawi@moe.edu.sg" target="">Mr Muhammad Nazri</a></td>
+<td><a href="mailto:tan_yee_yinn_tracy@moe.edu.sg" target="">Mrs Tracy Wong</a></td>
 </tr>
 <tr>
 <td><strong>5 Hope</strong></td>
