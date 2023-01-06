@@ -343,11 +343,11 @@ description: ""
 <td><a href="mailto:poh_shi_ling_edna@moe.edu.sg" target="">Ms Edna Poh</a></td>
 <td><a href="mailto:voo_ke_rui@moe.edu.sg" target="">Mdm Joy Voo</a></td>
 <td><a href="mailto:voo_ke_rui@moe.edu.sg" target="">Mdm Joy Voo</a></td>
-<td><a href="mailto:chua_sze_li_adeline@moe.edu.sg" target="">Mdm Adeline Chua</a></td>
-<td><a href="mailto:tan_yee_yinn_tracy@moe.edu.sg" target="">Mrs Tracy Wong</a></td>
+<td><a href="mailto:tan_cheh_hia@moe.edu.sg" target="">Mrs Tan Cheh Hia</a></td>
+<td><a href="mailto:voo_ke_rui@moe.edu.sg" target="">Mdm Joy Voo</a></td>
 <td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
 <td><a href="mailto:sum_qiu_mei_sharon@moe.edu.sg" target="">Mrs Sharon Lai</a></td>
-<td><a href="mailto:foo_weng_heng_fiona@moe.edu.sg" target="">Mdm Fiona Foo</a></td>
+<td><a href="mailto:poh_shi_ling_edna@moe.edu.sg" target="">Ms Edna Poh</a></td>
 <td><a href="mailto:masturah_salman@moe.edu.sg" target="">Mrs Masturah Azman</a></td>
 </tr>
 <tr>
