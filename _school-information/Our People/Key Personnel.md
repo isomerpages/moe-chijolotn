@@ -195,11 +195,15 @@ third_nav_title: Our People
 <td >Mrs Tan Cheh Hia</td>
 <td >tan_cheh_hia@moe.edu.sg</td>
 </tr>
-
 <tr style="text-align: center;">
 <td>Chinese Language</td>
 <td>Mdm Yang Wenxia</td>
 <td>yang_wenxia@moe.edu.sg</td>
+</tr>
+	<tr style="text-align: center;">
+<td>Character & Citizenship Education (CCE)</td>
+<td>Mrs Ngoh Hui Erl</td>
+<td>wong_hui_erl@moe.edu.sg</td>
 </tr>
 </tbody>
 </table>
