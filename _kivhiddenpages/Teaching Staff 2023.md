@@ -34,9 +34,9 @@ description: ""
 </tr>
 <tr>
 <td><strong>1 Faith</strong></td>
-<td><a href="mailto:zuwaria_parvin@moe.edu.sg" target="">Mdm Parvin</a></td>
-<td><a href="mailto:hang_yun@moe.edu.sg" target="">Mdm Hang Yun</a></td>
-<td><a href="mailto:zuwaria_parvin@moe.edu.sg" target="">Mdm Parvin</a></td>
+<td><a href="mailto:oh_wah_gee@moe.edu.sg" target="">Mrs Cindy Oh</a></td>
+<td><a href="mailto:a_sumathi@moe.edu.sg" target="">Miss A Sumathi</a></td>
+<td><a href="mailto:oh_wah_gee@moe.edu.sg" target="">Mrs Cindy Oh</a></td>
 <td><a href="mailto:goh_sing_hwee_eileen@moe.edu.sg" target="">Mrs Eileen Goh</a></td>
 <td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
 <td><a href="mailto:sum_qiu_mei_sharon@moe.edu.sg" target="">Mrs Sharon Lai</a></td>
