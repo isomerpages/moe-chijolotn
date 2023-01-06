@@ -622,14 +622,14 @@ description: ""
 </tr>
 <tr>
 <td><strong>6 Truth</strong></td>
-<td><a href="mailto:png_lay_koon_josephine@moe.edu.sg" target="">Mrs Josephine Raj</a></td>
-<td><a href="mailto:ho_pancy@moe.edu.sg" target="">Ms Pancy Ho</a></td>
-<td><a href="mailto:png_lay_koon_josephine@moe.edu.sg" target="">Mrs Josephine Raj</a></td>
-<td><a href="mailto:low_tze_lin_vanessa@moe.edu.sg" target="">Mrs Vanessa Tan</a>&nbsp;/<br /><a href="mailto:khoo_may_ying_elaine@moe.edu.sg" target="">Ms Elaine Khoo</a></td>
+<td><a href="mailto:noor_hayati_yusof@moe.edu.sg" target="">Mdm Noor Hayati Yusof</a></td>
+<td><a href="mailto:chew_yin_sy@moe.edu.sg" target="">Mrs Kwek Yin Sy</a></td>
+<td><a href="mailto:noor_hayati_yusof@moe.edu.sg" target="">Mdm Noor Hayati Yusof</a></td>
+<td><a href="mailto:chew_yin_sy@moe.edu.sg" target="">Mrs Kwek Yin Sy</a></td>
 <td><a href="mailto:norlela_ahmad@moe.edu.sg" target="">Mdm Norlela</a></td>
-<td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
-<td><a href="mailto:nur_ilyana_mohamed_anwar@moe.edu.sg" target="">Mdm Nur Ilyana</a></td>
-<td><a href="mailto:muhammad_nazri_subawi@moe.edu.sg" target="">Mr Muhammad Nazri</a></td>
+<td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
+<td><a href="mailto:nur_safikha_abdul_ghapar@moe.edu.sg" target="">Mdm Nur Safikha</a></td>
+<td><a href="mailto:njoo_kiat_chong_edwin@moe.edu.sg" target="">Mr Edwin Njoo</a></td>
 <td><a href="mailto:norlela_ahmad@moe.edu.sg" target="">Mdm Norlela</a></td>
 </tr>
 </tbody>
