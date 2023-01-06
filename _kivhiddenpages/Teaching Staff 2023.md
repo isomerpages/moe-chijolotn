@@ -610,15 +610,15 @@ description: ""
 </tr>
 <tr>
 <td><strong>6 Peace</strong></td>
-<td><a href="mailto:tan_cheh_hia@moe.edu.sg" target="">Mrs Tan Cheh Hia</a></td>
-<td><a href="mailto:heng_ai_ling@moe.edu.sg" target="">Mdm Heng Ai Ling</a></td>
-<td><a href="mailto:png_lay_koon_josephine@moe.edu.sg" target="">Mrs Josephine Raj</a></td>
-<td><a href="mailto:tan_cheh_hia@moe.edu.sg" target="">Mrs Tan Cheh Hia</a>&nbsp;/<br /><a href="mailto:chong_sheau_huey@moe.edu.sg" target="">Mrs Tan Sheau Huey</a></td>
 <td><a href="mailto:wong_zhi_wei_amanda@moe.edu.sg" target="">Mrs Amanda Wong</a></td>
-<td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
+<td><a href="mailto:peh_bee_leng@moe.edu.sg" target="">Mdm Peh Bee Leng</a>&nbsp;</td>
+<td><a href="mailto:wong_zhi_wei_amanda@moe.edu.sg" target="">Mrs Amanda Wong</a></td>
+<td><a href="mailto:chong_sheau_huey@moe.edu.sg" target="">Mrs Tan Sheau Huey</a>&nbsp;/<br /><a href="mailto:tan_lee_lee@moe.edu.sg" target="">Ms Jaslyn Tan</a></td>
+<td><a href="mailto:wong_zhi_wei_amanda@moe.edu.sg" target="">Mrs Amanda Wong</a></td>
+<td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
 <td><a href="mailto:wong_wendy@moe.edu.sg" target="">Ms Wendy Wong</a></td>
-<td><a href="mailto:njoo_kiat_chong_edwin@moe.edu.sg" target="">Mr Edwin Njoo</a></td>
-<td><a href="mailto:tan_cheh_hia@moe.edu.sg" target="">Mrs Tan Cheh Hia</a></td>
+<td><a href="mailto:kenett_wong_tick_woon@moe.edu.sg" target="">Mr Kenett Wong</a></td>
+<td><a href="mailto:wong_zhi_wei_amanda@moe.edu.sg" target="">Mrs Amanda Wong</a></td>
 </tr>
 <tr>
 <td><strong>6 Truth</strong></td>
