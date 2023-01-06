@@ -129,14 +129,14 @@ description: ""
 </tr>
 <tr>
 <td><strong>2 Charity</strong></td>
-<td><a href="mailto:goh_sing_hwee_eileen@moe.edu.sg" target="">Mrs Eileen Goh</a></td>
-<td><a href="mailto:ang_i-ling@moe.edu.sg" target="">Mdm Ang I-Ling</a></td>
-<td><a href="mailto:nadira_abdul_gani@moe.edu.sg" target="">Mdm Nadira</a></td>
-<td><a href="mailto:goh_sing_hwee_eileen@moe.edu.sg" target="">Mrs Eileen Goh</a></td>
-<td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
-<td><a href="mailto:nur_ilyana_mohamed_anwar@moe.edu.sg" target="">Mdm Nur Ilyana</a></td>
+<td><a href="mailto:nur_safikha_abdul_ghapar@moe.edu.sg" target="">Mdm Nur Safikha</a></td>
+<td><a href="mailto:ler_ser_ling_serene@moe.edu.sg" target="">Ms Serene Ler</a></td>
+<td><a href="mailto:tan_siew_choo_cynthia@moe.edu.sg" target="">Ms Cynthia Tan</a</td>
+<td><a href="mailto:nur_safikha_abdul_ghapar@moe.edu.sg" target="">Mdm Nur Safikha</a></td>
+<td><a href="mailto:tan_shin_shin_helen@moe.edu.sg" target="">Ms Helen Tan</a></td>
+<td><a href="mailto:nur_safikha_abdul_ghapar@moe.edu.sg" target="">Mdm Nur Safikha</a></td>
 <td><a href="mailto:poh_shi_ling_edna@moe.edu.sg" target="">Ms Edna Poh</a></td>
-<td><a href="mailto:farhanna_zainal@moe.edu.sg" target="">Mdm Farhanna</a></td>
+<td><a href="mailto:norlela_ahmad@moe.edu.sg" target="">Mdm Norlela</a></td>
 </tr>
 <tr>
 <td><strong>2 Faith</strong></td>
