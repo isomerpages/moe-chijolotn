@@ -78,9 +78,9 @@ description: ""
 </tr>
 <tr>
 <td><strong>1 Love</strong></td>
-<td><a href="mailto:kwa_lay_khim_stephanie@moe.edu.sg" target="">Mrs Stephanie Ho</a></td>
-<td><a href="mailto:low-tay_lee_pheng_teresa@moe.edu.sg" target="">Mrs Teresa Low</a></td>
-<td><a href="mailto:kwa_lay_khim_stephanie@moe.edu.sg" target="">Mrs Stephanie Ho</a></td>
+<td><a href="mailto:raniah_mohd_noor@moe.edu.sg" target="">Mdm Raniah</a></td>
+<td><a href="mailto:jin_xiumei@moe.edu.sg" target="">Mdm Jin Xiumei</a></td>
+<td><a href="mailto:tan_siew_choo_cynthia@moe.edu.sg" target="">Ms Cynthia Tan</a></td>
 <td><a href="mailto:kwa_lay_khim_stephanie@moe.edu.sg" target="">Mrs Stephanie Ho</a></td>
 <td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
 <td><a href="mailto:sum_qiu_mei_sharon@moe.edu.sg" target="">Mrs Sharon Lai</a></td>
