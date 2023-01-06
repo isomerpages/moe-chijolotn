@@ -248,15 +248,15 @@ description: ""
 </tr>
 <tr>
 <td><strong>3 Grace</strong></td>
-<td><a href="mailto:siow_chian@moe.edu.sg" target="">Mdm Rachel Siow</a></td>
-<td><a href="mailto:farhanna_zainal@moe.edu.sg" target="">Mdm Farhanna</a></td>
-<td><a href="mailto:farhanna_zainal@moe.edu.sg" target="">Mdm Farhanna</a></td>
-<td><a href="mailto:farhanna_zainal@moe.edu.sg" target="">Mdm Farhanna</a></td>
-<td><a href="mailto:chen_yingru@moe.edu.sg" target="">Mrs Sim Yingru</a></td>
-<td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
-<td><a href="mailto:wong_wendy@moe.edu.sg" target="">Ms Wendy Wong</a></td>
-<td><a href="mailto:tan_hwee_khoon_a@moe.edu.sg" target="">Mrs Lee Hwee Khoon</a></td>
 <td><a href="mailto:sim_fatimah_mohammed@moe.edu.sg" target="">Ms Fatimah Sim</a></td>
+<td><a href="mailto:wong_wendy@moe.edu.sg" target="">Ms Wendy Wong</a></td>
+<td><a href="mailto:sim_fatimah_mohammed@moe.edu.sg" target="">Ms Fatimah Sim</a></td>
+<td><a href="mailto:sharon_jodi@moe.edu.sg" target="">Ms Sharon Jodi</a></td>
+<td><a href="mailto:chen_yingru@moe.edu.sg" target="">Mrs Sim Yingru</a></td>
+<td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
+<td><a href="mailto:wong_wendy@moe.edu.sg" target="">Ms Wendy Wong</a></td>
+<td><a href="mailto:zanizam_zaini@moe.edu.sg" target="">Mr Zanizam Zaini</a></td>
+<td><a href="mailto:chew_yin_sy@moe.edu.sg" target="">Mrs Kwek Yin Sy</a></td>
 </tr>
 <tr>
 <td><strong>3 Hope</strong></td>
