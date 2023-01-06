@@ -564,13 +564,13 @@ description: ""
 <td><strong>6 Grace</strong></td>
 <td><a href="mailto:lim_soo_mei_serena@moe.edu.sg" target="">Mrs Serena Lee</a></td>
 <td><a href="mailto:low_tze_lin_vanessa@moe.edu.sg" target="">Mrs Vanessa Tan</a></td>
-<td><a href="mailto:chern_shihui_charissa@moe.edu.sg" target="">Ms Charissa Chern</a></td>
+<td><a href="mailto:png_lay_koon_josephine@moe.edu.sg" target="">Mrs Josephine Raj</a></td>
 <td><a href="mailto:low_tze_lin_vanessa@moe.edu.sg" target="">Mrs Vanessa Tan</a></td>
-<td><a href="mailto:siaw_yee_looi@moe.edu.sg" target="">Mdm Elaine Siaw</a></td>
-<td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
-<td><a href="mailto:nur_ilyana_mohamed_anwar@moe.edu.sg" target="">Mdm Nur Ilyana</a></td>
-<td><a href="mailto:muhammad_nazri_subawi@moe.edu.sg" target="">Mr Muhammad Nazri</a></td>
-<td><a href="mailto:brindha_menon_siva_kumar@moe.edu.sg" target="">Mrs Shoban</a></td>
+<td><a href="mailto:lim_soo_mei_serena@moe.edu.sg" target="">Mrs Serena Lee</a></td>
+<td><a href="mailto:tan_shin_shin_helen@moe.edu.sg" target="">Ms Helen Tan</a></td>
+<td><a href="mailto:wong_wendy@moe.edu.sg" target="">Ms Wendy Wong</a></td>
+<td><a href="mailto:kenett_wong_tick_woon@moe.edu.sg" target="">Mr Kenett Wong</a></td>
+<td><a href="mailto:toh_ai_di_eadelin@moe.edu.sg" target="">Mrs Eadelin Marzinek</a></td>
 </tr>
 <tr>
 <td><strong>6 Hope</strong></td>
