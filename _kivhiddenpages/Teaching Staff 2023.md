@@ -260,9 +260,9 @@ description: ""
 </tr>
 <tr>
 <td><strong>3 Hope</strong></td>
-<td><a href="mailto:rabiah_begum_angullia_musa@moe.edu.sg" target="">Ms Rabiah</a></td>
-<td><a href="mailto:chua_sze_li_adeline@moe.edu.sg" target="">Mdm Adeline Chua</a></td>
-<td><a href="mailto:rabiah_begum_angullia_musa@moe.edu.sg" target="">Ms Rabiah</a></td>
+<td><a href="mailto:sharon_jodi@moe.edu.sg" target="">Ms Sharon Jodi</a></td>
+<td><a href="mailto:chern_shihui_charissa@moe.edu.sg" target="">Mrs Charissa Tan</a></td>
+<td><a href="mailto:chern_shihui_charissa@moe.edu.sg" target="">Mrs Charissa Tan</a></td>
 <td><a href="mailto:chua_sze_li_adeline@moe.edu.sg" target="">Mdm Adeline Chua</a></td>
 <td><a href="mailto:chong_lai_kuan@moe.edu.sg" target="">Ms Joanne Chong</a></td>
 <td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
