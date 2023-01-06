@@ -140,7 +140,7 @@ third_nav_title: Our People
 <td>ng_hui_qi@moe.edu.sg</td>
 </tr>
 <tr style="text-align: center;">
-<td >NESS</td>
+<td >National Education/Social Studies (NESS)</td>
 <td>Mdm Nurathirah Md Sharoni</td>
 <td>nurathirah_md_sharoni@moe.edu.sg</td>
 </tr>
