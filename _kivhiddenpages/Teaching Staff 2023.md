@@ -520,12 +520,12 @@ description: ""
 <td><strong>5 Truth</strong></td>
 <td><a href="mailto:png_lay_koon_josephine@moe.edu.sg" target="">Mrs Josephine Raj</a></td>
 <td><a href="mailto:joseph_lim@moe.edu.sg" target="">Mr Joseph Lim</a></td>
-<td><a href="mailto:noor_hayati_yusof@moe.edu.sg" target="">Mdm Noor Hayati Yusof</a></td>
-<td><a href="mailto:chew_yin_sy@moe.edu.sg" target="">Mrs Kwek Yin Sy</a></td>
+<td><a href="mailto:png_lay_koon_josephine@moe.edu.sg" target="">Mrs Josephine Raj</a></td>
+<td><a href="mailto:veronica_lim_chuay_suan@moe.edu.sg" target="">Mrs Veronica Lim</a></td>
 <td><a href="mailto:norlela_ahmad@moe.edu.sg" target="">Mdm Norlela</a></td>
 <td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
-<td><a href="mailto:nur_safikha_abdul_ghapar@moe.edu.sg" target="">Mdm Nur Safikha</a></td>
-<td><a href="mailto:njoo_kiat_chong_edwin@moe.edu.sg" target="">Mr Edwin Njoo</a></td>
+<td><a href="mailto:lena_teo@moe.edu.sg" target="">Mrs Lena Teo</a></td>
+<td><a href="mailto:kenett_wong_tick_woon@moe.edu.sg" target="">Mr Kenett Wong</a></td>
 <td><a href="mailto:norlela_ahmad@moe.edu.sg" target="">Mdm Norlela</a></td>
 </tr>
 </tbody>
