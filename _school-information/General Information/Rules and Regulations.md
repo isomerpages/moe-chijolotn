@@ -93,7 +93,7 @@ third_nav_title: General Information
 <li>Do not bring bags, books, papers, notes, mobile phones or other unauthorised personal belongings (such as smart watches, fitness trackers and items with image capturing abilities) into the examination hall/room. Place them outside the examination room/hall or a place identified by the examiner or invigilator. If you are found to be in possession of any unauthorised materials, you will be liable to the same penalty as those who are caught cheating during the assessment.</li>
 <li>Bring only the stationery required for the assessment. Sharing of stationery during the assessment period is not allowed.</li>
 <li>Remain silent once you enter the examination room/hall.</li>
-<li>Obey all instructions given by the invigilator/examiner.</li>
+<li>Follow all instructions given by the invigilator/examiner.</li>
 <li>Inform the invigilator immediately by raising your hand should you find that:</li>
 <ul>
 <li>A wrong question paper has been given to you.</li>
