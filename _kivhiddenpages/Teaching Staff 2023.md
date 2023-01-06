@@ -296,15 +296,15 @@ description: ""
 </tr>
 <tr>
 <td><strong>3 Peace</strong></td>
-<td><a href="mailto:muhammad_nazri_subawi@moe.edu.sg" target="">Mr Muhammad Nazri</a></td>
-<td><a href="mailto:lee_yen_ching_jenny@moe.edu.sg" target="">Mdm Jenny Lee</a></td>
-<td><a href="mailto:kiranjit_kaur_a@moe.edu.sg" target="">Mrs Kiranjit Singh</a></td>
-<td><a href="mailto:wong_heng_mui@moe.edu.sg" target="">Ms Wong Heng Mui</a></td>
-<td><a href="mailto:norlela_ahmad@moe.edu.sg" target="">Mdm Norlela</a></td>
-<td><a href="mailto:tan_shin_shin_helen@moe.edu.sg" target="">Ms Helen Tan</a></td>
-<td><a href="mailto:nur_ilyana_mohamed_anwar@moe.edu.sg" target="">Mdm Nur Ilyana</a></td>
-<td><a href="mailto:muhammad_nazri_subawi@moe.edu.sg" target="">Mr Muhammad Nazri</a></td>
-<td><a href="mailto:goh_sing_hwee_eileen@moe.edu.sg" target="">Mrs Eileen Goh</a></td>
+<td><a href="mailto:toh_ai_di_eadelin@moe.edu.sg" target="">Mrs Eadelin Marzinek</a></td>
+<td><a href="mailto:siow_chian@moe.edu.sg" target="">Mdm Rachel Siow</a></td>
+<td><a href="mailto:toh_ai_di_eadelin@moe.edu.sg" target="">Mrs Eadelin Marzinek</a></td>
+<td><a href="mailto:chew_yin_sy@moe.edu.sg" target="">Mrs Kwek Yin Sy</a></td>
+<td><a href="mailto:toh_ai_di_eadelin@moe.edu.sg" target="">Mrs Eadelin Marzinek</a></td>
+<td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
+<td><a href="mailto:sum_qiu_mei_sharon@moe.edu.sg" target="">Mrs Sharon Lai</a></td>
+<td><a href="mailto:kenett_wong_tick_woon@moe.edu.sg" target="">Mr Kenett Wong</a></td>
+<td><a href="mailto:toh_ai_di_eadelin@moe.edu.sg" target="">Mrs Eadelin Marzinek</a></td>
 </tr>
 <tr>
 <td><strong>3 Truth</strong></td>
