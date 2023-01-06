@@ -353,16 +353,16 @@ description: ""
 <tr>
 <td><strong>4 Grace</strong></td>
 <td><a href="mailto:farhanna_zainal@moe.edu.sg" target="">Mdm Farhanna</a></td>
-<td><a href="mailto:tan_shin_shin_helen@moe.edu.sg" target="">Ms Helen Tan</a></td>
-<td><a href="mailto:sim_fatimah_mohammed@moe.edu.sg" target="">Ms Fatimah Sim</a></td>
-<td><a href="mailto:law_ee_peng@moe.edu.sg" target="">Ms Law Ee Peng</a></td>
-<td><a href="mailto:brindha_menon_siva_kumar@moe.edu.sg" target="">Mrs Shoban</a></td>
-<td><a href="mailto:tan_shin_shin_helen@moe.edu.sg" target="">Ms Helen Tan</a></td>
+<td><a href="mailto:lena_teo@moe.edu.sg" target="">Mrs Lena Teo</a></td>
+<td><a href="mailto:farhanna_zainal@moe.edu.sg" target="">Mdm Farhanna</a></td>
+<td><a href="mailto:farhanna_zainal@moe.edu.sg" target="">Mdm Farhanna</a></td>
+<td><a href="mailto:chua_sze_li_adeline@moe.edu.sg" target="">Mdm Adeline Chua</a></td>
+<td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
 <td>
-<div><a href="mailto:sum_qiu_mei_sharon@moe.edu.sg" target="">Mrs Sharon Lai</a></div>
+<div><a href="mailto:lena_teo@moe.edu.sg" target="">Mrs Lena Teo</a></div>
 </td>
-<td><a href="mailto:muhammad_nazri_subawi@moe.edu.sg" target="">Mr Muhammad Nazri</a></td>
-<td><a href="mailto:law_ee_peng@moe.edu.sg" target="">Ms Law Ee Peng</a></td>
+<td><a href="mailto:kenett_wong_tick_woon@moe.edu.sg" target="">Mr Kenett Wong</a></td>
+<td><a href="mailto:chua_sze_li_adeline@moe.edu.sg" target="">Mdm Adeline Chua</a></td>
 </tr>
 <tr>
 <td><strong>4 Hope</strong></td>
