@@ -382,10 +382,10 @@ description: ""
 <td><a href="mailto:njoo_kiat_chong_edwin@moe.edu.sg" target="">Mr Edwin Njoo</a></td>
 <td><a href="mailto:nurathirah_md_sharoni@moe.edu.sg" target="">Mdm Thirah</a></td>
 <td><a href="mailto:nurathirah_md_sharoni@moe.edu.sg" target="">Mdm Thirah</a></td>
-<td><a href="mailto:brindha_menon_siva_kumar@moe.edu.sg" target="">Mrs Shoban</a></td>
+<td><a href="mailto:chong_sheau_huey@moe.edu.sg" target="">Mrs Tan Sheau Huey</a></td>
 <td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
-<td><a href="mailto:wong_wendy@moe.edu.sg" target="">Ms Wendy Wong</a></td>
-<td><a href="mailto:kenett_wong_tick_woon@moe.edu.sg" target="">Mr Kenett Wong</a></td>
+<td><a href="mailto:sum_qiu_mei_sharon@moe.edu.sg" target="">Mrs Sharon Lai</a></td>
+<td><a href="mailto:njoo_kiat_chong_edwin@moe.edu.sg" target="">Mr Edwin Njoo</a></td>
 <td><a href="mailto:brindha_menon_siva_kumar@moe.edu.sg" target="">Mrs Shoban</a></td>
 </tr>
 <tr>
