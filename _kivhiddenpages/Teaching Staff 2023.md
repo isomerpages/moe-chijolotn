@@ -236,15 +236,15 @@ description: ""
 </tr>
 <tr>
 <td><strong>3 Faith</strong></td>
-<td><a href="mailto:poh_shi_ling_edna@moe.edu.sg" target="">Ms Edna Poh</a></td>
-<td><a href="mailto:cao_yexin@moe.edu.sg" target="">Ms Cao Yexin</a></td>
-<td><a href="mailto:cao_yexin@moe.edu.sg" target="">Ms Cao Yexin</a></td>
-<td><a href="mailto:cao_yexin@moe.edu.sg" target="">Ms Cao Yexin</a></td>
-<td><a href="mailto:tan_yee_yinn_tracy@moe.edu.sg" target="">Mrs Tracy Wong</a></td>
+<td><a href="mailto:tan_cheh_hia@moe.edu.sg" target="">Mrs Tan Cheh Hia</a></td>
+<td><a href="mailto:illiany_suhaily_mohamed_juhri@moe.edu.sg" target="">Ms Illiany</a></td>
+<td><a href="mailto:sim_fatimah_mohammed@moe.edu.sg" target="">Ms Fatimah Sim</a></td>
+<td><a href="mailto:tan_cheh_hia@moe.edu.sg" target="">Mrs Tan Cheh Hia</a></td>
+<td><a href="mailto:gan_eng_eng_cheryl@moe.edu.sg" target="">Mrs Cheryl Gan</a></td>
 <td><a href="mailto:tan_shin_shin_helen@moe.edu.sg" target="">Ms Helen Tan</a></td>
-<td><a href="mailto:sum_qiu_mei_sharon@moe.edu.sg" target="">Mrs Sharon Lai</a></td>
-<td><a href="mailto:poh_shi_ling_edna@moe.edu.sg" target="">Ms Edna Poh</a></td>
-<td><a href="mailto:rabiah_begum_angullia_musa@moe.edu.sg" target="">Ms Rabiah</a></td>
+<td><a href="mailto:wong_wendy@moe.edu.sg" target="">Ms Wendy Wong</a></td>
+<td><a href="mailto:muhammad_nazri_subawi@moe.edu.sg" target="">Mr Muhammad Nazri</a></td>
+<td><a href="mailto:elena_ong_yijin@moe.edu.sg" target="">Ms Elena Ong</a></td>
 </tr>
 <tr>
 <td><strong>3 Grace</strong></td>
