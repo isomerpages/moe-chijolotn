@@ -372,7 +372,7 @@ description: ""
 <td><a href="mailto:law_ee_peng@moe.edu.sg" target="">Ms Law Ee Peng</a></td>
 <td><a href="mailto:toh_ai_di_eadelin@moe.edu.sg" target="">Mrs Eadelin Marzinek</a></td>
 <td><a href="mailto:tan_shin_shin_helen@moe.edu.sg" target="">Ms Helen Tan</a></td>
-<td><a href="mailto:wong_wendy@moe.edu.sg" target="">Ms Wendy Wong</a></td>
+<td><a href="mailto:lena_teo@moe.edu.sg" target="">Mrs Lena Teo</a></td>
 <td><a href="mailto:foo_weng_heng_fiona@moe.edu.sg" target="">Mdm Fiona Foo</a></td>
 <td><a href="mailto:rabiah_begum_angullia_musa@moe.edu.sg" target="">Mdm Rabiah</a></td>
 </tr>
