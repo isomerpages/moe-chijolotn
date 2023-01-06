@@ -386,7 +386,7 @@ description: ""
 <td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
 <td><a href="mailto:sum_qiu_mei_sharon@moe.edu.sg" target="">Mrs Sharon Lai</a></td>
 <td><a href="mailto:njoo_kiat_chong_edwin@moe.edu.sg" target="">Mr Edwin Njoo</a></td>
-<td><a href="mailto:brindha_menon_siva_kumar@moe.edu.sg" target="">Mrs Shoban</a></td>
+<td><a href="mailto:voo_ke_rui@moe.edu.sg" target="">Mdm Joy Voo</a></td>
 </tr>
 <tr>
 <td><strong>4 Love</strong></td>
