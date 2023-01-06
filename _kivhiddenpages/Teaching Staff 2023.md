@@ -623,7 +623,7 @@ description: ""
 <tr>
 <td><strong>6 Truth</strong></td>
 <td><a href="mailto:noor_hayati_yusof@moe.edu.sg" target="">Mdm Noor Hayati Yusof</a></td>
-<td><a href="mailto:chew_yin_sy@moe.edu.sg" target="">Mrs Kwek Yin Sy</a></td>
+<td><a href="mailto:ho_pancy@moe.edu.sg" target="">Ms Pancy Ho</a></td>
 <td><a href="mailto:noor_hayati_yusof@moe.edu.sg" target="">Mdm Noor Hayati Yusof</a></td>
 <td><a href="mailto:chew_yin_sy@moe.edu.sg" target="">Mrs Kwek Yin Sy</a></td>
 <td><a href="mailto:norlela_ahmad@moe.edu.sg" target="">Mdm Norlela</a></td>
