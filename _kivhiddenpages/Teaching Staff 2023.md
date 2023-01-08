@@ -832,18 +832,11 @@ description: ""
 <td>Mdm Jasmine Yap</td>
 <td>Mdm Rachel Siow</td>
 <td>Mdm Sim Suat Lee</td>
-<td>Mdm Bao Hong</td>
+<td>-</td>
 </tr>
 <tr>
-<td><strong>P4 (ABLE) CL</strong></td>
-<td>Mdm Rachel Siow</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td><strong>P4 HCL</strong></td>
+<td colspan=8>Mdm Rachel Siow / Mdm Sim Suat Lee</td>
 </tr>
 <tr>
 <td><strong>P4 ML</strong></td>
