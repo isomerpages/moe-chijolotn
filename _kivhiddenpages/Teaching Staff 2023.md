@@ -792,10 +792,8 @@ description: ""
 <td>-</td>
 </tr>
 <tr>
-<td><strong>P3 ABLE CL</strong>&nbsp;</td>
-<td>Mdm Jenny Lee&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td><strong>P3 HCL</strong></td>
+<td colspan=4>Ms Serene Ler / Mdm Peh Bee Leng</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -814,8 +812,8 @@ description: ""
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td>&nbsp;<strong>P3 TL</strong></td>
-<td>Mrs Jabar</td>
+<td><strong>P3 TL</strong></td>
+<td>Mrs T Yuvaraj</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -825,15 +823,12 @@ description: ""
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td><strong>&nbsp;P3 HML<br />P3 HTL</strong></td>
-<td>Ms Illiany<br />Mrs Yuvaraj</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td><strong>P3 HML<br /></strong></td>
+<td colspan=8>Ms Illiany<br />Mrs Yuvaraj</td>
+</tr>
+<tr>
+<td>P3 HTL</td>
+<td Colspan=8></td>
 </tr>
 <tr>
 <td><strong>P4 CL</strong></td>
