@@ -734,25 +734,11 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td><strong>P1 ML</strong></td>
-<td>Mdm NorFadilah</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td colspan=8>Mdm NorFadilah</td>
 </tr>
 <tr>
 <td><strong>P1 TL</strong></td>
-<td>Ms A Sumathi</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td colspan=8>Ms A Sumathi</td>
 </tr>
 	</tbody>
 </table>
