@@ -115,7 +115,7 @@ third_nav_title: Our People
 <hr>
 <table>
 <tbody>
-<tr>
+<tr bgcolor="#E5FAFA">
 <th>
 <p><strong>Class\Teacher</strong></p>
 </th>
