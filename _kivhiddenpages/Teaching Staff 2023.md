@@ -859,13 +859,13 @@ description: ""
 <tr>
 <td><strong>P5 CL</strong></td>
 <td>&nbsp;-</td>
-<td>Mdm Yang Wenxia<br />(HCL)</td>
-<td>Mrs Ong Sok Chin</td>
-<td>Ms Oh Soo Hwee</td>
-<td>Ms Yeo Chun Hui</td>
-<td>Mdm Li Ning</td>
-<td>Mdm Hang Yun<br />(HCL)</td>
-<td>Mdm Peh Bee Leng</td>
+<td>Mdm Lai Meiyu</td>
+<td>Mdm Jin Xiumei</td>
+<td>Mrs Stephanie Wu</td>
+<td>Mdm Ang I-Ling</td>
+<td>Mdm Pang Woei Ru</td>
+<td>Mdm Bao Hong</td>
+<td>-</td>
 </tr>
 <tr>
 <td><strong>P5 ML</strong></td>
