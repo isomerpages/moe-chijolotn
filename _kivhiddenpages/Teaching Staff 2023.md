@@ -783,13 +783,13 @@ description: ""
 <tr>
 <td><strong>P3 CL</strong></td>
 <td>-</td>
-<td>-</td>
-<td>-</td>
-<td>Mdm Li Ning</td>
-<td>Mrs Ng Kiok Soy</td>
-<td>Ms Alena Ho</td>
-<td>Mdm Rachel<br />Siow&nbsp; &nbsp;&nbsp;</td>
+<td>Ms Serene Let</td>
+<td>Msm Yang Wenxia</td>
 <td>Mdm Sim Suat Lee</td>
+<td>Mrs Ong Sok Chin</td>
+<td>Mdm Peh Bee Leng</td>
+<td>Mdm Rachel Siow</td>
+<td>-</td>
 </tr>
 <tr>
 <td><strong>P3 ABLE CL</strong>&nbsp;</td>
