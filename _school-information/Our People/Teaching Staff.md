@@ -948,8 +948,8 @@ third_nav_title: Our People
 <td colspan=7>Mdm Hang Yun</td>
 </tr>
 	<tr>
-<td><strong>P6 HML</strong></td>
-<td colspan=8>Mdm Illiany</td>
+<td colspan=2><strong>P6 HML</strong></td>
+<td colspan=7>Mdm Illiany</td>
 </tr>
 </tbody>
 </table>
