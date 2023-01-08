@@ -218,7 +218,7 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
-<hr />
+<hr>
 <table>
 <tbody>
 <tr>
