@@ -655,7 +655,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><strong>All Mother Tongue classes are Banded classes, except for Primary 1 who are in their form classes.&nbsp;</strong><br /><strong>Teachers:&nbsp;</strong></p>
+<p><strong>All Mother Tongue classes are Banded classes, except for Primary 1 who are in their form classes</strong><br /><strong>Teachers:</strong></p>
 <table>
 <tbody>
 <tr>
@@ -835,8 +835,8 @@ description: ""
 <td>-</td>
 </tr>
 <tr>
-<td><strong>P4 HCL</strong></td>
-<td colspan=8>Mdm Rachel Siow / Mdm Sim Suat Lee</td>
+<td colspan=2><strong>P4 HCL</strong></td>
+<td colspan=7>Mdm Rachel Siow / Mdm Sim Suat Lee</td>
 </tr>
 <tr>
 <td colspan=2><strong>P4 ML & HML</strong></td>
