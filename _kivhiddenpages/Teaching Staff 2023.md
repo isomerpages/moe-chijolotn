@@ -716,14 +716,14 @@ description: ""
 </tr>
 <tr>
 <td><strong>P1 CL</strong></td>
-<td>Mdm Yang Wenxia</td>
-<td>Mdm Hang Yun</td>
-<td>Ms Yeo Chun Hui</td>
-<td>Mrs Ng Kiok Soy</td>
-<td>Mrs Ong Sok Chin</td>
-<td>Mdm Peh Bee Leng</td>
-<td>Mdm Li Ning</td>
-<td>Ms Oh Soo Hwee</td>
+<td>Mdm Bao Hong</td>
+<td>Mdm Jasmine Yap</td>
+<td>Mrs Stephanie Wu</td>
+<td>Mdm Pang Woei Ru</td>
+<td>Mdm Lai Mei Yu</td>
+<td>Mdm Jin Xiumei</td>
+<td>Mdm Ang I-Ling</td>
+<td>Ms YongAnn Chie</td>
 </tr>
 <tr>
 <td><strong>P1 ML</strong></td>
