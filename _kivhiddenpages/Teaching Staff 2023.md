@@ -910,18 +910,17 @@ description: ""
 <tr>
 <td><strong>P6 CL</strong></td>
 <td>&nbsp;-</td>
-<td>Mdm Jin Xiumei</td>
-<td>Mdm Bao Hong</td>
-<td>Ms Serene Ler</td>
+<td>Ms Oh Soo Hwee</td>
 <td>Mdm Heng Ai Ling</td>
-<td>Mdm Stephanie Wu (FCL)</td>
-<td>Ms Heng Meow Ern (HCL)</td>
-<td>Mdm Ang I-Ling</td>
+<td>Ms Yeo Chun Hui</td>
+<td>Mdm Li Ning</td>
+<td>Mdm Hang Yun</td>
+<td>Mdm Peh Bee Leng</td>
+<td>-</td>
 </tr>
 <tr>
-<td>&nbsp;<strong>P6 ML</strong></td>
-<td>Mdm Norfadilah</td>
-<td>&nbsp;</td>
+<td><strong>P6 ML</strong></td>
+<td colspan=2>Mdm Hanizah</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -931,8 +930,17 @@ description: ""
 </tr>
 <tr>
 <td><strong>P6 TL</strong></td>
-<td>Ms Kasturi</td>
+<td colspan=2>Mrs Jabar</td>
 <td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+	<td><strong>P6 FCL</strong></td>
+<td colspan=2>Mdm Jenny Lee</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -942,8 +950,7 @@ description: ""
 </tr>
 <tr>
 <td><strong>&nbsp;P6 FTL</strong></td>
-<td>Mrs Yuvaraj</td>
-<td>&nbsp;</td>
+<td colspan=2>Mrs Yuvaraj</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -952,9 +959,8 @@ description: ""
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td><strong>&nbsp;P6 HTL</strong></td>
-<td>Mrs Yuvaraj</td>
-<td>&nbsp;</td>
+<td><strong>P6 HCL</strong></td>
+<td colspan=2>Mdm Hang Yun</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
