@@ -759,6 +759,7 @@ third_nav_title: Our People
 <br>
 <table class="ive_eobj_center iveo_table ives_tab_simple3">
 <tbody>
+	<tr>
 <th>Class</th>
 <th>Charity</th>
 <th>Faith</th>
@@ -807,6 +808,7 @@ third_nav_title: Our People
 <br>
 <table class="ive_eobj_center iveo_table ives_tab_simple3">
 <tbody>
+	<tr>
 <th>Class</th>
 <th>Charity</th>
 <th>Faith</th>
@@ -866,6 +868,7 @@ third_nav_title: Our People
 <br>
 <table class="ive_eobj_center iveo_table ives_tab_simple3">
 <tbody>
+	<tr>
 <th>Class</th>
 <th>Charity</th>
 <th>Faith</th>
@@ -914,6 +917,7 @@ third_nav_title: Our People
 <br>
 <table class="ive_eobj_center iveo_table ives_tab_simple3">
 <tbody>
+	<tr>
 <th>Class</th>
 <th>Charity</th>
 <th>Faith</th>
@@ -980,6 +984,7 @@ third_nav_title: Our People
 <br>
 <table class="ive_eobj_center iveo_table ives_tab_simple3">
 <tbody>
+	<tr>
 <th>Class</th>
 <th>Charity</th>
 <th>Faith</th>
