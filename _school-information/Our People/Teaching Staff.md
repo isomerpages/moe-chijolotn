@@ -764,7 +764,7 @@ third_nav_title: Our People
 <td>Mrs Ong Sok Chin</td>
 <td>Ms Heng Meow Ern</td>
 <td>Ms Oh Soo Hwee</td>
-<td>- </td>
+<td>-</td>
 </tr>
 <tr>
 <td><strong>P2 ML</strong></td>
@@ -778,7 +778,7 @@ third_nav_title: Our People
 </table>
 <table class="ive_eobj_center iveo_table ives_tab_simple3">
 <tbody>
-	<tr  bgcolor="#E5FAFA">
+	<tr bgcolor="#E5FAFA">
 <th>Class</th>
 <th>Charity</th>
 <th>Faith</th>
@@ -823,10 +823,9 @@ third_nav_title: Our People
 <tr>
 	</tbody>
 </table>
-<br>
 <table class="ive_eobj_center iveo_table ives_tab_simple3">
 <tbody>
-	<tr  bgcolor="#E5FAFA">
+	<tr bgcolor="#E5FAFA">
 <th>Class</th>
 <th>Charity</th>
 <th>Faith</th>
@@ -854,27 +853,17 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td colspan=2><strong>P4 ML & HML</strong></td>
-<td colspan=2>Ms Illiany</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td colspan=7>Ms Illiany</td>
 </tr>
 <tr>
 <td colspan=2><strong>P4 TL & HTL</strong></td>
-<td colspan=2>Mrs Yuvaraj</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td colspan=7>Mrs Yuvaraj</td>
 </tr>
 </tbody>
 </table>
 <table class="ive_eobj_center iveo_table ives_tab_simple3">
 <tbody>
-	<tr  bgcolor="#E5FAFA">
+	<tr bgcolor="#E5FAFA">
 <th>Class</th>
 <th>Charity</th>
 <th>Faith</th>
@@ -897,44 +886,20 @@ third_nav_title: Our People
 <td>-</td>
 </tr>
 <tr>
-<td><strong>P5 ML</strong></td>
-<td colspan=2>Mdm NorFadilah</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td colspan=2><strong>P5 ML</strong></td>
+<td colspan=7>Mdm NorFadilah</td>
 </tr>
 <tr>
-<td><strong>P5 TL</strong></td>
-<td colspan=2>Ms A Sumathi</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td colspan=2><strong>P5 TL</strong></td>
+<td colspan=7>Ms A Sumathi</td>
 </tr>
 <tr>
-<td><strong>P5 FCL</strong></td>
-<td colspan=2>Ms Yong Ann Chie</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td colspan=2><strong>P5 FCL</strong></td>
+<td colspan=7>Ms Yong Ann Chie</td>
 </tr>
 <tr>
-<td><strong>P5 HCL</strong></td>
-<td colspan=2>Mdm Jin Xiumei</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td colspan=2><strong>P5 HCL</strong></td>
+<td colspan=7>Mdm Jin Xiumei</td>
 </tr>
 </tbody>
 </table>
