@@ -813,7 +813,7 @@ third_nav_title: Our People
 <td colspan=8>Ms Serene Ler / Mdm Peh Bee Leng</td>
 </tr>
 	<tr>
-<td><strong>P3 HML<br /></strong></td>
+<td><strong>P3 HML</strong></td>
 <td colspan=8>Mdm NorFadilah</td>
 </tr>
 <tr>
