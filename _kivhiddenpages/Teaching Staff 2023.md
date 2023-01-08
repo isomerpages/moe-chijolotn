@@ -960,13 +960,7 @@ description: ""
 </tr>
 <tr>
 <td><strong>P6 HCL</strong></td>
-<td colspan=2>Mdm Hang Yun</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td colspan=8>Mdm Hang Yun</td>
 </tr>
 </tbody>
 </table>
