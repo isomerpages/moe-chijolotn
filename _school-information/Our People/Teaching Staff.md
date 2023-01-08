@@ -221,7 +221,7 @@ third_nav_title: Our People
 <hr>
 <table>
 <tbody>
-<tr>
+<tr bgcolor="#E5FAFA">
 <th>
 <p><strong>Class\Teacher</strong></p>
 </th>
@@ -325,7 +325,7 @@ third_nav_title: Our People
 <p><strong>^All Maths classes are Banded classes for Primary 4 - 6.</strong></p>
 <table>
 <tbody>
-<tr>
+<tr bgcolor="#E5FAFA">
 <th>
 <p><strong>Class\Teacher</strong></p>
 </th>
@@ -431,7 +431,7 @@ third_nav_title: Our People
 <p><strong>^All Maths classes are Banded classes for Primary 4 - 6.</strong></p>
 <table>
 <tbody>
-<tr>
+<tr bgcolor="#E5FAFA">
 <th>
 <p><strong>Class\Teacher</strong></p>
 </th>
@@ -535,7 +535,7 @@ third_nav_title: Our People
 <p><strong>^All Maths classes are Banded classes for Primary 4 - 6.</strong></p>
 <table>
 <tbody>
-<tr>
+<tr bgcolor="#E5FAFA">
 <th>
 <p><strong>Class\Teacher</strong></p>
 </th>
