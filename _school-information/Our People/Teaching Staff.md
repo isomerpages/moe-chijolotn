@@ -833,9 +833,9 @@ third_nav_title: Our People
 <tr>
 	</tbody>
 </table>
+<br>
 <table class="ive_eobj_center iveo_table ives_tab_simple3">
 <tbody>
-
 <th>Class</th>
 <th>Charity</th>
 <th>Faith</th>
@@ -878,6 +878,21 @@ third_nav_title: Our People
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<br>
+<table class="ive_eobj_center iveo_table ives_tab_simple3">
+<tbody>
+<th>Class</th>
+<th>Charity</th>
+<th>Faith</th>
+<th>Grace</th>
+<th>Hope</th>
+<th>Joy</th>
+<th>Love</th>
+<th>Peace</th>
+<th>Truth</th>
 </tr>
 <tr>
 <td><strong>P5 CL</strong></td>
@@ -929,6 +944,21 @@ third_nav_title: Our People
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<br>
+<table class="ive_eobj_center iveo_table ives_tab_simple3">
+<tbody>
+<th>Class</th>
+<th>Charity</th>
+<th>Faith</th>
+<th>Grace</th>
+<th>Hope</th>
+<th>Joy</th>
+<th>Love</th>
+<th>Peace</th>
+<th>Truth</th>
 </tr>
 <tr>
 <td><strong>P6 CL</strong></td>
