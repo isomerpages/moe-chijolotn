@@ -9,7 +9,7 @@ third_nav_title: Our People
 <hr>
 <table>
 <tbody>
-<tr>
+<tr bgcolor="#E5FAFA">
 <th>
 <p><strong>Class\Teacher</strong></p>
 </th>
@@ -710,7 +710,7 @@ third_nav_title: Our People
 <p><strong>Teachers and Classes:</strong></p>
 <table class="ive_eobj_center iveo_table ives_tab_simple3">
 <tbody>
-<tr bgcolor="#B8F9F9">
+<tr bgcolor="#E5FAFA">
 <th>Class</th>
 <th>Charity</th>
 <th>Faith</th>
