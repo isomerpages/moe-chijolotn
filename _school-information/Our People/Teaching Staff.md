@@ -801,26 +801,25 @@ third_nav_title: Our People
 <td>-</td>
 </tr>
 <tr>
-<td><strong>P3 ML</strong></td>
-<td colspan=8>Ms Illiany</td>
+<td colspan=2><strong>P3 ML</strong></td>
+<td colspan=7>Ms Illiany</td>
 </tr>
 <tr>
-<td><strong>P3 TL</strong></td>
-<td colspan=8>Mrs T Yuvaraj</td>
+<td colspan=2><strong>P3 TL</strong></td>
+<td colspan=7>Mrs T Yuvaraj</td>
 </tr>
 <tr>
-<td><strong>P3 HCL</strong></td>
-<td colspan=8>Ms Serene Ler / Mdm Peh Bee Leng</td>
+<td colspan=2><strong>P3 HCL</strong></td>
+<td colspan=7>Ms Serene Ler / Mdm Peh Bee Leng</td>
 </tr>
 	<tr>
-<td><strong>P3 HML</strong></td>
-<td colspan=8>Mdm NorFadilah</td>
+<td colspan=2><strong>P3 HML</strong></td>
+<td colspan=7>Mdm NorFadilah</td>
 </tr>
 <tr>
-	<td><strong>P3 HTL</strong></td>
-<td Colspan=8>Ms A Sumathi</td>
+	<td colspan=2><strong>P3 HTL</strong></td>
+<td Colspan=7>Ms A Sumathi</td>
 </tr>
-<tr>
 	</tbody>
 </table>
 <table class="ive_eobj_center iveo_table ives_tab_simple3">
@@ -905,7 +904,7 @@ third_nav_title: Our People
 </table>
 <table class="ive_eobj_center iveo_table ives_tab_simple3">
 <tbody>
-	<tr  bgcolor="#E5FAFA">
+	<tr bgcolor="#E5FAFA">
 <th>Class</th>
 <th>Charity</th>
 <th>Faith</th>
