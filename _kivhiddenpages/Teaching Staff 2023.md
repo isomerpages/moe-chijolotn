@@ -678,7 +678,7 @@ description: ""
 <td><a href="mailto:ong_sok_chin@moe.edu.sg" target="">Mrs Ong Sok Chin</a><br />&nbsp;谢淑贞老师</td>
 <td><a href="mailto:peh_bee_leng@moe.edu.sg" target="">Mdm Peh Bee Leng</a><br />&nbsp;白美玲老师</td>
 <td><a href="mailto:siow_chian@moe.edu.sg" target="">Mdm Rachel Siow</a>&nbsp;<br />曹健老师</td>
-<td><a href="mailto:wu_li_chuang_stephanie@moe.edu.sg" target="">Mdm Stephanie Wu</a><br />吴丽娟老师</td>
+<td><a href="mailto:wu_li_chuang_stephanie@moe.edu.sg" target="">Mrs Stephanie Wu</a><br />吴丽娟老师</td>
 <td><a href="mailto:yeo_chun_hui@moe.edu.sg" target="">Ms Yeo Chun Hui</a><br />&nbsp;杨纯卉老师</td>
 <td><a href="mailto:heng_meow_ern@moe.edu.sg" target="">Ms Heng Meow Ern</a><br />王妙恩老师</td>
 </tr>
@@ -749,11 +749,11 @@ description: ""
 </tr>
 <tr>
 <td><strong>P2 CL</strong></td>
-<td>-&nbsp;</td>
-<td>Ms Serene Ler</td>
-<td>Md Sim Suat Lee</td>
+<td>Mdm Yang Wenxia</td>
+<td>Mdm Hang Yun</td>
+<td>Ms Yeo Chunhui</td>
 <td>Mdm Ang I-Ling</td>
-<td>Mdm Stephanie Wu</td>
+<td>Mrs Stephanie Wu</td>
 <td>Mdm Jin Xiumei</td>
 <td>Ms Alena Ho</td>
 <td>Mdm Lai Meiyu</td>
