@@ -889,8 +889,7 @@ description: ""
 </tr>
 <tr>
 <td><strong>P5 FCL</strong></td>
-<td>Mdm Yong Ann Chie</td>
-<td>&nbsp;</td>
+<td colspan=2>Mdm Yong Ann Chie</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -900,8 +899,7 @@ description: ""
 </tr>
 <tr>
 <td><strong>P5 HCL</strong></td>
-<td>Mdm Jin Xiumei</td>
-<td>&nbsp;</td>
+<td colspan=2>Mdm Jin Xiumei</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
