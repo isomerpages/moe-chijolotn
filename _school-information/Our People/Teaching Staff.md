@@ -831,6 +831,22 @@ third_nav_title: Our People
 <td Colspan=8>Ms A Sumathi</td>
 </tr>
 <tr>
+	</tbody>
+</table>
+<table class="ive_eobj_center iveo_table ives_tab_simple3">
+<tbody>
+
+<th>Class</th>
+<th>Charity</th>
+<th>Faith</th>
+<th>Grace</th>
+<th>Hope</th>
+<th>Joy</th>
+<th>Love</th>
+<th>Peace</th>
+<th>Truth</th>
+</tr>
+<tr>
 <td><strong>P4 CL</strong></td>
 <td>&nbsp;-</td>
 <td>Mdm Jenny Lee</td>
