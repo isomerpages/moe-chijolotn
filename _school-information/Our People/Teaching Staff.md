@@ -656,7 +656,7 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
-
+<hr>
 <p><strong>All Mother Tongue classes are Banded classes, except for Primary 1 who are in their form classes</strong><br /><strong>Teachers:</strong></p>
 <table>
 <tbody>
