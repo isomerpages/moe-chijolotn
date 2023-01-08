@@ -813,13 +813,7 @@ description: ""
 </tr>
 <tr>
 <td><strong>P3 TL</strong></td>
-<td colspan=2>Mrs T Yuvaraj</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td colspan=8>Mrs T Yuvaraj</td>
 </tr>
 <tr>
 <td><strong>P3 HML<br /></strong></td>
