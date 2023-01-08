@@ -799,15 +799,6 @@ third_nav_title: Our People
 <td>-</td>
 </tr>
 <tr>
-<td><strong>P3 HCL</strong></td>
-<td colspan=4>Ms Serene Ler / Mdm Peh Bee Leng</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-</tr>
-<tr>
 <td><strong>P3 ML</strong></td>
 <td>Ms Illiany</td>
 <td>&nbsp;</td>
@@ -823,6 +814,15 @@ third_nav_title: Our People
 <td colspan=8>Mrs T Yuvaraj</td>
 </tr>
 <tr>
+<td><strong>P3 HCL</strong></td>
+<td colspan=4>Ms Serene Ler / Mdm Peh Bee Leng</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+	<tr>
 <td><strong>P3 HML<br /></strong></td>
 <td colspan=8>Mdm NorFadilah</td>
 </tr>
