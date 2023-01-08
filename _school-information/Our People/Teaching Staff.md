@@ -756,7 +756,6 @@ third_nav_title: Our People
 </tr>
 	</tbody>
 </table>
-<br>
 <table class="ive_eobj_center iveo_table ives_tab_simple3">
 <tbody>
 	<tr>
@@ -805,7 +804,6 @@ third_nav_title: Our People
 </tr>
 	</tbody>
 </table>
-<br>
 <table class="ive_eobj_center iveo_table ives_tab_simple3">
 <tbody>
 	<tr>
