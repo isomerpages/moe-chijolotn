@@ -744,7 +744,7 @@ third_nav_title: Our People
 </table>
 <table class="ive_eobj_center iveo_table ives_tab_simple3">
 <tbody>
-	<tr  bgcolor="#E5FAFA">
+	<tr bgcolor="#E5FAFA">
 <th>Class</th>
 <th>Charity</th>
 <th>Faith</th>
