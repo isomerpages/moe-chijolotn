@@ -792,7 +792,7 @@ third_nav_title: Our People
 <tr>
 <td><strong>P3 CL</strong></td>
 <td>-</td>
-<td>Ms Serene Let</td>
+<td>Ms Serene Ler</td>
 <td>Mdm Yang Wenxia</td>
 <td>Mdm Sim Suat Lee</td>
 <td>Mrs Ong Sok Chin</td>
@@ -802,14 +802,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td><strong>P3 ML</strong></td>
-<td>Ms Illiany</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td colspan=8>Ms Illiany</td>
 </tr>
 <tr>
 <td><strong>P3 TL</strong></td>
