@@ -826,12 +826,12 @@ description: ""
 <tr>
 <td><strong>P4 CL</strong></td>
 <td>&nbsp;-</td>
-<td>&nbsp;-</td>
-<td>-</td>
-<td>&nbsp;Ms Alena Ho</td>
-<td>Ms Heng Meow Ern</td>
-<td>&nbsp;Mdm Lai Meiyu</td>
 <td>Mdm Jenny Lee</td>
+<td>Mdm Li Ning</td>
+<td>Ms Heng Meow Ern</td>
+<td>Mdm Jasmine Yap</td>
+<td>Mdm Rachel Siow</td>
+<td>Mdm Sim Suat Lee</td>
 <td>Mdm Bao Hong</td>
 </tr>
 <tr>
