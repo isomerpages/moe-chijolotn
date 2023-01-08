@@ -764,29 +764,15 @@ third_nav_title: Our People
 <td>Mrs Ong Sok Chin</td>
 <td>Ms Heng Meow Ern</td>
 <td>Ms Oh Soo Hwee</td>
-<td></td>
+<td>- </td>
 </tr>
 <tr>
 <td><strong>P2 ML</strong></td>
-<td>Mdm Hanizah</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td colspan=8>Mdm Hanizah</td>
 </tr>
 <tr>
 <td><strong>P2 TL</strong></td>
-<td>Mrs Jabar</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td colspan=8>Mrs Jabar</td>
 </tr>
 	</tbody>
 </table>
