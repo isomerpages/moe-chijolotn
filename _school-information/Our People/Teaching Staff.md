@@ -928,48 +928,24 @@ third_nav_title: Our People
 <td>-</td>
 </tr>
 <tr>
-<td><strong>P6 ML</strong></td>
-<td colspan=2>Mdm Hanizah</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td colspan=2><strong>P6 ML</strong></td>
+<td colspan=7>Mdm Hanizah</td>
 </tr>
 <tr>
-<td><strong>P6 TL</strong></td>
-<td colspan=2>Mrs Jabar</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td colspan=2><strong>P6 TL</strong></td>
+<td colspan=7>Mrs Jabar</td>
 </tr>
 <tr>
-	<td><strong>P6 FCL</strong></td>
-<td colspan=2>Mdm Jenny Lee</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td colspan=2><strong>P6 FCL</strong></td>
+<td colspan=7>Mdm Jenny Lee</td>
 </tr>
 <tr>
-<td><strong>&nbsp;P6 FTL</strong></td>
-<td colspan=2>Mrs Yuvaraj</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td colspan=2><strong>&nbsp;P6 FTL</strong></td>
+<td colspan=7>Mrs Yuvaraj</td>
 </tr>
 <tr>
-<td><strong>P6 HCL</strong></td>
-<td colspan=8>Mdm Hang Yun</td>
+<td colspan=2><strong>P6 HCL</strong></td>
+<td colspan=7>Mdm Hang Yun</td>
 </tr>
 	<tr>
 <td><strong>P6 HML</strong></td>
