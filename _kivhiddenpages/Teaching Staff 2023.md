@@ -839,10 +839,8 @@ description: ""
 <td colspan=8>Mdm Rachel Siow / Mdm Sim Suat Lee</td>
 </tr>
 <tr>
-<td><strong>P4 ML</strong></td>
-<td>Ms Illiany</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td colspan=2><strong>P4 ML & HML</strong></td>
+<td colspan=2>Ms Illiany</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -850,10 +848,8 @@ description: ""
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td><strong>P4 TL</strong></td>
-<td>Mrs Yuvaraj</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td colspan=2><strong>P4 TL & HTL</strong></td>
+<td colspan=2>Mrs Yuvaraj</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
