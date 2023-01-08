@@ -754,6 +754,21 @@ third_nav_title: Our People
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 </tr>
+	</tbody>
+</table>
+<br>
+<table class="ive_eobj_center iveo_table ives_tab_simple3">
+<tbody>
+<th>Class</th>
+<th>Charity</th>
+<th>Faith</th>
+<th>Grace</th>
+<th>Hope</th>
+<th>Joy</th>
+<th>Love</th>
+<th>Peace</th>
+<th>Truth</th>
+</tr>
 <tr>
 <td><strong>P2 CL</strong></td>
 <td>Mdm Yang Wenxia</td>
@@ -786,6 +801,21 @@ third_nav_title: Our People
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
+</tr>
+	</tbody>
+</table>
+<br>
+<table class="ive_eobj_center iveo_table ives_tab_simple3">
+<tbody>
+<th>Class</th>
+<th>Charity</th>
+<th>Faith</th>
+<th>Grace</th>
+<th>Hope</th>
+<th>Joy</th>
+<th>Love</th>
+<th>Peace</th>
+<th>Truth</th>
 </tr>
 <tr>
 <td><strong>P3 CL</strong></td>
