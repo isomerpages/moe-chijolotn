@@ -727,7 +727,7 @@ description: ""
 </tr>
 <tr>
 <td><strong>P1 ML</strong></td>
-<td>Mdm Hanizah</td>
+<td>Mdm NorFadilah</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -738,7 +738,7 @@ description: ""
 </tr>
 <tr>
 <td><strong>P1 TL</strong></td>
-<td>Mrs Jabar</td>
+<td>Ms A Sumathi</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -748,7 +748,7 @@ description: ""
 <td>&nbsp;</td>
 </tr>
 <tr>
-<td><strong>P2 Cl</strong></td>
+<td><strong>P2 CL</strong></td>
 <td>-&nbsp;</td>
 <td>Ms Serene Ler</td>
 <td>Md Sim Suat Lee</td>
