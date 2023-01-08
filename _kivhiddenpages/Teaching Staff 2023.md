@@ -685,6 +685,7 @@ description: ""
 <tr>
 <td><a href="mailto:sim_suat_lee@moe.edu.sg" target="">Mdm Sim Suat Lee</a><br />沈雪莉老师</td>
 <td><a href="mailto:yang_wenxia@moe.edu.sg" target="">Mdm Yang Wenxia</a><br />杨文侠老师</td>
+	<td><a href="mailto:yang_wenxia@moe.edu.sg" target="">Mdm Pang Woei Ru</a></td>
 <td><a href="mailto:hanizah_abu_samah@moe.edu.sg" target="">Mdm Hanizah</a></td>
 <td><a href="mailto:illiany_suhaily_mohamed_juhri@moe.edu.sg" target="">Ms Illiany</a></td>
 <td><a href="mailto:norfadilah_sufke@moe.edu.sg" target="">Mdm Norfadilah</a></td>
