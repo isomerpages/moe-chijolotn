@@ -11,7 +11,7 @@ third_nav_title: Our People
 <tbody>
 <tr>
 <th>
-<p><strong>Class\Teacher</strong-></p>
+<p><strong>Class\Teacher</strong></p>
 </th>
 <th>Form</th>
 <th>Co-Form</th>
