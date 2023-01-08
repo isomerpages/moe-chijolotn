@@ -810,12 +810,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td><strong>P3 HCL</strong></td>
-<td colspan=4>Ms Serene Ler / Mdm Peh Bee Leng</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td colspan=8>Ms Serene Ler / Mdm Peh Bee Leng</td>
 </tr>
 	<tr>
 <td><strong>P3 HML<br /></strong></td>
