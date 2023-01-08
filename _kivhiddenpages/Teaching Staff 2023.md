@@ -751,12 +751,12 @@ description: ""
 <td><strong>P2 CL</strong></td>
 <td>Mdm Yang Wenxia</td>
 <td>Mdm Hang Yun</td>
-<td>Ms Yeo Chunhui</td>
-<td>Mdm Ang I-Ling</td>
-<td>Mrs Stephanie Wu</td>
-<td>Mdm Jin Xiumei</td>
-<td>Ms Alena Ho</td>
-<td>Mdm Lai Meiyu</td>
+<td>Ms Yeo Chun Hui</td>
+<td>Ms Serene Ler</td>
+<td>Mrs Ong Sok Chin</td>
+<td>Ms Heng Meow Ern</td>
+<td>Ms Oh Soo Hwee</td>
+<td></td>
 </tr>
 <tr>
 <td><strong>P2 ML</strong></td>
