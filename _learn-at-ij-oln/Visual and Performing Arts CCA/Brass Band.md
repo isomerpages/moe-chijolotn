@@ -81,7 +81,6 @@ third_nav_title: Visual and Performing Arts CCA
 <li><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></li>
 <li><a href="mailto:siow_chian@moe.edu.sg" target="">Mdm Rachel Siow Chian</a></li>
 <li><a href="mailto:ang_i-ling@moe.edu.sg" target="">Mdm Ang I-Ling</a></li>
-<li><a href="mailto:raniah_mohd_noor@moe.edu.sg" target="">Mdm Raniah</a></li>
 </ul>
 <h4><strong>WE WANT YOU...</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="0">
