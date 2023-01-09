@@ -75,7 +75,7 @@ third_nav_title: Our People
 <td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
 <td><a href="mailto:nur_safikha_abdul_ghapar@moe.edu.sg" target="">Mdm Nur Safikha</a></td>
 <td><a href="mailto:poh_shi_ling_edna@moe.edu.sg" target="">Ms Edna Poh</a></td>
-<td><a href="mailto:chua_sze_li_adeline@moe.edu.sg" target="">Mdm Adeline Chua</a></td>
+<td><a href="mailto:chua_sze_li_adeline@moe.edu.sg" target="">Ms Adeline Chua</a></td>
 </tr>
 <tr>
 <td><strong>1 Love</strong></td>
