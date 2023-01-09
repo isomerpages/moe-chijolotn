@@ -56,7 +56,7 @@ third_nav_title: Visual and Performing Arts CCA
 </tbody>
 </table>
 <h4><strong>TEACHERS-IN-CHARGE</strong></h4>
-<p><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a><br /><a href="mailto:oh_wah_gee@moe.edu.sg" target="">Mrs Cindy Oh</a><br /><a href="mailto:wan_yin_seong_angela@moe.edu.sg" target="">Ms Angela Wan</a></p>
+<p><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a><br /><a href="mailto:oh_wah_gee@moe.edu.sg" target="">Mrs Cindy Oh</a></p>
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
