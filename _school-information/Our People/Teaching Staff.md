@@ -68,10 +68,10 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td><strong>1 Joy</strong></td>
-<td><a href="mailto:chua_sze_li_adeline@moe.edu.sg" target="">Mdm Adeline Chua</a></td>
+<td><a href="mailto:chua_sze_li_adeline@moe.edu.sg" target="">Ms Adeline Chua</a></td>
 <td><a href="mailto:lai_meiyu@moe.edu.sg" target="">Mdm Lai Meiyu</a></td>
 <td><a href="mailto:julie_diana_chia_ai@moe.edu.sg" target="">Mdm Julia Diana</a></td>
-<td><a href="mailto:chua_sze_li_adeline@moe.edu.sg" target="">Mdm Adeline Chua</a></td>
+<td><a href="mailto:chua_sze_li_adeline@moe.edu.sg" target="">Ms Adeline Chua</a></td>
 <td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
 <td><a href="mailto:nur_safikha_abdul_ghapar@moe.edu.sg" target="">Mdm Nur Safikha</a></td>
 <td><a href="mailto:poh_shi_ling_edna@moe.edu.sg" target="">Ms Edna Poh</a></td>
