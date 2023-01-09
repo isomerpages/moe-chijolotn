@@ -367,7 +367,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td><strong>4 Hope</strong></td>
-<td><a href="mailto:rabiah_begum_angullia_musa@moe.edu.sg" target="">Mdm Rabiah</a></td>
+<td><a href="mailto:rabiah_begum_angullia_musa@moe.edu.sg" target="">Ms Rabiah</a></td>
 <td><a href="mailto:tan_shin_shin_helen@moe.edu.sg" target="">Ms Helen Tan</a></td>
 <td><a href="mailto:rabiah_begum_angullia_musa@moe.edu.sg" target="">Ms Rabiah</a></td>
 <td><a href="mailto:law_ee_peng@moe.edu.sg" target="">Ms Law Ee Peng</a></td>
