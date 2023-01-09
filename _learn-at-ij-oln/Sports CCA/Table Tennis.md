@@ -84,7 +84,7 @@ third_nav_title: Sports CCA
 </table>
 <h4><strong>Teachers-in-Charge</strong></h4>
 <p><strong>Overall Teacher in-charge:<br /></strong><a href="mailto:tan_hwee_khoon_a@moe.edu.sg" target="">Mrs Lee Hwee Khoon</a></p>
-<p><strong>Teachers in-charge:<br /></strong><a href="mailto:lai_meiyu@moe.edu.sg" target="">Mdm Lai Mei Yu</a><br /><a href="mailto:peh_bee_leng@moe.edu.sg" target="">Mdm Peh Bee Leng</a><br /><a href="mailto:rabiah_begum_angullia_musa@moe.edu.sg" target="">Ms Rabiah</a></p>
+<p><strong>Teachers in-charge:<br /></strong><a href="mailto:lai_meiyu@moe.edu.sg" target="">Mdm Lai Mei Yu</a><br /><a href="mailto:peh_bee_leng@moe.edu.sg" target="">Mdm Peh Bee Leng</a><br /><a href="mailto:chua_sze_li_adeline@moe.edu.sg" target="">Ms Adeline Chua</a></p>
 <h4><strong>CCA SCHEDULE</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
