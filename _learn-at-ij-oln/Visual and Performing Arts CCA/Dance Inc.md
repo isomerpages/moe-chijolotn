@@ -48,12 +48,12 @@ third_nav_title: Visual and Performing Arts CCA
 <div><a href="mailto:noor_hayati_yusof@moe.edu.sg" target="">Mdm Hayati</a><br/><a href="mailto:yuvaraj_thenmozhi@moe.edu.sg" target="">Mrs Yuvaraj</a>&nbsp;</div>
 </td>
 <td style="text-align: center;">
-<div><a href="mailto:li_ning@moe.edu.sg" target="">Mdm Li Ning</a></div>
+<div><a href="mailto:li_ning@moe.edu.sg" target="">Mdm Li Ning (OIC)</a></div>
 <div><a href="mailto:jin_xiumei@moe.edu.sg" target="">Mdm Jin Xiumei</a></div>
 <div><a href="mailto:siow_pei_ling@moe.edu.sg" target="">Mrs Toh-Siow Pei Ling</a></div>
 </td>
 <td style="text-align: center;">
-<div><a href="mailto:norfadilah_sufke@moe.edu.sg" target="">Mdm Norfadilah</a></div>
+<div><a href="mailto:norfadilah_sufke@moe.edu.sg" target="">Mdm Norfadilah (OIC)</a></div>
 <div><a href="mailto:sangeetha_m_suppiah@moe.edu.sg" target="">Mrs Jabar</a></div>
 </td>
 </tr>
