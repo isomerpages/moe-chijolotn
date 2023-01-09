@@ -238,7 +238,7 @@ third_nav_title: Our People
 <tr>
 <td><strong>3 Faith</strong></td>
 <td><a href="mailto:tan_cheh_hia@moe.edu.sg" target="">Mrs Tan Cheh Hia</a></td>
-<td><a href="mailto:illiany_suhaily_mohamed_juhri@moe.edu.sg" target="">Ms Illiany</a></td>
+<td><a href="mailto:illiany_suhaily_mohamed_juhri@moe.edu.sg" target="">Mdm Illiany</a></td>
 <td><a href="mailto:sim_fatimah_mohammed@moe.edu.sg" target="">Ms Fatimah Sim</a></td>
 <td><a href="mailto:tan_cheh_hia@moe.edu.sg" target="">Mrs Tan Cheh Hia</a></td>
 <td><a href="mailto:gan_eng_eng_cheryl@moe.edu.sg" target="">Mrs Cheryl Gan</a></td>
@@ -693,7 +693,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td><a href="mailto:hanizah_abu_samah@moe.edu.sg" target="">Mdm Hanizah</a></td>
-<td><a href="mailto:illiany_suhaily_mohamed_juhri@moe.edu.sg" target="">Ms Illiany</a></td>
+<td><a href="mailto:illiany_suhaily_mohamed_juhri@moe.edu.sg" target="">Mdm Illiany</a></td>
 <td><a href="mailto:norfadilah_sufke@moe.edu.sg" target="">Mdm Norfadilah</a></td>
 <td>&nbsp;</td>
 </tr>
@@ -802,7 +802,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td colspan=2><strong>P3 ML</strong></td>
-<td colspan=7>Ms Illiany</td>
+<td colspan=7>Mdm Illiany</td>
 </tr>
 <tr>
 <td colspan=2><strong>P3 TL</strong></td>
