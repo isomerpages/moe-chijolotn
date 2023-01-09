@@ -1,8 +1,11 @@
 ---
 title: Contact Information
-permalink: /contact-us/
+permalink: /contact-us/Contact-Information/
 description: ""
 ---
+
+
+
 <p><strong>Social Media</strong></p>
 <p>Facebook:&nbsp;<a href="https://www.facebook.com/chijoln.official/" target="_blank" rel="noopener">https://www.facebook.com/chijoln.official/</a><br />Instagram:&nbsp;<a href="https://www.instagram.com/chijoln.official/" target="_blank" rel="noopener">https://www.instagram.com/chijoln.official/</a></p>
 <p><strong>Feedback</strong></p>
