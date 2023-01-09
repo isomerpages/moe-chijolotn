@@ -66,7 +66,7 @@ third_nav_title: Sports CCA
 </tbody>
 </table>
 <h4><strong>Teachers-in-Charge</strong></h4>
-<p><a href="mailto:poh_shi_ling_edna@moe.edu.sg" target="">Ms Edna Poh</a>,&nbsp;<a href="mailto:rabiah_begum_angullia_musa@moe.edu.sg" target="">Ms Rabiah</a>,&nbsp;<a href="mailto:sim_fatimah_mohammed@moe.edu.sg" target="">Ms Fatimah Sim</a>&nbsp;&amp;&nbsp;<a href="mailto:masturah_salman@moe.edu.sg" target="">Mrs Masturah Azman</a><br /><a href="mailto:muhammad_nazri_subawi@moe.edu.sg" target="">Mr Nazri</a>&nbsp;(Overall Teacher In-Charge)</p>
+<p><a href="mailto:poh_shi_ling_edna@moe.edu.sg" target="">Ms Edna Poh</a>,&nbsp;<a href="mailto:raniah_mohd_noor@moe.edu.sg" target="">Mdm Raniah</a>,&nbsp;<a href="mailto:sim_fatimah_mohammed@moe.edu.sg" target="">Ms Fatimah Sim</a>&nbsp;&amp;&nbsp;<a href="mailto:masturah_salman@moe.edu.sg" target="">Mrs Masturah Azman</a><br /><a href="mailto:muhammad_nazri_subawi@moe.edu.sg" target="">Mr Nazri</a>&nbsp;(Overall Teacher In-Charge)</p>
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>

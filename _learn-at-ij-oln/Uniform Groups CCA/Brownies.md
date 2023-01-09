@@ -72,7 +72,7 @@ third_nav_title: Uniform Groups CCA
 </tr>
 <tr>
 <td style="width: 50%;">
-<p style="text-align: center;"><a href="mailto:brindha_menon_siva_kumar@moe.edu.sg" target="">Mrs Shoban</a><br /><a href="mailto:yeo_chun_hui@moe.edu.sg" target="">Miss Yeo Chun Hui</a><br /><a href="mailto:chew_yin_sy@moe.edu.sg" target="">Mrs Kwek Yin Sy</a></p>
+<p style="text-align: center;"><a href="mailto:chew_yin_sy@moe.edu.sg" target="">Mrs Kwek Yin Sy (OIC)</a><br/><a href="mailto:yeo_chun_hui@moe.edu.sg" target="">Ms Yeo Chun Hui</a><br /><a href="mailto:brindha_menon_siva_kumar@moe.edu.sg" target="">Mrs Shoban</a><br /><a href="mailto:elena_ong_yijin@moe.edu.sg" target="">Ms Elena Ong</a><br/><a href="mailto:sharon_jodi@moe.edu.sg" target="">Ms Sharon Jodi</a></p>
 </td>
 <td style="width: 50%;">
 <p style="text-align: center;">Day:&nbsp; Every Thursday<br />Time:&nbsp; 3.15 to 5.15 pm<br />Venue:&nbsp; P1 Classrooms / Lower Punggol</p>
