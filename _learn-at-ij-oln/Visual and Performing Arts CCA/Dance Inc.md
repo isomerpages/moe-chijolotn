@@ -50,7 +50,7 @@ third_nav_title: Visual and Performing Arts CCA
 <td style="text-align: center;">
 <div><a href="mailto:li_ning@moe.edu.sg" target="">Mdm Li Ning</a></div>
 <div><a href="mailto:jin_xiumei@moe.edu.sg" target="">Mdm Jin Xiumei</a></div>
-<div><a href="mailto:koh_shi_pei_krystal@moe.edu.sg" target="">Ms Krystal Koh Pei Shi</a></div>
+<div><a href="mailto:siow_pei_ling@moe.edu.sg" target="">Mrs Toh-Siow Pei Ling</a></div>
 </td>
 <td style="text-align: center;">
 <div><a href="mailto:norfadilah_sufke@moe.edu.sg" target="">Mdm Norfadilah</a></div>
