@@ -507,9 +507,9 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td><strong>5 Peace</strong></td>
-<td><a href="mailto:siow_pei_ling@moe.edu.sg" target="">Mrs Toh Pei Ling</a></td>
+<td><a href="mailto:siow_pei_ling@moe.edu.sg" target="">Mrs Toh-Siow Pei Ling</a></td>
 <td><a href="mailto:zanizam_zaini@moe.edu.sg" target="">Mr Zanizam Zaini</a></td>
-<td><a href="mailto:siow_pei_ling@moe.edu.sg" target="">Mrs Toh Pei Ling</a></td>
+<td><a href="mailto:siow_pei_ling@moe.edu.sg" target="">Mrs Toh-Siow Pei Ling</a></td>
 <td><a href="mailto:woo_kah_wai@moe.edu.sg" target="">Ms Wendy Woo</a></td>
 <td><a href="mailto:chen_yingru@moe.edu.sg" target="">Mrs Sim Yingru</a></td>
 <td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
@@ -559,7 +559,7 @@ third_nav_title: Our People
 <td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
 <td><a href="mailto:nur_safikha_abdul_ghapar@moe.edu.sg" target="">Mdm Nur Safikha</a></td>
 <td><a href="mailto:zanizam_zaini@moe.edu.sg" target="">Mr Zanizam Zaini</a></td>
-<td><a href="mailto:siow_pei_ling@moe.edu.sg" target="">Mrs Toh Pei Ling</a></td>
+<td><a href="mailto:siow_pei_ling@moe.edu.sg" target="">Mrs Toh-Siow Pei Ling</a></td>
 </tr>
 <tr>
 <td><strong>6 Grace</strong></td>
