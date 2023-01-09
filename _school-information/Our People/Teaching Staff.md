@@ -265,7 +265,7 @@ third_nav_title: Our People
 <td><a href="mailto:chern_shihui_charissa@moe.edu.sg" target="">Mrs Charissa Tan</a></td>
 <td><a href="mailto:chern_shihui_charissa@moe.edu.sg" target="">Mrs Charissa Tan</a></td>
 <td><a href="mailto:sharon_jodi@moe.edu.sg" target="">Ms Sharon Jodi</a></td>
-<td><a href="mailto:chua_sze_li_adeline@moe.edu.sg" target="">Mdm Adeline Chua</a></td>
+<td><a href="mailto:chua_sze_li_adeline@moe.edu.sg" target="">Ms Adeline Chua</a></td>
 <td><a href="mailto:tan_shin_shin_helen@moe.edu.sg" target="">Ms Helen Tan</a></td>
 <td><a href="mailto:wong_wendy@moe.edu.sg" target="">Ms Wendy Wong</a></td>
 <td><a href="mailto:kenett_wong_tick_woon@moe.edu.sg" target="">Mr Kenett Wong</a></td>
@@ -357,13 +357,13 @@ third_nav_title: Our People
 <td><a href="mailto:lena_teo@moe.edu.sg" target="">Mrs Lena Teo</a></td>
 <td><a href="mailto:farhanna_zainal@moe.edu.sg" target="">Mdm Farhanna</a></td>
 <td><a href="mailto:farhanna_zainal@moe.edu.sg" target="">Mdm Farhanna</a></td>
-<td><a href="mailto:chua_sze_li_adeline@moe.edu.sg" target="">Mdm Adeline Chua</a></td>
+<td><a href="mailto:chua_sze_li_adeline@moe.edu.sg" target="">Ms Adeline Chua</a></td>
 <td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
 <td>
 <div><a href="mailto:lena_teo@moe.edu.sg" target="">Mrs Lena Teo</a></div>
 </td>
 <td><a href="mailto:kenett_wong_tick_woon@moe.edu.sg" target="">Mr Kenett Wong</a></td>
-<td><a href="mailto:chua_sze_li_adeline@moe.edu.sg" target="">Mdm Adeline Chua</a></td>
+<td><a href="mailto:chua_sze_li_adeline@moe.edu.sg" target="">Ms Adeline Chua</a></td>
 </tr>
 <tr>
 <td><strong>4 Hope</strong></td>
