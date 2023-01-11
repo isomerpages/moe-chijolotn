@@ -19,6 +19,12 @@ third_nav_title: Communications
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 </tr>
+<tr>
+<td>P1 & P6</td>
+<td><a href="/files/PGLetters/2023OLN_0040 - Photo-taking for School Smart Card.pdf" target="_blank" rel="noopener">2023OLN_0040</a></td>
+<td> Photo-taking for School Smart Card</td>
+<td>11 Jan</td>
+</tr>	
 	<tr>
 <td>P6</td>
 <td><a href="/files/PGLetters/2023OLN_0009 - Welcome Letter for P6 Parents 2023.pdf" target="_blank" rel="noopener">2023OLN_0009</a></td>
