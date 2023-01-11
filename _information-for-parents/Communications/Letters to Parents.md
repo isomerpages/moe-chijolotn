@@ -63,7 +63,7 @@ third_nav_title: Communications
 </tr>
 	<tr>
 <td>P1</td>
-<td><a href="/files/PGLetter/2023OLN_0001A - SLS ANNEX A & B.pdf" target="_blank" rel="noopener">2023OLN_0001A</a></td>
+<td><a href="/files/PGLetters/2023OLN_0001A - SLS ANNEX A & B.pdf" target="_blank" rel="noopener">2023OLN_0001A</a></td>
 <td>SLS Guide for Students</td>
 <td>03 Jan</td>
 </tr>
