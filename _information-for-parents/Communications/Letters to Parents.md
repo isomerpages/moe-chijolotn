@@ -39,21 +39,21 @@ third_nav_title: Communications
 </tr>
 <tr>
 <td>All</td>
-<td><a href="/files/2022OLN_0462 - Food Drive 2022 - Announcement to Parents_updated.pdf" target="_blank" rel="noopener">2022OLN_0462</a></td>
-<td>Food Drive 2022</td>
-<td>20 Oct</td>
+<td><a href="/files/PGLetters/2023OLN_0005 - Welcome Letter for P2 Parents 2023.pdf" target="_blank" rel="noopener">2023OLN_0005</a></td>
+<td>Welcome Letter for P2 Parents 2023</td>
+<td>04 Jan</td>
 </tr>
 <tr>
 <td>All</td>
-<td><a href="/files/2022OLN_0451 - Enchancement to FAS Notification October.pdf" target="_blank" rel="noopener">2022OLN_0451</a></td>
+<td><a href="/files/PGLetters/2023OLN_0003 - Annual School-based Health & Dental Services.pdf" target="_blank" rel="noopener">2023OLN_0003</a></td>
 <td>Enhancement to MOE Financial Assistance Scheme</td>
-<td>17 Oct</td>
+<td>03 Jan</td>
 </tr>
 	<tr>
 <td>All</td>
-<td><a href="/files/2022OLN_0449 - Travel Declaration for Year-End School Holidays 2022.pdf" target="_blank" rel="noopener">2022OLN_0449</a></td>
-<td>Travel Declaration for Year-End School Holidays</td>
-<td>14 Oct</td>
+<td><a href="/files/PGLetter/2023OLN_0001A - SLS ANNEX A & B.pdf" target="_blank" rel="noopener">2023OLN_0001A</a></td>
+<td>SLS Guide for Students</td>
+<td>03 Jan</td>
 </tr>
 	</body>
 	</table>
