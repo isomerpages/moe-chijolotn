@@ -20,6 +20,12 @@ third_nav_title: Communications
 <td>&nbsp;</td>
 </tr>
 	<tr>
+<td>P6</td>
+<td><a href="/files/PGLetters/2023OLN_0009 - Welcome Letter for P6 Parents 2023.pdf" target="_blank" rel="noopener">2023OLN_0009</a></td>
+<td>Welcome Letter for P6 Parents 2023</td>
+<td>04 Jan</td>
+</tr>
+<tr>
 <td>P5</td>
 <td><a href="/files/PGLetters/2023OLN_0008 - Welcome Letter for P5 Parents 2023.pdf" target="_blank" rel="noopener">2023OLN_0008</a></td>
 <td>Welcome Letter for P5 Parents 2023</td>
