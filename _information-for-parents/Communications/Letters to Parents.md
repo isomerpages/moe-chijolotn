@@ -67,5 +67,5 @@ third_nav_title: Communications
 <td>SLS Guide for Students</td>
 <td>03 Jan</td>
 </tr>
-	</body>
+	</tbody>
 	</table>
