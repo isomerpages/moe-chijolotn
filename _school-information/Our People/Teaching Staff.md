@@ -219,6 +219,7 @@ third_nav_title: Our People
 </tbody>
 </table>
 <hr>
+<p><strong>^All Maths classes are Banded classes for Primary 3 - 6.</strong></p>
 <table>
 <tbody>
 <tr bgcolor="#E5FAFA">
@@ -228,7 +229,7 @@ third_nav_title: Our People
 <th>Form</th>
 <th>Co-Form</th>
 <th>English</th>
-<th>Maths</th>
+<th>^Maths</th>
 <th>Science</th>
 <th>Music</th>
 <th>Art</th>
@@ -322,7 +323,7 @@ third_nav_title: Our People
 </tbody>
 </table>
 <hr />
-<p><strong>^All Maths classes are Banded classes for Primary 4 - 6.</strong></p>
+<p><strong>^All Maths classes are Banded classes for Primary 3 - 6.</strong></p>
 <table>
 <tbody>
 <tr bgcolor="#E5FAFA">
@@ -428,7 +429,7 @@ third_nav_title: Our People
 </tbody>
 </table>
 <hr />
-<p><strong>^All Maths classes are Banded classes for Primary 4 - 6.</strong></p>
+<p><strong>^All Maths classes are Banded classes for Primary 3 - 6.</strong></p>
 <table>
 <tbody>
 <tr bgcolor="#E5FAFA">
@@ -532,7 +533,7 @@ third_nav_title: Our People
 </tbody>
 </table>
 <hr>
-<p><strong>^All Maths classes are Banded classes for Primary 4 - 6.</strong></p>
+<p><strong>^All Maths classes are Banded classes for Primary 3 - 6.</strong></p>
 <table>
 <tbody>
 <tr bgcolor="#E5FAFA">
@@ -665,7 +666,7 @@ third_nav_title: Our People
 <td><a href="mailto:bao_hong@moe.edu.sg" target="">Mdm Bao Hong</a><br />包钰箖老师</td>
 <td><a href="mailto:heng_ai_ling@moe.edu.sg" target="">Mdm Heng Ai Ling</a><br />王爱玲老师&nbsp;(HOD)</td>
 <td><a href="mailto:hang_yun@moe.edu.sg" target="">Mdm Hang Yun</a> <br />杭云老师</td>
-<td><a href="mailto:alena_ho_li_na@moe.edu.sg" target="">Ms Alena Ho</a><br />何丽娜老师</td>
+<td><a href="mailto:wu_li_chuang_stephanie@moe.edu.sg" target="">Mrs Stephanie Wu</a><br />吴丽娟老师</td>
 <td><a href="mailto:jin_xiumei@moe.edu.sg" target="">Mdm Jin Xiumei</a><br />金秀梅老师</td>
 </tr>
 <tr>
@@ -680,12 +681,11 @@ third_nav_title: Our People
 <td><a href="mailto:ong_sok_chin@moe.edu.sg" target="">Mrs Ong Sok Chin</a><br />&nbsp;谢淑贞老师</td>
 <td><a href="mailto:peh_bee_leng@moe.edu.sg" target="">Mdm Peh Bee Leng</a><br />&nbsp;白美玲老师</td>
 <td><a href="mailto:siow_chian@moe.edu.sg" target="">Mdm Rachel Siow</a>&nbsp;<br />曹健老师</td>
-<td><a href="mailto:wu_li_chuang_stephanie@moe.edu.sg" target="">Mrs Stephanie Wu</a><br />吴丽娟老师</td>
+<td><a href="mailto:sim_suat_lee@moe.edu.sg" target="">Mdm Sim Suat Lee</a><br />沈雪莉老师</td>
 <td><a href="mailto:yeo_chun_hui@moe.edu.sg" target="">Ms Yeo Chun Hui</a><br />&nbsp;杨纯卉老师</td>
 <td><a href="mailto:heng_meow_ern@moe.edu.sg" target="">Ms Heng Meow Ern</a><br />王妙恩老师</td>
 </tr>
 <tr>
-<td><a href="mailto:sim_suat_lee@moe.edu.sg" target="">Mdm Sim Suat Lee</a><br />沈雪莉老师</td>
 <td><a href="mailto:yang_wenxia@moe.edu.sg" target="">Mdm Yang Wenxia</a><br />杨文侠老师</td>
 <td><a href="mailto:pang_woei_ru@moe.edu.sg" target="">Mdm Pang Woei Ru</a><br/>彭伟如</td>
 	<td><a href="mailto:jasmine_yap_see_puay_a@moe.edu.sg" target="">Ms Jasmine Yap</a></td>
