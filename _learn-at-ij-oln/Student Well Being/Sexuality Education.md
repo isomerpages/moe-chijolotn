@@ -31,7 +31,7 @@ third_nav_title: Student Well Being
 <p>6. The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.</p>
 <p>7. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. </p>
 <hr>
-<p><strong>At CHIJ OUR LADY OF THE NATIVITY, the following lessons from the Sexuality Education lessons will be taught in <u>2023</u>:</strong></p>
+<p><strong>At CHIJ Our Lady of the Nativity, the following lessons from the Sexuality Education lessons will be taught in <u>2023</u>:</strong></p>
 <br>
 <img src="/images/MOELogo.jpg" alt="" style="width:20%;height:20%;">
 <p style="text-align: center;"><strong>2023 SEXUALITY EDUCATION LESSONS IN CCE 2021<br>PRIMARY 5</strong></p>
