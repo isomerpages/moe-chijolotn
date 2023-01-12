@@ -3,10 +3,8 @@ title: Announcements
 permalink: /announcements/
 description: ""
 ---
-## Nominate today! 
-Nominations for PAT 2023 and OYEA 2023 are now open and will **close on Wednesday, 11 January 2023**.  
- 
- <a href="https://go.gov.sg/oyea2023" target="_blank">go.gov.sg/oyea2023</a><br>
-<a href="https://go.gov.sg/pat2023" target="_blank">go.gov.sg/pat2023</a>
+### CHIJ OLN Connect! 
+<a href="/files/2023Connect/OLN_Connect_P001r1.pdf" target="_blank" rel="noopener">January Issue!</a>
+<br><br><br>
 
-![](/images/Announcement/PAT-OYEA2023_SM.jpg)
+<img src="/images/Banner and Logo/WEBSITE BANNER 202301.jpg" style="width:70%; height:70%;" alt="School Theme 2023" class="center">

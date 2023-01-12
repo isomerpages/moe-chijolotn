@@ -4,7 +4,7 @@ title: CHIJ Our Lady of the Nativity
 description: Brief site description here
 image: /images/logo.jpg
 permalink: /
-notification: Announcement - Nominations for PAT 2023 and OYEA 2023 are open!
+notification: ""
 sections:
   - hero:
       key_highlights:

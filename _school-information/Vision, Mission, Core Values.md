@@ -15,7 +15,15 @@ description: ""
 <p><strong>With special reference to the needs of persons who are disadvantaged in anyway<br /></strong>This requires a sensitive alertness to identify students who are not coping with school life and to offer or seek out the assistance that will help each better handle the situations which burden them. The sensitive helping disposition is not meant to be restricted to the school situation but to be extended to the wider community, whenever one encounters the weak or the burdened.</p>
 <h4><strong>School Vision</strong></h4>
 <p>Girls of Today for Tomorrow</p>
+
 <h4><strong>School Values</strong></h4>
-<p>G Graciousness<br />R Responsibility<br />A Appreciation<br />C Compassion<br />I Integrity<br />A Adaptability</p>
+<p>
+	<b style="color:blue;" >G</b> Graciousness<br />
+	<b style="color:blue;" >R</b> Responsibility<br />
+	<b style="color:blue;" >A</b> Appreciation<br />
+	<b style="color:blue;" >C</b> Compassion<br />
+	<b style="color:blue;" >I</b> Integrity<br />
+	<b style="color:blue;" >A</b> Adaptability</p>
+	
 <h4><strong>Qualities of an IJ OLN Graduate</strong></h4>
 <p>Acts according to the IJ Mission and our GRACIA values.<br />Leads with initiative, serves with love.<br />Communicates confidently.<br />Thinks creatively, reflects thoughtfully.<br />Remains steadfast in the face of challenges.</p>

@@ -42,7 +42,7 @@ third_nav_title: Student Well Being
 <p><strong>CCE(FTGP) THEME</strong></p>
 </td>
 <td width="217">
-<p><strong>LESSONS TITLE / DURATION</strong></p>
+<p><strong>LESSON TITLE / DURATION</strong></p>
 </td>
 <td width="352">
 <p><strong>LESSON OVERVIEW</strong></p>
@@ -65,8 +65,7 @@ third_nav_title: Student Well Being
 </td>
 <td width="352">
 <p>This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. 
-<br><br>
-This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
+<br><br></p>
 </td>
 <td style="text-align: center;" width="159">
 <p>Term 1</p>
@@ -81,7 +80,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 	<p>
 This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <strong> ‘Stop-Think-Do’</strong>. 
 		<br><br>
-This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
+</p>
 </td>
 <td style="text-align: center;" width="159">
 <p>Term 1</p>
@@ -95,7 +94,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 <td width="352">
 <p>In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.
 	<br><br>
-This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
+</p>
 </td>
 <td style="text-align: center;" width="159">
 <p>Term 1</p>
@@ -158,7 +157,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 <td width="353">
 <p>This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <strong> ‘Stop-Think-Do’</strong>. 
 <br><br>
-This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
+</p>
 </td>
 <td style="text-align: center;" width="159">Term 1</td>
 </tr>
