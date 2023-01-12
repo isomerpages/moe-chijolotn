@@ -7,7 +7,6 @@ description: ""
 <a href="/files/2023Connect/OLN_Connect_P001r1.pdf" target="_blank" rel="noopener">January Issue!</a>
 <br><br>
     <figure>
-        <img src="/assets/images/albuquerque.jpg"
-             alt="School Theme 2023">
+        <img src="/images/Banner and Logo/WEBSITE BANNER 202301.jpg" style="width:70%; height:70%;" alt="School Theme 2023">
         <figcaption>School Theme 2023.</figcaption>
     </figure>
