@@ -112,9 +112,9 @@ description: ""
 </tr>
 <tr>
 <td><strong>6 Truth</strong></td>
-<td>Tuesday</td>
-<td>Monday</td>
 <td>Friday</td>
+<td>Monday</td>
+<td>Tuesday</td>
 <td>Thursday</td>
 </tr>
 </tbody>
