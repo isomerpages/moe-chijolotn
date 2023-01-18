@@ -56,18 +56,6 @@ description: ""
 <td style="text-align: center;">9 Mar</td>
 <td style="text-align: center;"> </td>
 </tr>
-<tr>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">20 Sep</td>
-<td style="text-align: center;">25 Aug</td>
-<td style="text-align: center;">23 Sep</td>
-</tr>
-<tr>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">22 Sep</td>
-<td style="text-align: center;">&nbsp;</td>
-</tr>
 </tbody>
 </table>
 <h4><strong>Days of Supplementary Lessons in Semester 2 (P6)</strong></h4>
