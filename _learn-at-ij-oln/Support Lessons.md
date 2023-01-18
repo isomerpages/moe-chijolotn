@@ -119,7 +119,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4><strong>Term 3 Support and Fibonacci Lessons (P1 - P5, 2PM - 3PM)</strong></h4>
+<h4><strong>Term 1 Support Lessons (P1 - P5, 2PM - 3PM)</strong></h4>
 <table>
 <tbody>
 <tr>
@@ -129,70 +129,46 @@ description: ""
 <th style="text-align: center;">Fridays</th>
 </tr>
 <tr>
-<td style="text-align: center;">18 Jul</td>
-<td style="text-align: center;">5 Jul</td>
-<td style="text-align: center;">7 Jul</td>
-<td style="text-align: center;">8 Jul</td>
+<td style="text-align: center;">16 Jan</td>
+<td style="text-align: center;">17 Jan</td>
+<td style="text-align: center;">19 Jan</td>
+<td style="text-align: center;">27 Jan</td>
 </tr>
 <tr>
-<td style="text-align: center;">25 Jul</td>
-<td style="text-align: center;">12 Jul</td>
-<td style="text-align: center;">14 Jul</td>
-<td style="text-align: center;">15 Jul</td>
+<td style="text-align: center;">30 Jan</td>
+<td style="text-align: center;">31 Jan</td>
+<td style="text-align: center;">26 Jan</td>
+<td style="text-align: center;">3 Feb</td>
 </tr>
 <tr>
-<td style="text-align: center;">1 Aug</td>
-<td style="text-align: center;">19 Jul</td>
-<td style="text-align: center;">21 Jul</td>
-<td style="text-align: center;">29 Jul</td>
+<td style="text-align: center;">6 Feb</td>
+<td style="text-align: center;">7 Feb</td>
+<td style="text-align: center;">2 Feb</td>
+<td style="text-align: center;">10 Feb</td>
 </tr>
 <tr>
-<td style="text-align: center;">22 Aug</td>
-<td style="text-align: center;">26 Jul</td>
-<td style="text-align: center;">28 Jul</td>
-<td style="text-align: center;">5 Aug<strong>*</strong></td>
+<td style="text-align: center;">13 Feb</td>
+<td style="text-align: center;">14 Feb</td>
+<td style="text-align: center;">9 Feb</td>
+<td style="text-align: center;">17 Feb</td>
 </tr>
 <tr>
-<td style="text-align: center;">12 Sep</td>
-<td style="text-align: center;">2 Aug</td>
-<td style="text-align: center;">4 Aug<strong>*</strong></td>
-<td style="text-align: center;">12 Aug</td>
+<td style="text-align: center;">20 Feb</td>
+<td style="text-align: center;">21 Feb</td>
+<td style="text-align: center;">16 Feb</td>
+<td style="text-align: center;">24 Feb</td>
 </tr>
 <tr>
-<td style="text-align: center;">19 Sep</td>
-<td style="text-align: center;">23 Aug</td>
-<td style="text-align: center;">11 Aug</td>
-<td style="text-align: center;">19 Aug</td>
-</tr>
-<tr>
-<td style="text-align: center;">26 Sep</td>
-<td style="text-align: center;">13 Sep</td>
-<td style="text-align: center;">18 Aug</td>
-<td style="text-align: center;">26 Aug</td>
-</tr>
-<tr>
-<td style="text-align: center;">3 Oct</td>
-<td style="text-align: center;">20 Sep</td>
-<td style="text-align: center;">25 Aug</td>
-<td style="text-align: center;">23 Sep</td>
-</tr>
-<tr>
-<td style="text-align: center;">10 Oct</td>
-<td style="text-align: center;">27 Sep</td>
-<td style="text-align: center;">15 Sep</td>
-<td style="text-align: center;">30 Sep</td>
+<td style="text-align: center;">6 Mar</td>
+<td style="text-align: center;">7 Mar</td>
+<td style="text-align: center;">23 Feb</td>
+<td style="text-align: center;"> </td>
 </tr>
 <tr>
 <td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">4 Oct</td>
-<td style="text-align: center;">22 Sep</td>
-<td style="text-align: center;">&nbsp;</td>
-</tr>
-<tr>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">29 Sep</td>
-<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;"> </td>
+<td style="text-align: center;">9 Mar</td>
+<td style="text-align: center;"> </td>
 </tr>
 <tr>
 <td style="text-align: left;" colspan="4">&nbsp;<strong>*</strong>&nbsp;P5 Camp. No support lessons for P5 students.&nbsp;</td>
