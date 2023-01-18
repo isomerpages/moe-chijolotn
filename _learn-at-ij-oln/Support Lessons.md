@@ -119,7 +119,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4><strong>Term 1 Support Lessons (P1 - P5, 2PM - 3PM)</strong></h4>
+<h4><strong>Term 1 Support Lessons (P3 - P5, 2PM - 3PM)</strong></h4>
 <table>
 <tbody>
 <tr>
@@ -181,7 +181,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4><strong>Days of Support Lessons in 2022 Term 3 (P1 - P5)</strong></h4>
+<h4><strong>Days of Support Lessons in Term 1 (P3 - P5)</strong></h4>
 <table>
 <tbody>
 <tr>
@@ -190,31 +190,13 @@ description: ""
 <th>Maths</th>
 <th>Science</th>
 <th>MTL</th>
-<td><strong>Fibonacci Maths</strong></td>
-</tr>
-<tr>
-<td><strong>P1</strong></td>
-<td>Monday</td>
-<td>Tuesday</td>
-<td>-</td>
-<td>-&nbsp;</td>
-<td>-</td>
-</tr>
-<tr>
-<td><strong>P2</strong></td>
-<td>Friday</td>
-<td>Tuesday</td>
-<td>-&nbsp;</td>
-<td>-&nbsp;</td>
-<td>-&nbsp;</td>
 </tr>
 <tr>
 <td><strong>P3</strong></td>
-<td>Tuesday</td>
-<td>Friday&nbsp;</td>
+<td>Friday</td>
 <td>Monday</td>
-<td>Thursday&nbsp;</td>
-<td>&nbsp;-</td>
+<td>Tuesday <br>(Commence in Term 2)</td>
+<td>Thursday</td>
 </tr>
 <tr>
 <td><strong>P4</strong></td>
@@ -222,15 +204,13 @@ description: ""
 <td>Tuesday</td>
 <td>Friday</td>
 <td>Thursday</td>
-<td>Monday</td>
 </tr>
 <tr>
 <td><strong>P5</strong></td>
-<td>Monday</td>
-<td>Friday</td>
 <td>Tuesday</td>
-<td>Thursday</td>
+<td>Friday</td>
 <td>Monday</td>
+<td>Thursday</td>
 </tr>
 </tbody>
 </table>
