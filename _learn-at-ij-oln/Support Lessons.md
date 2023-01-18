@@ -79,8 +79,8 @@ description: ""
 <td><strong>6 Grace</strong></td>
 <td>Friday</td>
 <td>Monday</td>
-<td>Monday</td>
 <td>Tuesday</td>
+<td>Thursday</td>
 </tr>
 <tr>
 <td><strong>6 Hope</strong></td>
