@@ -214,28 +214,3 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4><strong>P6 Supplementary Lessons during the June / September holidays</strong></h4>
-<table>
-<tbody>
-<tr>
-<th>&nbsp;</th>
-<th>Dates</th>
-<th>Timing</th>
-</tr>
-<tr>
-<td>June Holidays 2022</td>
-<td>20 to 22 Jun</td>
-<td>7.45am to 12.15pm</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>8.45 am to 12.15 pm (For pupils exempted from MTL and pupils taking FMTL)</td>
-</tr>
-<tr>
-<td>September Holidays 2022</td>
-<td>5 &amp; 6 Sep</td>
-<td>7.45am to 12.15pm<br />7.45 am to 11.15 am (For pupils exempted from MTL and pupils taking FMTL)</td>
-</tr>
-</tbody>
-</table>
