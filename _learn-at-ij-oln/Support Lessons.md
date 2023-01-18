@@ -58,7 +58,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4><strong>Days of Supplementary Lessons in Semester 2 (P6)</strong></h4>
+<h4><strong>Days of Supplementary Lessons in Term 1 (P6)</strong></h4>
 <table>
 <tbody>
 <tr>
@@ -71,22 +71,22 @@ description: ""
 <tr>
 <td><strong>6 Faith</strong></td>
 <td>Tuesday</td>
-<td>Monday</td>
 <td>Friday</td>
+<td>Monday</td>
 <td>Thursday</td>
 </tr>
 <tr>
 <td><strong>6 Grace</strong></td>
 <td>Friday</td>
-<td>Tuesday</td>
 <td>Monday</td>
-<td>Thursday</td>
+<td>Monday</td>
+<td>Tuesday</td>
 </tr>
 <tr>
 <td><strong>6 Hope</strong></td>
-<td>Tuesday</td>
 <td>Monday</td>
 <td>Friday</td>
+<td>Tuesday</td>
 <td>Thursday</td>
 </tr>
 <tr>
