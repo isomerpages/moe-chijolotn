@@ -91,23 +91,23 @@ description: ""
 </tr>
 <tr>
 <td><strong>6 Joy</strong></td>
-<td>Monday</td>
 <td>Tuesday</td>
 <td>Friday</td>
+<td>Monday</td>
 <td>Thursday</td>
 </tr>
 <tr>
 <td><strong>6 Love</strong></td>
 <td>Friday</td>
-<td>Tuesday</td>
 <td>Monday</td>
+<td>Tuesday</td>
 <td>Thursday</td>
 </tr>
 <tr>
 <td><strong>6 Peace</strong></td>
+<td>Friday</td>
 <td>Monday</td>
 <td>Tuesday</td>
-<td>Friday</td>
 <td>Thursday</td>
 </tr>
 <tr>
