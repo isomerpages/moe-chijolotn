@@ -689,7 +689,7 @@ third_nav_title: Our People
 <td><a href="mailto:yang_wenxia@moe.edu.sg" target="">Mdm Yang Wenxia</a><br />杨文侠老师</td>
 <td><a href="mailto:pang_woei_ru@moe.edu.sg" target="">Mdm Pang Woei Ru</a><br/>彭伟如</td>
 	<td><a href="mailto:jasmine_yap_see_puay_a@moe.edu.sg" target="">Ms Jasmine Yap</a><br/> 叶诗蓓</td>
-<td><a href="mailto:yong_ann_chie@moe.edu.sg" target="">Ms Yong Ann Chie</a><br>杨安qi</td>
+<td><a href="mailto:yong_ann_chie@moe.edu.sg" target="">Ms Yong Ann Chie</a><br/>杨安琦</td>
 </tr>
 <tr>
 <td><a href="mailto:hanizah_abu_samah@moe.edu.sg" target="">Mdm Hanizah</a></td>
