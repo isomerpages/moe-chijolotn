@@ -752,7 +752,6 @@ third_nav_title: Our People
 <th>Hope</th>
 <th>Joy</th>
 <th>Love</th>
-<th>Peace</th>
 <th>Truth</th>
 </tr>
 <tr>
@@ -764,15 +763,14 @@ third_nav_title: Our People
 <td>Mdm Yang Wenxia</td>
 <td>Ms Heng Meow Ern</td>
 <td>Ms Oh Soo Hwee</td>
-<td>-</td>
 </tr>
 <tr>
 <td><strong>P2 ML</strong></td>
-<td colspan=8>Mdm Hanizah</td>
+<td colspan=7>Mdm Hanizah</td>
 </tr>
 <tr>
 <td><strong>P2 TL</strong></td>
-<td colspan=8>Mrs Jabar</td>
+<td colspan=7>Mrs Jabar</td>
 </tr>
 	</tbody>
 </table>
