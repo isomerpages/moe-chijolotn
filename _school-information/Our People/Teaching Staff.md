@@ -896,8 +896,8 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td><strong>P6 CL</strong></td>
+<td>Mdm Heng Ai Leng</td>
 <td>Ms Oh Soo Hwee</td>
-<td>Mdm Heng Ai Ling</td>
 <td>Ms Yeo Chun Hui</td>
 <td>Mdm Li Ning</td>
 <td>Mdm Hang Yun</td>
@@ -918,10 +918,6 @@ third_nav_title: Our People
 <tr>
 <td colspan=2><strong>&nbsp;P6 FTL</strong></td>
 <td colspan=5>Mrs Yuvaraj</td>
-</tr>
-<tr>
-<td colspan=2><strong>P6 HCL</strong></td>
-<td colspan=5>Mdm Hang Yun</td>
 </tr>
 	<tr>
 <td colspan=2><strong>P6 HML</strong></td>
