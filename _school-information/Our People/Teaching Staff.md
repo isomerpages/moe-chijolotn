@@ -822,7 +822,6 @@ third_nav_title: Our People
 <tbody>
 	<tr bgcolor="#E5FAFA">
 <th>Class</th>
-<th>-</th>
 <th>ABLE</th>
 <th>Hope</th>
 <th>Joy</th>
@@ -832,7 +831,6 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td><strong>P4 CL</strong></td>
-<td>&nbsp;-</td>
 <td>Mdm Jenny Lee</td>
 <td>Mdm Li Ning</td>
 <td>Ms Heng Meow Ern</td>
@@ -842,11 +840,11 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td colspan=2><strong>P4 ML & HML</strong></td>
-<td colspan=7>Ms Illiany</td>
+<td colspan=5>Ms Illiany</td>
 </tr>
 <tr>
 <td colspan=2><strong>P4 TL & HTL</strong></td>
-<td colspan=7>Mrs Yuvaraj</td>
+<td colspan=5>Mrs Yuvaraj</td>
 </tr>
 </tbody>
 </table>
@@ -854,37 +852,33 @@ third_nav_title: Our People
 <tbody>
 	<tr bgcolor="#E5FAFA">
 <th>Class</th>
-<th>-</th>
 <th>Faith</th>
 <th>Grace</th>
 <th>Hope</th>
 <th>Joy</th>
 <th>Love</th>
 <th>Peace</th>
-<th>Truth</th>
 </tr>
 <tr>
 <td><strong>P5 CL</strong></td>
-<td>&nbsp;-</td>
 <td>Mrs Stephanie Wu</td>
 <td>Mdm Bao Hong</td>
 <td>Mdm Pang Woei Ru</td>
 <td>Mdm Jin Xiumei</td>
 <td>Mdm Ang I-Ling</td>
 <td>Mdm Lai Meiyu</td>
-<td>-</td>
 </tr>
 <tr>
 <td colspan=2><strong>P5 ML</strong></td>
-<td colspan=7>Mdm Fadilah</td>
+<td colspan=5>Mdm Fadilah</td>
 </tr>
 <tr>
 <td colspan=2><strong>P5 TL</strong></td>
-<td colspan=7>Ms A Sumathi</td>
+<td colspan=5>Ms A Sumathi</td>
 </tr>
 <tr>
 <td colspan=2><strong>P5 FCL</strong></td>
-<td colspan=7>Ms Yong Ann Chie</td>
+<td colspan=5>Ms Yong Ann Chie</td>
 </tr>
 </tbody>
 </table>
@@ -892,49 +886,45 @@ third_nav_title: Our People
 <tbody>
 	<tr bgcolor="#E5FAFA">
 <th>Class</th>
-<th>-</th>
 <th>Faith</th>
 <th>Grace</th>
 <th>Hope</th>
 <th>Joy</th>
 <th>Love</th>
 <th>Peace</th>
-<th>Truth</th>
 </tr>
 <tr>
 <td><strong>P6 CL</strong></td>
-<td>&nbsp;-</td>
 <td>Ms Oh Soo Hwee</td>
 <td>Mdm Heng Ai Ling</td>
 <td>Ms Yeo Chun Hui</td>
 <td>Mdm Li Ning</td>
 <td>Mdm Hang Yun</td>
 <td>Mdm Peh Bee Leng</td>
-<td>-</td>
 </tr>
 <tr>
 <td colspan=2><strong>P6 ML</strong></td>
-<td colspan=7>Mdm Hanizah</td>
+<td colspan=5>Mdm Hanizah</td>
 </tr>
 <tr>
 <td colspan=2><strong>P6 TL</strong></td>
-<td colspan=7>Mrs Jabar</td>
+<td colspan=5>Mrs Jabar</td>
 </tr>
 <tr>
 <td colspan=2><strong>P6 FCL</strong></td>
-<td colspan=7>Mdm Jenny Lee</td>
+<td colspan=5>Mdm Jenny Lee</td>
 </tr>
 <tr>
 <td colspan=2><strong>&nbsp;P6 FTL</strong></td>
-<td colspan=7>Mrs Yuvaraj</td>
+<td colspan=5>Mrs Yuvaraj</td>
 </tr>
 <tr>
 <td colspan=2><strong>P6 HCL</strong></td>
-<td colspan=7>Mdm Hang Yun</td>
+<td colspan=5>Mdm Hang Yun</td>
 </tr>
 	<tr>
 <td colspan=2><strong>P6 HML</strong></td>
-<td colspan=7>Mdm Illiany</td>
+<td colspan=5>Mdm Illiany</td>
 </tr>
 </tbody>
 </table>
