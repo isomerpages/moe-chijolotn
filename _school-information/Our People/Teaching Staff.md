@@ -858,7 +858,7 @@ third_nav_title: Our People
 <tbody>
 	<tr bgcolor="#E5FAFA">
 <th>Class</th>
-<th>Charity</th>
+<th>-</th>
 <th>Faith</th>
 <th>Grace</th>
 <th>Hope</th>
@@ -870,12 +870,12 @@ third_nav_title: Our People
 <tr>
 <td><strong>P5 CL</strong></td>
 <td>&nbsp;-</td>
-<td>Mdm Lai Meiyu</td>
-<td>Mdm Jin Xiumei</td>
 <td>Mrs Stephanie Wu</td>
-<td>Mdm Ang I-Ling</td>
-<td>Mdm Pang Woei Ru</td>
 <td>Mdm Bao Hong</td>
+<td>Mdm Pang Woei Ru</td>
+<td>Mdm Jin Xiumei</td>
+<td>Mdm Ang I-Ling</td>
+<td>Mdm Lai Meiyu</td>
 <td>-</td>
 </tr>
 <tr>
