@@ -780,45 +780,41 @@ third_nav_title: Our People
 <tbody>
 	<tr bgcolor="#E5FAFA">
 <th>Class</th>
-<th>-</th>
 <th>Faith</th>
 <th>Grace</th>
 <th>Hope</th>
 <th>Joy</th>
 <th>Love</th>
 <th>Peace</th>
-<th>Truth</th>
 </tr>
 <tr>
 <td><strong>P3 CL</strong></td>
-<td>-</td>
 <td>Mdm Yang Wenxia</td>
 <td>Mdm Serene Ler</td>
 <td>Mdm Sim Suat Lee</td>
 <td>Mdm Peh Bee Leng</td>
 <td>Mrs Ong Sok Chin</td>
 <td>Mdm Rachel Siow</td>
-<td>-</td>
 </tr>
 <tr>
 <td colspan=2><strong>P3 ML</strong></td>
-<td colspan=7>Mdm Illiany</td>
+<td colspan=5>Mdm Illiany</td>
 </tr>
 <tr>
 <td colspan=2><strong>P3 TL</strong></td>
-<td colspan=7>Mrs T Yuvaraj</td>
+<td colspan=5>Mrs T Yuvaraj</td>
 </tr>
 <tr>
 <td colspan=2><strong>P3 HCL</strong></td>
-<td colspan=7>Ms Serene Ler / Mdm Peh Bee Leng</td>
+<td colspan=5>Ms Serene Ler / Mdm Peh Bee Leng</td>
 </tr>
 	<tr>
 <td colspan=2><strong>P3 HML</strong></td>
-<td colspan=7>Mdm Fadilah</td>
+<td colspan=5>Mdm Fadilah</td>
 </tr>
 <tr>
 	<td colspan=2><strong>P3 HTL</strong></td>
-<td Colspan=7>Ms A Sumathi</td>
+<td Colspan=5>Ms A Sumathi</td>
 </tr>
 	</tbody>
 </table>
