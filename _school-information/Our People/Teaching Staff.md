@@ -826,9 +826,8 @@ third_nav_title: Our People
 <tbody>
 	<tr bgcolor="#E5FAFA">
 <th>Class</th>
-<th>Charity</th>
-<th>Faith</th>
-<th>Grace</th>
+<th>-</th>
+<th>ABLE</th>
 <th>Hope</th>
 <th>Joy</th>
 <th>Love</th>
@@ -844,11 +843,6 @@ third_nav_title: Our People
 <td>Ms Jasmine Yap</td>
 <td>Mdm Rachel Siow</td>
 <td>Mdm Sim Suat Lee</td>
-<td>-</td>
-</tr>
-<tr>
-<td colspan=2><strong>P4 HCL</strong></td>
-<td colspan=7>Mdm Rachel Siow / Mdm Sim Suat Lee</td>
 </tr>
 <tr>
 <td colspan=2><strong>P4 ML & HML</strong></td>
