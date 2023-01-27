@@ -780,7 +780,7 @@ third_nav_title: Our People
 <tbody>
 	<tr bgcolor="#E5FAFA">
 <th>Class</th>
-<th>Charity</th>
+<th>-</th>
 <th>Faith</th>
 <th>Grace</th>
 <th>Hope</th>
