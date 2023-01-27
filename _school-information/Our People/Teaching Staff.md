@@ -734,7 +734,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td><strong>P1 ML</strong></td>
-<td colspan=8>Mdm NorFadilah</td>
+<td colspan=8>Mdm Fadilah</td>
 </tr>
 <tr>
 <td><strong>P1 TL</strong></td>
@@ -752,27 +752,25 @@ third_nav_title: Our People
 <th>Hope</th>
 <th>Joy</th>
 <th>Love</th>
-<th>Peace</th>
 <th>Truth</th>
 </tr>
 <tr>
 <td><strong>P2 CL</strong></td>
-<td>Mdm Yang Wenxia</td>
+<td>Ms Serene Ler</td>
 <td>Mdm Hang Yun</td>
 <td>Ms Yeo Chun Hui</td>
-<td>Ms Serene Ler</td>
 <td>Mrs Ong Sok Chin</td>
+<td>Mdm Yang Wenxia</td>
 <td>Ms Heng Meow Ern</td>
 <td>Ms Oh Soo Hwee</td>
-<td>-</td>
 </tr>
 <tr>
 <td><strong>P2 ML</strong></td>
-<td colspan=8>Mdm Hanizah</td>
+<td colspan=7>Mdm Hanizah</td>
 </tr>
 <tr>
 <td><strong>P2 TL</strong></td>
-<td colspan=8>Mrs Jabar</td>
+<td colspan=7>Mrs Jabar</td>
 </tr>
 	</tbody>
 </table>
@@ -780,45 +778,41 @@ third_nav_title: Our People
 <tbody>
 	<tr bgcolor="#E5FAFA">
 <th>Class</th>
-<th>Charity</th>
 <th>Faith</th>
 <th>Grace</th>
 <th>Hope</th>
 <th>Joy</th>
 <th>Love</th>
 <th>Peace</th>
-<th>Truth</th>
 </tr>
 <tr>
 <td><strong>P3 CL</strong></td>
-<td>-</td>
-<td>Ms Serene Ler</td>
 <td>Mdm Yang Wenxia</td>
+<td>Ms Serene Ler</td>
 <td>Mdm Sim Suat Lee</td>
-<td>Mrs Ong Sok Chin</td>
 <td>Mdm Peh Bee Leng</td>
+<td>Mrs Ong Sok Chin</td>
 <td>Mdm Rachel Siow</td>
-<td>-</td>
 </tr>
 <tr>
 <td colspan=2><strong>P3 ML</strong></td>
-<td colspan=7>Mdm Illiany</td>
+<td colspan=5>Mdm Illiany</td>
 </tr>
 <tr>
 <td colspan=2><strong>P3 TL</strong></td>
-<td colspan=7>Mrs T Yuvaraj</td>
+<td colspan=5>Mrs T Yuvaraj</td>
 </tr>
 <tr>
 <td colspan=2><strong>P3 HCL</strong></td>
-<td colspan=7>Ms Serene Ler / Mdm Peh Bee Leng</td>
+<td colspan=5>Ms Serene Ler / Mdm Peh Bee Leng</td>
 </tr>
 	<tr>
 <td colspan=2><strong>P3 HML</strong></td>
-<td colspan=7>Mdm NorFadilah</td>
+<td colspan=5>Mdm Fadilah</td>
 </tr>
 <tr>
 	<td colspan=2><strong>P3 HTL</strong></td>
-<td Colspan=7>Ms A Sumathi</td>
+<td Colspan=5>Ms A Sumathi</td>
 </tr>
 	</tbody>
 </table>
@@ -826,9 +820,7 @@ third_nav_title: Our People
 <tbody>
 	<tr bgcolor="#E5FAFA">
 <th>Class</th>
-<th>Charity</th>
-<th>Faith</th>
-<th>Grace</th>
+<th>ABLE</th>
 <th>Hope</th>
 <th>Joy</th>
 <th>Love</th>
@@ -837,26 +829,20 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td><strong>P4 CL</strong></td>
-<td>&nbsp;-</td>
 <td>Mdm Jenny Lee</td>
 <td>Mdm Li Ning</td>
 <td>Ms Heng Meow Ern</td>
 <td>Ms Jasmine Yap</td>
 <td>Mdm Rachel Siow</td>
 <td>Mdm Sim Suat Lee</td>
-<td>-</td>
-</tr>
-<tr>
-<td colspan=2><strong>P4 HCL</strong></td>
-<td colspan=7>Mdm Rachel Siow / Mdm Sim Suat Lee</td>
 </tr>
 <tr>
 <td colspan=2><strong>P4 ML & HML</strong></td>
-<td colspan=7>Ms Illiany</td>
+<td colspan=5>Ms Illiany</td>
 </tr>
 <tr>
 <td colspan=2><strong>P4 TL & HTL</strong></td>
-<td colspan=7>Mrs Yuvaraj</td>
+<td colspan=5>Mrs Yuvaraj</td>
 </tr>
 </tbody>
 </table>
@@ -864,41 +850,33 @@ third_nav_title: Our People
 <tbody>
 	<tr bgcolor="#E5FAFA">
 <th>Class</th>
-<th>Charity</th>
 <th>Faith</th>
 <th>Grace</th>
 <th>Hope</th>
 <th>Joy</th>
 <th>Love</th>
 <th>Peace</th>
-<th>Truth</th>
 </tr>
 <tr>
 <td><strong>P5 CL</strong></td>
-<td>&nbsp;-</td>
-<td>Mdm Lai Meiyu</td>
-<td>Mdm Jin Xiumei</td>
 <td>Mrs Stephanie Wu</td>
-<td>Mdm Ang I-Ling</td>
-<td>Mdm Pang Woei Ru</td>
 <td>Mdm Bao Hong</td>
-<td>-</td>
+<td>Mdm Pang Woei Ru</td>
+<td>Mdm Jin Xiumei</td>
+<td>Mdm Ang I-Ling</td>
+<td>Mdm Lai Meiyu</td>
 </tr>
 <tr>
 <td colspan=2><strong>P5 ML</strong></td>
-<td colspan=7>Mdm NorFadilah</td>
+<td colspan=5>Mdm Fadilah</td>
 </tr>
 <tr>
 <td colspan=2><strong>P5 TL</strong></td>
-<td colspan=7>Ms A Sumathi</td>
+<td colspan=5>Ms A Sumathi</td>
 </tr>
 <tr>
 <td colspan=2><strong>P5 FCL</strong></td>
-<td colspan=7>Ms Yong Ann Chie</td>
-</tr>
-<tr>
-<td colspan=2><strong>P5 HCL</strong></td>
-<td colspan=7>Mdm Jin Xiumei</td>
+<td colspan=5>Ms Yong Ann Chie</td>
 </tr>
 </tbody>
 </table>
@@ -906,8 +884,7 @@ third_nav_title: Our People
 <tbody>
 	<tr bgcolor="#E5FAFA">
 <th>Class</th>
-<th>Charity</th>
-<th>Faith</th>
+
 <th>Grace</th>
 <th>Hope</th>
 <th>Joy</th>
@@ -917,38 +894,32 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td><strong>P6 CL</strong></td>
-<td>&nbsp;-</td>
+<td>Mdm Heng Ai Leng</td>
 <td>Ms Oh Soo Hwee</td>
-<td>Mdm Heng Ai Ling</td>
 <td>Ms Yeo Chun Hui</td>
 <td>Mdm Li Ning</td>
 <td>Mdm Hang Yun</td>
 <td>Mdm Peh Bee Leng</td>
-<td>-</td>
 </tr>
 <tr>
 <td colspan=2><strong>P6 ML</strong></td>
-<td colspan=7>Mdm Hanizah</td>
+<td colspan=5>Mdm Hanizah</td>
 </tr>
 <tr>
 <td colspan=2><strong>P6 TL</strong></td>
-<td colspan=7>Mrs Jabar</td>
+<td colspan=5>Mrs Jabar</td>
 </tr>
 <tr>
 <td colspan=2><strong>P6 FCL</strong></td>
-<td colspan=7>Mdm Jenny Lee</td>
+<td colspan=5>Mdm Jenny Lee</td>
 </tr>
 <tr>
 <td colspan=2><strong>&nbsp;P6 FTL</strong></td>
-<td colspan=7>Mrs Yuvaraj</td>
-</tr>
-<tr>
-<td colspan=2><strong>P6 HCL</strong></td>
-<td colspan=7>Mdm Hang Yun</td>
+<td colspan=5>Mrs Yuvaraj</td>
 </tr>
 	<tr>
 <td colspan=2><strong>P6 HML</strong></td>
-<td colspan=7>Mdm Illiany</td>
+<td colspan=5>Mdm Illiany</td>
 </tr>
 </tbody>
 </table>
