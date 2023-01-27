@@ -734,7 +734,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td><strong>P1 ML</strong></td>
-<td colspan=8>Mdm NorFadilah</td>
+<td colspan=8>Mdm Fadilah</td>
 </tr>
 <tr>
 <td><strong>P1 TL</strong></td>
@@ -757,11 +757,11 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td><strong>P2 CL</strong></td>
-<td>Mdm Yang Wenxia</td>
+<td>Ms Serene Ler</td>
 <td>Mdm Hang Yun</td>
 <td>Ms Yeo Chun Hui</td>
-<td>Ms Serene Ler</td>
 <td>Mrs Ong Sok Chin</td>
+<td>Mdm Yang Wenxia</td>
 <td>Ms Heng Meow Ern</td>
 <td>Ms Oh Soo Hwee</td>
 <td>-</td>
@@ -792,11 +792,11 @@ third_nav_title: Our People
 <tr>
 <td><strong>P3 CL</strong></td>
 <td>-</td>
-<td>Ms Serene Ler</td>
 <td>Mdm Yang Wenxia</td>
+<td>Mdm Serene Ler</td>
 <td>Mdm Sim Suat Lee</td>
-<td>Mrs Ong Sok Chin</td>
 <td>Mdm Peh Bee Leng</td>
+<td>Mrs Ong Sok Chin</td>
 <td>Mdm Rachel Siow</td>
 <td>-</td>
 </tr>
@@ -814,7 +814,7 @@ third_nav_title: Our People
 </tr>
 	<tr>
 <td colspan=2><strong>P3 HML</strong></td>
-<td colspan=7>Mdm NorFadilah</td>
+<td colspan=7>Mdm Fadilah</td>
 </tr>
 <tr>
 	<td colspan=2><strong>P3 HTL</strong></td>
