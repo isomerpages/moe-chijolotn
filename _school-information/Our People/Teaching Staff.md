@@ -886,12 +886,13 @@ third_nav_title: Our People
 <tbody>
 	<tr bgcolor="#E5FAFA">
 <th>Class</th>
-<th>Faith</th>
+
 <th>Grace</th>
 <th>Hope</th>
 <th>Joy</th>
 <th>Love</th>
 <th>Peace</th>
+<th>Truth</th>
 </tr>
 <tr>
 <td><strong>P6 CL</strong></td>
