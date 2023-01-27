@@ -880,7 +880,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td colspan=2><strong>P5 ML</strong></td>
-<td colspan=7>Mdm NorFadilah</td>
+<td colspan=7>Mdm Fadilah</td>
 </tr>
 <tr>
 <td colspan=2><strong>P5 TL</strong></td>
@@ -890,17 +890,13 @@ third_nav_title: Our People
 <td colspan=2><strong>P5 FCL</strong></td>
 <td colspan=7>Ms Yong Ann Chie</td>
 </tr>
-<tr>
-<td colspan=2><strong>P5 HCL</strong></td>
-<td colspan=7>Mdm Jin Xiumei</td>
-</tr>
 </tbody>
 </table>
 <table class="ive_eobj_center iveo_table ives_tab_simple3">
 <tbody>
 	<tr bgcolor="#E5FAFA">
 <th>Class</th>
-<th>Charity</th>
+<th>-</th>
 <th>Faith</th>
 <th>Grace</th>
 <th>Hope</th>
