@@ -12,7 +12,20 @@ third_nav_title: Communications
   </tr>
 	<tr>
 <td>3 Jan 2023</td>
-<td><a href="/files/2023Connect/OLN_Connect_P001r1.pdf" target="_blank" rel="noopener">January</a></td>
+<td><a href="/files/Comms_Networking/Briefing%20slides%20for%20P1%20Parents_P1%20Day1.pdf" target="_blank" rel="noopener">Meeting with Parents - P1 2023</a></td>
 </tr>
-</tbody>
+<tr>
+<td>27 Jan 2023</td>
+<td><a href="/files/2023Connect/OLN_Connect_P001r1.pdf" target="_blank" rel="noopener">P2 Curriculumn & Assessment</a></td>
+</tr>
+<tr>
+<td>27 Jan 2023</td>
+<td><a href="/files/2023Connect/OLN_Connect_P001r1.pdf" target="_blank" rel="noopener">P4 Assessment & SBB</a></td>
+</tr>
+<tr>
+<td>27 Jan 2023</td>
+<td><a href="/files/2023Connect/OLN_Connect_P001r1.pdf" target="_blank" rel="noopener">P6 FSBB</a></td>
+</tr>
+
+	</tbody>
 </table>
