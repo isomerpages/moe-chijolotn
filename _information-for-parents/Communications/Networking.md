@@ -16,7 +16,7 @@ third_nav_title: Communications
 </tr>
 <tr>
 <td>27 Jan 2023</td>
-<td><a href="/files/2023Connect/OLN_Connect_P001r1.pdf" target="_blank" rel="noopener">P2 Curriculumn & Assessment</a></td>
+<td><a href="/files/Comms_Networking/2023 Networking - P2 Curr & Assessment (Web).pdf" target="_blank" rel="noopener">P2 Curriculumn & Assessment</a></td>
 </tr>
 <tr>
 <td>27 Jan 2023</td>
