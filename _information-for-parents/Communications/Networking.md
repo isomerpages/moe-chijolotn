@@ -20,7 +20,7 @@ third_nav_title: Communications
 </tr>
 <tr>
 <td>27 Jan 2023</td>
-<td><a href="/files/2023Connect/OLN_Connect_P001r1.pdf" target="_blank" rel="noopener">P4 Assessment & SBB</a></td>
+<td><a href="/files/Comms_Networking/2023 Networking - P4 Assessment & SBB (Web).pdf" target="_blank" rel="noopener">P4 Assessment & SBB</a></td>
 </tr>
 <tr>
 <td>27 Jan 2023</td>
