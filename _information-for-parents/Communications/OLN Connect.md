@@ -9,7 +9,7 @@ third_nav_title: Communications
 <tbody>
 <tr>
 <td><a href="/files/2023Connect/OLN_Connect_P001r1.pdf" target="_blank" rel="noopener">January</a></td>
-<td><a href="/files/2023Connect/OLN_Connect_P001r1.pdf" target="_blank" rel="noopener">February</a></td>
+<td><a href="/files/2023Connect/OLN_Connect_P002.pdf" target="_blank" rel="noopener">February</a></td>
 <td>March</td>
 <td>April</td>
 <td>May</td>
@@ -25,4 +25,3 @@ third_nav_title: Communications
 </tr>
 </tbody>
 </table>
-
