@@ -8,8 +8,8 @@ third_nav_title: Communications
 <table class="ive_eobj_center iveo_table ives_tab_simple3">
 <tbody>
 <tr>
-<td><a href="/files/2023Connect/OLN_Connect_P001r1.pdf" target="_blank" rel="noopener">January&nbsp;</a></td>
-<td>February</td>
+<td><a href="/files/2023Connect/OLN_Connect_P001r1.pdf" target="_blank" rel="noopener">January</a></td>
+<td><a href="/files/2023Connect/OLN_Connect_P001r1.pdf" target="_blank" rel="noopener">February</a></td>
 <td>March</td>
 <td>April</td>
 <td>May</td>
@@ -30,7 +30,7 @@ third_nav_title: Communications
 <table class="ive_eobj_center iveo_table ives_tab_simple3">
 <tbody>
 <tr>
-<td><a href="/files/OLN_Connect_P001r1.pdf" target="_blank" rel="noopener">January&nbsp;</a></td>
+<td><a href="/files/OLN_Connect_P001r1.pdf" target="_blank" rel="noopener">January</a></td>
 <td>&nbsp;<a href="/files/OLN_Connect_P002.pdf" target="_blank" rel="noopener">February</a></td>
 <td><a href="/files/OLN_Connect_P003rv3.pdf" target="_blank" rel="noopener">March</a></td>
 <td><a href="/files/OLN_Connect_P004r3.pdf" target="_blank" rel="noopener">April</a></td>
