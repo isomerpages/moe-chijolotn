@@ -59,7 +59,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td style="text-align: center;">Operation Support Officer</td>
-<td style="text-align: center;">Mdm Indrahdevi Ramaiyan&nbsp;</td>
+<td style="text-align: center;">Mdm Indrahdevi Ramaiyan</td>
 <td style="text-align: center;">&nbsp;</td>
 </tr>
 <tr>
@@ -69,15 +69,19 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td style="text-align: center;">Operation Support Officer</td>
+<td style="text-align: center;">Mdm Wong Bee Leng&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">Operation Support Officer</td>
 <td style="text-align: center;">Mdm Sharon Gan</td>
 <td style="text-align: center;">&nbsp;</td>
 </tr>
 <tr>
 <td style="text-align: center;">Operation Support Officer</td>
-<td style="text-align: center;">Mdm Wong Bee Leng&nbsp;</td>
+<td style="text-align: center;">Mrs Lim Kim Tia</td>
 <td style="text-align: center;">&nbsp;</td>
 </tr>
-
 </tbody>
 </table>
 <h4 style="text-align: center;"><strong>&nbsp;Support Staff</strong></h4>
