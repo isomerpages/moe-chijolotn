@@ -1,8 +1,12 @@
 ---
-title: History of CHIJ Schools
-permalink: /our-catholic-identity/history-of-chij-schools/
+title: School History KIV
+permalink: /our-catholic-identity/school-history/
 description: ""
 ---
+
+
+
+
 <h4><strong>School History</strong></h4>
 <img style="width: 70%;" src="/images/history.jpg" align = "" />
 <p>Originally known as CHIJ Ponggol, the school was renamed as CHIJ Our Lady of the Nativity in 2001. It is one of the eleven CHIJ schools in Singapore and is located in Upper Serangoon Road, next to the Church of the Nativity of the Blessed Virgin Mary. Established in 1957, the school celebrated its 60th Anniversary in 2017.</p>
