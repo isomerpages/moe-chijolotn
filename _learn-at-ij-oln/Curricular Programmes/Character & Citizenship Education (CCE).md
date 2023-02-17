@@ -16,7 +16,18 @@ third_nav_title: Curricular Programmes
 	</br>
 GLOW Morning Activities are collaboratively organised by different departments like Meaningful Monday by Catholic Committee, Musically Yours by Aesthetic Department, Cyber Bytes by ICT Department, IJ OLN Shines, News Bites by CCE Department. 
 Here are some examples of our students in action:
-
+<table>
+  <tbody>
+    <tr>
+      <td><img style="width: 95%;" src="/images/CCE/1Musically Yours.jpg"/></td>
+      <td><img style="width: 95%;" src="/images/CCE/2Cyber Bytes.jpg"/></td>
+    </tr>
+    <tr>
+      <td><img style="width: 95%;" src="/images/CCE/3News Bites.jpg"/></td>
+      <td><img style="width: 95%;" src="/images/CCE/4IJ OLN Shines.jpg"/></td>
+    </tr>
+  </tbody>
+</table>
 
 
 </li>
