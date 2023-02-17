@@ -12,7 +12,7 @@ third_nav_title: Curricular Programmes
 <ol>
 <li><strong>Pastoral Care</strong>looks into the emotional well-being and development of the students through fostering a strong teacher-student, student-student relationship through platforms like Back to School Programme, CCE (Form Teacher’s Guidance Programme), GLOW Morning Activities. 
 
-	<u>GLOW Morning Activities</u>
+<u>GLOW Morning Activities</u>
 	</br>
 GLOW Morning Activities are collaboratively organised by different departments like Meaningful Monday by Catholic Committee, Musically Yours by Aesthetic Department, Cyber Bytes by ICT Department, IJ OLN Shines, News Bites by CCE Department. </li>
 <li><strong>Student Leadership Development</strong>&nbsp;looks into developing students&rsquo; leadership values, dispositions and competencies through the LAP (Leadership Awareness Programme) and the LEaD (Leadership Extension and Development) programme.</li>
