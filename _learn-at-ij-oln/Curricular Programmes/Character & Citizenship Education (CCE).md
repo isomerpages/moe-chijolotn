@@ -14,7 +14,13 @@ third_nav_title: Curricular Programmes
 
 <u>GLOW Morning Activities</u>
 	</br>
-GLOW Morning Activities are collaboratively organised by different departments like Meaningful Monday by Catholic Committee, Musically Yours by Aesthetic Department, Cyber Bytes by ICT Department, IJ OLN Shines, News Bites by CCE Department. </li>
+GLOW Morning Activities are collaboratively organised by different departments like Meaningful Monday by Catholic Committee, Musically Yours by Aesthetic Department, Cyber Bytes by ICT Department, IJ OLN Shines, News Bites by CCE Department. 
+Here are some examples of our students in action:
+
+
+
+</li>
+
 <li><strong>Student Leadership Development</strong>&nbsp;looks into developing students&rsquo; leadership values, dispositions and competencies through the LAP (Leadership Awareness Programme) and the LEaD (Leadership Extension and Development) programme.</li>
 <li><strong>National Education</strong>&nbsp;aims to develop national cohesion, cultivate the instinct for survival as a nation and instil in our students confidence in our nation's future. It also emphasises on cultivating a sense of belonging and emotional rootedness to Singapore. National Education is pervasively implemented through Social Studies lessons, Field-based Learning, NE Delights!+ programme, Project Work at P3 and P4 levels and Values in action activities.</li>
 <li><strong>Environmental Education</strong>&nbsp;focuses on promoting environmental conservation, personal responsibility and civic commitment to the environment among staff and students. Some of the green programmes the school runs include:&nbsp;</li>
