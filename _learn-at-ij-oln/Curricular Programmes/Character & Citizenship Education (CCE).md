@@ -31,9 +31,20 @@ Here are some examples of our students in action:
 </li>
 <li><strong>National Education</strong>aims to develop national cohesion, cultivate the instinct for survival as a nation and instil in our students confidence in our nation’s future. It also emphasises on cultivating the citizenship dispositions of a sense of belonging, hope, reality and a will to act. National Education is pervasively implemented through Social Studies lessons, NE Commerative Days, VIA activities and School Wide Learning Journeys. 
 
-<u>NE Commerative Days</u>
-
+<u>NE Commerative Days</u></br>
 Here are some examples of our students in action:
+<table>
+  <tbody>
+    <tr>
+      <td><img style="width: 95%;" src="/images/CCE/5Total Defence Day.jpg"/></td>
+      <td><img style="width: 65%;" src="/images/CCE/6International Friendship Day.jpg"/></td>
+    </tr>
+    <tr>
+      <td><img style="width: 95%;" src="/images/CCE/8Racial Harmony Day.jpg"/></td>
+      <td><img style="width: 65%;" src="/images/CCE/9National Day.jpg"/></td>
+    </tr>
+  </tbody>
+</table>
 </li>
 
 
