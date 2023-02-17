@@ -6,7 +6,7 @@ third_nav_title: Curricular Programmes
 ---
 <h4><strong>Vision Mission</strong></h4>
 <p>IJ OLN’s Character and Citizenship Education (CCE) department aims to inculcate values and build competencies in our students so that they become citizens of good character who will step forward to make a positive difference. The CCE department works together with the other departments to create authentic learning experiences to develop Girls of Today for Tomorrow. </p>
-<img style="width: 65%;" src="/images/cce2.png" />
+<img style="width: 90%;" src="/images/CCE/CCE @ IJ OLN.jpg" />
 
 <p><strong>The CCE department operates through four main wing</strong></p>
 <ol>
