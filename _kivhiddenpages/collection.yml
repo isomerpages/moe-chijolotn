@@ -2,6 +2,7 @@ collections:
   kivhiddenpages:
     output: true
     order:
+      - CCE Backup20230217.md
       - School History KIV.md
       - Teaching Staff 2023.md
       - P1–eOrientation.md

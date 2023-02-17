@@ -9,7 +9,7 @@ third_nav_title: Co Curricular Programmes
 <li>OLN 360 takes place during the school day on Fridays from 7.45 a.m. to 9.15 a.m for all P3 to P6 students. Through this programme, our students will be able to explore and experience success in a range of activities, apply learning beyond the classroom, develop their Learning Dispositions and grow in our school&rsquo;s GRACIA values.&nbsp;</li>
 <li>The four modules broaden the holistic curriculum and learning domains encountered by our students.</li>
 </ol>
-<img style="width: 70%;" src="/images/oln1.png" />
+<img style="width: 85%;" src="/images/OLN360/OLN360 POSTER 2023.jpg" />
 <h4><strong>Questions asked about the OLN 360 programme</strong></h4>
 <ol>
 <li><a href="/learn-at-ij-oln/co-curricular-programmes/oln-360-programme#Q1" target="">What is the purpose of the OLN 360 programme? </a>&nbsp;</li>
