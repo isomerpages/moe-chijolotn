@@ -28,13 +28,17 @@ Here are some examples of our students in action:
     </tr>
   </tbody>
 </table>
+</li>
+<li><strong>National Education</strong>aims to develop national cohesion, cultivate the instinct for survival as a nation and instil in our students confidence in our nation’s future. It also emphasises on cultivating the citizenship dispositions of a sense of belonging, hope, reality and a will to act. National Education is pervasively implemented through Social Studies lessons, NE Commerative Days, VIA activities and School Wide Learning Journeys. 
 
+<u>NE Commerative Days</u>
 
+Here are some examples of our students in action:
 </li>
 
+
 <li><strong>Student Leadership Development</strong>&nbsp;looks into developing students&rsquo; leadership values, dispositions and competencies through the LAP (Leadership Awareness Programme) and the LEaD (Leadership Extension and Development) programme.</li>
-<li><strong>National Education</strong>&nbsp;aims to develop national cohesion, cultivate the instinct for survival as a nation and instil in our students confidence in our nation's future. It also emphasises on cultivating a sense of belonging and emotional rootedness to Singapore. National Education is pervasively implemented through Social Studies lessons, Field-based Learning, NE Delights!+ programme, Project Work at P3 and P4 levels and Values in action activities.</li>
-<li><strong>Environmental Education</strong>&nbsp;focuses on promoting environmental conservation, personal responsibility and civic commitment to the environment among staff and students. Some of the green programmes the school runs include:&nbsp;</li>
+
 </ol>
 <ul>
 <ul>
