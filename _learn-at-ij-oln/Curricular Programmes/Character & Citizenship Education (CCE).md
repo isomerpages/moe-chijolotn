@@ -36,8 +36,8 @@ Here are some examples of our students in action:
 <table>
   <tbody>
     <tr>
-      <td><img style="width: 95%;" src="/images/CCE/5Total Defence Day.jpg"/></td>
-      <td><img style="width: 65%;" src="/images/CCE/6International Friendship Day.jpg"/></td>
+      <td><img style="width: 95%;" src="/images/CCE/5Total Defence Day.jpg" />Total Defence Day</td>
+      <td><img style="width: 65%;" src="/images/CCE/6International Friendship Day.jpg"/>International Friendship Day</td>
     </tr>
     <tr>
       <td><img style="width: 95%;" src="/images/CCE/8Racial Harmony Day.jpg"/></td>
