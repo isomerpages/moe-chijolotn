@@ -5,16 +5,9 @@ description: ""
 third_nav_title: Curricular Programmes
 ---
 <h4><strong>Vision Mission</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="0">
-<tbody>
-<tr>
-<td style="width: 40%;"><img src="/images/cce1.jpg"></td>
-<td style="width: 60%;"><p>IJ OLN&rsquo;s Character and Citizenship Education (CCE) department puts in place structures, processes and programmes to inculcate values and build competencies in our students so that they become persons of good character and useful citizens of Singapore.&nbsp; Working hand-in-hand with the other departments of the school, the CCE department aims to develop Girls of Today for Tomorrow.&nbsp;&nbsp;</p></td>
-</tr>
-</tbody>
-</table>
-<h4><strong>Organisation Structure</strong></h4>
+<p>IJ OLN’s Character and Citizenship Education (CCE) department aims to inculcate values and build competencies in our students so that they become citizens of good character who will step forward to make a positive difference. The CCE department works together with the other departments to create authentic learning experiences to develop Girls of Today for Tomorrow. </p>
 <img style="width: 65%;" src="/images/cce2.png" />
+
 <p><strong>The CCE department operates through four main wing</strong></p>
 <ol>
 <li><strong>Pastoral Care</strong>&nbsp;looks into the emotional well-being and development of the students through fostering a strong teacher-student relationship via avenues such as the Form Teacher&rsquo;s Guidance programme, Religious and Sexuality Education, counselling and learning needs support.</li>
