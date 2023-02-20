@@ -45,6 +45,25 @@ Here are some examples of our students in action:
   </tbody>
 </table>
 </li>
+</br>
+<u>School Wide Learning Journeys</u></br>
+Here are some examples of our School Wide Learning Journeys:
+<table>
+  <tbody>
+    <tr>
+      <td><img src="/images/CCE/5Total Defence Day.jpg" />Total Defence Day</td>
+      <td><img src="/images/CCE/6International Friendship Day.jpg"/>International Friendship Day</td>
+    </tr>
+    <tr>
+      <td><img src="/images/CCE/8Racial Harmony Day.jpg"/></td>
+      <td><img src="/images/CCE/9National Day.jpg"/></td>
+    </tr>
+		  <tr>
+      <td><img src="/images/CCE/5Total Defence Day.jpg" />Total Defence Day</td>
+      <td><img src="/images/CCE/6International Friendship Day.jpg"/>International Friendship Day</td>
+    </tr>
+  </tbody>
+</table>
 
 
 <li><strong>Student Leadership Development</strong>&nbsp;looks into developing students&rsquo; leadership values, dispositions and competencies through the LAP (Leadership Awareness Programme) and the LEaD (Leadership Extension and Development) programme.</li>
