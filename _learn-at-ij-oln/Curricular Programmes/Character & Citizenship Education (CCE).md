@@ -19,13 +19,13 @@ GLOW Morning Activities are collaboratively organised by different departments l
 Here are some examples of our students in action:
 <table>
   <tbody >
-    <tr style="text-align:center">
-      <td ><img src="/images/CCE/1Musically Yours.jpg"/>Musically Yours</td>
-      <td><img src="/images/CCE/2Cyber Bytes.jpg"/>Cyber Bytes</td>
+    <tr>
+      <td style="text-align:center"><img src="/images/CCE/1Musically Yours.jpg"/>Musically Yours</td>
+      <td style="text-align:center"><img src="/images/CCE/2Cyber Bytes.jpg"/>Cyber Bytes</td>
     </tr>
     <tr style="text-align:center">
-      <td><img src="/images/CCE/3News Bites.jpg"/>News Bites</td>
-      <td><img src="/images/CCE/4IJ OLN Shines.jpg"/>IJ OLN Shines</td>
+      <td style="text-align:center"><img src="/images/CCE/3News Bites.jpg"/>News Bites</td>
+      <td style="text-align:center"><img src="/images/CCE/4IJ OLN Shines.jpg"/>IJ OLN Shines</td>
     </tr>
   </tbody>
 </table>
@@ -37,12 +37,12 @@ Here are some examples of our students in action:<br>
 <table>
   <tbody style="text-align:center">
     <tr>
-      <td><img src="/images/CCE/5Total Defence Day.jpg" />Total Defence Day</td>
-      <td><img src="/images/CCE/6International Friendship Day.jpg"/>International Friendship Day</td>
+      <td style="text-align:center"><img src="/images/CCE/5Total Defence Day.jpg" />Total Defence Day</td>
+      <td style="text-align:center"><img src="/images/CCE/6International Friendship Day.jpg"/>International Friendship Day</td>
     </tr>
     <tr>
-      <td><img src="/images/CCE/8Racial Harmony Day.jpg"/>Racial Harmony Day</td>
-      <td><img src="/images/CCE/9National Day.jpg"/>National Day</td>
+      <td style="text-align:center"><img src="/images/CCE/8Racial Harmony Day.jpg"/>Racial Harmony Day</td>
+      <td style="text-align:center"><img src="/images/CCE/9National Day.jpg"/>National Day</td>
     </tr>
   </tbody>
 </table>
@@ -53,16 +53,16 @@ Here are some examples of our School Wide Learning Journeys:<br>
 <table>
   <tbody style="text-align:center">
     <tr>
-      <td><img src="/images/CCE/10Singapore Zoological Gardens.jpg" />Singapore Zoological Gardens</td>
-      <td><img src="/images/CCE/11River Wonders.jpg"/>River Wonders</td>
+      <td style="text-align:center"><img src="/images/CCE/10Singapore Zoological Gardens.jpg" />Singapore Zoological Gardens</td>
+      <td style="text-align:center"><img src="/images/CCE/11River Wonders.jpg"/>River Wonders</td>
     </tr>
     <tr>
-      <td><img src="/images/CCE/12Bollywood Farm.jpg"/>Bollywood Farm</td>
-      <td><img src="/images/CCE/13Little India.jpg"/>Little India</td>
+      <td style="text-align:center"><img src="/images/CCE/12Bollywood Farm.jpg"/>Bollywood Farm</td>
+      <td style="text-align:center"><img src="/images/CCE/13Little India.jpg"/>Little India</td>
     </tr>
 		  <tr>
-      <td><img src="/images/CCE/14Singapore Discovery Centre.jpg" />Singapore Discovery Centre</td>
-      <td><img src="/images/CCE/15Science Centre.jpg"/>Science Centre</td>
+      <td style="text-align:center"><img src="/images/CCE/14Singapore Discovery Centre.jpg" />Singapore Discovery Centre</td>
+      <td style="text-align:center"><img src="/images/CCE/15Science Centre.jpg"/>Science Centre</td>
     </tr>
   </tbody>
 </table>
@@ -87,14 +87,14 @@ Here are some examples of our students in action:<br>
 <table>
   <tbody style="text-align:center">
     <tr>
-      <td colspan=2><img src="/images/CCE/18Prefects Investiture.jpg" />Prefects’ Investiture</td>
+      <td style="text-align:center" colspan=2><img src="/images/CCE/18Prefects Investiture.jpg" />Prefects’ Investiture</td>
     </tr>
     <tr>
-      <td><img src="/images/CCE/19Faith Ambassadors.jpg"/>Faith Ambassadors</td>
-      <td><img src="/images/CCE/20Green Ambassadors.jpg"/>Green Ambassadors</td>
+      <td style="text-align:center"><img src="/images/CCE/19Faith Ambassadors.jpg"/>Faith Ambassadors</td>
+      <td style="text-align:center"><img src="/images/CCE/20Green Ambassadors.jpg"/>Green Ambassadors</td>
     </tr>
 		  <tr>
-      <td><img src="/images/CCE/21NE Ambassadors.jpg" />NE Ambassadors</td>
+      <td style="text-align:center"><img src="/images/CCE/21NE Ambassadors.jpg" />NE Ambassadors</td>
       <td><img src="/images/CCE/22Care Ambassadors.jpg"/>Care Ambassadors</td>
     </tr>
   </tbody>
