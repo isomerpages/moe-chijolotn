@@ -85,16 +85,15 @@ Here are some examples of our students in action:</li>
 <table>
   <tbody>
     <tr>
-      <td><img src="/images/CCE/18Prefects Investiture.jpg" /></td>
-			<td></td>
+      <td colspan=2><img src="/images/CCE/18Prefects Investiture.jpg" /></td>
     </tr>
     <tr>
       <td><img src="/images/CCE/19Faith Ambassadors.jpg"/></td>
       <td><img src="/images/CCE/20Green Ambassadors.jpg"/></td>
     </tr>
 		  <tr>
-      <td><img src="/images/CCE/14Singapore Discovery Centre.jpg" /></td>
-      <td><img src="/images/CCE/15Science Centre.jpg"/></td>
+      <td><img src="/images/CCE/21NE Ambassadors.jpg" /></td>
+      <td><img src="/images/CCE/22Care Ambassadors.jpg"/></td>
     </tr>
   </tbody>
 </table>
