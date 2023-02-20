@@ -15,6 +15,7 @@ third_nav_title: Curricular Programmes
 <u>GLOW Morning Activities</u>
 	<br>
 GLOW Morning Activities are collaboratively organised by different departments like Meaningful Monday by Catholic Committee, Musically Yours by Aesthetic Department, Cyber Bytes by ICT Department, IJ OLN Shines, News Bites by CCE Department. 
+	<br>
 Here are some examples of our students in action:
 <table>
   <tbody style="text-align:center" >
@@ -30,7 +31,7 @@ Here are some examples of our students in action:
 </table>
 </li>
 <li><strong>National Education</strong> aims to develop national cohesion, cultivate the instinct for survival as a nation and instil in our students confidence in our nation’s future. It also emphasises on cultivating the citizenship dispositions of a sense of belonging, hope, reality and a will to act. National Education is pervasively implemented through Social Studies lessons, NE Commerative Days, VIA activities and School Wide Learning Journeys. 
-<br>
+<br><br>
 <u>NE Commerative Days</u><br>
 Here are some examples of our students in action:
 <table>
@@ -48,7 +49,7 @@ Here are some examples of our students in action:
 </li>
 <br>
 <u>School Wide Learning Journeys</u><br>
-Here are some examples of our School Wide Learning Journeys:
+Here are some examples of our School Wide Learning Journeys:<br>
 <table>
   <tbody style="text-align:center">
     <tr>
@@ -67,7 +68,7 @@ Here are some examples of our School Wide Learning Journeys:
 </table>
 <br>
 <u>Values in Action</u><br>
-Here are some examples of our students in action:</br>
+Here are some examples of our students in action:<br>
 <table>
   <tbody>
     <tr>
@@ -82,7 +83,7 @@ Here are some examples of our students in action:</br>
 
 <li><strong>Student Leadership Development</strong> looks into developing students’ leadership values, dispositions and competencies through LAP (Leadership Awareness Programme) and LEaD (Leadership Extension and Development) programme. At CHIJ OLN, we believe that every IJ OLN girl is a leader grounded in the values, and each is called to serve. The Student Leadership motte “Lead with Initiative, Serve with Love” reminds student leaders to be of service to others from heart.
 <br>
-Here are some examples of our students in action:
+Here are some examples of our students in action:<br>
 <table>
   <tbody style="text-align:center">
     <tr>
