@@ -77,11 +77,11 @@ Here are some examples of our students in action:</br>
     </tr>
 		  </tbody>
 </table>
+</br>
 
+<li><strong>Student Leadership Development</strong> looks into developing students’ leadership values, dispositions and competencies through LAP (Leadership Awareness Programme) and LEaD (Leadership Extension and Development) programme. At CHIJ OLN, we believe that every IJ OLN girl is a leader grounded in the values, and each is called to serve. The Student Leadership motte “Lead with Initiative, Serve with Love” reminds student leaders to be of service to others from heart.
 
-
-
-<li><strong>Student Leadership Development</strong>&nbsp;looks into developing students&rsquo; leadership values, dispositions and competencies through the LAP (Leadership Awareness Programme) and the LEaD (Leadership Extension and Development) programme.</li>
+Here are some examples of our students in action:</li>
 
 </ol>
 <ul>
