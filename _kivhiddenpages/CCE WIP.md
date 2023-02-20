@@ -23,7 +23,7 @@ Here are some examples of our students in action:
     </tr>
     <tr>
       <td><img src="/images/CCE/3News Bites.jpg"/></td>
-      <td><img style="width: 95%;" src="/images/CCE/4IJ OLN Shines.jpg"/></td>
+      <td><img src="/images/CCE/4IJ OLN Shines.jpg"/></td>
     </tr>
   </tbody>
 </table>
@@ -35,12 +35,12 @@ Here are some examples of our students in action:
 <table>
   <tbody>
     <tr>
-      <td><img style="width: 95%;" src="/images/CCE/5Total Defence Day.jpg" />Total Defence Day</td>
-      <td><img style="width: 65%;" src="/images/CCE/6International Friendship Day.jpg"/>International Friendship Day</td>
+      <td><img src="/images/CCE/5Total Defence Day.jpg" />Total Defence Day</td>
+      <td><img src="/images/CCE/6International Friendship Day.jpg"/>International Friendship Day</td>
     </tr>
     <tr>
-      <td><img style="width: 95%;" src="/images/CCE/8Racial Harmony Day.jpg"/></td>
-      <td><img style="width: 65%;" src="/images/CCE/9National Day.jpg"/></td>
+      <td><img src="/images/CCE/8Racial Harmony Day.jpg"/></td>
+      <td><img src="/images/CCE/9National Day.jpg"/></td>
     </tr>
   </tbody>
 </table>
