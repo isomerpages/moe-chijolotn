@@ -18,12 +18,12 @@ GLOW Morning Activities are collaboratively organised by different departments l
 <br><br>
 Here are some examples of our students in action:
 <table>
-  <tbody style="text-align:center" >
-    <tr>
-      <td  style="text-align:center" ><img src="/images/CCE/1Musically Yours.jpg"/>Musically Yours</td>
+  <tbody >
+    <tr style="text-align:center">
+      <td ><img src="/images/CCE/1Musically Yours.jpg"/>Musically Yours</td>
       <td><img src="/images/CCE/2Cyber Bytes.jpg"/>Cyber Bytes</td>
     </tr>
-    <tr>
+    <tr style="text-align:center">
       <td><img src="/images/CCE/3News Bites.jpg"/>News Bites</td>
       <td><img src="/images/CCE/4IJ OLN Shines.jpg"/>IJ OLN Shines</td>
     </tr>
