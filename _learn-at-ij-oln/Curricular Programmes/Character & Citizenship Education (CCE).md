@@ -17,7 +17,7 @@ third_nav_title: Curricular Programmes
 GLOW Morning Activities are collaboratively organised by different departments like Meaningful Monday by Catholic Committee, Musically Yours by Aesthetic Department, Cyber Bytes by ICT Department, IJ OLN Shines, News Bites by CCE Department. 
 Here are some examples of our students in action:
 <table>
-  <tbody style="text-align:center; font-size:12px;" >
+  <tbody style="text-align:center" >
     <tr>
       <td><img src="/images/CCE/1Musically Yours.jpg"/>Musically Yours</td>
       <td><img src="/images/CCE/2Cyber Bytes.jpg"/>Cyber Bytes</td>
@@ -34,7 +34,7 @@ Here are some examples of our students in action:
 <u>NE Commerative Days</u><br>
 Here are some examples of our students in action:
 <table>
-  <tbody style="text-align:center; font-size:12px;">
+  <tbody style="text-align:center">
     <tr>
       <td><img src="/images/CCE/5Total Defence Day.jpg" />Total Defence Day</td>
       <td><img src="/images/CCE/6International Friendship Day.jpg"/>International Friendship Day</td>
@@ -50,7 +50,7 @@ Here are some examples of our students in action:
 <u>School Wide Learning Journeys</u><br>
 Here are some examples of our School Wide Learning Journeys:
 <table>
-  <tbody style="text-align:center; font-size:12px;">
+  <tbody style="text-align:center">
     <tr>
       <td><img src="/images/CCE/10Singapore Zoological Gardens.jpg" />Singapore Zoological Gardens</td>
       <td><img src="/images/CCE/11River Wonders.jpg"/>River Wonders</td>
