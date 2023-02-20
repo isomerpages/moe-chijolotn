@@ -85,15 +85,15 @@ Here are some examples of our students in action:
 <table>
   <tbody>
     <tr>
-      <td colspan=2><img src="/images/CCE/18Prefects Investiture.jpg" /></td>
+      <td colspan=2><img src="/images/CCE/18Prefects Investiture.jpg" />Prefects’ Investiture</td>
     </tr>
     <tr>
-      <td><img src="/images/CCE/19Faith Ambassadors.jpg"/></td>
-      <td><img src="/images/CCE/20Green Ambassadors.jpg"/></td>
+      <td><img src="/images/CCE/19Faith Ambassadors.jpg"/>Faith Ambassadors</td>
+      <td><img src="/images/CCE/20Green Ambassadors.jpg"/>Green Ambassadors</td>
     </tr>
 		  <tr>
-      <td><img src="/images/CCE/21NE Ambassadors.jpg" /></td>
-      <td><img src="/images/CCE/22Care Ambassadors.jpg"/></td>
+      <td><img src="/images/CCE/21NE Ambassadors.jpg" />NE Ambassadors</td>
+      <td><img src="/images/CCE/22Care Ambassadors.jpg"/>Care Ambassadors</td>
     </tr>
   </tbody>
 </table>
