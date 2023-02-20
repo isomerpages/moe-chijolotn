@@ -59,8 +59,8 @@ Here are some examples of our School Wide Learning Journeys:
       <td><img src="/images/CCE/13Little India.jpg"/></td>
     </tr>
 		  <tr>
-      <td><img src="/images/CCE/14Singapore Discovery Centre.jpg" />Total Defence Day</td>
-      <td><img src="/images/CCE/15Science Centre.jpg"/>International Friendship Day</td>
+      <td><img src="/images/CCE/14Singapore Discovery Centre.jpg" /></td>
+      <td><img src="/images/CCE/15Science Centre.jpg"/></td>
     </tr>
   </tbody>
 </table>
