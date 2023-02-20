@@ -11,7 +11,7 @@ third_nav_title: Curricular Programmes
 <p><strong>The CCE Department focuses in the three main areas - Pastoral Care, National Education and Student Leadership Development. </strong></p>
 <ol>
 <li><strong>Pastoral Care</strong> looks into the emotional well-being and development of the students through fostering a strong teacher-student, student-student relationship through platforms like Back to School Programme, CCE (Form Teacher’s Guidance Programme), GLOW Morning Activities. 
-
+<br>
 <u>GLOW Morning Activities</u>
 	<br>
 GLOW Morning Activities are collaboratively organised by different departments like Meaningful Monday by Catholic Committee, Musically Yours by Aesthetic Department, Cyber Bytes by ICT Department, IJ OLN Shines, News Bites by CCE Department. 
@@ -30,7 +30,7 @@ Here are some examples of our students in action:
 </table>
 </li>
 <li><strong>National Education</strong> aims to develop national cohesion, cultivate the instinct for survival as a nation and instil in our students confidence in our nation’s future. It also emphasises on cultivating the citizenship dispositions of a sense of belonging, hope, reality and a will to act. National Education is pervasively implemented through Social Studies lessons, NE Commerative Days, VIA activities and School Wide Learning Journeys. 
-
+<br>
 <u>NE Commerative Days</u><br>
 Here are some examples of our students in action:
 <table>
@@ -47,7 +47,7 @@ Here are some examples of our students in action:
 </table>
 </li>
 <br>
-<u>School Wide Learning Journeys</u></br>
+<u>School Wide Learning Journeys</u><br>
 Here are some examples of our School Wide Learning Journeys:
 <table>
   <tbody style="text-align:center; font-size:12px;">
