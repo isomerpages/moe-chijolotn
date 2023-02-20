@@ -11,7 +11,7 @@ third_nav_title: Curricular Programmes
 <p><strong>The CCE Department focuses in the three main areas - Pastoral Care, National Education and Student Leadership Development. </strong></p>
 <ol>
 <li><strong>Pastoral Care</strong> looks into the emotional well-being and development of the students through fostering a strong teacher-student, student-student relationship through platforms like Back to School Programme, CCE (Form Teacher’s Guidance Programme), GLOW Morning Activities. 
-<br>
+<br><br>
 <u>GLOW Morning Activities</u>
 	<br>
 GLOW Morning Activities are collaboratively organised by different departments like Meaningful Monday by Catholic Committee, Musically Yours by Aesthetic Department, Cyber Bytes by ICT Department, IJ OLN Shines, News Bites by CCE Department. 
