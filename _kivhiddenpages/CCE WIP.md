@@ -9,7 +9,7 @@ description: ""
 
 <p><strong>The CCE Department focuses in the three main areas - Pastoral Care, National Education and Student Leadership Development. </strong></p>
 <ol>
-<li><strong>Pastoral Care</strong>looks into the emotional well-being and development of the students through fostering a strong teacher-student, student-student relationship through platforms like Back to School Programme, CCE (Form Teacher’s Guidance Programme), GLOW Morning Activities. 
+<li><strong>Pastoral Care</strong> looks into the emotional well-being and development of the students through fostering a strong teacher-student, student-student relationship through platforms like Back to School Programme, CCE (Form Teacher’s Guidance Programme), GLOW Morning Activities. 
 
 <u>GLOW Morning Activities</u>
 	</br>
@@ -28,7 +28,7 @@ Here are some examples of our students in action:
   </tbody>
 </table>
 </li>
-<li><strong>National Education</strong>aims to develop national cohesion, cultivate the instinct for survival as a nation and instil in our students confidence in our nation’s future. It also emphasises on cultivating the citizenship dispositions of a sense of belonging, hope, reality and a will to act. National Education is pervasively implemented through Social Studies lessons, NE Commerative Days, VIA activities and School Wide Learning Journeys. 
+<li><strong>National Education</strong> aims to develop national cohesion, cultivate the instinct for survival as a nation and instil in our students confidence in our nation’s future. It also emphasises on cultivating the citizenship dispositions of a sense of belonging, hope, reality and a will to act. National Education is pervasively implemented through Social Studies lessons, NE Commerative Days, VIA activities and School Wide Learning Journeys. 
 
 <u>NE Commerative Days</u></br>
 Here are some examples of our students in action:
@@ -81,7 +81,7 @@ Here are some examples of our students in action:</br>
 
 <li><strong>Student Leadership Development</strong> looks into developing students’ leadership values, dispositions and competencies through LAP (Leadership Awareness Programme) and LEaD (Leadership Extension and Development) programme. At CHIJ OLN, we believe that every IJ OLN girl is a leader grounded in the values, and each is called to serve. The Student Leadership motte “Lead with Initiative, Serve with Love” reminds student leaders to be of service to others from heart.
 
-Here are some examples of our students in action:</li>
+Here are some examples of our students in action:
 <table>
   <tbody>
     <tr>
@@ -97,3 +97,4 @@ Here are some examples of our students in action:</li>
     </tr>
   </tbody>
 </table>
+	</li>
