@@ -64,6 +64,10 @@ Here are some examples of our School Wide Learning Journeys:
     </tr>
   </tbody>
 </table>
+</br>
+<u>Values in Action</u></br>
+Here are some examples of our students in action:
+
 
 
 <li><strong>Student Leadership Development</strong>&nbsp;looks into developing students&rsquo; leadership values, dispositions and competencies through the LAP (Leadership Awareness Programme) and the LEaD (Leadership Extension and Development) programme.</li>
