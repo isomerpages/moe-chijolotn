@@ -51,16 +51,16 @@ Here are some examples of our School Wide Learning Journeys:
 <table>
   <tbody>
     <tr>
-      <td><img src="/images/CCE/5Total Defence Day.jpg" />Total Defence Day</td>
-      <td><img src="/images/CCE/6International Friendship Day.jpg"/>International Friendship Day</td>
+      <td><img src="/images/CCE/10Singapore Zoological Gardens.jpg" /></td>
+      <td><img src="/images/CCE/11River Wonders.jpg"/></td>
     </tr>
     <tr>
-      <td><img src="/images/CCE/8Racial Harmony Day.jpg"/></td>
-      <td><img src="/images/CCE/9National Day.jpg"/></td>
+      <td><img src="/images/CCE/12Bollywood Farm.jpg"/></td>
+      <td><img src="/images/CCE/13Little India.jpg"/></td>
     </tr>
 		  <tr>
-      <td><img src="/images/CCE/5Total Defence Day.jpg" />Total Defence Day</td>
-      <td><img src="/images/CCE/6International Friendship Day.jpg"/>International Friendship Day</td>
+      <td><img src="/images/CCE/14Singapore Discovery Centre.jpg" />Total Defence Day</td>
+      <td><img src="/images/CCE/15Science Centre.jpg"/>International Friendship Day</td>
     </tr>
   </tbody>
 </table>
