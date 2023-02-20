@@ -66,7 +66,18 @@ Here are some examples of our School Wide Learning Journeys:
 </table>
 </br>
 <u>Values in Action</u></br>
-Here are some examples of our students in action:
+Here are some examples of our students in action:</br>
+<table>
+  <tbody>
+    <tr>
+      <td><img src="/images/CCE/16P3 VIA.jpg" /></td>
+		</tr>
+		<tr>
+      <td><img src="/images/CCE/17P6 VIA.jpg"/></td>
+    </tr>
+		  </tbody>
+</table>
+
 
 
 
