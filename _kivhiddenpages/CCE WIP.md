@@ -18,12 +18,12 @@ Here are some examples of our students in action:
 <table>
   <tbody>
     <tr>
-      <td><img src="/images/CCE/1Musically Yours.jpg"/></td>
-      <td><img src="/images/CCE/2Cyber Bytes.jpg"/></td>
+      <td><img src="/images/CCE/1Musically Yours.jpg"/>Musically Yours</td>
+      <td><img src="/images/CCE/2Cyber Bytes.jpg"/>Cyber Bytes</td>
     </tr>
     <tr>
-      <td><img src="/images/CCE/3News Bites.jpg"/></td>
-      <td><img src="/images/CCE/4IJ OLN Shines.jpg"/></td>
+      <td><img src="/images/CCE/3News Bites.jpg"/>News Bites</td>
+      <td><img src="/images/CCE/4IJ OLN Shines.jpg"/>IJ OLN Shines</td>
     </tr>
   </tbody>
 </table>
