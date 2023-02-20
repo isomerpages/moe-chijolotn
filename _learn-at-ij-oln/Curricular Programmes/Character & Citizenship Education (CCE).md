@@ -20,7 +20,7 @@ Here are some examples of our students in action:
 <table>
   <tbody style="text-align:center" >
     <tr>
-      <td><img src="/images/CCE/1Musically Yours.jpg"/>Musically Yours</td>
+      <td  style="text-align:center" ><img src="/images/CCE/1Musically Yours.jpg"/>Musically Yours</td>
       <td><img src="/images/CCE/2Cyber Bytes.jpg"/>Cyber Bytes</td>
     </tr>
     <tr>
