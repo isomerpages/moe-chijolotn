@@ -51,16 +51,16 @@ Here are some examples of our School Wide Learning Journeys:
 <table>
   <tbody>
     <tr>
-      <td><img src="/images/CCE/10Singapore Zoological Gardens.jpg" /></td>
-      <td><img src="/images/CCE/11River Wonders.jpg"/></td>
+      <td><img src="/images/CCE/10Singapore Zoological Gardens.jpg" />Singapore Zoological Gardens</td>
+      <td><img src="/images/CCE/11River Wonders.jpg"/>River Wonders</td>
     </tr>
     <tr>
-      <td><img src="/images/CCE/12Bollywood Farm.jpg"/></td>
-      <td><img src="/images/CCE/13Little India.jpg"/></td>
+      <td><img src="/images/CCE/12Bollywood Farm.jpg"/>Bollywood Farm</td>
+      <td><img src="/images/CCE/13Little India.jpg"/>Little India</td>
     </tr>
 		  <tr>
-      <td><img src="/images/CCE/14Singapore Discovery Centre.jpg" /></td>
-      <td><img src="/images/CCE/15Science Centre.jpg"/></td>
+      <td><img src="/images/CCE/14Singapore Discovery Centre.jpg" />Singapore Discovery Centre</td>
+      <td><img src="/images/CCE/15Science Centre.jpg"/>Science Centre</td>
     </tr>
   </tbody>
 </table>
