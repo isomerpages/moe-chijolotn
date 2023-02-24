@@ -95,7 +95,7 @@ Here are some examples of our students in action:<br>
     </tr>
 		  <tr>
       <td style="text-align:center"><img src="/images/CCE/21NE Ambassadors.jpg" />NE Ambassadors</td>
-      <td><img src="/images/CCE/22Care Ambassadors.jpg"/>Care Ambassadors</td>
+      <td style="text-align:center"><img src="/images/CCE/22Care Ambassadors.jpg"/>Care Ambassadors</td>
     </tr>
   </tbody>
 </table>
