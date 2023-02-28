@@ -9,8 +9,8 @@ third_nav_title: Communications
 <tbody>
 <tr>
 <th style="width:12%">Level</th>
-<th style="width:10%">Ref No.</th>
-<th style="width:58%">Desc</th>
+<th style="width:15%">Ref No.</th>
+<th style="width:55%">Desc</th>
 <th>Dated</th>
 </tr>
 <tr>
