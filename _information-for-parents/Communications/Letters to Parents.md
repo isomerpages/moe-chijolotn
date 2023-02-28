@@ -20,6 +20,12 @@ third_nav_title: Communications
 <td>&nbsp;</td>
 </tr>
 <tr>
+<td>P3</td>
+<td><a href="/files/PGLetters/2023OLN_0103 - SWLJ - Primary 3 Kok Fah Farm.pdf" target="_blank" rel="noopener">2023OLN_0103</a></td>
+<td>School-Wide Learning Journey: Kok Fah Farm</td>
+<td>15 Feb</td>
+</tr>
+<tr>
 <td>P2</td>
 <td><a href="/files/PGLetters/2023OLN_0102 - SWLJ - Primary 2 River Wonders (1).pdf" target="_blank" rel="noopener">2023OLN_0102</a></td>
 <td>School-Wide Learning Journey: River Wonders</td>
