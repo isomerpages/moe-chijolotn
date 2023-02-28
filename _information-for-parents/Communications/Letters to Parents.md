@@ -20,12 +20,17 @@ third_nav_title: Communications
 <td>&nbsp;</td>
 </tr>
 <tr>
+<td>P2</td>
+<td><a href="/files/PGLetters/2023OLN_0102 - SWLJ - Primary 2 River Wonders (1).pdf" target="_blank" rel="noopener">2023OLN_0102</a></td>
+<td>School-Wide Learning Journey: River Wonders</td>
+<td>15 Feb</td>
+</tr>	
+<tr>
 <td>P1</td>
-<td><a href="/files/PGLetters/2023OLN_0101 - SWLJ - P1 The Singapore Zoo and JBCG (2)" target="_blank" rel="noopener">2023OLN_0101</a></td>
+<td><a href="/files/PGLetters/2023OLN_0101 - SWLJ - P1 The Singapore Zoo and JBCG (2).pdf" target="_blank" rel="noopener">2023OLN_0101</a></td>
 <td>School-Wide Learning Journey: Singapore Zoo and Jacob Ballas Children Garden</td>
 <td>15 Feb</td>
 </tr>	
-
 <tr>
 <td>All</td>
 <td><a href="/files/PGLetters/2023OLN_0058 - HBL 2023 on 29 March 2023.pdf" target="_blank" rel="noopener">2023OLN_0058</a></td>
