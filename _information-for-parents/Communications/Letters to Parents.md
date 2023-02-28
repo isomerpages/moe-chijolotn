@@ -20,6 +20,12 @@ third_nav_title: Communications
 <td>&nbsp;</td>
 </tr>
 <tr>
+<td>P6</td>
+<td><a href="/files/PGLetters/2023OLN_0106 - SWLJ - Primary 6 Singapore Maritime Trails.pdf" target="_blank" rel="noopener">2023OLN_0106</a></td>
+<td>School-Wide Learning Journey: Singapore Maritime Trails</td>
+<td>15 Feb</td>
+</tr>
+<tr>
 <td>P5</td>
 <td><a href="/files/PGLetters/2023OLN_0105 - SWLJ - Primary 5 Kampong Glam.pdf" target="_blank" rel="noopener">2023OLN_0105</a></td>
 <td>School-Wide Learning Journey: Kampong Glam</td>
