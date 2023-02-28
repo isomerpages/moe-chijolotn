@@ -20,6 +20,18 @@ third_nav_title: Communications
 <td>&nbsp;</td>
 </tr>
 <tr>
+<td>P5</td>
+<td><a href="/files/PGLetters/2023OLN_0105 - SWLJ - Primary 5 Kampong Glam.pdf" target="_blank" rel="noopener">2023OLN_0105</a></td>
+<td>School-Wide Learning Journey: Kampong Glam</td>
+<td>15 Feb</td>
+</tr>
+<tr>
+<td>P4</td>
+<td><a href="/files/PGLetters/2023OLN_0104 - SWLJ - Primary 4 Fort Canning Hill.pdf" target="_blank" rel="noopener">2023OLN_0104</a></td>
+<td>School-Wide Learning Journey: Fort Canning Hill</td>
+<td>15 Feb</td>
+</tr>
+<tr>
 <td>P3</td>
 <td><a href="/files/PGLetters/2023OLN_0103 - SWLJ - Primary 3 Kok Fah Farm.pdf" target="_blank" rel="noopener">2023OLN_0103</a></td>
 <td>School-Wide Learning Journey: Kok Fah Farm</td>
