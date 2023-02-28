@@ -8,9 +8,9 @@ third_nav_title: Communications
 <table class="iveo_table ives_tab_1 ive_eobj_left">
 <tbody>
 <tr>
-<th style="width:5%">Level</th>
+<th style="width:12%">Level</th>
 <th style="width:10%">Ref No.</th>
-<th style="width:60%">Desc</th>
+<th style="width:58%">Desc</th>
 <th>Dated</th>
 </tr>
 <tr>
