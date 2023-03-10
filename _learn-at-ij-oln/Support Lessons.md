@@ -64,7 +64,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4><strong>Days of Supplementary Lessons in Term 1 (P6)</strong></h4>
+<h4><strong>Days of Supplementary Lessons in Term 2 (P6)</strong></h4>
 <table>
 <tbody>
 <tr>
@@ -125,6 +125,23 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4><strong>Dates & timing of P6 Supplementary Lessons during the June holidays 2023</strong></h4>
+<table>
+<tbody>
+<tr>
+<th>EL</th>
+<th>Dates</th>
+<th>Timing</th>
+</tr>
+<tr>
+<td>June Holidays</td>
+<td>19 to 21 June 2023</td>
+<td>7.45 am to 12.15 pm</br>
+8.45 am to 12.15 pm (For pupils exempted from MTL)</td>
+</tr>
+</tbody>
+</table>
+
 <h4><strong>Term 1 Support Lessons (P3 - P5, 2PM - 3PM)</strong></h4>
 <table>
 <tbody>
