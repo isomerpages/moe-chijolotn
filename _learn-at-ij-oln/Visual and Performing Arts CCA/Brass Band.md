@@ -99,7 +99,7 @@ third_nav_title: Visual and Performing Arts CCA
 </tbody>
 </table>
 <h4><strong>CCA SCHEDULE</strong></h4>
-<p><strong>Main Band<br /></strong>Day : Every Monday &amp; Thursday<br />Time : 3.15 - 5.15 pm<br />Venue : Band Room, Music Room 1 &amp; 2</p>
-<p><strong>Junior Band<br /></strong>Day : Every Thursday<br />Time : 3.15 - 5.15 pm<br />Venue : Band Room, Music Room 1 &amp; 2</p>
+<p><strong>Main Band<br /></strong>Day : Every Mondays &amp; Thursdays<br />Time : 3.15 - 5.15 pm<br />Venue : Band Room, Music Room 1 &amp; 2</p>
+<p><strong>Junior Band<br /></strong>Day : Every Thursdays<br />Time : 3.15 - 5.15 pm<br />Venue : Band Room, Music Room 1 &amp; 2</p>
 <p><strong>All new members will start in Junior Band.<br /></strong><strong>Junior Band Members who have attained a certain level (assessed by the instructors) will be promoted to the Main Band.</strong></p>
 <p style="text-align: center;"><strong><a href="/learn-at-ij-oln/co-curricular-activities/cca-policy" target="_blank" rel="noopener">CCA Policy</a> | <a href="/learn-at-ij-oln/co-curricular-activities/cca-schedule" target="_blank" rel="noopener">CCA Schedule</a></strong></p>
