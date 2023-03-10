@@ -10,11 +10,11 @@ third_nav_title: Co Curricular Activities (CCA)
 <td>
 <p><strong><u>Sports<br /></u></strong>Netball</p>
 <ul>
-<li><a href="/files/2023CCASchedules/T1%20-%20P3%20Netball.pdf" target="_blank" rel="noopener">P3</a></li>
-<li><a href="/files/2023CCASchedules/T1%20-%20P4%20Netball.pdf" target="_blank" rel="noopener">P4</a></li>
-<li><a href="/files/2023CCASchedules/T1%20-%20P5%20Netball.pdf" target="_blank" rel="noopener">P5</a></li>
-<li><a href="/files/2023CCASchedules/T1%20-%20P6%20Netball.pdf" target="_blank" rel="noopener">P6</a></li>
-<li><a href="/files/2023CCASchedules/T1%20-%20Netball%20Developmental%20Team.pdf" target="_blank" rel="noopener">Development Team</a></li>
+<li><a href="/files/2023CCASchedules/T2/T2 - P3 Netball.pdf" target="_blank" rel="noopener">P3</a></li>
+<li><a href="/files/2023CCASchedules/T2/T2 - P4 Netball.pdf" target="_blank" rel="noopener">P4</a></li>
+<li><a href="/files/2023CCASchedules/T2/T2 - P5 Netball.pdf" target="_blank" rel="noopener">P5</a></li>
+<li><a href="/files/2023CCASchedules/T2/T2 - P6 Netball.pdf" target="_blank" rel="noopener">P6</a></li>
+<li><a href="/files/2023CCASchedules/T2/T2 - Netball Developmental Team.pdf" target="_blank" rel="noopener">Development Team</a></li>
 </ul>
 <p><a href="/files/2023CCASchedules/T1%20-%20P3,%20P4%20&%20P5%20Floorball.pdf" target="_blank" rel="noopener">P3, P4 &amp; P5 Floorball</a><br />
 <a href="/files/2023CCASchedules/T1%20-%20P6%20Floorball.pdf" target="_blank" rel="noopener">P6 Floorball</a><br /><br />
@@ -22,9 +22,9 @@ third_nav_title: Co Curricular Activities (CCA)
 	<a href="/files/2023CCASchedules/T1%20-%20Table%20Tennis.pdf" target="_blank" rel="noopener">P3, P4 &amp; P5 Table Tennis</a></p>
 </td>
 <td>
-<p><strong><u>Visual &amp;Performing Arts<br /></u></strong><a href="/files/2023CCASchedules/T1%20-%20Creative%20Crew.pdf" target="_blank" rel="noopener">Creative Crew</a><br />
-	<a href="/files/2023CCASchedules/T1%20-%20Brass%20Band.pdf" target="_blank" rel="noopener">Brass Band</a><br />
-	<a href="/files/2023CCASchedules/T1%20-%20Choir.pdf" target="_blank" rel="noopener">Choir</a></p>
+<p><strong><u>Visual &amp;Performing Arts<br /></u></strong><a href="/files/2023CCASchedules/T2/T2 - Creative Crew.pdf" target="_blank" rel="noopener">Creative Crew</a><br />
+	<a href="/files/2023CCASchedules/T2/T2 - Brass Band.pdf" target="_blank" rel="noopener">Brass Band</a><br />
+	<a href="/files/2023CCASchedules/T2/T2 - Choir.pdf" target="_blank" rel="noopener">Choir</a></p>
 <p>Dance Inc</p>
 <ul>
 <li><a href="/files/2023CCASchedules/T1%20-%20Dance%20Inc%201.pdf" target="_blank" rel="noopener">International 1</a></li>
