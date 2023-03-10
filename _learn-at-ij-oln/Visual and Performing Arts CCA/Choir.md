@@ -79,7 +79,7 @@ third_nav_title: Visual and Performing Arts CCA
 <tr>
 <td style="width: 50%;"><img src="/images/cho6.jpg"></td>
 <td style="width: 50%;">
-<p>Day:&nbsp; Every Tuesdays<br />Time: 3.15 pm - 5.15 pm<br />Venue: Music Room 2</p>
+<p>Day:&nbsp;Tuesdays<br />Time: 3.15 pm - 5.15 pm<br />Venue: Music Room 2</p>
 </td>
 </tr>
 </tbody>
