@@ -5,7 +5,7 @@ description: ""
 ---
 <h4><strong>Schedule for Support and Supplementary Lessons 2023</strong></h4>
 <p>Parents whose daughter is selected for Support Lessons will receive more details via Parents Gateway.&nbsp;</p>
-<h4><strong>Term 1 Supplementary Lessons (P6, 2PM - 3PM)</strong></h4>
+<h4><strong>Term 2 Supplementary Lessons (P6, 2PM - 3PM)</strong></h4>
 <table class="iveo_table ives_tab_simple2 ive_eobj_center">
 <tbody>
 <tr>
@@ -15,46 +15,52 @@ description: ""
 <th style="text-align: center;">Fridays</th>
 </tr>
 <tr>
-<td style="text-align: center;">16 Jan</td>
-<td style="text-align: center;">17 Jan</td>
-<td style="text-align: center;">19 Jan</td>
-<td style="text-align: center;">27 Jan</td>
+<td style="text-align: center;">20 Mar</td>
+<td style="text-align: center;">21 Mar</td>
+<td style="text-align: center;">23 Mar</td>
+<td style="text-align: center;">24 Mar</td>
 </tr>
 <tr>
-<td style="text-align: center;">30 Jan</td>
-<td style="text-align: center;">31 Jan</td>
-<td style="text-align: center;">26 Jan</td>
-<td style="text-align: center;">3 Feb</td>
+<td style="text-align: center;">27 Mar</td>
+<td style="text-align: center;">28 Mar</td>
+<td style="text-align: center;">30 Mar</td>
+<td style="text-align: center;">31 Mar</td>
 </tr>
 <tr>
-<td style="text-align: center;">6 Feb</td>
-<td style="text-align: center;">7 Feb</td>
-<td style="text-align: center;">2 Feb</td>
-<td style="text-align: center;">10 Feb</td>
+<td style="text-align: center;">3 Apr</td>
+<td style="text-align: center;">4 Apr</td>
+<td style="text-align: center;">6 Apr</td>
+<td style="text-align: center;"> - </td>
 </tr>
 <tr>
-<td style="text-align: center;">13 Feb</td>
-<td style="text-align: center;">14 Feb</td>
-<td style="text-align: center;">9 Feb</td>
-<td style="text-align: center;">17 Feb</td>
+<td style="text-align: center;">10 Apr</td>
+<td style="text-align: center;">11 Apr</td>
+<td style="text-align: center;">13 Apr</td>
+<td style="text-align: center;">14 Apr</td>
 </tr>
 <tr>
-<td style="text-align: center;">20 Feb</td>
-<td style="text-align: center;">21 Feb</td>
-<td style="text-align: center;">16 Feb</td>
-<td style="text-align: center;">24 Feb</td>
+<td style="text-align: center;">17 Apr</td>
+<td style="text-align: center;">18 Apr</td>
+<td style="text-align: center;">20 Apr</td>
+<td style="text-align: center;"> - </td>
 </tr>
 <tr>
-<td style="text-align: center;">6 Mar</td>
-<td style="text-align: center;">7 Mar</td>
-<td style="text-align: center;">23 Feb</td>
-<td style="text-align: center;"> </td>
+<td style="text-align: center;"> - </td>
+<td style="text-align: center;">25 Apr</td>
+<td style="text-align: center;"> - </td>
+<td style="text-align: center;"> - </td>
 </tr>
 <tr>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;"> </td>
-<td style="text-align: center;">9 Mar</td>
-<td style="text-align: center;"> </td>
+<td style="text-align: center;"> - </td>
+<td style="text-align: center;">2 May</td>
+<td style="text-align: center;">4 May </td>
+<td style="text-align: center;">5 May</td>
+</tr>
+	<tr>
+<td style="text-align: center;">15 May</td>
+<td style="text-align: center;">16 May</td>
+<td style="text-align: center;">18 Mar</td>
+<td style="text-align: center;">19 May</td>
 </tr>
 </tbody>
 </table>
