@@ -27,12 +27,12 @@ third_nav_title: Co Curricular Activities (CCA)
 	<a href="/files/2023CCASchedules/T2/T2 - Choir.pdf" target="_blank" rel="noopener">Choir</a></p>
 <p>Dance Inc</p>
 <ul>
-<li><a href="/files/2023CCASchedules/T1%20-%20Dance%20Inc%201.pdf" target="_blank" rel="noopener">International 1</a></li>
-<li><a href="/files/2023CCASchedules/T1%20-%20Dance%20Inc%202.pdf" target="_blank" rel="noopener">International 2</a></li>
-<li><a href="/files/2023CCASchedules/T1%20-%20Dance%20Inc%203.pdf" target="_blank" rel="noopener">Chinese</a></li>
-<li><a href="/files/2023CCASchedules/T1%20-%20Dance%20Inc%204.pdf" target="_blank" rel="noopener">Malay</a></li>
+<li><a href="/files/2023CCASchedules/T2/T2 - Dance Inc 1.pdf" target="_blank" rel="noopener">International 1</a></li>
+<li><a href="/files/2023CCASchedules/T2/T2 - Dance Inc 2.pdf" target="_blank" rel="noopener">International 2</a></li>
+<li><a href="/files/2023CCASchedules/T2/T2 - Dance Inc 3.pdf" target="_blank" rel="noopener">Chinese</a></li>
+<li><a href="/files/2023CCASchedules/T2/T2 - Dance Inc 4.pdf" target="_blank" rel="noopener">Malay</a></li>
 </ul>
-<p><strong><u>Uniform Group<br /></u></strong><a href="/files/2023CCASchedules/T1%20-%20Brownies.pdf" target="_blank" rel="noopener">Brownies</a></p>
+<p><strong><u>Uniform Group<br /></u></strong><a href="/files/2023CCASchedules/T2/T2 - Brownies.pdf" target="_blank" rel="noopener">Brownies</a></p>
 </td>
 </tr>
 </tbody>
