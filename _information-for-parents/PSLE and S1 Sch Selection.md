@@ -3,5 +3,7 @@ title: PSLE and S1 Sch Selection
 permalink: /information-for-parents/psle-banding-and-s1-sch-selection/
 description: ""
 ---
-<h4 style="text-align: center;"><strong>Taking the PSLE or progressing to secondary school?</strong></h4>
-<p style="text-align: center;"><strong>Learn about the changes to the PSLE scoring system <a href="https://www.moe.gov.sg/microsites/psle-fsbb/index.html" target="_blank" rel="noopener">here</a>.<br /></strong><strong>Learn about the PSLE Scoring and Secondary 1 Posting from 2021&nbsp;<a href="/files/PSLE Infosheet to Schools.pdf" target="_blank" rel="noopener">here</a>.<br /></strong><strong>Learn about a secondary school that's suitable for your child&nbsp;<a href="/files/A%20Secondary%20School%20Thats%20Suitable%20For%20Your%20Child.pdf" target="_blank" rel="noopener">here</a>.</strong></p>
+<h5 style="text-align: center;"><strong>Are you in P6? Are you looking for information as to secondary schools? </br>Do explore these sites.</strong></h5>
+<p style="text-align: center;"><strong>For S1 Posting process: <a href="https://www.moe.gov.sg/secondary" target="_blank" rel="noopener">here</a>.<br /></strong>
+	<strong>Information on different schools, eg location, CCA, PSLE score ranges, etc: SchoolFinder<a href="https://www.moe.gov.sg/schoolfinder?journey=Secondary%20school" target="_blank" rel="noopener">here</a>.<br /></strong>
+	<strong>CHIJ St Joseph’s Convent<a href="https://chijstjosephsconvent.moe.edu.sg/" target="_blank" rel="noopener">here</a>.</strong></p>
