@@ -12,7 +12,7 @@ third_nav_title: Visual and Performing Arts CCA
 		<td><img style="width: 80%;" src="/images/CCA/Danceheader3.jpg"></td>
 		</tr>
 		<tr>
-		<td colspan=2><img style="width: 80%;" src="/images/CCA/Danceheader3.jpg"></td>
+		<td colspan=2><img style="width: 80%;" src="/images/CCA/Danceheader2.jpg"></td>
 		</tr>
 	</tbody>
 </table>
