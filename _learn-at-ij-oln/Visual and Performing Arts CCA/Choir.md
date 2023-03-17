@@ -17,12 +17,12 @@ third_nav_title: Visual and Performing Arts CCA
 <table>
 <tbody>
 <tr>
-<td></td>
-<td></td>
+<td><img src="/images/CCA/spotlight1.jpg"></td>
+<td><img src="/images/CCA/spotlight2.jpg"></td>
 </tr>
 </tbody>
 </table>
-<h4><strong>HIGHLIGHTS OF 2020</strong></h4>
+<h4><strong>HIGHLIGHTS OF 2022</strong></h4>
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
