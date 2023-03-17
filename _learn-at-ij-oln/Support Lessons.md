@@ -241,3 +241,37 @@ description: ""
 </tr>
 </tbody>
 </table>
+
+<h4><strong>Other Lessons in Term 2 (P3 - P5)</strong></h4>
+<table>
+<tbody>
+<tr>
+<th>Subjects /<br />Levels</th>
+<th>SDR</th>
+<th>RRP</th>
+<th>Fibonacci Maths</th>
+<th>HMTL</th>
+</tr>
+	<tr>
+<td><strong>P3</strong></td>
+<td>Monday<br>Tuesday<br>Thursday</td>
+<td>Tuesday<br>Thursday</td>
+<td> - </td>
+<td>Monday</td>
+</tr>
+<tr>
+<td><strong>P4</strong></td>
+<td>Monday<br>Tuesday<br>Thursday</td>
+<td>Tuesday<br>Thursday</td>
+<td>Tuesday</td>
+<td>Monday</td>
+</tr>
+<tr>
+<td><strong>P5</strong></td>
+<td>Tuesday</td>
+<td>Friday</td>
+<td>Monday</td>
+<td>Thursday</td>
+</tr>
+</tbody>
+</table>
