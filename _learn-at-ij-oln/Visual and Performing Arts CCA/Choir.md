@@ -8,7 +8,7 @@ third_nav_title: Visual and Performing Arts CCA
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="/images/cho1.png"></td>
+<td style="width: 50%;"><img src="/images/cca/Choir1.png"></td>
 <td style="width: 50%;">
 <p>Our choir comprises of students from Primary 2 to Primary 6. We have a total enrolment of more than 40 students in the choir and they range between 2 vocal ranges, namely Soprano and Alto. Students learn and perform a wide genre of songs through singing, appreciating world culture music and performing creatively through their musical expression.</p>
 <p>The members of the choir never fail to improve on their singing skills and continue to go through the training process of vocalization, voice play, pitching, rhythm and musical note-reading. Through this vigorous process, students will learn the values of discipline, resilience, teamwork and responsibility.</p>
