@@ -73,7 +73,7 @@ After many months of preparation, all choir members put up a wonderful performan
 <li>like music and want to learn more</li>
 </ul>
 </td>
-<td style="width: 50%;"><img src="/images/cho5.jpg"></td>
+<td style="width: 50%;"><img src="/images/CCA/JoinUS.jpeg"></td>
 </tr>
 </tbody>
 </table>
@@ -81,7 +81,7 @@ After many months of preparation, all choir members put up a wonderful performan
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="/images/cho6.jpg"></td>
+<td style="width: 50%;"><img src="/images/CCA/Choir Schedule.jpeg"></td>
 <td style="width: 50%;">
 <p>Day:&nbsp;Tuesdays<br />Time: 3.15 pm - 5.15 pm<br />Venue: Music Room 2</p>
 </td>
