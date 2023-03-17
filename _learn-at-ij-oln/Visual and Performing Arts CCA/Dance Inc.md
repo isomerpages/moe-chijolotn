@@ -26,7 +26,7 @@ third_nav_title: Visual and Performing Arts CCA
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="/images/di2.jpg"></td>
+<td style="width: 50%;"><img src="/images/CCA/DanceWWD1.jpg"></td>
 <td style="width: 50%;"><img src="/images/di3.jpg"></td>
 </tr>
 <tr>
