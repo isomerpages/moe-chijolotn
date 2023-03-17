@@ -270,8 +270,8 @@ description: ""
 <td>Friday</td>
 </tr>
 <tr>
-<td>Thursday</td>
 <td><strong>P5</strong></td>
+<td>Thursday</td>
 <td> - </td>
 <td> - </td>
 <td>Friday</td>
