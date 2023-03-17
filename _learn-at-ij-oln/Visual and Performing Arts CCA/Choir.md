@@ -10,7 +10,7 @@ third_nav_title: Visual and Performing Arts CCA
 <tr style="width: 50%;">
 <img src="/images/CCA/Choir1.jpeg">
 </tr>
-<tr><p>Our choir comprises of students from Primary 3 to Primary 6. We have a total enrolment of more than 60 students in the choir and they range between 2 vocal ranges, namely Soprano and Alto. </br>Students learn and perform a wide genre of songs through singing, appreciating world culture music and performing creatively through their musical expression.</p>
+<tr><p>Our choir comprises of students from Primary 3 to Primary 6. We have a total enrolment of more than 60 students in the choir and they range between 2 vocal ranges, namely Soprano and Alto. <br>Students learn and perform a wide genre of songs through singing, appreciating world culture music and performing creatively through their musical expression.</p>
 <p>The members of the choir never fail to improve on their singing skills and continue to go through the training process of vocalization, voice play, pitching, rhythm and musical note-reading. Through this vigorous process, students will learn the values of discipline, resilience, teamwork and responsibility.</p></tr>
 </tbody>
 </table>
@@ -27,7 +27,7 @@ third_nav_title: Visual and Performing Arts CCA
 <tbody>
 <tr>
 <h5>SYF Virtual Choir</h5>
-<p>Our choir took part in SYF 2022 Choir AP on 12 August. They sang a Chinese Folk song, entitled Ni Wa Wa.</br>
+<p>Our choir took part in SYF 2022 Choir AP on 12 August. They sang a Chinese Folk song, entitled Ni Wa Wa.<br>
 After many months of preparation, all choir members put up a wonderful performance which incorporated voice harmony and simple actions into the song. Through the SYF practices, the girls also learned discipline and concert etiquette under the guidance of our dedicated choir instructors. </p>
 </tr>
 </tbody>
