@@ -17,8 +17,8 @@ third_nav_title: Visual and Performing Arts CCA
 <table>
 <tbody>
 <tr>
-<td><img src="/images/CCA/spotlight1.jpg"></td>
-<td><img src="/images/CCA/spotlight2.jpg"></td>
+<td><img src="/images/CCA/ChoirSpotlight1.jpg"></td>
+<td><img src="/images/CCA/ChoirSpotlight2.jpg"></td>
 </tr>
 </tbody>
 </table>
@@ -36,7 +36,7 @@ After many months of preparation, all choir members put up a wonderful performan
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="/images/CCA/OnlineSession.jpeg"></td>
+<td style="width: 50%;"><img src="/images/CCA/ChoirOnlineSession.jpeg"></td>
 <td style="width: 50%;">
 <p>As the choir has been meeting online in 2020 till beginning of 2022, our session was conducted via zoom on Tuesdays from 4 pm to 6pm. We dedicated 1 hour each for the Soprano and Alto section. The instructors played games online, encouraged our members to sing individually and also practiced reading scores and singing in pitch as a choir. We missed seeing each other face to face but the online session was fun as well.</p>
 <p>This year, we were finally able to gather together in the Music room to sing as one choir. Join us to experience the joy of singing and performing!</p>
@@ -73,7 +73,7 @@ After many months of preparation, all choir members put up a wonderful performan
 <li>like music and want to learn more</li>
 </ul>
 </td>
-<td style="width: 50%;"><img src="/images/CCA/JoinUS.jpeg"></td>
+<td style="width: 50%;"><img src="/images/CCA/ChoirJoinUS.jpeg"></td>
 </tr>
 </tbody>
 </table>
