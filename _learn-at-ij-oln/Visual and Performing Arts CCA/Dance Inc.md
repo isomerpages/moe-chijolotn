@@ -39,7 +39,7 @@ third_nav_title: Visual and Performing Arts CCA
 </tr>
 </tbody>
 </table>
-<p>Dance Inc has participated in various competitions namely, Singapore Youth Festival and achieved several awards. Every student has the opportunity to perform on stage and showcase her talent during public performances and various school events. We aim to provide a fruitful and meaningful experience for our students to help build their confidence and increase their self-esteem and perseverance through dance.&nbsp;</p>
+<p>Dance Inc has participated in various competitions namely, Singapore Youth Festival and achieved several awards. Every student has the opportunity to perform on stage and showcase her talent during public performances and various school events. We aim to provide a fruitful and meaningful experience for our students to help build their confidence and increase their self-esteem and perseverance through dance.</p>
 <p style="text-align: center;"><strong>SEE US IN ACTION!</strong></p>
 <h4><strong>TEACHERS-IN-CHARGE</strong></h4>
 <table>
