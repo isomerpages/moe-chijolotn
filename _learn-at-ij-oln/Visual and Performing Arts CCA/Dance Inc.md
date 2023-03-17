@@ -31,7 +31,7 @@ third_nav_title: Visual and Performing Arts CCA
 </tr>
 <tr>
 <td style="width: 50%;"><img src="/images/di4.jpg"></td>
-<td style="width: 50%;"><img src="/images/di5.jpg"></td>
+<td style="width: 50%;"><img src="/images/CCA/DanceWWD3.jpg"></td>
 </tr>
 <tr>
 <td style="width: 50%;"><img src="/images/di6.jpg"></td>
