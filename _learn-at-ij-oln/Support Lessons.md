@@ -142,7 +142,7 @@ description: ""
 </tbody>
 </table>
 
-<h4><strong>Term 2 Support Lessons (P3 - P5, 2PM - 3PM)</strong></h4>
+<h4><strong>Term 2 Support Lessons (P2 - P5, 2PM - 3PM)</strong></h4>
 <table>
 <tbody>
 <tr>
