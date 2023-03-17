@@ -142,7 +142,7 @@ description: ""
 </tbody>
 </table>
 
-<h4><strong>Term 1 Support Lessons (P3 - P5, 2PM - 3PM)</strong></h4>
+<h4><strong>Term 2 Support Lessons (P2 - P5, 2PM - 3PM)</strong></h4>
 <table>
 <tbody>
 <tr>
@@ -152,59 +152,56 @@ description: ""
 <th style="text-align: center;">Fridays</th>
 </tr>
 <tr>
-<td style="text-align: center;">16 Jan</td>
-<td style="text-align: center;">17 Jan</td>
-<td style="text-align: center;">19 Jan</td>
-<td style="text-align: center;">27 Jan</td>
+<td style="text-align: center;">27 Mar</td>
+<td style="text-align: center;">28 Mar</td>
+<td style="text-align: center;">30 Mar</td>
+<td style="text-align: center;">31 Mar</td>
 </tr>
 <tr>
-<td style="text-align: center;">30 Jan</td>
-<td style="text-align: center;">31 Jan</td>
-<td style="text-align: center;">26 Jan</td>
-<td style="text-align: center;">3 Feb</td>
+<td style="text-align: center;">3 Apr</td>
+<td style="text-align: center;">4 Apr</td>
+<td style="text-align: center;">6 Apr</td>
+<td style="text-align: center;"> - </td>
 </tr>
 <tr>
-<td style="text-align: center;">6 Feb</td>
-<td style="text-align: center;">7 Feb</td>
-<td style="text-align: center;">2 Feb</td>
-<td style="text-align: center;">*10 Feb</td>
+<td style="text-align: center;">10 Apr</td>
+<td style="text-align: center;">11 Apr</td>
+<td style="text-align: center;">13 Apr</td>
+<td style="text-align: center;">14 Apr</td>
 </tr>
 <tr>
-<td style="text-align: center;">13 Feb</td>
-<td style="text-align: center;">14 Feb</td>
-<td style="text-align: center;">*9 Feb</td>
-<td style="text-align: center;">17 Feb</td>
+<td style="text-align: center;">17 Apr</td>
+<td style="text-align: center;">18 Apr</td>
+<td style="text-align: center;">20 Apr</td>
+<td style="text-align: center;">21 Apr</td>
 </tr>
 <tr>
-<td style="text-align: center;">20 Feb</td>
-<td style="text-align: center;">21 Feb</td>
-<td style="text-align: center;">16 Feb</td>
-<td style="text-align: center;">24 Feb</td>
+<td style="text-align: center;"> - </td>
+<td style="text-align: center;">25 Apr</td>
+<td style="text-align: center;"> - </td>
+<td style="text-align: center;"> - </td>
+</tr>
+<tr>
+<td style="text-align: center;"> - </td>
+<td style="text-align: center;">2 May</td>
+<td style="text-align: center;">4 May</td>
+<td style="text-align: center;">5 May</td>
 </tr>
 	<tr>
-<td style="text-align: center;">27 Feb</td>
-<td style="text-align: center;">28 Feb</td>
-<td style="text-align: center;">23 Feb</td>
-<td style="text-align: center;">3 Mar</td>
+<td style="text-align: center;">8 May</td>
+<td style="text-align: center;">9 May</td>
+<td style="text-align: center;">11 May</td>
+<td style="text-align: center;">12 May</td>
 </tr>
 <tr>
-<td style="text-align: center;">6 Mar</td>
-<td style="text-align: center;">7 Mar</td>
-<td style="text-align: center;">2 Mar</td>
-<td style="text-align: center;"> </td>
-</tr>
-<tr>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;"> </td>
-<td style="text-align: center;">9 Mar</td>
-<td style="text-align: center;"> </td>
-</tr>
-<tr>
-<td style="text-align: left;" colspan="4">&nbsp;<strong>*</strong>&nbsp;P5 Camp. No support lessons for P5 students.&nbsp;</td>
+<td style="text-align: center;">15 May</td>
+<td style="text-align: center;">16 May</td>
+<td style="text-align: center;">18 May</td>
+<td style="text-align: center;">19 May</td>
 </tr>
 </tbody>
 </table>
-<h4><strong>Days of Support Lessons in Term 1 (P3 - P5)</strong></h4>
+<h4><strong>Days of Support Lessons in Term 2 (P2 - P5)</strong></h4>
 <table>
 <tbody>
 <tr>
@@ -215,10 +212,17 @@ description: ""
 <th>MTL</th>
 </tr>
 <tr>
+<td><strong>P2</strong></td>
+<td>Monday</td>
+<td>Friday</td>
+<td> - </td>
+<td> - </td>
+</tr>
+	<tr>
 <td><strong>P3</strong></td>
 <td>Friday</td>
 <td>Monday</td>
-<td>Tuesday <br>(Commence in Term 2)</td>
+<td>Tuesday</td>
 <td>Thursday</td>
 </tr>
 <tr>
@@ -234,6 +238,44 @@ description: ""
 <td>Friday</td>
 <td>Monday</td>
 <td>Thursday</td>
+</tr>
+</tbody>
+</table>
+
+<h4><strong>Other Lessons in Term 2 (P3 - P5)</strong></h4>
+<table>
+<tbody>
+<tr>
+<th>Subjects /<br />Levels</th>
+<th>HMTL</th>
+<th>SDR</th>
+<th>RRP</th>
+<th>Fibonacci Maths</th>
+<th>Einstein Science</th>
+</tr>
+	<tr>
+<td><strong>P3</strong></td>
+<td>Monday</td>
+<td>Monday<br>Tuesday<br>Thursday</td>
+<td>Tuesday<br>Thursday</td>
+<td> - </td>
+<td> - </td>		
+</tr>
+<tr>
+<td><strong>P4</strong></td>
+<td>Monday</td>
+<td>Monday<br>Tuesday<br>Thursday</td>
+<td>Tuesday<br>Thursday</td>
+<td>Tuesday</td>
+<td>Friday</td>
+</tr>
+<tr>
+<td><strong>P5</strong></td>
+<td>Thursday</td>
+<td> - </td>
+<td> - </td>
+<td>Friday</td>
+<td>Monday</td>
 </tr>
 </tbody>
 </table>
