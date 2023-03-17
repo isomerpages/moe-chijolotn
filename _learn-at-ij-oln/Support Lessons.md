@@ -201,7 +201,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4><strong>Days of Support Lessons in Term 1 (P3 - P5)</strong></h4>
+<h4><strong>Days of Support Lessons in Term 2 (P2 - P5)</strong></h4>
 <table>
 <tbody>
 <tr>
@@ -212,10 +212,17 @@ description: ""
 <th>MTL</th>
 </tr>
 <tr>
+<td><strong>P2</strong></td>
+<td>Monday</td>
+<td>Friday</td>
+<td> - </td>
+<td> - </td>
+</tr>
+	<tr>
 <td><strong>P3</strong></td>
 <td>Friday</td>
 <td>Monday</td>
-<td>Tuesday <br>(Commence in Term 2)</td>
+<td>Tuesday</td>
 <td>Thursday</td>
 </tr>
 <tr>
