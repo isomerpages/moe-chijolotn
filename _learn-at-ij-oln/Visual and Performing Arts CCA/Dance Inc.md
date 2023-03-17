@@ -5,7 +5,18 @@ description: ""
 third_nav_title: Visual and Performing Arts CCA
 ---
 <h4><strong>WHO WE ARE</strong></h4>
-<img style="width: 80%;" src="/images/di1.png" />
+<table>
+	<tbody>
+		<tr>
+		<td><img style="width: 80%;" src="/images/CCA/Danceheader1.jpeg"></td>
+		<td><img style="width: 80%;" src="/images/CCA/Danceheader3.jpeg"></td>
+		</tr>
+		<tr>
+		<td></td>
+		</tr>
+	</tbody>
+</table>
+
 <p style="text-align: center;">Dance is a form of art and a creative expression of the ideas and feelings of individual. It allows students to express their ideas about the world around them through a non-verbal means of communication.&nbsp;</p>
 <p style="text-align: center;">In CHIJ OLN, Dance Inc develops in pupils an appreciation for the aesthetics. Through learning different types of dances, namely Chinese Dance, Modern Dance and Malay Dance, students are exposed to different types of music and are encouraged to think creatively through the dance and musical expressions. Students learn dance in a fun and easy way through a comprehensive and structured dance programme. During our weekly dance sessions, our experienced and dedicated instructors train students in dance techniques and prepare them for competitions and performances.&nbsp;</p>
 <p style="text-align: center;">P3 students in Dance Inc will have the opportunity to learn different genres (namely Modern, Chinese and Malay) termly. This broadens the dance experience of the students. In P4, students will be channelled to develop their potential in a particular dance genre.&nbsp;</p>
