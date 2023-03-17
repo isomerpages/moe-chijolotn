@@ -247,34 +247,34 @@ description: ""
 <tbody>
 <tr>
 <th>Subjects /<br />Levels</th>
+<th>HMTL</th>
 <th>SDR</th>
 <th>RRP</th>
 <th>Fibonacci Maths</th>
-<th>HMTL</th>
 <th>Einstein Science</th>
 </tr>
 	<tr>
 <td><strong>P3</strong></td>
+<td>Monday</td>
 <td>Monday<br>Tuesday<br>Thursday</td>
 <td>Tuesday<br>Thursday</td>
 <td> - </td>
-<td>Monday</td>
 <td> - </td>		
 </tr>
 <tr>
 <td><strong>P4</strong></td>
+<td>Monday</td>
 <td>Monday<br>Tuesday<br>Thursday</td>
 <td>Tuesday<br>Thursday</td>
 <td>Tuesday</td>
-<td>Monday</td>
 <td>Friday</td>
 </tr>
 <tr>
+<td>Thursday</td>
 <td><strong>P5</strong></td>
 <td> - </td>
 <td> - </td>
 <td>Friday</td>
-<td>Thursday</td>
 <td>Monday</td>
 </tr>
 </tbody>
