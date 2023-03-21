@@ -132,7 +132,7 @@ third_nav_title: Our People
 <td><strong>2 Charity</strong></td>
 <td><a href="mailto:nur_safikha_abdul_ghapar@moe.edu.sg" target="">Mdm Nur Safikha</a></td>
 <td><a href="mailto:ler_ser_ling_serene@moe.edu.sg" target="">Ms Serene Ler</a></td>
-	<td><a href="mailto:tan_siew_choo_cynthia@moe.edu.sg" target="">Ms Cynthia Tan</a></td>
+	<td><a href="mailto:lee_su_keow_irene@moe.edu.sg" target="">Mrs Irene Wong</a></td>
 <td><a href="mailto:nur_safikha_abdul_ghapar@moe.edu.sg" target="">Mdm Nur Safikha</a></td>
 <td><a href="mailto:tan_shin_shin_helen@moe.edu.sg" target="">Ms Helen Tan</a></td>
 <td><a href="mailto:nur_safikha_abdul_ghapar@moe.edu.sg" target="">Mdm Nur Safikha</a></td>
