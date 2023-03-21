@@ -81,7 +81,7 @@ third_nav_title: Our People
 <td><strong>1 Love</strong></td>
 <td><a href="mailto:raniah_mohd_noor@moe.edu.sg" target="">Mdm Raniah</a></td>
 <td><a href="mailto:jin_xiumei@moe.edu.sg" target="">Mdm Jin Xiumei</a></td>
-<td><a href="mailto:tan_siew_choo_cynthia@moe.edu.sg" target="">Ms Cynthia Tan</a></td>
+<td><a href="mailto:lee_su_keow_irene@moe.edu.sg" target="">Mrs Irene Wong</a></td>
 <td><a href="mailto:raniah_mohd_noor@moe.edu.sg" target="">Mdm Raniah</a></td>
 <td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
 <td><a href="mailto:sum_qiu_mei_sharon@moe.edu.sg" target="">Mrs Sharon Lai</a></td>
@@ -132,7 +132,7 @@ third_nav_title: Our People
 <td><strong>2 Charity</strong></td>
 <td><a href="mailto:nur_safikha_abdul_ghapar@moe.edu.sg" target="">Mdm Nur Safikha</a></td>
 <td><a href="mailto:ler_ser_ling_serene@moe.edu.sg" target="">Ms Serene Ler</a></td>
-	<td><a href="mailto:tan_siew_choo_cynthia@moe.edu.sg" target="">Ms Cynthia Tan</a></td>
+	<td><a href="mailto:lee_su_keow_irene@moe.edu.sg" target="">Mrs Irene Wong</a></td>
 <td><a href="mailto:nur_safikha_abdul_ghapar@moe.edu.sg" target="">Mdm Nur Safikha</a></td>
 <td><a href="mailto:tan_shin_shin_helen@moe.edu.sg" target="">Ms Helen Tan</a></td>
 <td><a href="mailto:nur_safikha_abdul_ghapar@moe.edu.sg" target="">Mdm Nur Safikha</a></td>
