@@ -81,7 +81,7 @@ description: ""
 <td style="text-align: center;">5L</td>
 <td style="text-align: center;">5P</td>
 <td style="text-align: center;">5T</td>
-</tr
+</tr>
 <tr>
 <td style="text-align: center;">P6</td>
 <td style="text-align: center;"> - </td>
