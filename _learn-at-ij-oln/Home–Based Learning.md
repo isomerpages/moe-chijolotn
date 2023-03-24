@@ -36,7 +36,7 @@ description: ""
 <td style="text-align: center;">1J</td>
 <td style="text-align: center;">1L</td>
 <td style="text-align: center;">1P</td>
-<td style="text-align: center;">1P</td>
+<td style="text-align: center;">1T</td>
 </tr>
 	<tr>
 <td style="text-align: center;">P2</td>
@@ -47,7 +47,7 @@ description: ""
 <td style="text-align: center;">2J</td>
 <td style="text-align: center;">2L</td>
 <td style="text-align: center;">2P</td>
-<td style="text-align: center;">2P</td>
+<td style="text-align: center;">2T</td>
 </tr>
 <tr>
 <td style="text-align: center;">P3</td>
@@ -58,7 +58,7 @@ description: ""
 <td style="text-align: center;">3J</td>
 <td style="text-align: center;">3L</td>
 <td style="text-align: center;">3P</td>
-<td style="text-align: center;">3P</td>
+<td style="text-align: center;">3T</td>
 </tr>
 <tr>
 <td style="text-align: center;">P4</td>
@@ -69,7 +69,7 @@ description: ""
 <td style="text-align: center;">4J</td>
 <td style="text-align: center;">4L</td>
 <td style="text-align: center;">4P</td>
-<td style="text-align: center;">4P</td>
+<td style="text-align: center;">4T</td>
 </tr>
 <tr>
 <td style="text-align: center;">P5</td>
@@ -80,7 +80,7 @@ description: ""
 <td style="text-align: center;">5J</td>
 <td style="text-align: center;">5L</td>
 <td style="text-align: center;">5P</td>
-<td style="text-align: center;">5P</td>
+<td style="text-align: center;">5T</td>
 </tr
 	<tr>
 <td style="text-align: center;">P6</td>
@@ -91,7 +91,7 @@ description: ""
 <td style="text-align: center;">6J</td>
 <td style="text-align: center;">6L</td>
 <td style="text-align: center;">6P</td>
-<td style="text-align: center;">6P</td>
+<td style="text-align: center;">6T</td>
 </tr
 </tbody>
 </table>
