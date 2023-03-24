@@ -38,7 +38,7 @@ description: ""
 <td style="text-align: center;">1P</td>
 <td style="text-align: center;">1T</td>
 </tr>
-	<tr>
+<tr>
 <td style="text-align: center;">P2</td>
 <td style="text-align: center;">2C</td>
 <td style="text-align: center;">2F</td>
@@ -82,7 +82,7 @@ description: ""
 <td style="text-align: center;">5P</td>
 <td style="text-align: center;">5T</td>
 </tr
-	<tr>
+<tr>
 <td style="text-align: center;">P6</td>
 <td style="text-align: center;"> - </td>
 <td style="text-align: center;">6F</td>
@@ -92,7 +92,7 @@ description: ""
 <td style="text-align: center;">6L</td>
 <td style="text-align: center;">6P</td>
 <td style="text-align: center;">6T</td>
-</tr
+</tr>
 </tbody>
 </table>
 <hr>
