@@ -24,8 +24,6 @@ Please fill in this&nbsp;<a href="https://go.gov.sg/chijolnpasswordreset" target
 <li>Password Reset for SLS and/or Student iCON account</li>
 <li>Unlocking of SLS Account</li>
 </ul>
-</ul>
-</ol>
 <p>We will get back to you with the new password soon.</p>
 <hr>
 <h4><strong>Cyber Wellness Guide</strong></h4>
