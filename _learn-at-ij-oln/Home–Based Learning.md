@@ -12,8 +12,8 @@ description: ""
 <li>Legal action and disciplinary action may be taken if the lessons are recorded without knowledge of the teacher. </li>
 <li>Students who are not able to be present at the stipulated Google Meet / Zoom sessions, are to inform their Subject Teacher, who will then see to the necessary follow-up.</li>
 </ul>
-
-<h5>Task sheets for 29 Mar 2023.</h5>
+<hr>
+<h5>Task sheets for 29 Mar 2023</h5>
 <table>
 <tbody>
 <tr>
@@ -96,7 +96,7 @@ description: ""
 </tbody>
 </table>
 <hr>
-<br>
+<br><br>
 For SLS matters, you may also email the SLS Central Helpdesk at helpdesk@sls.ufinity.com at any time for assistance. Please include your daughter&rsquo;s full name, name of school and form class.
 <br><br>
 Please fill in this&nbsp;<a href="https://go.gov.sg/chijolnpasswordreset" target="_blank" rel="noopener">form</a>&nbsp;to request for the following:
