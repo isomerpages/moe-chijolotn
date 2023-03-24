@@ -6,7 +6,7 @@ third_nav_title: Co Curricular Programmes
 ---
 <ol>
 <li>The purpose of the OLN 360 programme is to facilitate the delivery of the OLN Outcomes by broadening the holistic curriculum and learning domains encountered by our students. This will enhance the holistic development of our girls.&nbsp;</li>
-<li>OLN 360 takes place during the school day on Fridays from 7.45 a.m. to 9 a.m for all P3 to P6 students. Through this programme, our students will be able to explore and experience success in a range of activities, apply learning beyond the classroom, develop their Learning Dispositions and grow in our school&rsquo;s GRACIA values.&nbsp;</li>
+<li>OLN 360 takes place during the school day on Mondays from 7.45 a.m. to 9 a.m for all P3 to P6 students. Through this programme, our students will be able to explore and experience success in a range of activities, apply learning beyond the classroom, develop their Learning Dispositions and grow in our school&rsquo;s GRACIA values.&nbsp;</li>
 <li>The four modules broaden the holistic curriculum and learning domains encountered by our students.</li>
 </ol>
 <img style="width: 85%;" src="/images/OLN360/OLN360 POSTER 2023.jpg" />
