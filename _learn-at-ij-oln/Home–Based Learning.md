@@ -13,7 +13,7 @@ description: ""
 <li>Students who are not able to be present at the stipulated Google Meet / Zoom sessions, are to inform their Subject Teacher, who will then see to the necessary follow-up.</li>
 </ul>
 <hr>
-<h5>Guides for HBL</h5>
+<h6>Guides for HBL</h6>
 <ol>
 <li><a href="/files/Guides/STUDENT LEARNING SPACE.pdf" target="_blank" rel="noopener">Student Learning Space</a></li>
 <li><a href="/files/Guides/STUDENT ICON.pdf" target="_blank" rel="noopener">Student iCON</a></li>
