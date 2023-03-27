@@ -103,7 +103,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h6>Mathematics</h6>
+<h6><u>Mathematics</u></h6>
 <table>
 <tbody>
 <tr>
@@ -139,7 +139,7 @@ description: ""
 </tr>
 	</tbody>
 </table>
-<h6>Mother Tongue (Banded Classes)</h6>
+<h6><u>Mother Tongue (Banded Classes)</u></h6>
 <table>
 <tbody>
 <tr>
