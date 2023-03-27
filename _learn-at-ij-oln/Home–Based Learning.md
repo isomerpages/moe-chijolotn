@@ -15,10 +15,10 @@ description: ""
 <hr>
 <h5>Guides for HBL</h5>
 <ol>
-<li>Student Learning Space</li>
-<li>Student iCON</li>
-<li>Zoom Onboarding </li>
-<li>Google Classroom</li>
+<li><a href="/files/Guides/STUDENT LEARNING SPACE.pdf" target="_blank" rel="noopener">Student Learning Space</a></li>
+<li><a href="/files/Guides/STUDENT ICON.pdf" target="_blank" rel="noopener">Student iCON</a></li>
+<li><a href="/files/Guides/ZOOM ONBOARDING GUIDE.pdf" target="_blank" rel="noopener">Zoom Onboarding</a></li>
+	<li><a href="/files/Guides/GOOGLE CLASSROOM.pdf" target="_blank" rel="noopener">Google Classroom</a></li>
 </ol>
 <hr>
 <h5>Task sheets for 29 Mar 2023</h5>
