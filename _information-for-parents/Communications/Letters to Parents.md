@@ -20,6 +20,13 @@ third_nav_title: Communications
 <td>&nbsp;</td>
 </tr>
 <tr>
+<td>All</td>
+<td><a href="/files/PGLetters/2023OLN_0167 - Class Photo-Taking 2023 (2).pdf" target="_blank" rel="noopener">2023OLN_0167</a></td>
+<td>Class Photo-Taking 2023</td>
+<td>27 Mar</td>
+</tr>
+<tr>
+<tr>
 <td>P1</td>
 <td><a href="/files/PGLetters/2023OLN_0132 - Use of Sch Smart Card for Concessionary Travel (P1) (2).pdf" target="_blank" rel="noopener">2023OLN_0132</a></td>
 <td>Use of School Smart Card for Concessary Travel</td>
