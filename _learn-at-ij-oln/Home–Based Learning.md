@@ -52,13 +52,13 @@ description: ""
 <tr>
 <td style="text-align: center;">P3</td>
 <td style="text-align: center;"> - </td>
-<td style="text-align: center;">3F</td>
-<td style="text-align: center;">3G</td>
-<td style="text-align: center;">3H</td>
-<td style="text-align: center;">3J</td>
-<td style="text-align: center;">3L</td>
-<td style="text-align: center;">3P</td>
-<td style="text-align: center;">3T</td>
+<td style="text-align: center;"><a href="/files/TSheets29Mar/3 FAITH HBL TASK SHEET.pdf" target="_blank" rel="noopener">3F</a></td>
+<td style="text-align: center;"><a href="/files/TSheets29Mar/3 GRACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">3G</a></td>
+<td style="text-align: center;"><a href="/files/TSheets29Mar/3 HOPE HBL TASK SHEET.pdf" target="_blank" rel="noopener">3H</a></td>
+<td style="text-align: center;"><a href="/files/TSheets29Mar/3 JOY HBL TASK SHEET.pdf" target="_blank" rel="noopener">3J</a></td>
+<td style="text-align: center;"><a href="/files/TSheets29Mar/3 LOVE HBL TASK SHEET.pdf" target="_blank" rel="noopener">3L</a></td>
+<td style="text-align: center;"><a href="/files/TSheets29Mar/3 PEACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">3P</a></td>
+<td style="text-align: center;"><a href="/files/TSheets29Mar/3 TRUTH HBL TASK SHEET.pdf" target="_blank" rel="noopener">3T</a></td>
 </tr>
 <tr>
 <td style="text-align: center;">P4</td>
