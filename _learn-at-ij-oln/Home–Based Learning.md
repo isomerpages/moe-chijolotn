@@ -95,6 +95,45 @@ description: ""
 </tr>
 </tbody>
 </table>
+<br>
+<h6>Mathematics</h6>
+<table>
+<tbody>
+	<tr>
+<th style="text-align: center;">Level</th>
+<th style="text-align: left;">Lesson</th>
+</tr>
+<tr>
+<td style="text-align: center;">P1</td>
+<td style="text-align: left;">P1 LEARNING SUPPORT MATHEMATICS TASK SHEET</td>
+</tr>
+	<tr>
+<td style="text-align: center;">P2</td>
+<td style="text-align: left;">P2 LEARNING SUPPORT MATHEMATICS TASK SHEET</td>
+</tr>
+	<tr>
+<td style="text-align: center;">P3</td>
+<td style="text-align: left;">P3 MATHEMATICS TASK SHEET</td>
+</tr>
+<tr>
+<td style="text-align: center;">P4</td>
+<td style="text-align: left;">P4 MATHEMATICS TASK SHEET</td>
+</tr>
+<tr>
+<td style="text-align: center;">P5</td>
+<td style="text-align: left;">P5 MATHEMATICS AND FOUNDATION MATHEMATICS TASK SHEET</td>
+</tr>
+<tr>
+<td style="text-align: center;">P6</td>
+<td style="text-align: left;">P6 MATHEMATICS AND FOUNDATION MATHEMATICS TASK SHEET</td>
+</tr>
+	</tbody>
+</table>
+<h6>Mother Tongue</h6>
+<table>
+<tbody>
+</tbody>
+</table>
 <hr>
 <br><br>
 For SLS matters, you may also email the SLS Central Helpdesk at helpdesk@sls.ufinity.com at any time for assistance. Please include your daughter&rsquo;s full name, name of school and form class.
