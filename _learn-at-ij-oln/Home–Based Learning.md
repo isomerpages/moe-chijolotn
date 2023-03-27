@@ -40,14 +40,14 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">P2</td>
-<td style="text-align: center;">2C</td>
-<td style="text-align: center;">2F</td>
-<td style="text-align: center;">2G</td>
-<td style="text-align: center;">2H</td>
-<td style="text-align: center;">2J</td>
-<td style="text-align: center;">2L</td>
-<td style="text-align: center;">2P</td>
-<td style="text-align: center;">2T</td>
+<td style="text-align: center;"><a href="/files/TSheets29Mar/2 CHARITY HBL TASK SHEET.pdf" target="_blank" rel="noopener">2C</a></td>
+<td style="text-align: center;"><a href="/files/TSheets29Mar/2 FAITH HBL TASK SHEET.pdf" target="_blank" rel="noopener">2F</a></td>
+<td style="text-align: center;"><a href="/files/TSheets29Mar/2 GRACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">2G</a></td>
+<td style="text-align: center;"><a href="/files/TSheets29Mar/2 HOPE HBL TASK SHEET.pdf" target="_blank" rel="noopener">2H</a></td>
+<td style="text-align: center;"><a href="/files/TSheets29Mar/2 JOY HBL TASK SHEET.pdf" target="_blank" rel="noopener">2J</a></td>
+<td style="text-align: center;"><a href="/files/TSheets29Mar/2 LOVE HBL TASK SHEET.pdf" target="_blank" rel="noopener">2L</a></td>
+<td style="text-align: center;"><a href="/files/TSheets29Mar/2 PEACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">2P</a></td>
+<td style="text-align: center;"><a href="/files/TSheets29Mar/2 TRUTH HBL TASK SHEET.pdf" target="_blank" rel="noopener">2T</a></td>
 </tr>
 <tr>
 <td style="text-align: center;">P3</td>
