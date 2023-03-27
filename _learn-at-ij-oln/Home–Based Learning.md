@@ -99,33 +99,33 @@ description: ""
 <h6>Mathematics</h6>
 <table>
 <tbody>
-	<tr>
+<tr>
 <th style="text-align: center;">Level</th>
 <th style="text-align: left;">Lesson</th>
 </tr>
 <tr>
 <td style="text-align: center;">P1</td>
-<td style="text-align: left;">P1 LEARNING SUPPORT MATHEMATICS TASK SHEET</td>
+<td style="text-align: left;"><a href="/files/TSheets29Mar/P1 LS MATHS HBL TASK SHEET.pdf" target="_blank" rel="noopener">P1 LEARNING SUPPORT MATHEMATICS TASK SHEET</a></td>
 </tr>
 	<tr>
 <td style="text-align: center;">P2</td>
-<td style="text-align: left;">P2 LEARNING SUPPORT MATHEMATICS TASK SHEET</td>
+<td style="text-align: left;"><a href="/files/TSheets29Mar/P2 LS MATHS HBL TASK SHEET.pdf" target="_blank" rel="noopener">P2 LEARNING SUPPORT MATHEMATICS TASK SHEET</a></td>
 </tr>
 	<tr>
 <td style="text-align: center;">P3</td>
-<td style="text-align: left;">P3 MATHEMATICS TASK SHEET</td>
+<td style="text-align: left;"><a href="/files/TSheets29Mar/P3 MATHS HBL TASK SHEET.pdf" target="_blank" rel="noopener">P3 MATHEMATICS TASK SHEET</a></td>
 </tr>
 <tr>
 <td style="text-align: center;">P4</td>
-<td style="text-align: left;">P4 MATHEMATICS TASK SHEET</td>
+<td style="text-align: left;"><a href="/files/TSheets29Mar/P4 MATHS HBL TASK SHEET.pdf" target="_blank" rel="noopener">P4 MATHEMATICS TASK SHEET</a></td>
 </tr>
 <tr>
 <td style="text-align: center;">P5</td>
-<td style="text-align: left;">P5 MATHEMATICS AND FOUNDATION MATHEMATICS TASK SHEET</td>
+<td style="text-align: left;"><a href="/files/TSheets29Mar/P5 MATHS & FMATHS HBL TASK SHEET.pdf" target="_blank" rel="noopener">P5 MATHEMATICS AND FOUNDATION MATHEMATICS TASK SHEET</a></td>
 </tr>
 <tr>
 <td style="text-align: center;">P6</td>
-<td style="text-align: left;">P6 MATHEMATICS AND FOUNDATION MATHEMATICS TASK SHEET</td>
+<td style="text-align: left;"><a href="/files/TSheets29Mar/P6 MATHS & FMATHS HBL TASK SHEET.pdf" target="_blank" rel="noopener">P6 MATHEMATICS AND FOUNDATION MATHEMATICS TASK SHEET</a></td>
 </tr>
 	</tbody>
 </table>
