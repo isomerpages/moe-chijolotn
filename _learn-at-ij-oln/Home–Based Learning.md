@@ -30,13 +30,13 @@ description: ""
 <tr>
 <td style="text-align: center;">P1</td>
 <td style="text-align: center;"><a href="/files/TSheets29Mar/1 CHARITY HBL TASK SHEET.pdf" target="_blank" rel="noopener">1C</a></td>
-<td style="text-align: center;">1F</td>
-<td style="text-align: center;">1G</td>
-<td style="text-align: center;">1H</td>
-<td style="text-align: center;">1J</td>
-<td style="text-align: center;">1L</td>
-<td style="text-align: center;">1P</td>
-<td style="text-align: center;">1T</td>
+<td style="text-align: center;"><a href="/files/TSheets29Mar/1 FAITH HBL TASK SHEET.pdf" target="_blank" rel="noopener">1F</a></td>
+<td style="text-align: center;"><a href="/files/TSheets29Mar/1 GRACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">1G</a></td>
+<td style="text-align: center;"><a href="/files/TSheets29Mar/1 HOPE HBL TASK SHEET.pdf" target="_blank" rel="noopener">1H</a></td>
+<td style="text-align: center;"><a href="/files/TSheets29Mar/1 JOY HBL TASK SHEET.pdf" target="_blank" rel="noopener">1J</a></td>
+<td style="text-align: center;"><a href="/files/TSheets29Mar/1 LOVE HBL TASK SHEET.pdf" target="_blank" rel="noopener">1L</a></td>
+<td style="text-align: center;"><a href="/files/TSheets29Mar/1 PEACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">1P</a></td>
+<td style="text-align: center;"><a href="/files/TSheets29Mar/1 TRUTH HBL TASK SHEET.pdf" target="_blank" rel="noopener">1T</a></td>
 </tr>
 <tr>
 <td style="text-align: center;">P2</td>
