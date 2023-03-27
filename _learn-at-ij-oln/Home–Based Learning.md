@@ -13,6 +13,14 @@ description: ""
 <li>Students who are not able to be present at the stipulated Google Meet / Zoom sessions, are to inform their Subject Teacher, who will then see to the necessary follow-up.</li>
 </ul>
 <hr>
+<h5>Guides for HBL</h5>
+<ol>
+<li>Student Learning Space</li>
+<li>Student iCON</li>
+<li>Zoom Onboarding </li>
+<li>Google Classroom</li>
+</ol>
+<hr>
 <h5>Task sheets for 29 Mar 2023</h5>
 <table>
 <tbody>
