@@ -95,7 +95,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<br>
 <h6>Mathematics</h6>
 <table>
 <tbody>
@@ -107,11 +106,11 @@ description: ""
 <td style="text-align: center;">P1</td>
 <td style="text-align: left;"><a href="/files/TSheets29Mar/P1 LS MATHS HBL TASK SHEET.pdf" target="_blank" rel="noopener">P1 LEARNING SUPPORT MATHEMATICS TASK SHEET</a></td>
 </tr>
-	<tr>
+<tr>
 <td style="text-align: center;">P2</td>
 <td style="text-align: left;"><a href="/files/TSheets29Mar/P2 LS MATHS HBL TASK SHEET.pdf" target="_blank" rel="noopener">P2 LEARNING SUPPORT MATHEMATICS TASK SHEET</a></td>
 </tr>
-	<tr>
+<tr>
 <td style="text-align: center;">P3</td>
 <td style="text-align: left;"><a href="/files/TSheets29Mar/P3 MATHS HBL TASK SHEET.pdf" target="_blank" rel="noopener">P3 MATHEMATICS TASK SHEET</a></td>
 </tr>
