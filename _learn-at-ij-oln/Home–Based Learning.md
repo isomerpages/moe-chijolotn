@@ -111,6 +111,9 @@ description: ""
 <td style="text-align: left;"><a href="/files/TSheets29Mar/P2 LS MATHS HBL TASK SHEET.pdf" target="_blank" rel="noopener">P2 LEARNING SUPPORT MATHEMATICS TASK SHEET</a></td>
 </tr>
 <tr>
+	<td colspan=2><strong>Banded Classes</strong></td>
+</tr>
+<tr>
 <td style="text-align: center;">P3</td>
 <td style="text-align: left;"><a href="/files/TSheets29Mar/P3 MATHS HBL TASK SHEET.pdf" target="_blank" rel="noopener">P3 MATHEMATICS TASK SHEET</a></td>
 </tr>
@@ -128,7 +131,7 @@ description: ""
 </tr>
 	</tbody>
 </table>
-<h6>Mother Tongue</h6>
+<h6>Mother Tongue (Banded Classes)</h6>
 <table>
 <tbody>
 <tr>
