@@ -355,7 +355,7 @@ third_nav_title: Our People
 <tr>
 <td><strong>4 Grace</strong></td>
 <td><a href="mailto:farhanna_zainal@moe.edu.sg" target="">Mdm Farhanna</a></td>
-<td><a href="mailto:lena_teo@moe.edu.sg" target="">Mrs Lena Teo</a></td>
+<td><a href="mailto:feng_jingwei@moe.edu.sg" target="">Miss Feng Jingwei</a></td>
 <td><a href="mailto:farhanna_zainal@moe.edu.sg" target="">Mdm Farhanna</a></td>
 <td><a href="mailto:farhanna_zainal@moe.edu.sg" target="">Mdm Farhanna</a></td>
 <td><a href="mailto:chua_sze_li_adeline@moe.edu.sg" target="">Ms Adeline Chua</a></td>
