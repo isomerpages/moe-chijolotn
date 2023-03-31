@@ -6,7 +6,7 @@ description: ""
 ##### Canteen Food Prices  
 
 <a href="/files/CanteenFood/stall 1 – noodle.pdf">STALL 1 -  NOODLES</a>  
-<a href="/files/CanteenFood/stall 3 – western &amp; kampong DELIGHTS.pdf">STALL 3 -  WESTERN and KAMPONG DELIGHTS</a>  
+<a href="/files/CanteenFood/stall 3 – western &amp; kampong delights.pdf">STALL 3 -  WESTERN and KAMPONG DELIGHTS</a>  
 <a href="/files/CanteenFood/stall 4 – western.pdf">STALL 4 -  WESTERN</a>  
 <a href="/files/CanteenFood/stall 5 – oriental.pdf">STALL 5 -  ORIENTAL</a>  
 <a href="/files/CanteenFood/stall 6 – work specialities.pdf">STALL 6 -  WOK SPECIALITIES</a>  
