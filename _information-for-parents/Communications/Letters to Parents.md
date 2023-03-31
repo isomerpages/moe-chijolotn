@@ -21,7 +21,7 @@ third_nav_title: Communications
 </tr>
 <tr>
 <td>P6</td>
-<td><a href="/files/2023OLN_0177 - Term 2 P6 Assessment Letter for Parents 2023.pdf" rel="noopener">2023OLN_0177</a></td>
+<td><a href="/files/PGLetters/2023oln_0177 - term 2 p6 assessment letter for parents 2023.pdf" rel="noopener">2023OLN_0177</a></td>
 <td>P6 Standard &amp; Foundation Term 2 Conditioning Exercise</td>
 <td>31 Mar</td>
 </tr>
