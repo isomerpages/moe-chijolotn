@@ -694,7 +694,7 @@ third_nav_title: Our People
 <tr>
 <td><a href="mailto:hanizah_abu_samah@moe.edu.sg" target="">Mdm Hanizah</a></td>
 <td><a href="mailto:illiany_suhaily_mohamed_juhri@moe.edu.sg" target="">Mdm Illiany</a></td>
-<td><a href="mailto:norfadilah_sufke@moe.edu.sg" target="">Mdm Norfadilah</a></td>
+<td><a href="mailto:norfadilah_sufke@moe.edu.sg" target="">Mdm Fadilah</a></td>
 <td>&nbsp;</td>
 </tr>
 <tr>
