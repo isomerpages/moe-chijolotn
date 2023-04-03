@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our People
 ---
 <h4><center>2023</center></h4>
-<p>Click on the Teacher's name to email the teacher using your default email client.<br />Right-click on the Teacher's name to copy email address if you do not have a default email client setup.</p>
+<p>Click on the Teacher's name to email the teacher using your default email client.<br>Right-click on the Teacher's name to copy email address if you do not have a default email client setup.</p>
 <hr>
 <table>
 <tbody>
@@ -322,7 +322,7 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
-<hr />
+<hr>
 <p><strong>^All Maths classes are Banded classes for Primary 3 - 6.</strong></p>
 <table>
 <tbody>
@@ -428,7 +428,7 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
-<hr />
+<hr>
 <p><strong>^All Maths classes are Banded classes for Primary 3 - 6.</strong></p>
 <table>
 <tbody>
@@ -636,7 +636,7 @@ third_nav_title: Our People
 </tr>
 </tbody>
 </table>
-<p><br /><strong>Teachers for P6 Foundation Classes:</strong></p>
+<p><br><strong>Teachers for P6 Foundation Classes:</strong></p>
 <table>
 <tbody>
 <tr>
@@ -658,38 +658,38 @@ third_nav_title: Our People
 </tbody>
 </table>
 <hr>
-<p><strong>All Mother Tongue classes are Banded classes, except for Primary 1 who are in their form classes</strong><br /><strong>Teachers:</strong></p>
+<p><strong>All Mother Tongue classes are Banded classes, except for Primary 1 who are in their form classes</strong><br><strong>Teachers:</strong></p>
 <table>
 <tbody>
 <tr>
-<td><a href="mailto:ang_i-ling@moe.edu.sg" target="">Mdm Ang I-Ling</a><br />洪爱玲老师</td>
-<td><a href="mailto:bao_hong@moe.edu.sg" target="">Mdm Bao Hong</a><br />包钰箖老师</td>
-<td><a href="mailto:heng_ai_ling@moe.edu.sg" target="">Mdm Heng Ai Ling</a><br />王爱玲老师&nbsp;(HOD)</td>
-<td><a href="mailto:hang_yun@moe.edu.sg" target="">Mdm Hang Yun</a> <br />杭云老师</td>
-<td><a href="mailto:wu_li_chuang_stephanie@moe.edu.sg" target="">Mrs Stephanie Wu</a><br />吴丽娟老师</td>
-<td><a href="mailto:jin_xiumei@moe.edu.sg" target="">Mdm Jin Xiumei</a><br />金秀梅老师</td>
+<td><a href="mailto:ang_i-ling@moe.edu.sg" target="">Mdm Ang I-Ling</a><br>洪爱玲老师</td>
+<td><a href="mailto:bao_hong@moe.edu.sg" target="">Mdm Bao Hong</a><br>包钰箖老师</td>
+<td><a href="mailto:heng_ai_ling@moe.edu.sg" target="">Mdm Heng Ai Ling</a><br>王爱玲老师&nbsp;(HOD)</td>
+<td><a href="mailto:hang_yun@moe.edu.sg" target="">Mdm Hang Yun</a> <br>杭云老师</td>
+<td><a href="mailto:wu_li_chuang_stephanie@moe.edu.sg" target="">Mrs Stephanie Wu</a><br>吴丽娟老师</td>
+<td><a href="mailto:jin_xiumei@moe.edu.sg" target="">Mdm Jin Xiumei</a><br>金秀梅老师</td>
 </tr>
 <tr>
-<td><a href="mailto:lai_meiyu@moe.edu.sg" target="">Mdm Lai Meiyu</a><br />赖美妤老师</td>
-<td><a href="mailto:ler_ser_ling_serene@moe.edu.sg" target="">Ms Serene Ler</a><br />吕诗琳老师</td>
-<td><a href="mailto:li_ning@moe.edu.sg" target="">Mdm Li Ning</a><br />李宁老师</td>
-<td><a href="mailto:tan_hwee_hiang@moe.edu.sg" target="">Mrs Ng Kiok Soy</a><br />陈惠贤老师</td>
-<td><a href="mailto:oh_soo_hwee@moe.edu.sg" target="">Ms Oh Soo Hwee</a><br />胡素慧老师</td>
-<td><a href="mailto:lee_yen_ching_jenny@moe.edu.sg" target="">Mdm Jenny Lee</a><br />李苑菁老师</td>
+<td><a href="mailto:lai_meiyu@moe.edu.sg" target="">Mdm Lai Meiyu</a><br>赖美妤老师</td>
+<td><a href="mailto:ler_ser_ling_serene@moe.edu.sg" target="">Ms Serene Ler</a><br>吕诗琳老师</td>
+<td><a href="mailto:li_ning@moe.edu.sg" target="">Mdm Li Ning</a><br>李宁老师</td>
+<td><a href="mailto:tan_hwee_hiang@moe.edu.sg" target="">Mrs Ng Kiok Soy</a><br>陈惠贤老师</td>
+<td><a href="mailto:oh_soo_hwee@moe.edu.sg" target="">Ms Oh Soo Hwee</a><br>胡素慧老师</td>
+<td><a href="mailto:lee_yen_ching_jenny@moe.edu.sg" target="">Mdm Jenny Lee</a><br>李苑菁老师</td>
 </tr>
 <tr>
-<td><a href="mailto:ong_sok_chin@moe.edu.sg" target="">Mrs Ong Sok Chin</a><br />&nbsp;谢淑贞老师</td>
-<td><a href="mailto:peh_bee_leng@moe.edu.sg" target="">Mdm Peh Bee Leng</a><br />&nbsp;白美玲老师</td>
-<td><a href="mailto:siow_chian@moe.edu.sg" target="">Mdm Rachel Siow</a>&nbsp;<br />曹健老师</td>
-<td><a href="mailto:sim_suat_lee@moe.edu.sg" target="">Mdm Sim Suat Lee</a><br />沈雪莉老师</td>
-<td><a href="mailto:yeo_chun_hui@moe.edu.sg" target="">Ms Yeo Chun Hui</a><br />&nbsp;杨纯卉老师</td>
-<td><a href="mailto:heng_meow_ern@moe.edu.sg" target="">Ms Heng Meow Ern</a><br />王妙恩老师</td>
+<td><a href="mailto:ong_sok_chin@moe.edu.sg" target="">Mrs Ong Sok Chin</a><br>&nbsp;谢淑贞老师</td>
+<td><a href="mailto:peh_bee_leng@moe.edu.sg" target="">Mdm Peh Bee Leng</a><br>&nbsp;白美玲老师</td>
+<td><a href="mailto:siow_chian@moe.edu.sg" target="">Mdm Rachel Siow</a>&nbsp;<br>曹健老师</td>
+<td><a href="mailto:sim_suat_lee@moe.edu.sg" target="">Mdm Sim Suat Lee</a><br>沈雪莉老师</td>
+<td><a href="mailto:yeo_chun_hui@moe.edu.sg" target="">Ms Yeo Chun Hui</a><br>&nbsp;杨纯卉老师</td>
+<td><a href="mailto:heng_meow_ern@moe.edu.sg" target="">Ms Heng Meow Ern</a><br>王妙恩老师</td>
 </tr>
 <tr>
-<td><a href="mailto:yang_wenxia@moe.edu.sg" target="">Mdm Yang Wenxia</a><br />杨文侠老师</td>
-<td><a href="mailto:pang_woei_ru@moe.edu.sg" target="">Mdm Pang Woei Ru</a><br/>彭伟如</td>
-	<td><a href="mailto:jasmine_yap_see_puay_a@moe.edu.sg" target="">Ms Jasmine Yap</a><br/> 叶诗蓓</td>
-<td><a href="mailto:yong_ann_chie@moe.edu.sg" target="">Ms Yong Ann Chie</a><br/>杨安琦</td>
+<td><a href="mailto:yang_wenxia@moe.edu.sg" target="">Mdm Yang Wenxia</a><br>杨文侠老师</td>
+<td><a href="mailto:pang_woei_ru@moe.edu.sg" target="">Mdm Pang Woei Ru</a><br>彭伟如</td>
+	<td><a href="mailto:jasmine_yap_see_puay_a@moe.edu.sg" target="">Ms Jasmine Yap</a><br>&nbsp;叶诗蓓</td>
+<td><a href="mailto:yong_ann_chie@moe.edu.sg" target="">Ms Yong Ann Chie</a><br>杨安琦</td>
 </tr>
 <tr>
 <td><a href="mailto:hanizah_abu_samah@moe.edu.sg" target="">Mdm Hanizah</a></td>
@@ -734,11 +734,11 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td><strong>P1 ML</strong></td>
-<td colspan=8>Mdm Fadilah</td>
+<td colspan="8">Mdm Hanizah</td>
 </tr>
 <tr>
 <td><strong>P1 TL</strong></td>
-<td colspan=8>Ms A Sumathi</td>
+<td colspan="8">Ms A Sumathi</td>
 </tr>
 	</tbody>
 </table>
@@ -766,11 +766,11 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td><strong>P2 ML</strong></td>
-<td colspan=7>Mdm Hanizah</td>
+<td colspan="7">Mdm Fadilah</td>
 </tr>
 <tr>
 <td><strong>P2 TL</strong></td>
-<td colspan=7>Mrs Jabar</td>
+<td colspan="7">Mrs Jabar</td>
 </tr>
 	</tbody>
 </table>
@@ -795,24 +795,24 @@ third_nav_title: Our People
 <td>Mdm Rachel Siow</td>
 </tr>
 <tr>
-<td colspan=2><strong>P3 ML</strong></td>
-<td colspan=5>Mdm Illiany</td>
+<td colspan="2"><strong>P3 ML</strong></td>
+<td colspan="5">Mdm Illiany</td>
 </tr>
 <tr>
-<td colspan=2><strong>P3 TL</strong></td>
-<td colspan=5>Mrs T Yuvaraj</td>
+<td colspan="2"><strong>P3 TL</strong></td>
+<td colspan="5">Mrs T Yuvaraj</td>
 </tr>
 <tr>
-<td colspan=2><strong>P3 HCL</strong></td>
-<td colspan=5>Ms Serene Ler / Mdm Peh Bee Leng</td>
+<td colspan="2"><strong>P3 HCL</strong></td>
+<td colspan="5">Ms Serene Ler / Mdm Peh Bee Leng</td>
 </tr>
 	<tr>
-<td colspan=2><strong>P3 HML</strong></td>
-<td colspan=5>Mdm Fadilah</td>
+<td colspan="2"><strong>P3 HML</strong></td>
+<td colspan="5">Mdm Fadilah</td>
 </tr>
 <tr>
-	<td colspan=2><strong>P3 HTL</strong></td>
-<td Colspan=5>Ms A Sumathi</td>
+	<td colspan="2"><strong>P3 HTL</strong></td>
+<td colspan="5">Ms A Sumathi</td>
 </tr>
 	</tbody>
 </table>
@@ -837,12 +837,12 @@ third_nav_title: Our People
 <td>Mdm Sim Suat Lee</td>
 </tr>
 <tr>
-<td colspan=2><strong>P4 ML & HML</strong></td>
-<td colspan=5>Ms Illiany</td>
+<td colspan="2"><strong>P4 ML &amp; HML</strong></td>
+<td colspan="5">Ms Illiany</td>
 </tr>
 <tr>
-<td colspan=2><strong>P4 TL & HTL</strong></td>
-<td colspan=5>Mrs Yuvaraj</td>
+<td colspan="2"><strong>P4 TL &amp; HTL</strong></td>
+<td colspan="5">Mrs Yuvaraj</td>
 </tr>
 </tbody>
 </table>
@@ -867,16 +867,16 @@ third_nav_title: Our People
 <td>Mdm Lai Meiyu</td>
 </tr>
 <tr>
-<td colspan=2><strong>P5 ML</strong></td>
-<td colspan=5>Mdm Fadilah</td>
+<td colspan="2"><strong>P5 ML</strong></td>
+<td colspan="5">Mdm Hanizah</td>
 </tr>
 <tr>
-<td colspan=2><strong>P5 TL</strong></td>
-<td colspan=5>Ms A Sumathi</td>
+<td colspan="2"><strong>P5 TL</strong></td>
+<td colspan="5">Ms A Sumathi</td>
 </tr>
 <tr>
-<td colspan=2><strong>P5 FCL</strong></td>
-<td colspan=5>Ms Yong Ann Chie</td>
+<td colspan="2"><strong>P5 FCL</strong></td>
+<td colspan="5">Ms Yong Ann Chie</td>
 </tr>
 </tbody>
 </table>
@@ -902,24 +902,24 @@ third_nav_title: Our People
 <td>Mdm Peh Bee Leng</td>
 </tr>
 <tr>
-<td colspan=2><strong>P6 ML</strong></td>
-<td colspan=5>Mdm Hanizah</td>
+<td colspan="2"><strong>P6 ML</strong></td>
+<td colspan="5">Mdm Fadilah</td>
 </tr>
 <tr>
-<td colspan=2><strong>P6 TL</strong></td>
-<td colspan=5>Mrs Jabar</td>
+<td colspan="2"><strong>P6 TL</strong></td>
+<td colspan="5">Mrs Jabar</td>
 </tr>
 <tr>
-<td colspan=2><strong>P6 FCL</strong></td>
-<td colspan=5>Mdm Jenny Lee</td>
+<td colspan="2"><strong>P6 FCL</strong></td>
+<td colspan="5">Mdm Jenny Lee</td>
 </tr>
 <tr>
-<td colspan=2><strong>&nbsp;P6 FTL</strong></td>
-<td colspan=5>Mrs Yuvaraj</td>
+<td colspan="2"><strong>&nbsp;P6 FTL</strong></td>
+<td colspan="5">Mrs Yuvaraj</td>
 </tr>
 	<tr>
-<td colspan=2><strong>P6 HML</strong></td>
-<td colspan=5>Mdm Illiany</td>
+<td colspan="2"><strong>P6 HML</strong></td>
+<td colspan="5">Mdm Illiany</td>
 </tr>
 </tbody>
 </table>
