@@ -9,7 +9,7 @@ sections:
   - hero:
       key_highlights:
         - title: Announcements
-          description: Register for our eOpen House!
+          description: Register for our eOpen House here!
           url: /announcements
         - title: Success Stories
           description: Achievements by Pupils & Staff
