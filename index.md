@@ -4,7 +4,7 @@ title: CHIJ Our Lady of the Nativity
 description: Brief site description here
 image: /images/logo.jpg
 permalink: /
-notification: Register for our eOpen House on 29 May 2023
+notification: Register for our eOpen House happening on 29 May 2023!
 sections:
   - hero:
       key_highlights:
