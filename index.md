@@ -13,7 +13,7 @@ sections:
           url: /announcements
         - title: Success Stories
           description: Achievements by Pupils & Staff
-          url: /success-stories/students/2022/
+          url: /success-stories/students/2023sss/
         - title: Social Media
           description: FB, Instagram, OLNConnect
           url: /SocialMedia/

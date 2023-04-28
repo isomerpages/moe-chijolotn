@@ -21,6 +21,30 @@ third_nav_title: Communications
 </tr>
 <tr>
 <td>P6</td>
+<td><a href="/files/PGLetters/2023oln_0234 - p6 parents_online teaching videos (2).pdf" rel="noopener">2023OLN_0234</a></td>
+<td>Teaching Package on use of Mathematics Heuristics - P6</td>
+<td>28 Apr</td>
+</tr>
+<tr>
+<td>P5</td>
+<td><a href="/files/PGLetters/2023oln_0233 - p5 parents_online teaching videos (2).pdf" rel="noopener">2023OLN_0233</a></td>
+<td>Teaching Package on use of Mathematics Heuristics - P5</td>
+<td>28 Apr</td>
+</tr>
+<tr>
+<td>P4</td>
+<td><a href="/files/PGLetters/2023oln_0232 - p4 parents_online teaching videos (4).pdf" rel="noopener">2023OLN_0232</a></td>
+<td>Teaching Package on use of Mathematics Heuristics - P4</td>
+<td>28 Apr</td>
+</tr>
+	<tr>
+<td>P3</td>
+<td><a href="/files/PGLetters/2023oln_0231 - p3 parents_online teaching videos (6).pdf" rel="noopener">2023OLN_0231</a></td>
+<td>Teaching Package on use of Mathematics Heuristics - P3</td>
+<td>28 Apr</td>
+</tr>
+<tr>
+<td>P6</td>
 <td><a href="/files/PGLetters/2023oln_0177 - term 2 p6 assessment letter for parents 2023.pdf" rel="noopener">2023OLN_0177</a></td>
 <td>P6 Standard &amp; Foundation Term 2 Conditioning Exercise</td>
 <td>31 Mar</td>
