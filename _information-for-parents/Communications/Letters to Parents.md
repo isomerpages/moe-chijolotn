@@ -19,6 +19,12 @@ third_nav_title: Communications
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 </tr>
+	<tr>
+<td>P3</td>
+<td><a href="/files/PGLetters/2023oln_0231 - p3 parents_online teaching videos (6).pdf" rel="noopener">2023OLN_0231</a></td>
+<td>Teaching Package on use of Mathematics Heuristics - P3</td>
+<td>28 Apr</td>
+</tr>
 <tr>
 <td>P6</td>
 <td><a href="/files/PGLetters/2023oln_0177 - term 2 p6 assessment letter for parents 2023.pdf" rel="noopener">2023OLN_0177</a></td>
