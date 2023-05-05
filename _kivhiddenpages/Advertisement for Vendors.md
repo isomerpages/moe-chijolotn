@@ -24,15 +24,6 @@ description: ""
 
 3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
 
-* Address: 1257 Upper Serangoon Road Singapore 534793
-* Contact No: 6385 2455
-* Email: wong_sin_cheong@moe.edu.sg
-* Contact Person: Mr Wong (Operations Manager) 
-
-**How to get there?**
-* Nearest MRT: Hougang MRT MRT
-* Bus number: 74, 102, 112, 113, 119, 136, 147, 324, 672
-
 **Interest applicants must meet the following criteria:**
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
 * Able to provide good service and quality food with prices determined in consultation with the school.
@@ -66,12 +57,14 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 2. Submit the completed Call for Proposal – Annex A by closing date, 10 May 2023 , to the School’s General Office.
 
-* Address: xxxx S737777
-* Contact No: 6666 4444 
-* Email: abc_ps@moe.edu.sg
-* Contact Person: Mdm Sally Tan
+<hr>
 
+#### School Address
+* Address: 1257 Upper Serangoon Road Singapore 534793
+* Contact No: 6385 2455
+* Email: wong_sin_cheong@moe.edu.sg
+* Contact Person: Mr Wong (Operations Manager) 
 
 **How to get there?**
-* Nearest MRT: Admiralty MRT (NS10 line) – 10 minutes walking distance
-* Bus number: 900 - 3 minutes walking distance
+* Nearest MRT: Hougang MRT MRT
+* Bus number: 74, 102, 112, 113, 119, 136, 147, 324, 672
