@@ -22,8 +22,8 @@ third_nav_title: Communications
 <tr>
 <td>All</td>
 <td><a href="/files/PGLetters/2023oln_0263 - advisory to parents regarding heat wave.pdf" rel="noopener">2023OLN_0263</a></td>
-<td>Teaching Package on use of Mathematics Heuristics - P6</td>
-<td>28 Apr</td>
+<td>Advisory on Interim Measures during Hot &amp; Humid Weather Conditions</td>
+<td>15 May</td>
 </tr>
 <tr>
 <td>P6</td>
