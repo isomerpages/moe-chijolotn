@@ -64,6 +64,66 @@ description: ""
 </tr>
 </tbody>
 </table>
+
+<h4><strong>Semester 2 Supplementary Lessons (P6, 2PM - 3PM)</strong></h4>
+<table class="iveo_table ives_tab_simple2 ive_eobj_center">
+<tbody>
+<tr>
+<th style="text-align: center;">Mondays</th>
+<th style="text-align: center;">Tuesdays</th>
+<th style="text-align: center;">Thursdays</th>
+<th style="text-align: center;">Fridays</th>
+</tr>
+<tr>
+<td style="text-align: center;">26 Jun</td>
+<td style="text-align: center;">27 Jun</td>
+<td style="text-align: center;">6 Jul</td>
+<td style="text-align: center;">30 Jun</td>
+</tr>
+<tr>
+<td style="text-align: center;">31 Jul</td>
+<td style="text-align: center;">28 Mar</td>
+<td style="text-align: center;">30 Mar</td>
+<td style="text-align: center;">31 Mar</td>
+</tr>
+<tr>
+<td style="text-align: center;">3 Apr</td>
+<td style="text-align: center;">4 Apr</td>
+<td style="text-align: center;">6 Apr</td>
+<td style="text-align: center;"> - </td>
+</tr>
+<tr>
+<td style="text-align: center;">10 Apr</td>
+<td style="text-align: center;">11 Apr</td>
+<td style="text-align: center;">13 Apr</td>
+<td style="text-align: center;">14 Apr</td>
+</tr>
+<tr>
+<td style="text-align: center;">17 Apr</td>
+<td style="text-align: center;">18 Apr</td>
+<td style="text-align: center;">20 Apr</td>
+<td style="text-align: center;">21 Apr </td>
+</tr>
+<tr>
+<td style="text-align: center;"> - </td>
+<td style="text-align: center;">25 Apr</td>
+<td style="text-align: center;"> - </td>
+<td style="text-align: center;"> - </td>
+</tr>
+<tr>
+<td style="text-align: center;"> - </td>
+<td style="text-align: center;">2 May</td>
+<td style="text-align: center;">4 May </td>
+<td style="text-align: center;">5 May</td>
+</tr>
+	<tr>
+<td style="text-align: center;">15 May</td>
+<td style="text-align: center;">16 May</td>
+<td style="text-align: center;">18 May</td>
+<td style="text-align: center;">19 May</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Days of Supplementary Lessons in Term 2 (P6)</strong></h4>
 <table>
 <tbody>
