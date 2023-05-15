@@ -125,7 +125,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4><strong>Dates & timing of P6 Supplementary Lessons during the June holidays 2023</strong></h4>
+<h4><strong>Dates &amp; timing of P6 Supplementary Lessons during the June &amp; September holidays 2023</strong></h4>
 <table>
 <tbody>
 <tr>
@@ -138,6 +138,12 @@ description: ""
 <td>19 to 21 June 2023</td>
 <td>7.45 am to 12.15 pm<br>
 8.45 am to 12.15 pm (For pupils exempted from MTL)</td>
+</tr>
+	<tr>
+<td>September Holidays</td>
+<td>4 &amp; 5 September 2023</td>
+<td>7.45 am to 12.15 pm<br>
+7.45 am to 11.15 pm (For pupils exempted from MTL)</td>
 </tr>
 </tbody>
 </table>
@@ -205,7 +211,7 @@ description: ""
 <table>
 <tbody>
 <tr>
-<th>Subjects /<br />Levels</th>
+<th>Subjects /<br>Levels</th>
 <th>EL</th>
 <th>Maths</th>
 <th>Science</th>
@@ -246,7 +252,7 @@ description: ""
 <table>
 <tbody>
 <tr>
-<th>Subjects /<br />Levels</th>
+<th>Subjects /<br>Levels</th>
 <th>HMTL</th>
 <th>SDR</th>
 <th>RRP</th>
