@@ -124,7 +124,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4><strong>Days of Supplementary Lessons in Term 2 (P6)</strong></h4>
+<h4><strong>Days of Supplementary Lessons (P6)</strong></h4>
 <table>
 <tbody>
 <tr>
