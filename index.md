@@ -17,5 +17,5 @@ sections:
         - title: Social Media
           description: FB, Instagram, OLNConnect
           url: /SocialMedia/
-      background: /images/Banner and Logo/WEBSITE BANNER 202301.jpg
+      background: /images/Banner and Logo/herobanner_may2023_nt.gif
 ---
