@@ -4,6 +4,23 @@ permalink: /school-information/general-information/bus-and-canteen-advertisement
 description: ""
 third_nav_title: General Information
 ---
+#### School Bus Advertisement
+
+To apply, please refer to the Service Requirements and the Application Procedure below.
+
+**Service Requirements**
+1.	[Call for Proposal] 
+ 
+2.	[Agreement for Appointment of School Bus Operator] 
+
+**Application Procedure**
+
+1. Complete the [Call for Proposal - Annex A] 
+
+2. Submit the completed Call for Proposal – Annex A by closing date, XX XXXX 2023 , to the School’s General Office.
+
+<hr>
+
 #### School Canteen Advertisement
 
 | Type of Stall | Closing Date | Requirements |
@@ -38,23 +55,6 @@ third_nav_title: General Information
 
 
 *Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
-
-<hr>
-
-#### School Bus Advertisement
-
-To apply, please refer to the Service Requirements and the Application Procedure below.
-
-**Service Requirements**
-1.	[Call for Proposal] 
- 
-2.	[Agreement for Appointment of School Bus Operator] 
-
-**Application Procedure**
-
-1. Complete the [Call for Proposal - Annex A] 
-
-2. Submit the completed Call for Proposal – Annex A by closing date, XX XXXX 2023 , to the School’s General Office.
 
 <hr>
 
