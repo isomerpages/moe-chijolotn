@@ -6,7 +6,7 @@ description: ""
 <img style="width: 80%;" src="/images/2023 eopen house.png">
 <p><strong>Here are the links to the informative videos that were mentioned during the eOpen House Q &amp; A session:</strong></p>
 <ul>
-<li><a href="https://youtu.be/UJx1LQuopvk" target="_blank" rel="noopener">Facilities at CHIJ OLN</a></li>
+<li>Facilities at CHIJ OLN</li>
 <li><a href="https://youtu.be/wJmcTg9uvNQ" target="_blank" rel="noopener">Catholic Education at CHIJ OLN</a></li>
 <li><a href="https://youtu.be/P40I7_aVku0" target="_blank" rel="noopener">Teaching and Learning at CHIJ OLN</a></li>
 <li><a href="https://youtu.be/0qMnSgG6Db0" target="_blank" rel="noopener">Lower Primary Math: Going Beyond Marks</a></li>
