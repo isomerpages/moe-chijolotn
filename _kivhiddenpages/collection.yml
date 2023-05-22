@@ -2,7 +2,6 @@ collections:
   kivhiddenpages:
     output: true
     order:
-      - Bus and Canteen Advertisement.md
       - P1 Registration Exercise.md
       - PSLE Info Backup 032023.md
       - P1–eOrientation.md
