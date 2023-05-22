@@ -2,7 +2,6 @@ collections:
   school-information:
     output: true
     order:
-      - Bus and Canteen Advertisement.md
       - Principal's Message.md
       - Vision, Mission, Core Values.md
       - School Crest.md
