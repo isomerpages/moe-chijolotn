@@ -34,7 +34,7 @@ description: ""
 **Application Procedure**
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
-* [Application Form](/Files/Ops/appexistingsch.pdf)
+* [Application Form](/files/ops/appexistingsch.pdf)
 * <a href="/files/ops/appexistingsch.pdf" rel="noopener">Application Form</a>
 
 2. Attached the following documents together with the application form:
