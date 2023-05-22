@@ -3,8 +3,7 @@ title: P1 Registration Exercise
 permalink: /information-for-parents/p1-registration-exercise/
 description: ""
 ---
-
-<img style="width: 80%;" src="/images/p1r.jpg" />
+<img style="width: 80%;" src="/images/2023 eopen house.png">
 <p><strong>Here are the links to the informative videos that were mentioned during the eOpen House Q &amp; A session:</strong></p>
 <ul>
 <li><a href="https://youtu.be/UJx1LQuopvk" target="_blank" rel="noopener">Facilities at CHIJ OLN</a></li>
