@@ -5,7 +5,11 @@ description: ""
 ---
 #### School Bus Advertisement
 
-To apply, please refer to the Service Requirements and the Application Procedure below.
+
+###### <span style="color:red">Application is currently close.</span>
+<hr>
+
+**To apply, please refer to the Service Requirements and the Application Procedure below.**
 
 **Service Requirements**
 1.	[Call for Proposal] 
@@ -16,7 +20,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 1. Complete the [Call for Proposal - Annex A] 
 
-2. Submit the completed Call for Proposal – Annex A by closing date, XX XXXX 2023 , to the School’s General Office.
+2. Submit the completed Call for Proposal – Annex A by closing date, to the School’s General Office.
 
 <hr>
 
@@ -24,7 +28,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| No Vacancy    | - | - |
+| <span style="color:red">No Vacancy</span>    | - | - |
 
 
 **Application Procedure**
