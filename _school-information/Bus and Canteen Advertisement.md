@@ -6,7 +6,7 @@ description: ""
 #### School Bus Advertisement
 
 
-###### <span style="color:red">Application is currently close.</span>
+##### <span style="color:red">Application is currently closed.</span>
 <hr>
 
 **To apply, please refer to the Service Requirements and the Application Procedure below.**
