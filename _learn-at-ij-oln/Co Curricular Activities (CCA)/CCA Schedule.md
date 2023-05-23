@@ -18,7 +18,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <li><a href="/files/2023CCASchedules/T3/T2 - Netball Developmental Team.pdf" target="_blank" rel="noopener">Development Team</a></li>
 </ul>
 <p><a href="/files/2023CCASchedules/T3/T2 - P3, P4 &amp; P5 Floorball_r1.pdf" target="_blank" rel="noopener">P3, P4 &amp; P5 Floorball</a><br><br>
-	<a href="/files/T3/2023OLN_0270A - CCA Schedule 2023 T3 - Bowling.pdf" target="_blank" rel="noopener">Bowling</a><br><br>
+	<a href="/files/2023CCASchedules/T3/2023OLN_0270A - CCA Schedule 2023 T3 - Bowling.pdf" target="_blank" rel="noopener">Bowling</a><br><br>
 	<a href="/files/2023CCASchedules/T3/T2 - Table Tennis_r1.pdf" target="_blank" rel="noopener">P3, P4 &amp;  P5 Table Tennis</a></p>
 </td>
 <td>
