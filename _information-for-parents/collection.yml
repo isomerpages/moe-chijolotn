@@ -2,7 +2,6 @@ collections:
   information-for-parents:
     output: true
     order:
-      - P1 Registration Exercise.md
       - School Calendar.md
       - Code of Conduct for Parents.md
       - Communications/.keep
@@ -14,7 +13,8 @@ collections:
       - Messaging System/Tok Tok.md
       - Parent Support Group.md
       - Subject–Based Banding.md
-      - Updates on COVID–19.md
-      - Frequently Asked Questions.md
+      - P1 Registration Exercise.md
       - PSLE and S1 Sch Selection.md
+      - Frequently Asked Questions.md
       - Canteen Food List.md
+      - Updates on COVID–19.md
