@@ -27,7 +27,7 @@ third_nav_title: Co Curricular Activities (CCA)
 	<a href="/files/2023CCASchedules/T3/2023oln_0270d - cca schedule 2023 t3 - choir.pdf" target="_blank" rel="noopener">Choir</a></p>
 <p>Dance Inc</p>
 <ul>
-<li><a href="/files/2023CCASchedules/T3/T2 - Dance Inc 1.pdf" target="_blank" rel="noopener">International 1</a></li>
+<li><a href="/files/2023CCASchedules/T3/2023oln_0270f - cca schedule 2023 t3 - dance inc 1.pdf" target="_blank" rel="noopener">International 1</a></li>
 <li><a href="/files/2023CCASchedules/T3/T2 - Dance Inc 2.pdf" target="_blank" rel="noopener">International 2</a></li>
 <li><a href="/files/2023CCASchedules/T3/T2 - Dance Inc 3.pdf" target="_blank" rel="noopener">Chinese</a></li>
 <li><a href="/files/2023CCASchedules/T3/T2 - Dance Inc 4.pdf" target="_blank" rel="noopener">Malay</a></li>
