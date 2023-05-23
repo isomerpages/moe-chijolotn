@@ -4,7 +4,7 @@ permalink: /information-for-parents/p1-registration-exercise/
 description: ""
 ---
 <img style="width: 80%;" src="/images/2023 eopen house.png">
-<p><strong>Here are the links to the informative videos that were mentioned during the eOpen House Q &amp; A session:</strong></p>
+<p><strong>Here are the links to the informative videos about our school:</strong></p>
 <ul>
 <li><a href="https://www.youtube.com/watch?v=krgjCCsAVmk" target="_blank" rel="noopener">Facilities at CHIJ OLN</a></li>
 <li><a href="https://youtu.be/wJmcTg9uvNQ" target="_blank" rel="noopener">Catholic Education at CHIJ OLN</a></li>
