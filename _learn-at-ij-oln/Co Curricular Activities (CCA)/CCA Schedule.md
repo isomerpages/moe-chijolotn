@@ -31,7 +31,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <ul>
 <li><a href="/files/2023CCASchedules/T3/2023oln_0270f - cca schedule 2023 t3 - dance inc 1.pdf" target="_blank" rel="noopener">International 1</a></li>
 <li><a href="/files/2023CCASchedules/T3/2023oln_0270g - cca schedule 2023 t3 - dance inc 2.pdf" target="_blank" rel="noopener">International 2</a></li>
-<li><a href="/files/2023CCASchedules/T3/T2023oln_0270h - cca schedule 2023 t3 - dance inc 3.pdf" target="_blank" rel="noopener">Chinese</a></li>
+<li><a href="/files/2023CCASchedules/T3/2023oln_0270h - cca schedule 2023 t3 - dance inc 3.pdf" target="_blank" rel="noopener">Chinese</a></li>
 <li><a href="/files/2023CCASchedules/T3/2023oln_0270i - cca schedule 2023 t3 - dance inc 4.pdf" target="_blank" rel="noopener">Malay</a></li>
 </ul>
 <p><strong><u>Uniform Group<br></u></strong><a href="/files/2023CCASchedules/T3/2023oln_0270c - cca schedule 2023 t3 - brownies (2).pdf" target="_blank" rel="noopener">Brownies</a></p>
