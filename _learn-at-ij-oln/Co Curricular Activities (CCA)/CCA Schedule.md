@@ -23,8 +23,8 @@ third_nav_title: Co Curricular Activities (CCA)
 </td>
 <td>
 <p><strong><u>Visual &amp;Performing Arts<br></u></strong><a href="/files/2023CCASchedules/T3/T2 - Creative Crew_r1.pdf" target="_blank" rel="noopener">Creative Crew</a><br>
-	<a href="/files/2023CCASchedules/T3/T2 - Brass Band_r1.pdf" target="_blank" rel="noopener">Brass Band</a><br>
-	<a href="/files/2023CCASchedules/T3/T2 - Choir.pdf" target="_blank" rel="noopener">Choir</a></p>
+	<a href="/files/2023CCASchedules/T3/2023oln_0270b - cca schedule 2023 t3 - brass band.pdf" target="_blank" rel="noopener">Brass Band</a><br>
+	<a href="/files/2023CCASchedules/T3/2023oln_0270d - cca schedule 2023 t3 - choir.pdf" target="_blank" rel="noopener">Choir</a></p>
 <p>Dance Inc</p>
 <ul>
 <li><a href="/files/2023CCASchedules/T3/T2 - Dance Inc 1.pdf" target="_blank" rel="noopener">International 1</a></li>
@@ -32,7 +32,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <li><a href="/files/2023CCASchedules/T3/T2 - Dance Inc 3.pdf" target="_blank" rel="noopener">Chinese</a></li>
 <li><a href="/files/2023CCASchedules/T3/T2 - Dance Inc 4.pdf" target="_blank" rel="noopener">Malay</a></li>
 </ul>
-<p><strong><u>Uniform Group<br></u></strong><a href="/files/2023CCASchedules/T3/T2 - Brownies_r1.pdf" target="_blank" rel="noopener">Brownies</a></p>
+<p><strong><u>Uniform Group<br></u></strong><a href="/files/2023CCASchedules/T3/2023oln_0270c - cca schedule 2023 t3 - brownies (2).pdf" target="_blank" rel="noopener">Brownies</a></p>
 </td>
 </tr>
 </tbody>
