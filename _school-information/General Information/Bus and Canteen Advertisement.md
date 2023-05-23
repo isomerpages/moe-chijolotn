@@ -2,10 +2,15 @@
 title: Bus and Canteen Advertisement
 permalink: /school-information/general-information/bus-and-canteen-advertisement/
 description: ""
+third_nav_title: General Information
 ---
 #### School Bus Advertisement
 
-To apply, please refer to the Service Requirements and the Application Procedure below.
+
+##### <span style="color:red">Application is currently closed.</span>
+<hr>
+
+**To apply, please refer to the Service Requirements and the Application Procedure below.**
 
 **Service Requirements**
 1.	[Call for Proposal] 
@@ -16,7 +21,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 1. Complete the [Call for Proposal - Annex A] 
 
-2. Submit the completed Call for Proposal – Annex A by closing date, XX XXXX 2023 , to the School’s General Office.
+2. Submit the completed Call for Proposal – Annex A by closing date, to the School’s General Office.
 
 <hr>
 
@@ -24,14 +29,13 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| No Vacancy    | - | - |
+| <span style="color:red">No Vacancy</span>    | - | - |
 
 
 **Application Procedure**
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
-* [Application Form] 
-
+* [Application Form](/files/Ops/appexistingsch.pdf)
 2. Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
 * List of proposed menu and pricing for all items
