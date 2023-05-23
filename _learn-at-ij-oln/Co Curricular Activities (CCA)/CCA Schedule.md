@@ -22,7 +22,7 @@ third_nav_title: Co Curricular Activities (CCA)
 	<a href="/files/2023CCASchedules/T3/T2 - Table Tennis_r1.pdf" target="_blank" rel="noopener">P3, P4 &amp;  P5 Table Tennis</a></p>
 </td>
 <td>
-<p><strong><u>Visual &amp;Performing Arts<br></u></strong><a href="/files/2023CCASchedules/T3/T2 - Creative Crew_r1.pdf" target="_blank" rel="noopener">Creative Crew</a><br>
+<p><strong><u>Visual &amp;Performing Arts<br></u></strong><a href="/files/2023CCASchedules/T3/2023oln_0270e - cca schedule 2023 t3 - creative crew.pdf" target="_blank" rel="noopener">Creative Crew</a><br>
 	<a href="/files/2023CCASchedules/T3/2023oln_0270b - cca schedule 2023 t3 - brass band.pdf" target="_blank" rel="noopener">Brass Band</a><br>
 	<a href="/files/2023CCASchedules/T3/2023oln_0270d - cca schedule 2023 t3 - choir.pdf" target="_blank" rel="noopener">Choir</a></p>
 <p>Dance Inc</p>
