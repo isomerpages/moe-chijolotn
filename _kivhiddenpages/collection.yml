@@ -2,7 +2,6 @@ collections:
   kivhiddenpages:
     output: true
     order:
-      - P1 Registration Exercise.md
       - PSLE Info Backup 032023.md
       - P1–eOrientation.md
       - Our Neighbourhood.md
