@@ -24,7 +24,9 @@ third_nav_title: Co Curricular Activities (CCA)
 <td>
 <p><strong><u>Visual &amp;Performing Arts<br></u></strong><a href="/files/2023CCASchedules/T3/2023oln_0270e - cca schedule 2023 t3 - creative crew.pdf" target="_blank" rel="noopener">Creative Crew</a><br>
 	<a href="/files/2023CCASchedules/T3/2023oln_0270b - cca schedule 2023 t3 - brass band.pdf" target="_blank" rel="noopener">Brass Band</a><br>
-	<a href="/files/2023CCASchedules/T3/2023oln_0270d - cca schedule 2023 t3 - choir.pdf" target="_blank" rel="noopener">Choir</a></p>
+	<a href="/files/2023CCASchedules/T3/2023oln_0270d - cca schedule 2023 t3 - choir.pdf" target="_blank" rel="noopener">Choir</a><br><br>
+<a href="/files/2023CCASchedules/T3/2023oln_0270k - cca schedule 2023 t3 - infocomm media (2).pdf" target="_blank" rel="noopener">Infocomm Media</a>	
+</p>
 <p>Dance Inc</p>
 <ul>
 <li><a href="/files/2023CCASchedules/T3/2023oln_0270f - cca schedule 2023 t3 - dance inc 1.pdf" target="_blank" rel="noopener">International 1</a></li>
