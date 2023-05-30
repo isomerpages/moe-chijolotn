@@ -69,4 +69,4 @@ third_nav_title: General Information
 
 **How to get there?**
 * Nearest MRT: Hougang MRT MRT
-* Bus number: 74, 102, 112, 113, 119, 136, 147, 324, 672
+* Bus number: 74, 102, 112, 113, 119, 136, 147, 324
