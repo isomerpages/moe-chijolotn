@@ -756,7 +756,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td><strong>P2 CL</strong></td>
-<td>Ms Serene Ler</td>
+<td>Mdm Jenny Lee</td>
 <td>Mdm Hang Yun</td>
 <td>Ms Yeo Chun Hui</td>
 <td>Mrs Ong Sok Chin</td>
