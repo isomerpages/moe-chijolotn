@@ -788,7 +788,7 @@ third_nav_title: Our People
 <tr>
 <td><strong>P3 CL</strong></td>
 <td>Mdm Yang Wenxia</td>
-<td>Ms Serene Ler</td>
+<td>Mdm Heng Ai Ling</td>
 <td>Mdm Sim Suat Lee</td>
 <td>Mdm Peh Bee Leng</td>
 <td>Mrs Ong Sok Chin</td>
@@ -804,7 +804,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td colspan="2"><strong>P3 HCL</strong></td>
-<td colspan="5">Ms Serene Ler / Mdm Peh Bee Leng</td>
+<td colspan="5">Mdm Heng Ai Ling / Mdm Peh Bee Leng</td>
 </tr>
 	<tr>
 <td colspan="2"><strong>P3 HML</strong></td>
