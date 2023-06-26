@@ -16,7 +16,7 @@ third_nav_title: Communications
 <td><a href="/files/2023Connect/oln_connect_p006.pdf" rel="noopener">June</a></td>
 </tr>
 <tr>
-<td>July</td>
+	<td><a href="/files/2023Connect/oln_connect_p007.pdf" rel="noopener">July</a></td>
 <td>August</td>
 <td>September</td>
 <td>October</td>
