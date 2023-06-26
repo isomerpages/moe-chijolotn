@@ -298,11 +298,11 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td><strong>3 Peace</strong></td>
-<td><a href="mailto:toh_ai_di_eadelin@moe.edu.sg" target="">Mrs Eadelin Marzinek</a></td>
 <td><a href="mailto:siow_chian@moe.edu.sg" target="">Mdm Rachel Siow</a></td>
-<td><a href="mailto:toh_ai_di_eadelin@moe.edu.sg" target="">Mrs Eadelin Marzinek</a></td>
+<td><a href="mailto:low_sook_ching@moe.edu.sg" target="">Mdm Low Sook Ching</a></td>
+<td><a href="mailto:sky_frank@moe.edu.sg@moe.edu.sg" target="">Mrs Sky Frank</a></td>
 <td><a href="mailto:chew_yin_sy@moe.edu.sg" target="">Mrs Kwek Yin Sy</a></td>
-<td><a href="mailto:toh_ai_di_eadelin@moe.edu.sg" target="">Mrs Eadelin Marzinek</a></td>
+<td><a href="mailto:low_sook_ching@moe.edu.sg" target="">Mdm Low Sook Ching</a></td>
 <td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
 <td><a href="mailto:sum_qiu_mei_sharon@moe.edu.sg" target="">Mrs Sharon Lai</a></td>
 <td><a href="mailto:kenett_wong_tick_woon@moe.edu.sg" target="">Mr Kenett Wong</a></td>
@@ -345,7 +345,7 @@ third_nav_title: Our People
 <td><a href="mailto:poh_shi_ling_edna@moe.edu.sg" target="">Ms Edna Poh</a></td>
 <td><a href="mailto:voo_ke_rui@moe.edu.sg" target="">Mdm Joy Voo</a></td>
 <td><a href="mailto:voo_ke_rui@moe.edu.sg" target="">Mdm Joy Voo</a></td>
-<td><a href="mailto:tan_cheh_hia@moe.edu.sg" target="">Mrs Tan Cheh Hia</a></td>
+<td><a href="mailto:chan_weihan_jarryl@moe.edu.sg" target="">Mr Jarryl Chan</a></td>
 <td><a href="mailto:voo_ke_rui@moe.edu.sg" target="">Mdm Joy Voo</a></td>
 <td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
 <td><a href="mailto:sum_qiu_mei_sharon@moe.edu.sg" target="">Mrs Sharon Lai</a></td>
@@ -368,11 +368,11 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td><strong>4 Hope</strong></td>
-<td><a href="mailto:rabiah_begum_angullia_musa@moe.edu.sg" target="">Ms Rabiah</a></td>
-<td><a href="mailto:tan_shin_shin_helen@moe.edu.sg" target="">Ms Helen Tan</a></td>
-<td><a href="mailto:rabiah_begum_angullia_musa@moe.edu.sg" target="">Ms Rabiah</a></td>
+<td><a href="mailto:chan_weihan_jarryl@moe.edu.sg" target="">Mr Jarryl Chan</a></td>
+<td><a href="mailto:Yang_wenxia@moe.edu.sg" target="">Mdm Yang Wenxia </a></td>
+<td><a href="mailto:chan_weihan_jarryl@moe.edu.sg" target="">Mr Jarryl Chan</a></td>
 <td><a href="mailto:law_ee_peng@moe.edu.sg" target="">Ms Law Ee Peng</a></td>
-<td><a href="mailto:toh_ai_di_eadelin@moe.edu.sg" target="">Mrs Eadelin Marzinek</a></td>
+<td><a href="mailto:low_sook_ching@moe.edu.sg" target="">Mdm Low Sook Ching </a></td>
 <td><a href="mailto:tan_shin_shin_helen@moe.edu.sg" target="">Ms Helen Tan</a></td>
 <td><a href="mailto:lena_teo@moe.edu.sg" target="">Mrs Lena Teo</a></td>
 <td><a href="mailto:muhammad_nazri_subawi@moe.edu.sg" target="">Mr Muhammad Nazri</a></td>
@@ -418,7 +418,7 @@ third_nav_title: Our People
 <td><strong>4 Truth</strong></td>
 <td><a href="mailto:norlela_ahmad@moe.edu.sg" target="">Mdm Norlela</a></td>
 <td><a href="mailto:sim_suat_lee@moe.edu.sg" target="">Mdm Sim Suat Lee</a></td>
-<td><a href="mailto:rabiah_begum_angullia_musa@moe.edu.sg" target="">Ms Rabiah</a></td>
+<td><a href="mailto:sarina_md_ismail@moe.edu.sg" target="">Ms Sarina</a></td>
 <td><a href="mailto:tan_lee_lee@moe.edu.sg" target="">Ms Jaslyn Tan</a></td>
 <td><a href="mailto:norlela_ahmad@moe.edu.sg" target="">Mdm Norlela</a></td>
 <td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
@@ -756,7 +756,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td><strong>P2 CL</strong></td>
-<td>Ms Serene Ler</td>
+<td>Mdm Jenny Lee</td>
 <td>Mdm Hang Yun</td>
 <td>Ms Yeo Chun Hui</td>
 <td>Mrs Ong Sok Chin</td>
@@ -788,7 +788,7 @@ third_nav_title: Our People
 <tr>
 <td><strong>P3 CL</strong></td>
 <td>Mdm Yang Wenxia</td>
-<td>Ms Serene Ler</td>
+<td>Mdm Heng Ai Ling</td>
 <td>Mdm Sim Suat Lee</td>
 <td>Mdm Peh Bee Leng</td>
 <td>Mrs Ong Sok Chin</td>
@@ -804,7 +804,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td colspan="2"><strong>P3 HCL</strong></td>
-<td colspan="5">Ms Serene Ler / Mdm Peh Bee Leng</td>
+<td colspan="5">Mdm Heng Ai Ling / Mdm Peh Bee Leng</td>
 </tr>
 	<tr>
 <td colspan="2"><strong>P3 HML</strong></td>
