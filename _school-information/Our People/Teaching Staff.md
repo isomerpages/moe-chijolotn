@@ -418,7 +418,7 @@ third_nav_title: Our People
 <td><strong>4 Truth</strong></td>
 <td><a href="mailto:norlela_ahmad@moe.edu.sg" target="">Mdm Norlela</a></td>
 <td><a href="mailto:sim_suat_lee@moe.edu.sg" target="">Mdm Sim Suat Lee</a></td>
-<td><a href="mailto:rabiah_begum_angullia_musa@moe.edu.sg" target="">Ms Rabiah</a></td>
+<td><a href="mailto:sarina_md_ismail@moe.edu.sg" target="">Ms Sarina</a></td>
 <td><a href="mailto:tan_lee_lee@moe.edu.sg" target="">Ms Jaslyn Tan</a></td>
 <td><a href="mailto:norlela_ahmad@moe.edu.sg" target="">Mdm Norlela</a></td>
 <td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
