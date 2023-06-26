@@ -372,7 +372,7 @@ third_nav_title: Our People
 <td><a href="mailto:Yang_wenxia@moe.edu.sg" target="">Mdm Yang Wenxia </a></td>
 <td><a href="mailto:chan_weihan_jarryl@moe.edu.sg" target="">Mr Jarryl Chan</a></td>
 <td><a href="mailto:law_ee_peng@moe.edu.sg" target="">Ms Law Ee Peng</a></td>
-<td><a href="mailto:toh_ai_di_eadelin@moe.edu.sg" target="">Mrs Eadelin Marzinek</a></td>
+<td><a href="mailto:low_sook_ching@moe.edu.sg" target="">Mdm Low Sook Ching </a></td>
 <td><a href="mailto:tan_shin_shin_helen@moe.edu.sg" target="">Ms Helen Tan</a></td>
 <td><a href="mailto:lena_teo@moe.edu.sg" target="">Mrs Lena Teo</a></td>
 <td><a href="mailto:muhammad_nazri_subawi@moe.edu.sg" target="">Mr Muhammad Nazri</a></td>
