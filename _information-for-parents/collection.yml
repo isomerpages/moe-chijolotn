@@ -2,8 +2,8 @@ collections:
   information-for-parents:
     output: true
     order:
-      - Service Providers.md
       - School Calendar.md
+      - Service Providers.md
       - Code of Conduct for Parents.md
       - Communications/.keep
       - Communications/Letters to Parents.md
