@@ -2,7 +2,7 @@ collections:
   kivhiddenpages:
     output: true
     order:
-      - Old Admin Fin Info Backup.md
+      - Old Admin Fin Info Backup 20230626.md
       - PSLE Info Backup 032023.md
       - P1–eOrientation.md
       - Our Neighbourhood.md
