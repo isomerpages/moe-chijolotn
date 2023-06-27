@@ -2,6 +2,7 @@ collections:
   school-information:
     output: true
     order:
+      - Rules and Regulations.md
       - School Hours.md
       - Principal's Message.md
       - Vision, Mission, Core Values.md
