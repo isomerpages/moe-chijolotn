@@ -13,17 +13,17 @@ description: ""
 <p><strong>Promotion of Freedom<br></strong>It is the 'freeing of oneself' from self-interest, from selfishness, from captive addiction to the shallow and inconsequential - so as to be free to make discerning choices and to reach out in sincerity and honesty to others. It is the cultivation of a personal disposition which will 'free oneself' to be of genuine service in the development and growth of others, particularly the less and more vulnerable.</p>
 <p><strong>Love<br></strong>It is the all-embracing virtue which binds and integrates everything - the ultimate glue! It is the underlying inspiration that prompts students and the school community to rise above themselves and to reach out in compassion to the wider community.<br>St Paul - "Love is patient. Love is kind. Love is not jealous, it does not put on airs. Love is never rude, it is not self-seeking, it is not prone to anger, neither does it brood over injuries. Love does not rejoice in what is wrong, but rejoices with the truth. There is no limit to Love's forbearance, to its trust, its hope, its power to endure. Love never fails".<br>{St Paul's Letter to the Corinthians 13:4-8}</p>
 <p><strong>With special reference to the needs of persons who are disadvantaged in anyway<br></strong>This requires a sensitive alertness to identify students who are not coping with school life and to offer or seek out the assistance that will help each better handle the situations which burden them. The sensitive helping disposition is not meant to be restricted to the school situation but to be extended to the wider community, whenever one encounters the weak or the burdened.</p>
-<p>
-</p><h4><strong>School Vision</strong></h4>
-Girls of Today for Tomorrow<p></p>
 
-<p></p><h4><strong>School Values</strong></h4>
-	<b style="color:blue;">G</b> Graciousness<br>
+<h4><strong>School Vision</strong></h4>
+<p>Girls of Today for Tomorrow</p><p></p>
+
+<h4><strong>School Values</strong></h4>
+	<p><b style="color:blue;">G</b> Graciousness<br>
 	<b style="color:blue;">R</b> Responsibility<br>
 	<b style="color:blue;">A</b> Appreciation<br>
 	<b style="color:blue;">C</b> Compassion<br>
 	<b style="color:blue;">I</b> Integrity<br>
-	<b style="color:blue;">A</b> Adaptability<p></p>
+	<b style="color:blue;">A</b> Adaptability</p>
 	
 <h4><strong>Learning Dispositions</strong></h4>
 <ul>
