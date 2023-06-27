@@ -15,7 +15,7 @@ description: ""
 <p><strong>With special reference to the needs of persons who are disadvantaged in anyway<br></strong>This requires a sensitive alertness to identify students who are not coping with school life and to offer or seek out the assistance that will help each better handle the situations which burden them. The sensitive helping disposition is not meant to be restricted to the school situation but to be extended to the wider community, whenever one encounters the weak or the burdened.</p>
 
 <h4><strong>School Vision</strong></h4>
-<p>Girls of Today for Tomorrow</p><p></p>
+<p><strong>Girls of Today for Tomorrow</strong></p>
 
 <h4><strong>School Values</strong></h4>
 	<p><b style="color:blue;">G</b> Graciousness<br>
