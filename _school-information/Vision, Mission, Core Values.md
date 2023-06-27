@@ -26,18 +26,16 @@ description: ""
 	<b style="color:blue;">A</b> Adaptability</p>
 	
 <h4><strong>Learning Dispositions</strong></h4>
-<p>
-</p><ul>
+<ul>
 	<li>Collaborative</li>
 	<li>Curious</li>
 	<li>Reflective</li>
 	<li>Resilient</li>
 </ul>
-<p></p>
 	
 <h4><strong>Qualities of an IJ OLN Graduate</strong></h4>
-<p>The IJ OLN girl for Tomorrow will Live out the IJ Mission and our GRACIA values as she will..<br>
-</p><ul><li>Leads with initiative, serves with love.</li>
-	<li>Communicates confidently.</li>
-	<li>Thinks creatively, reflects thoughtfully.
-	</li><li>Remains steadfast in the face of challenges.</li></ul><p></p>
+The IJ OLN girl for Tomorrow will Live out the IJ Mission and our GRACIA values as she will..<br>
+<ul><li>Leads with initiative, serves with love.</li>
+<li>Communicates confidently.</li>
+<li>Thinks creatively, reflects thoughtfully.</li>
+<li>Remains steadfast in the face of challenges.</li></ul>
