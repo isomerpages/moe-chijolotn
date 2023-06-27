@@ -1,8 +1,7 @@
 ---
 title: School Hours
-permalink: /school-information/general-information/school-hours/
+permalink: /school-information/school-hours/
 description: ""
-third_nav_title: General Information
 ---
 <table class="iveo_table ives_tab_1 ive_eobj_center">
 <tbody>
@@ -16,7 +15,7 @@ third_nav_title: General Information
 </tr>
 <tr>
 <td style="text-align: center;">Pri 1 - 6</td>
-<td style="text-align: center;">7.30 am<br />(Reporting time: 7.25am)</td>
+<td style="text-align: center;">7.30 am<br>(Reporting time: 7.25am)</td>
 <td style="text-align: center;">Classroom</td>
 </tr>
 <tr>
@@ -95,7 +94,7 @@ third_nav_title: General Information
 </tr>
 <tr>
 <td colspan="3">
-<p><strong>Note:<br /></strong>1) The above Information is subject to change, depending on the requirements of the Safe Management Measures in place.<br />2) Supplementary lessons will be conducted&nbsp;for all P6s from 16 Jan 2023.</p>
+<p><strong>Note:<br></strong>1) The above Information is subject to change, depending on the requirements of the Safe Management Measures in place.<br>2) Supplementary lessons will be conducted&nbsp;for all P6s from 16 Jan 2023.</p>
 </td>
 </tr>
 </tbody>
@@ -114,7 +113,7 @@ third_nav_title: General Information
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Main Gate</strong></td>
-<td><strong>Mon to Fri</strong><br /><strong>7.00 a.m. - 7.45 a.m.&nbsp;</strong>(<u>only&nbsp;</u>for school buses and parents who are driving their children&nbsp;<u>to</u>&nbsp;school)<br />Should you arrive earlier than 7.00 a.m., please let your child alight at Side Gate 2 near the HDB carpark at Blk 465A.<br />Parents who drive to pick up their children&nbsp;from&nbsp;school after dismissal should wait at Side gate 2.</td>
+<td><strong>Mon to Fri</strong><br><strong>7.00 a.m. - 7.45 a.m.&nbsp;</strong>(<u>only&nbsp;</u>for school buses and parents who are driving their children&nbsp;<u>to</u>&nbsp;school)<br>Should you arrive earlier than 7.00 a.m., please let your child alight at Side Gate 2 near the HDB carpark at Blk 465A.<br>Parents who drive to pick up their children&nbsp;from&nbsp;school after dismissal should wait at Side gate 2.</td>
 </tr>
 <tr>
 <td colspan="2">&nbsp;</td>
@@ -124,7 +123,7 @@ third_nav_title: General Information
 <div style="text-align: center;"><strong>Side Gate 1</strong></div>
 <div style="text-align: center;"><strong>(behind the bus stop)</strong></div>
 </td>
-<td><strong>Mon to Fri<br />6.30 a.m. - 8.00 a.m.&nbsp;</strong>(gate will be opened only if it rains)<br /><br /><strong>Mon to Fri</strong><br /><strong>1.30 p.m. - 2.00 p.m.<br /></strong></td>
+<td><strong>Mon to Fri<br>6.30 a.m. - 8.00 a.m.&nbsp;</strong>(gate will be opened only if it rains)<br><br><strong>Mon to Fri</strong><br><strong>1.30 p.m. - 2.00 p.m.<br></strong></td>
 </tr>
 <tr>
 <td colspan="2">&nbsp;</td>
@@ -134,7 +133,7 @@ third_nav_title: General Information
 <div style="text-align: center;"><strong>Side Gate 2</strong></div>
 <div style="text-align: center;"><strong>(Near the HDB car park at blk 465A)</strong></div>
 </td>
-<td><strong>Mon to Fri</strong><br /><strong>6.30 a.m. - 8.00 a.m.</strong><br /><br /><strong>Mon to Fri</strong><br /><strong>1.30 p.m. - 2.00 p.m.</strong><br /><strong>3.00 p.m. - 3.30 p.m.</strong><br /><strong>5.00 p.m. - 5.45 p.m.</strong></td>
+<td><strong>Mon to Fri</strong><br><strong>6.30 a.m. - 8.00 a.m.</strong><br><br><strong>Mon to Fri</strong><br><strong>1.30 p.m. - 2.00 p.m.</strong><br><strong>3.00 p.m. - 3.30 p.m.</strong><br><strong>5.00 p.m. - 5.45 p.m.</strong></td>
 </tr>
 <tr>
 

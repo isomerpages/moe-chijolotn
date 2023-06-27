@@ -2,7 +2,7 @@
 title: Bus and Canteen Advertisement
 permalink: /school-information/general-information/bus-and-canteen-advertisement/
 description: ""
-third_nav_title: General Information
+third_nav_title: Other Information
 ---
 #### School Bus Advertisement
 

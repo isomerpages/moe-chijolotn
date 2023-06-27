@@ -1,5 +1,5 @@
 ---
-title: Executive & Admin Staff
+title: School Admin Team
 permalink: /school-information/our-people/executive-n-admin-staff/
 description: ""
 third_nav_title: Our People
@@ -29,7 +29,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td style="text-align: center;">Administrative Executive&nbsp;</td>
-<td style="text-align: center;">Mdm Stephanie Quek Su Ping</td>
+<td style="text-align: center;">Ms Stephanie Quek Su Ping</td>
 <td style="text-align: center;">&nbsp;</td>
 </tr>
 <tr>
@@ -59,22 +59,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td style="text-align: center;">Operation Support Officer</td>
-<td style="text-align: center;">Mdm Indrahdevi Ramaiyan</td>
-<td style="text-align: center;">&nbsp;</td>
-</tr>
-<tr>
-<td style="text-align: center;">Operation Support Officer</td>
 <td style="text-align: center;">Mdm Wong Lai Chan</td>
-<td style="text-align: center;">&nbsp;</td>
-</tr>
-<tr>
-<td style="text-align: center;">Operation Support Officer</td>
-<td style="text-align: center;">Mdm Wong Bee Leng&nbsp;</td>
-<td style="text-align: center;">&nbsp;</td>
-</tr>
-<tr>
-<td style="text-align: center;">Operation Support Officer</td>
-<td style="text-align: center;">Mdm Sharon Gan</td>
 <td style="text-align: center;">&nbsp;</td>
 </tr>
 <tr>
@@ -102,10 +87,6 @@ third_nav_title: Our People
 <tr>
 <td style="text-align: center;">Desktop Engineer</td>
 <td style="text-align: center;">Mr Muhammad Nurazim</td>
-</tr>
-<tr>
-<td style="text-align: center;">Science Lab Assistant</td>
-<td style="text-align: center;">Mdm Low Sook Ching</td>
 </tr>
 </tbody>
 </table>

@@ -1,8 +1,7 @@
 ---
-title: Rules and Regulations
-permalink: /school-information/general-information/rules-and-regulations/
+title: School Rules
+permalink: /school-information/school-rules/
 description: ""
-third_nav_title: General Information
 ---
 <h4><strong>School Rules</strong></h4>
 <p>In our CHIJ Schools, we uphold the basic principle of respecting the dignity of each person we interact with. Everyone in our school community has the responsibility for, and a role to play in building a safe learning environment where we treat each other with respect and understanding. As such our school will not tolerate any unlawful or disruptive behaviour, including any form of bullying, cyber-bullying, intimidation or retaliation.</p>
