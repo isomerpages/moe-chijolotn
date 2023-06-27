@@ -18,12 +18,14 @@ description: ""
 <p><strong>Girls of Today for Tomorrow</strong></p>
 
 <h4><strong>School Values</strong></h4>
-	<p><b style="color:blue;">G</b> Graciousness<br>
+<p>
+	<b style="color:blue;">G</b> Graciousness<br>
 	<b style="color:blue;">R</b> Responsibility<br>
 	<b style="color:blue;">A</b> Appreciation<br>
 	<b style="color:blue;">C</b> Compassion<br>
 	<b style="color:blue;">I</b> Integrity<br>
-	<b style="color:blue;">A</b> Adaptability</p>
+	<b style="color:blue;">A</b> Adaptability
+	</p>
 	
 <h4><strong>Learning Dispositions</strong></h4>
 <ul>
