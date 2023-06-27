@@ -111,7 +111,7 @@ third_nav_title: Our People
 <tr style="text-align: center;">
 <td>Character &amp; Citizenship Education (CCE)</td>
 <td>Mrs Vanessa Tan</td>
-<td >low_tze_lin_vanessa@moe.edu.sg</td>
+<td>low_tze_lin_vanessa@moe.edu.sg</td>
 </tr>
 	
 </tbody>
@@ -135,13 +135,13 @@ third_nav_title: Our People
 <td>farhanna_zainal@moe.edu.sg</td>
 </tr>
 	<tr style="text-align: center;">
-<td>Student Leadership</td>
+<td>Student Leadership Development</td>
 <td>Ms Ng Hui Qi</td>
 <td>ng_hui_qi@moe.edu.sg</td>
 </tr>
 <tr style="text-align: center;">
-<td >National Education/Social Studies (NESS)</td>
-<td>Mdm Nurathirah Md Sharoni</td>
+<td>National Education/Social Studies (NESS)</td>
+<td>Mdm Nurathirah&nbsp;Md Sharoni</td>
 <td>nurathirah_md_sharoni@moe.edu.sg</td>
 </tr>
 </tbody>
@@ -191,9 +191,9 @@ third_nav_title: Our People
 <td>noor_hayati_yusof@moe.edu.sg</td>
 </tr>
 <tr style="text-align: center;">
-<td >Mathematics</td>
-<td >Mrs Tan Cheh Hia</td>
-<td >tan_cheh_hia@moe.edu.sg</td>
+<td>Mathematics</td>
+<td>Mrs Tan Cheh Hia</td>
+<td>tan_cheh_hia@moe.edu.sg</td>
 </tr>
 <tr style="text-align: center;">
 <td>Chinese Language</td>
@@ -201,7 +201,7 @@ third_nav_title: Our People
 <td>yang_wenxia@moe.edu.sg</td>
 </tr>
 	<tr style="text-align: center;">
-<td>Character & Citizenship Education (CCE)</td>
+<td>Character &amp; Citizenship Education (CCE)</td>
 <td>Mrs Ngoh Hui Erl</td>
 <td>wong_hui_erl@moe.edu.sg</td>
 </tr>
