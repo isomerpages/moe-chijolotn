@@ -15,3 +15,7 @@ description: ""
 <p>Students who wish to apply for the scheme can obtain the application form from their schools, or download a copy of the MOE FAS Application Form&nbsp;(<a href="https://www.moe.gov.sg/financial-matters/financial-assistance/" target="_blank" rel="noopener">MOE Financial Assistance Scheme</a>) . All application forms must be submitted together with the relevant documents to the schools directly.</p>
 <h4><strong>Charity Status of the School</strong></h4>
 <p><a href="/files/IPC%20Status%20-%20CHIJ%20Our%20Lady%20of%20the%20Nativity.pdf" target="_blank" rel="noopener">Charity and IPC Status</a></p>
+<br>
+<hr>
+<h4><strong>Student Insurance Claims</strong></h4>
+<p><strong>Students’ Group Personal Accident Insurance<br></strong>MOE has engaged Income Insurance Limited to manage the Group Personal Accident Insurance for our students. The insurance policy provides accident coverage related to school activities and co-curricular activities. The insurance premium will be borne by MOE.<br>You can refer to&nbsp;<a href="https://www.income.com.sg/group-personal-accident-for-students" target="_blank" rel="noopener">https://www.income.com.sg/group-personal-accident-for-students</a>&nbsp;for more information on the coverage and how you can submit online claims.</p>
