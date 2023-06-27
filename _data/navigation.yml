@@ -64,6 +64,8 @@ links:
     sublinks:
       - title: School Calendar
         url: /information-for-parents/school-calendar
+      - title: Service Providers
+        url: /information-for-parents/service-providers
       - title: Code of Conduct for Parents
         url: /information-for-parents/code-of-conduct-for-parents
       - title: Communications
@@ -82,12 +84,8 @@ links:
         url: /information-for-parents/frequently-asked-questions
       - title: Canteen Food List
         url: /information-for-parents/Canteen-Food-List/
-      - title: Updates on COVID-19
-        url: /information-for-parents/updates-on-covid-19
       - title: NEU PC PLUS Programme
         url: https://www.imda.gov.sg/neupc
-      - title: Service Providers
-        url: /information-for-parents/service-providers
   - title: Contact
     url: /contact-us/Contact-Information
     sublinks:
