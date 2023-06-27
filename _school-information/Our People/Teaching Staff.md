@@ -299,10 +299,10 @@ third_nav_title: Our People
 <tr>
 <td><strong>3 Peace</strong></td>
 <td><a href="mailto:siow_chian@moe.edu.sg" target="">Mdm Rachel Siow</a></td>
-<td><a href="mailto:low_sook_ching@moe.edu.sg" target="">Mdm Low Sook Ching</a></td>
+<td><a href="mailto:low_sook_ching_a@moe.edu.sg" target="">Mdm Low Sook Ching</a></td>
 <td><a href="mailto:sky_frank@moe.edu.sg@moe.edu.sg" target="">Mrs Sky Frank</a></td>
 <td><a href="mailto:chew_yin_sy@moe.edu.sg" target="">Mrs Kwek Yin Sy</a></td>
-<td><a href="mailto:low_sook_ching@moe.edu.sg" target="">Mdm Low Sook Ching</a></td>
+<td><a href="mailto:low_sook_ching_a@moe.edu.sg" target="">Mdm Low Sook Ching</a></td>
 <td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
 <td><a href="mailto:sum_qiu_mei_sharon@moe.edu.sg" target="">Mrs Sharon Lai</a></td>
 <td><a href="mailto:kenett_wong_tick_woon@moe.edu.sg" target="">Mr Kenett Wong</a></td>
@@ -372,7 +372,7 @@ third_nav_title: Our People
 <td><a href="mailto:Yang_wenxia@moe.edu.sg" target="">Mdm Yang Wenxia </a></td>
 <td><a href="mailto:chan_weihan_jarryl@moe.edu.sg" target="">Mr Jarryl Chan</a></td>
 <td><a href="mailto:law_ee_peng@moe.edu.sg" target="">Ms Law Ee Peng</a></td>
-<td><a href="mailto:low_sook_ching@moe.edu.sg" target="">Mdm Low Sook Ching </a></td>
+<td><a href="mailto:low_sook_ching_a@moe.edu.sg" target="">Mdm Low Sook Ching </a></td>
 <td><a href="mailto:tan_shin_shin_helen@moe.edu.sg" target="">Ms Helen Tan</a></td>
 <td><a href="mailto:lena_teo@moe.edu.sg" target="">Mrs Lena Teo</a></td>
 <td><a href="mailto:muhammad_nazri_subawi@moe.edu.sg" target="">Mr Muhammad Nazri</a></td>
