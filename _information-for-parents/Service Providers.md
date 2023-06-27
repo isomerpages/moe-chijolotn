@@ -14,5 +14,3 @@ description: ""
 <p><strong>Dental Therapist: Ms Jane Ang Swee Poh<br></strong>Tel: 8764 6945<br>Please call the school at 6385 2455 to check on the operation hours.</p>
 <h4><strong>School-based Student Care Centre</strong></h4>
 <p><strong>Commit Learning Schoolhouse<br></strong>Tel: 6366 3666<br>Email: enquiry@commitlearning.com.sg</p>
-<h4><strong>Student Insurance Claims</strong></h4>
-<p><strong>Students’ Group Personal Accident Insurance<br></strong>MOE has engaged Income Insurance Limited to manage the Group Personal Accident Insurance for our students. The insurance policy provides accident coverage related to school activities and co-curricular activities. The insurance premium will be borne by MOE.<br>You can refer to&nbsp;<a href="https://www.income.com.sg/group-personal-accident-for-students" target="_blank" rel="noopener">https://www.income.com.sg/group-personal-accident-for-students</a>&nbsp;for more information on the coverage and how you can submit online claims.</p>
