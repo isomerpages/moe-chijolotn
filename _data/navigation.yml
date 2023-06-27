@@ -24,6 +24,10 @@ links:
         url: /school-information/school-song
       - title: IJ Songs
         url: /school-information/ij-songs
+      - title: School Hours
+        url: /school-information/school-hours
+      - title: School Rules
+        url: /school-information/school-rules
       - title: Our People
         url: /school-information/our-people/key-personnel
       - title: Other Information
@@ -32,10 +36,6 @@ links:
         url: /school-information/privacy-statement
       - title: IJ Board of Management
         url: /school-information/ij-board-of-mgt
-      - title: School Hours
-        url: /school-information/school-hours
-      - title: School Rules
-        url: /school-information/school-rules
   - title: Learn @ IJ OLN
     url: /learn-at-ij-oln/our-curriculum/GenInfo
     sublinks:
