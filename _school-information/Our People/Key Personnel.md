@@ -7,8 +7,8 @@ third_nav_title: Our People
 <h4 style="text-align: center;"><strong>School Leaders (SL)</strong></h4>
 <table>
 <tbody>
-<tr style="text-align: center;">
-<th>&nbsp;Designation</th>
+<tr>
+<th>Designation</th>
 <th>Personnel</th>
 <th>Email</th>
 </tr>
@@ -33,8 +33,8 @@ third_nav_title: Our People
 <h4 style="text-align: center;"><strong>Year Heads (YH) and School Staff Developer (SSD)</strong></h4>
 <table>
 <tbody>
-<tr style="text-align: center;">
-<th>&nbsp;Designation</th>
+<tr>
+<th>Designation</th>
 <th>Personnel</th>
 <th>Email</th>
 </tr>
@@ -66,8 +66,8 @@ third_nav_title: Our People
 <h4 style="text-align: center;"><strong>Heads of Department (HOD)</strong></h4>
 <table>
 <tbody>
-<tr style="text-align: center;">
-<th>&nbsp;Designation</th>
+<tr>
+<th>Designation</th>
 <th>Personnel</th>
 <th>Email</th>
 </tr>
@@ -119,8 +119,8 @@ third_nav_title: Our People
 <h4 style="text-align: center;"><strong>Subject Heads (SH)</strong></h4>
 <table>
 <tbody>
-<tr style="text-align: center;">
-<th>&nbsp;Designation</th>
+<tr>
+<th>Designation</th>
 <th>Personnel</th>
 <th>Email</th>
 </tr>
@@ -149,7 +149,7 @@ third_nav_title: Our People
 <h4 style="text-align: center;"><strong>Level Heads (LH)</strong></h4>
 <table>
 <tbody>
-<tr style="text-align: center;">
+<tr>
 <th>Designation</th>
 <th>Personnel</th>
 <th>Email</th>
@@ -180,9 +180,9 @@ third_nav_title: Our People
 <table>
 <tbody>
 <tr>
-<th style="text-align: center;">Designation</th>
-<th style="text-align: center;">Personnel</th>
-<th style="text-align: center;">Email</th>
+<th>Designation</th>
+<th>Personnel</th>
+<th>Email</th>
 </tr>
 <tr style="text-align: left;">
 <td>English Language</td>
