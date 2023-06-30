@@ -2,6 +2,7 @@ collections:
   information-for-parents:
     output: true
     order:
+      - OLN Connect.md
       - School Calendar.md
       - Service Providers.md
       - Code of Conduct for Parents.md
