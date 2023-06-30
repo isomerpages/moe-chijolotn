@@ -37,9 +37,9 @@ third_nav_title: Other Information
 
 #### School Canteen Advertisement
 
-| Type of Stall | Closing Date | Requirements |
+| Type of Stall | Status | Requirements |
 | -------- | -------- | -------- |
-| <span style="color:red">No Vacancy</span>    | - | - |
+|Korean/Japanese Food    | open | Interested Applicants please contact us  |
 
 
 **Application Procedure**
