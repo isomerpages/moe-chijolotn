@@ -23,6 +23,16 @@ third_nav_title: Other Information
 
 2. Submit the completed Call for Proposal – Annex A by closing date, to the School’s General Office.
 
+**Contact**
+* Address: 1257 Upper Serangoon Road Singapore 534793
+* Contact No: 6385 2455
+* Email: chijoln@moe.edu.sg
+* Contact Person: Ms Clarabelle Chu (Admin Manager)
+
+**How to get there?**
+* Nearest MRT: Hougang MRT MRT
+* Bus number: 74, 102, 112, 113, 119, 136, 147, 324
+
 <hr>
 
 #### School Canteen Advertisement
@@ -59,9 +69,7 @@ third_nav_title: Other Information
 
 *Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
 
-<hr>
-
-#### School Address
+###### School Address
 * Address: 1257 Upper Serangoon Road Singapore 534793
 * Contact No: 6385 2455
 * Email: wong_sin_cheong@moe.edu.sg
