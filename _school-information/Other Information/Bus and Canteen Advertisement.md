@@ -7,7 +7,7 @@ third_nav_title: Other Information
 #### School Bus Advertisement
 
 
-##### <span style="color:red">Application is currently closed.</span>
+###### <span style="color:red">Updates pending...</span>
 <hr>
 
 **To apply, please refer to the Service Requirements and the Application Procedure below.**
@@ -39,7 +39,7 @@ third_nav_title: Other Information
 
 | Type of Stall | Status | Requirements |
 | -------- | -------- | -------- |
-|Korean/Japanese Food    | open | Interested Applicants please contact us  |
+|Korean/Japanese Food    | open | please contact us for details  |
 
 
 **Application Procedure**
