@@ -169,7 +169,11 @@ third_nav_title: Our People
 <td>Ms Serene Ler</td>
 <td>ler_ser_ling_serene@moe.edu.sg</td>
 </tr>
-	
+<tr style="text-align: center;">
+<td>Mathematics</td>
+<td>Mdm Raniah</td>
+<td>raniah_mohd_noor@moe.edu.sg</td>
+</tr>
 </tbody>
 </table>
 <h4 style="text-align: center;"><strong>Senior Teachers (ST)</strong></h4>
