@@ -2,5 +2,4 @@ collections:
   kivhiddenpages:
     output: true
     order:
-      - P1–eOrientation.md
       - Our Neighbourhood.md
