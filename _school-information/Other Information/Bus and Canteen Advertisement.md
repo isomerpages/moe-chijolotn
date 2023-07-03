@@ -6,22 +6,18 @@ third_nav_title: Other Information
 ---
 #### School Bus Advertisement
 
-
-###### <span style="color:red">Updates pending...</span>
-<hr>
-
 **To apply, please refer to the Service Requirements and the Application Procedure below.**
 
 **Service Requirements**
-1.	[Call for Proposal] 
+1.	[Call for Proposal](/files/Ops/call%20for%20proposals%20by%20school%20-%20chij%20our%20lady%20of%20the%20nativity.pdf)
  
-2.	[Agreement for Appointment of School Bus Operator] 
+2.	[Agreement for Appointment of School Bus Operator](/files/Ops/agreement%20for%20appointment%20of%20school%20bus%20operator%20-%20chij%20our%20lady%20of%20the%20nativity.pdf)
 
 **Application Procedure**
 
-1. Complete the [Call for Proposal - Annex A] 
+1. Complete the [Call for Proposal - Annex A](/files/Ops/call%20for%20proposal%20-%20annex%20a%20-%20chij%20our%20lady%20of%20the%20nativity.pdf)
 
-2. Submit the completed Call for Proposal – Annex A by closing date, to the School’s General Office.
+2. Submit the completed Call for Proposal – Annex A by **11July 2023** , to the School’s General Office.
 
 **Contact**
 * Address: 1257 Upper Serangoon Road Singapore 534793
