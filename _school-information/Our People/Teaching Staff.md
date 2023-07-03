@@ -47,7 +47,7 @@ third_nav_title: Our People
 <tr>
 <td><strong>1 Grace</strong></td>
 <td><a href="mailto:masturah_salman@moe.edu.sg" target="">Mrs Masturah Azman</a></td>
-<td><a href="mailto:wu_li_chuang_stephanie@moe.edu.sg" target="">Mdm Stephanie Wu</a></td>
+<td><a href="mailto:wu_li_chuang_stephanie@moe.edu.sg" target="">Mrs Stephanie Wu</a></td>
 <td><a href="mailto:masturah_salman@moe.edu.sg" target="">Mrs Masturah Azman</a></td>
 <td><a href="mailto:masturah_salman@moe.edu.sg" target="">Mrs Masturah Azman</a></td>
 <td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
