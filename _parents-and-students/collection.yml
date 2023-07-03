@@ -1,5 +1,5 @@
 collections:
-  information-for-parents:
+  parents-and-students:
     output: true
     order:
       - School Calendar.md
