@@ -68,3 +68,6 @@ links:
         url: /contact-us/notification-of-absence/
       - title: Password Reset Request
         url: /contact-us/password-reset-request/
+  - title: Parents and Students
+    url: /parents-and-students/school-calendar
+    sublinks: []
