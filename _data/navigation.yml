@@ -59,6 +59,9 @@ links:
         url: /learn-at-ij-oln/support-lessons
       - title: Home-Based Learning
         url: /learn-at-ij-oln/home-based-learning
+  - title: Parents and Students
+    url: /parents-and-students/school-calendar
+    sublinks: []
   - title: Contact
     url: /contact-us/Contact-Information
     sublinks:
@@ -68,6 +71,3 @@ links:
         url: /contact-us/notification-of-absence/
       - title: Password Reset Request
         url: /contact-us/password-reset-request/
-  - title: Parents and Students
-    url: /parents-and-students/school-calendar
-    sublinks: []
