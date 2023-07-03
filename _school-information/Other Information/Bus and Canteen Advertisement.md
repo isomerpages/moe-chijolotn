@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Other Information
 ---
 #### School Bus Advertisement
-
-**To apply, please refer to the Service Requirements and the Application Procedure below.**
+To apply, please refer to the Service Requirements and the Application Procedure below.
 
 **Service Requirements**
 1.	[Call for Proposal](/files/Ops/call%20for%20proposals%20by%20school%20-%20chij%20our%20lady%20of%20the%20nativity.pdf)
