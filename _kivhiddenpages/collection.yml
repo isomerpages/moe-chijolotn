@@ -1,5 +1,4 @@
 collections:
   kivhiddenpages:
     output: true
-    order:
-      - Our Neighbourhood.md
+    order: []
