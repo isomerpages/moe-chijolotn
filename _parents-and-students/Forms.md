@@ -3,3 +3,6 @@ title: Forms
 permalink: /parents-and-students/permalink/
 description: ""
 ---
+1. Waiting List Application Form
+2. [MOE Financial Assistance Scheme](https://www.moe.gov.sg/financial-matters/financial-assistance/)
+3. [Student Insurance](https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students)
