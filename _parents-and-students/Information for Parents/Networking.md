@@ -4,9 +4,7 @@ permalink: /information-for-parents/communications/networking/
 description: ""
 third_nav_title: Information for Parents
 ---
-&nbsp;&nbsp;&nbsp;&nbsp;  
-&nbsp;&nbsp;&nbsp;&nbsp;  
-&nbsp;&nbsp;<table>
+<table>
 <tbody>
 <tr><th>Date</th><th>Event</th></tr>
 	<tr>
