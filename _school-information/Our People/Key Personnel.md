@@ -171,7 +171,7 @@ third_nav_title: Our People
 </tr>
 <tr style="text-align: left;">
 <td>Mathematics</td>
-<td>Mdm Raniah</td>
+<td>Mdm Raniah Mohd Noor</td>
 <td>raniah_mohd_noor@moe.edu.sg</td>
 </tr>
 </tbody>

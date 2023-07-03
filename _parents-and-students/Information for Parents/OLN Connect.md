@@ -1,8 +1,8 @@
 ---
 title: OLN Connect
-permalink: /information-for-parents/communications/oln-connect/
+permalink: /parents-and-students/information-for-parents/oln-connect/
 description: ""
-third_nav_title: Communications
+third_nav_title: Information for Parents
 ---
 <h4 style="text-align: center;"><strong>2023</strong></h4>
 <table class="ive_eobj_center iveo_table ives_tab_simple3">

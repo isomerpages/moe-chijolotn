@@ -2,10 +2,11 @@
 title: Parent Support Group
 permalink: /information-for-parents/parent-support-group/
 description: ""
+third_nav_title: Information for Parents
 ---
 <h4><strong>Objectives</strong></h4>
 <ul>
-<li>To create opportunities for parents to support their children&rsquo;s learning.</li>
+<li>To create opportunities for parents to support their children’s learning.</li>
 <li>To promote and strengthen school-home collaboration.</li>
 <li>To help build a conducive and enriching learning environment for our students.</li>
 <li>To provide opportunities for parents to network.</li>
@@ -24,5 +25,4 @@ description: ""
 
 ![](/images/PSG/PSG2.jpg)   
 ![](/images/PSG/PSG1.jpg)  
-![](/images/PSG/PSG3.jpg) 
-
+![](/images/PSG/PSG3.jpg)

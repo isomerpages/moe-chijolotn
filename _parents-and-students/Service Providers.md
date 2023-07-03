@@ -1,6 +1,6 @@
 ---
 title: Service Providers
-permalink: /information-for-parents/service-providers/
+permalink: /parents-and-students/service-providers/
 description: ""
 ---
 <h4><strong>School Uniform and PE Attire</strong></h4>

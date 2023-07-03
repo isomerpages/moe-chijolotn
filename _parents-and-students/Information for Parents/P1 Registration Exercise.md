@@ -2,6 +2,7 @@
 title: P1 Registration Exercise
 permalink: /information-for-parents/p1-registration-exercise/
 description: ""
+third_nav_title: Information for Parents
 ---
 <img style="width: 80%;" src="/images/2023 eopen house.png">
 <p><strong>Here are the links to the informative videos about our school:</strong></p>

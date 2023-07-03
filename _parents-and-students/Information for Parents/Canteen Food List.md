@@ -2,6 +2,7 @@
 title: Canteen Food List
 permalink: /information-for-parents/Canteen-Food-List/
 description: ""
+third_nav_title: Information for Parents
 ---
 ##### Canteen Food Prices  
 

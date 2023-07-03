@@ -3,7 +3,7 @@ title: Updates on COVID–19
 permalink: /information-for-parents/updates-on-covid-19/
 description: ""
 ---
-<p>MOE Press Release here, please click on this link:&nbsp;<a href="https://www.moe.gov.sg/news/press-releases" target="_blank" rel="noopener">https://www.moe.gov.sg/news/press-releases</a><br />Should you have queries, please call us at 6385 2455 or drop your child&rsquo;s teacher an email. The email addresses of teachers can be found&nbsp;<a href="/school-information/our-people/teaching-staff/" target="_blank" rel="noopener">here</a>.</p>
+<p>MOE Press Release here, please click on this link:&nbsp;<a href="https://www.moe.gov.sg/news/press-releases" target="_blank" rel="noopener">https://www.moe.gov.sg/news/press-releases</a><br>Should you have queries, please call us at 6385 2455 or drop your child’s teacher an email. The email addresses of teachers can be found&nbsp;<a href="/school-information/our-people/teaching-staff/" target="_blank" rel="noopener">here</a>.</p>
 <p>You may also want to be updated with the latest information from trusted sources here:</p>
 <table>
 <tbody>
