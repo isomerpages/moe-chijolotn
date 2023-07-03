@@ -4,13 +4,13 @@ collections:
     order:
       - School Calendar.md
       - Service Providers.md
-      - Information for Parents/Canteen Food List.md
-      - Information for Parents/P1 Registration Exercise.md
-      - Information for Parents/Parent Support Group.md
-      - Information for Parents/Tok Tok.md
-      - Information for Parents/Parents Gateway.md
-      - Information for Parents/Networking.md
-      - Information for Parents/Letters to Parents.md
-      - Information for Parents/OLN Connect.md
-      - Information for Parents/Code of Conduct for Parents.md
       - Information for Parents/.keep
+      - Information for Parents/OLN Connect.md
+      - Information for Parents/Letters to Parents.md
+      - Information for Parents/Networking.md
+      - Information for Parents/Parents Gateway.md
+      - Information for Parents/Tok Tok.md
+      - Information for Parents/Canteen Food List.md
+      - Information for Parents/Code of Conduct for Parents.md
+      - Information for Parents/Parent Support Group.md
+      - Information for Parents/P1 Registration Exercise.md
