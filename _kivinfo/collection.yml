@@ -1,4 +1,5 @@
 collections:
   kivinfo:
     output: true
-    order: []
+    order:
+      - Subject–Based Banding.md
