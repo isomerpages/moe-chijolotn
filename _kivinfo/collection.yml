@@ -2,4 +2,5 @@ collections:
   kivinfo:
     output: true
     order:
+      - PSLE and S1 Sch Selection.md
       - Subject–Based Banding.md
