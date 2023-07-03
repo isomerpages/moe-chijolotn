@@ -2,12 +2,12 @@ collections:
   parents-and-students:
     output: true
     order:
-      - Information for Parents/.keep
       - School Calendar.md
       - Service Providers.md
+      - Information for Parents/.keep
       - Code of Conduct for Parents.md
-      - Communications/OLN Connect.md
       - Communications/.keep
+      - Communications/OLN Connect.md
       - Communications/Letters to Parents.md
       - Communications/Networking.md
       - Messaging System/.keep
