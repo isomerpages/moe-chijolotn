@@ -2,6 +2,5 @@ collections:
   kivhiddenpages:
     output: true
     order:
-      - PSLE Info Backup 032023.md
       - P1–eOrientation.md
       - Our Neighbourhood.md
