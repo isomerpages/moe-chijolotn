@@ -61,7 +61,9 @@ links:
         url: /learn-at-ij-oln/home-based-learning
   - title: Parents and Students
     url: /parents-and-students/school-calendar
-    sublinks: []
+    sublinks:
+      - title: School Calendar
+        url: /parents-and-students/school-calendar
   - title: Contact
     url: /contact-us/Contact-Information
     sublinks:
