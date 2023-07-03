@@ -2,5 +2,6 @@ collections:
   kivinfo:
     output: true
     order:
+      - Frequently Asked Questions.md
       - PSLE and S1 Sch Selection.md
       - Subject–Based Banding.md
