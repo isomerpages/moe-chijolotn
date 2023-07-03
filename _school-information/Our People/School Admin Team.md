@@ -4,7 +4,7 @@ permalink: /school-information/our-people/executive-n-admin-staff/
 description: ""
 third_nav_title: Our People
 ---
-<h4 style="text-align: center;"><strong>Executive and Administrative Staff (EAS)</strong></h4>
+<h4 style="text-align: center;"><strong>School Admin Team (SAT)</strong></h4>
 <table class="iveo_table ives_tab_blue ive_eobj_center">
 <tbody>
 <tr>

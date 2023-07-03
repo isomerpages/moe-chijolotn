@@ -5,31 +5,36 @@ description: ""
 third_nav_title: Other Information
 ---
 #### School Bus Advertisement
-
-
-##### <span style="color:red">Application is currently closed.</span>
-<hr>
-
-**To apply, please refer to the Service Requirements and the Application Procedure below.**
+To apply, please refer to the Service Requirements and the Application Procedure below.
 
 **Service Requirements**
-1.	[Call for Proposal] 
+1.	[Call for Proposal](/files/Ops/call%20for%20proposals%20by%20school%20-%20chij%20our%20lady%20of%20the%20nativity.pdf)
  
-2.	[Agreement for Appointment of School Bus Operator] 
+2.	[Agreement for Appointment of School Bus Operator](/files/Ops/agreement%20for%20appointment%20of%20school%20bus%20operator%20-%20chij%20our%20lady%20of%20the%20nativity.pdf)
 
 **Application Procedure**
 
-1. Complete the [Call for Proposal - Annex A] 
+1. Complete the [Call for Proposal - Annex A](/files/Ops/call%20for%20proposal%20-%20annex%20a%20-%20chij%20our%20lady%20of%20the%20nativity.pdf)
 
-2. Submit the completed Call for Proposal – Annex A by closing date, to the School’s General Office.
+2. Submit the completed Call for Proposal – Annex A by **11 July 2023** , to the School’s General Office.
+
+**Contact**
+* Address: 1257 Upper Serangoon Road Singapore 534793
+* Contact No: 6385 2455
+* Email: chijoln@moe.edu.sg
+* Contact Person: Ms Clarabelle Chu (Admin Manager)
+
+**How to get there?**
+* Nearest MRT: Hougang MRT MRT
+* Bus number: 74, 102, 112, 113, 119, 136, 147, 324
 
 <hr>
 
 #### School Canteen Advertisement
 
-| Type of Stall | Closing Date | Requirements |
+| Type of Stall | Status | Requirements |
 | -------- | -------- | -------- |
-| <span style="color:red">No Vacancy</span>    | - | - |
+|Korean/Japanese Food    | open | please contact us for details  |
 
 
 **Application Procedure**
@@ -59,9 +64,7 @@ third_nav_title: Other Information
 
 *Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
 
-<hr>
-
-#### School Address
+###### School Address
 * Address: 1257 Upper Serangoon Road Singapore 534793
 * Contact No: 6385 2455
 * Email: wong_sin_cheong@moe.edu.sg
