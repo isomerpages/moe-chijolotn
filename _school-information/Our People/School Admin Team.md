@@ -67,6 +67,11 @@ third_nav_title: Our People
 <td style="text-align: center;">Mrs Lim Kim Tia</td>
 <td style="text-align: center;">&nbsp;</td>
 </tr>
+	<tr>
+<td style="text-align: center;">Operation Support Officer</td>
+<td style="text-align: center;">Mr Ang Toh Whatt</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
 </tbody>
 </table>
 <h4 style="text-align: center;"><strong>&nbsp;Support Staff</strong></h4>
