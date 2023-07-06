@@ -223,9 +223,12 @@ description: ""
 <td style="text-align: center;"> - </td>
 <td style="text-align: center;"> - </td>
 </tr>
+<tr>
+<td colspan="4">^No Support Lessons for P3</td>
+</tr>
 </tbody>
 </table>
-^No Support Lessons for P3
+
 <h4><strong>Days of Support Lessons in Semester 2 (P1 - P5)</strong></h4>
 <table>
 <tbody>
