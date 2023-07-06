@@ -166,7 +166,7 @@ description: ""
 <tr>
 <td style="text-align: center;">24 Jul</td>
 <td style="text-align: center;">18 Jul</td>
-<td style="text-align: center;">^20Jul</td>
+<td style="text-align: center;"><b>^</b>20Jul</td>
 <td style="text-align: center;">21 Jul</td>
 </tr>
 <tr>
@@ -224,7 +224,7 @@ description: ""
 <td style="text-align: center;"> - </td>
 </tr>
 <tr>
-<td colspan="4">^No Support Lessons for P3</td>
+	<td colspan="4"><b>^</b>No Support Lessons for P3</td>
 </tr>
 </tbody>
 </table>
