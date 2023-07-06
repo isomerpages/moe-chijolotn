@@ -237,6 +237,13 @@ description: ""
 <th>MTL</th>
 </tr>
 <tr>
+<td><strong>P1</strong></td>
+<td>Monday</td>
+<td>Tuesday</td>
+<td> - </td>
+<td> - </td>
+</tr>
+<tr>
 <td><strong>P2</strong></td>
 <td>Monday</td>
 <td>Friday</td>
