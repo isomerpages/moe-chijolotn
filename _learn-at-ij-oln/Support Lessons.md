@@ -134,12 +134,6 @@ description: ""
 <th>Timing</th>
 </tr>
 <tr>
-<td>June Holidays</td>
-<td>19 to 21 June 2023</td>
-<td>7.45 am to 12.15 pm<br>
-8.45 am to 12.15 pm (For pupils exempted from MTL)</td>
-</tr>
-	<tr>
 <td>September Holidays</td>
 <td>4 &amp; 5 September 2023</td>
 <td>7.45 am to 12.15 pm<br>
