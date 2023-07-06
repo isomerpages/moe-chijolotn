@@ -199,6 +199,30 @@ description: ""
 <td style="text-align: center;">14 Sep</td>
 <td style="text-align: center;">22 Sep</td>
 </tr>
+<tr>
+<td style="text-align: center;">18 Sep</td>
+<td style="text-align: center;">26 Sep</td>
+<td style="text-align: center;">21 Sep</td>
+<td style="text-align: center;">29 Sep</td>
+</tr>
+<tr>
+<td style="text-align: center;">25 Sep</td>
+<td style="text-align: center;">3 Oct</td>
+<td style="text-align: center;">28 Sep</td>
+<td style="text-align: center;">20 Oct</td>
+</tr>
+<tr>
+<td style="text-align: center;">2 Oct</td>
+<td style="text-align: center;"> - </td>
+<td style="text-align: center;">19 Oct</td>
+<td style="text-align: center;"> - </td>
+</tr>
+	<tr>
+<td style="text-align: center;">9 Oct</td>
+<td style="text-align: center;"> - </td>
+<td style="text-align: center;"> - </td>
+<td style="text-align: center;"> - </td>
+</tr>
 </tbody>
 </table>
 <h4><strong>Days of Support Lessons in Term 2 (P2 - P5)</strong></h4>
