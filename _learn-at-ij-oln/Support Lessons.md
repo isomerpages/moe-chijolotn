@@ -225,7 +225,8 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4><strong>Days of Support Lessons in Term 2 (P2 - P5)</strong></h4>
+* No Support Lessons for P3
+<h4><strong>Days of Support Lessons in Sem 2 (P1 - P5)</strong></h4>
 <table>
 <tbody>
 <tr>
