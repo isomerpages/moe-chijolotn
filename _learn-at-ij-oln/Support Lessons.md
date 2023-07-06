@@ -125,7 +125,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4><strong>Dates &amp; timing of P6 Supplementary Lessons during the June &amp; September holidays 2023</strong></h4>
+<h4><strong>Dates &amp; timing of P6 Supplementary Lessons during the September holidays 2023</strong></h4>
 <table>
 <tbody>
 <tr>
@@ -142,7 +142,7 @@ description: ""
 </tbody>
 </table>
 
-<h4><strong>Sem 2 Support Lessons (P1 - P5, 2PM - 3PM)</strong></h4>
+<h4><strong>Semester 2 Support Lessons (P1 - P5, 2PM - 3PM)</strong></h4>
 <table>
 <tbody>
 <tr>
@@ -226,7 +226,7 @@ description: ""
 </tbody>
 </table>
 ^No Support Lessons for P3
-<h4><strong>Days of Support Lessons in Sem 2 (P1 - P5)</strong></h4>
+<h4><strong>Days of Support Lessons in Semester 2 (P1 - P5)</strong></h4>
 <table>
 <tbody>
 <tr>
