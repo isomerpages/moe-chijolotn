@@ -166,7 +166,7 @@ description: ""
 <tr>
 <td style="text-align: center;">24 Jul</td>
 <td style="text-align: center;">18 Jul</td>
-<td style="text-align: center;">*20Jul</td>
+<td style="text-align: center;">^20Jul</td>
 <td style="text-align: center;">21 Jul</td>
 </tr>
 <tr>
@@ -225,7 +225,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-* No Support Lessons for P3
+^No Support Lessons for P3
 <h4><strong>Days of Support Lessons in Sem 2 (P1 - P5)</strong></h4>
 <table>
 <tbody>
