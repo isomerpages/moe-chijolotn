@@ -11,6 +11,10 @@ description: ""
 <h4><strong>Bookshop</strong></h4>
 <p><strong>BL Marketing Pte Ltd<br></strong>61, Ubi Road 1, #02-02 Oxley Bizhub, Singapore 408727<br>Tel: 6281 9274<br>Fax: 6284 8785<br>Email: sales@blmarketing.sg<br>School Bookshop Opening Hours<br>Mon to Fri during school term (excluding public holidays): 11:30am to 12:30pm</p>
 <h4><strong>Dental Clinic</strong></h4>
-<p><strong>Dental Therapist: Ms Jane Ang Swee Poh<br></strong>Tel: 8764 6945<br>Please call the school at 6385 2455 to check on the operation hours.</p>
+
+<p><strong>Dental Therapist: Ms Jane Ang Swee Poh<br></strong>As the dental therapist is roving between schools, please call <strong>8764 6945</strong> to make an appointment before coming down for any dental issues. <br>
+	
+For assistance, you may contact the School at 63852455.</p>
+
 <h4><strong>School-based Student Care Centre</strong></h4>
 <p><strong>Commit Learning Schoolhouse<br></strong>Tel: 6366 3666<br>Email: enquiry@commitlearning.com.sg</p>
