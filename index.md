@@ -8,9 +8,6 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Announcements
-          description: ""
-          url: /announcements
         - title: Success Stories
           description: Achievements by Pupils & Staff
           url: /success-stories/students/2023sss/
