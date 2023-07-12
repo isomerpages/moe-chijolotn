@@ -11,8 +11,8 @@ sections:
         - title: Success Stories
           description: Achievements by Pupils & Staff
           url: /success-stories/students/2023sss/
-        - title: Social Media
-          description: FB, Instagram, OLNConnect
+        - title: CONNECT WITH US
+          description: Catch us on FB & IG
           url: /SocialMedia/
       background: /images/Banner and Logo/herobanner_updjun2023.gif
 ---
