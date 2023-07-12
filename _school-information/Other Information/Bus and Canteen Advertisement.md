@@ -4,31 +4,6 @@ permalink: /school-information/general-information/bus-and-canteen-advertisement
 description: ""
 third_nav_title: Other Information
 ---
-#### School Bus Advertisement
-To apply, please refer to the Service Requirements and the Application Procedure below.
-
-**Service Requirements**
-1.	[Call for Proposal](/files/Ops/call%20for%20proposals%20by%20school%20-%20chij%20our%20lady%20of%20the%20nativity.pdf)
- 
-2.	[Agreement for Appointment of School Bus Operator](/files/Ops/agreement%20for%20appointment%20of%20school%20bus%20operator%20-%20chij%20our%20lady%20of%20the%20nativity.pdf)
-
-**Application Procedure**
-
-1. Complete the [Call for Proposal - Annex A](/files/Ops/call%20for%20proposal%20-%20annex%20a%20-%20chij%20our%20lady%20of%20the%20nativity.pdf)
-
-2. Submit the completed Call for Proposal – Annex A by **11 July 2023** , to the School’s General Office.
-
-**Contact**
-* Address: 1257 Upper Serangoon Road Singapore 534793
-* Contact No: 6385 2455
-* Email: chijoln@moe.edu.sg
-* Contact Person: Ms Clarabelle Chu (Admin Manager)
-
-**How to get there?**
-* Nearest MRT: Hougang MRT MRT
-* Bus number: 74, 102, 112, 113, 119, 136, 147, 324
-
-<hr>
 
 #### School Canteen Advertisement
 
@@ -73,3 +48,9 @@ To apply, please refer to the Service Requirements and the Application Procedure
 **How to get there?**
 * Nearest MRT: Hougang MRT MRT
 * Bus number: 74, 102, 112, 113, 119, 136, 147, 324
+
+<hr>
+
+#### School Bus Advertisement
+Application closed on 11 Jul 2023.
+
