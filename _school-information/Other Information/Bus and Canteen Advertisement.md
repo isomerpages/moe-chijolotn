@@ -4,7 +4,6 @@ permalink: /school-information/general-information/bus-and-canteen-advertisement
 description: ""
 third_nav_title: Other Information
 ---
-
 #### School Canteen Advertisement
 
 | Type of Stall | Status | Requirements |
@@ -53,4 +52,3 @@ third_nav_title: Other Information
 
 #### School Bus Advertisement
 Application closed on 11 Jul 2023.
-
