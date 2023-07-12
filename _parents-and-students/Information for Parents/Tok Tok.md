@@ -5,9 +5,12 @@ description: ""
 third_nav_title: Information for Parents
 ---
 <h4><strong>Tok Tok! Messaging System</strong></h4>
-<p>1. To enhance our communication with parents/guardians, our school has implemented a new mobile platform based application (app) named Tok-Tok!. You can download it for free from Google Play Store or iTunes so that you will not miss out any important announcement from the school.</p>
-<p>2. FAQ on Tok-Tok! -&nbsp;<a href="https://www.tok-tok.me/faq.FAQ.html?pageId=FAQ" target="_blank" rel="noopener">Frequently Asked Questions</a></p>
-<p>3. Contact details for technical support: Email:&nbsp;<a href="mailto:services@hello-technology.com" target=""><strong>services@hello-technology.com</strong></a></p>
+
+To enhance our communication with parents/guardians, our school has implemented a mobile platform based application (app) named Tok-Tok! All parents are strongly encouraged to use this messaging system to communicate with our teachers. 
+<ul>
+<li>Do download from Google Play Store or iTunes (this is a free App)</li>
+<li> FAQ on Tok-Tok! -&nbsp;<a href="https://www.tok-tok.me/faq.FAQ.html?pageId=FAQ" target="_blank" rel="noopener">Frequently Asked Questions</a></li>
+<li>Contact details for technical support: Email:&nbsp;<a href="mailto:services@hello-technology.com" target=""><strong>services@hello-technology.com</strong></a></li></ul>
 <p style="text-align: center;"><strong>Instructions to Download &amp; Install on your mobile phone.</strong></p>
 <p style="text-align: center;">Step 1</p>
 <img style="width: 50%;" src="/images/tt1.jpg">

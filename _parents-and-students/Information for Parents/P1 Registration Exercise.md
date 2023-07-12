@@ -4,7 +4,7 @@ permalink: /information-for-parents/p1-registration-exercise/
 description: ""
 third_nav_title: Information for Parents
 ---
-<img style="width: 80%;" src="/images/2023 eopen house.png">
+
 <p><strong>Here are the links to the informative videos about our school:</strong></p>
 <ul>
 <li><a href="https://www.youtube.com/watch?v=krgjCCsAVmk" target="_blank" rel="noopener">Facilities at CHIJ OLN</a></li>
