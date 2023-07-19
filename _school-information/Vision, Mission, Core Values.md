@@ -38,6 +38,6 @@ description: ""
 <h4><strong>Qualities of an IJ OLN Graduate</strong></h4>
 The IJ OLN girl for Tomorrow will Live out the IJ Mission and our GRACIA values as she will..<br>
 <ul><li>Leads with initiative, serves with love.</li>
+<li>Thinks creatively and critically</li>
 <li>Communicates confidently.</li>
-<li>Thinks creatively, reflects thoughtfully.</li>
 <li>Remains steadfast in the face of challenges.</li></ul>
