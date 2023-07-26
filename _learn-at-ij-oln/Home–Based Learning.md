@@ -24,7 +24,7 @@ description: ""
 <h5>Task sheets for 28 Jul 2023</h5>
 <table>
 <tbody>
-<tr style="height:50px">
+<tr>
 <th style="text-align: center;">Level:</th>
 <td style="text-align: center;"><a href="/files/TaskSheets28072023/p1 hbl sheet.pdf" target="_blank" rel="noopener">P1</a></td>
 <td style="text-align: center;"><a href="/files/TaskSheets28072023/p2 hbl sheet.pdf" target="_blank" rel="noopener">P2</a></td>
