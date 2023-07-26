@@ -4,7 +4,7 @@ permalink: /learn-at-ij-oln/home-based-learning/
 description: ""
 ---
 <h4><strong>Google Meet / Zoom Sessions</strong></h4>
-<img style="width: 2%;" src="/images/emark.gif" align = "left" />
+<img style="width: 2%;" src="/images/emark.gif" align="left">
 <p><strong>Important Notes for Parents</strong></p>
 <ul>
 <li>Students are expected to be present during the Google Meet / Zoom sessions. </li>
@@ -21,6 +21,21 @@ description: ""
 	<li><a href="/files/Guides/GOOGLE CLASSROOM.pdf" target="_blank" rel="noopener">Google Classroom</a></li>
 </ol>
 <hr>
+<h5>Task sheets for 28 Jul 2023</h5>
+<table>
+<tbody>
+<tr>
+<th style="text-align: center;">Level:</th>
+<td style="text-align: center;">P1</td>
+<td style="text-align: center;">P2</td>
+<td style="text-align: center;">P3</td>
+<td style="text-align: center;">P4</td>
+<td style="text-align: center;">P5</td>
+</tr>
+	</tbody>
+</table>
+
+
 <h5>Task sheets for 29 Mar 2023</h5>
 <table>
 <tbody>
@@ -119,7 +134,7 @@ description: ""
 <td style="text-align: left;"><a href="/files/TSheets29Mar/P2 LS MATHS HBL TASK SHEET.pdf" target="_blank" rel="noopener">P2 LEARNING SUPPORT MATHEMATICS TASK SHEET</a></td>
 </tr>
 <tr>
-	<td colspan=2><strong>Banded Classes</strong></td>
+	<td colspan="2"><strong>Banded Classes</strong></td>
 </tr>
 <tr>
 <td style="text-align: center;">P3</td>
@@ -131,11 +146,11 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">P5</td>
-<td style="text-align: left;"><a href="/files/TSheets29Mar/P5 MATHS & FMATHS HBL TASK SHEET.pdf" target="_blank" rel="noopener">P5 MATHEMATICS AND FOUNDATION MATHEMATICS TASK SHEET</a></td>
+<td style="text-align: left;"><a href="/files/TSheets29Mar/P5 MATHS &amp; FMATHS HBL TASK SHEET.pdf" target="_blank" rel="noopener">P5 MATHEMATICS AND FOUNDATION MATHEMATICS TASK SHEET</a></td>
 </tr>
 <tr>
 <td style="text-align: center;">P6</td>
-<td style="text-align: left;"><a href="/files/TSheets29Mar/P6 MATHS & FMATHS HBL TASK SHEET.pdf" target="_blank" rel="noopener">P6 MATHEMATICS AND FOUNDATION MATHEMATICS TASK SHEET</a></td>
+<td style="text-align: left;"><a href="/files/TSheets29Mar/P6 MATHS &amp; FMATHS HBL TASK SHEET.pdf" target="_blank" rel="noopener">P6 MATHEMATICS AND FOUNDATION MATHEMATICS TASK SHEET</a></td>
 </tr>
 	</tbody>
 </table>
@@ -170,7 +185,7 @@ description: ""
 </table>
 <hr>
 <br><br>
-For SLS matters, you may also email the SLS Central Helpdesk at helpdesk@sls.ufinity.com at any time for assistance. Please include your daughter&rsquo;s full name, name of school and form class.
+For SLS matters, you may also email the SLS Central Helpdesk at helpdesk@sls.ufinity.com at any time for assistance. Please include your daughter’s full name, name of school and form class.
 <br><br>
 Please fill in this&nbsp;<a href="https://go.gov.sg/chijolnpasswordreset" target="_blank" rel="noopener">form</a>&nbsp;to request for the following:
 

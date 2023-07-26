@@ -4,6 +4,10 @@ permalink: /school-information/general-information/bus-and-canteen-advertisement
 description: ""
 third_nav_title: Other Information
 ---
+#### School Bus Service - Awarded
+[School Bus Operator and Bus Fare (2024 - 2025)](/files/Ops/school%20bus%20operator%20-%20awarded.pdf)
+
+
 #### School Canteen Advertisement
 
 | Type of Stall | Status | Requirements |
@@ -48,7 +52,3 @@ third_nav_title: Other Information
 * Nearest MRT: Hougang MRT MRT
 * Bus number: 74, 102, 112, 113, 119, 136, 147, 324
 
-<hr>
-
-#### School Bus Advertisement
-Application closed on 11 Jul 2023.
