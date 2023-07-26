@@ -53,8 +53,8 @@ description: ""
 </tr>
 </tbody>
 </table>
-<ul><li><strong>SEMESTER 2 Support Lessons Schedule: P1 - P5 (2PM - 3PM)<strong></strong></strong></li><strong><strong>
-	<table>
+<ul><li>SEMESTER 2 Support Lessons Schedule: P1 - P5 (2PM - 3PM)</li></ul>
+<table>
 <tbody>
 <tr>
 <th></th>
@@ -316,4 +316,4 @@ description: ""
 7.45 am to 11.15 pm (For pupils exempted from MTL)</td>
 </tr>
 </tbody>
-</table></strong></strong></ul>
+</table>
