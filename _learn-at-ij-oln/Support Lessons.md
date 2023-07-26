@@ -3,12 +3,7 @@ title: Support Lessons
 permalink: /learn-at-ij-oln/support-lessons/
 description: ""
 ---
-<style>
-table, th,  td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-</style>
+
 <h4><strong>Schedule for Support and Supplementary Lessons 2023</strong></h4>
 <p>Parents whose daughter is selected for Support Lessons will receive more details via Parents Gateway.</p>
 <h4><strong>P1 - P5 Support Lessons</strong></h4>
