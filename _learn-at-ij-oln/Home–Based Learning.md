@@ -183,8 +183,9 @@ description: ""
 </tr>
 </tbody>
 </table>
-<hr>
 <br><br>
+<hr>
+<br>
 For SLS matters, you may also email the SLS Central Helpdesk at helpdesk@sls.ufinity.com at any time for assistance. Please include your daughter’s full name, name of school and form class.
 <br><br>
 Please fill in this&nbsp;<a href="https://go.gov.sg/chijolnpasswordreset" target="_blank" rel="noopener">form</a>&nbsp;to request for the following:
