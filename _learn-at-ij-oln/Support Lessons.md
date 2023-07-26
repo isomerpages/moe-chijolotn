@@ -252,59 +252,87 @@ description: ""
 <th style="text-align: center;">Fridays</th>
 </tr>
 <tr>
-<td></td>
+<td>T3, W1</td>
 <td style="text-align: center;">26 Jun</td>
 <td style="text-align: center;">27 Jun</td>
-<td style="text-align: center;">6 Jul</td>
+<td style="text-align: center;"> - </td>
 <td style="text-align: center;">30 Jun</td>
 </tr>
 <tr>
-<td></td>
-<td style="text-align: center;">10 Jul</td>
+<td>T3, W2</td>
+<td style="text-align: center;"> - </td>
 <td style="text-align: center;">4 Jul</td>
-<td style="text-align: center;">13 Jul</td>
+<td style="text-align: center;">6 Jul</td>
 <td style="text-align: center;">7 Jul</td>
 </tr>
 <tr>
-<td></td>
-<td style="text-align: center;">17 Jul</td>
+<td>T3, W3</td>
+<td style="text-align: center;">10 Jul</td>
 <td style="text-align: center;">11 Jul</td>
-<td style="text-align: center;">20 Jul</td>
+<td style="text-align: center;">13 Jul</td>
 <td style="text-align: center;">14 Jul</td>
 </tr>
 <tr>
-<td></td>
-<td style="text-align: center;">24 Jul</td>
+<td>T3, W4</td>
+<td style="text-align: center;">17 Jul</td>
 <td style="text-align: center;">18 Jul</td>
-<td style="text-align: center;">27 Jul</td>
+<td style="text-align: center;">20 Jul</td>
 <td style="text-align: center;">21 Jul</td>
 </tr>
 <tr>
-<td></td>
-<td style="text-align: center;">31 Jul</td>
+<td>T3, W5</td>
+<td style="text-align: center;">24 Jul</td>
 <td style="text-align: center;">25 Jul</td>
-<td style="text-align: center;">3 Aug</td>
-<td style="text-align: center;">28 Jul </td>
+<td style="text-align: center;">27 Jul</td>
+<td style="text-align: center;"> - </td>
 </tr>
 <tr>
-<td></td>
-<td style="text-align: center;">7 Aug</td>
+<td>T3, W6</td>
+<td style="text-align: center;">31 Jul</td>
 <td style="text-align: center;">1 Aug</td>
-<td style="text-align: center;">21 Sep</td>
+<td style="text-align: center;">2 Aug</td>
 <td style="text-align: center;">4 Aug</td>
 </tr>
 <tr>
-<td></td>
-<td style="text-align: center;">11 Sep</td>
-<td style="text-align: center;">12 Sep</td>
-<td style="text-align: center;"></td>
+<td>T3, W7</td>
+<td style="text-align: center;"> - </td>
+<td style="text-align: center;"> - </td>
+<td style="text-align: center;"> - </td>
 <td style="text-align: center;">11 Aug</td>
 </tr>
 <tr>
-<td></td>
+<td>T3, W8</td>
+<td style="text-align: center;"> - </td>
+<td style="text-align: center;"> - </td>
+<td style="text-align: center;"> - </td>
+<td style="text-align: center;"> - </td>
+</tr>
+<tr>
+<td>T3, W9</td>
+<td style="text-align: center;"> - </td>
+<td style="text-align: center;"> - </td>
+<td style="text-align: center;"> - </td>
+<td style="text-align: center;"> - </td>
+</tr>
+<tr>
+<td>T3, W10</td>
+<td style="text-align: center;"> - </td>
+<td style="text-align: center;"> - </td>
+<td style="text-align: center;"> - </td>
+<td style="text-align: center;"> - </td>
+</tr>
+<tr>
+<td>T4, W1</td>
+<td style="text-align: center;">11 Sep</td>
+<td style="text-align: center;">12 Sep</td>
+<td style="text-align: center;"> - </td>
+<td style="text-align: center;"> - </td>
+</tr>
+<tr>
+<td>T4,W2</td>
 <td style="text-align: center;">18 Sep</td>
 <td style="text-align: center;">19 Sep</td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"> - </td>
 <td style="text-align: center;">22 Sep</td>
 </tr>
 </tbody>
