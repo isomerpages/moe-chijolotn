@@ -50,5 +50,5 @@ third_nav_title: Other Information
 
 <hr>
 
-#### School Bus Service
+#### School Bus Service - Awarded
 [School Bus Operator and Bus Fare (2024 - 2025)](/files/Ops/school%20bus%20operator%20-%20awarded.pdf)
