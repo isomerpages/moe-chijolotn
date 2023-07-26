@@ -5,6 +5,53 @@ description: ""
 ---
 <h4><strong>Schedule for Support and Supplementary Lessons 2023</strong></h4>
 <p>Parents whose daughter is selected for Support Lessons will receive more details via Parents Gateway.</p>
+<h4><strong>Days of Support Lessons in Semester 2 (P1 - P5)</strong></h4>
+<table>
+<tbody>
+<tr>
+<th>Subjects /<br>Levels</th>
+<th>EL</th>
+<th>Maths</th>
+<th>Science</th>
+<th>MTL</th>
+</tr>
+<tr>
+<td><strong>P1</strong></td>
+<td>Monday</td>
+<td>Tuesday</td>
+<td> - </td>
+<td> - </td>
+</tr>
+<tr>
+<td><strong>P2</strong></td>
+<td>Monday</td>
+<td>Friday</td>
+<td> - </td>
+<td> - </td>
+</tr>
+	<tr>
+<td><strong>P3</strong></td>
+<td>Friday</td>
+<td>Monday</td>
+<td>Tuesday</td>
+<td>Thursday</td>
+</tr>
+<tr>
+<td><strong>P4</strong></td>
+<td>Monday</td>
+<td>Tuesday</td>
+<td>Friday</td>
+<td>Thursday</td>
+</tr>
+<tr>
+<td><strong>P5</strong></td>
+<td>Tuesday</td>
+<td>Friday</td>
+<td>Monday</td>
+<td>Thursday</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Semester 2 Support Lessons (P1 - P5, 2PM - 3PM)</strong></h4>
 <table>
 <tbody>
@@ -132,53 +179,7 @@ description: ""
 </tbody>
 </table>
 
-<h4><strong>Days of Support Lessons in Semester 2 (P1 - P5)</strong></h4>
-<table>
-<tbody>
-<tr>
-<th>Subjects /<br>Levels</th>
-<th>EL</th>
-<th>Maths</th>
-<th>Science</th>
-<th>MTL</th>
-</tr>
-<tr>
-<td><strong>P1</strong></td>
-<td>Monday</td>
-<td>Tuesday</td>
-<td> - </td>
-<td> - </td>
-</tr>
-<tr>
-<td><strong>P2</strong></td>
-<td>Monday</td>
-<td>Friday</td>
-<td> - </td>
-<td> - </td>
-</tr>
-	<tr>
-<td><strong>P3</strong></td>
-<td>Friday</td>
-<td>Monday</td>
-<td>Tuesday</td>
-<td>Thursday</td>
-</tr>
-<tr>
-<td><strong>P4</strong></td>
-<td>Monday</td>
-<td>Tuesday</td>
-<td>Friday</td>
-<td>Thursday</td>
-</tr>
-<tr>
-<td><strong>P5</strong></td>
-<td>Tuesday</td>
-<td>Friday</td>
-<td>Monday</td>
-<td>Thursday</td>
-</tr>
-</tbody>
-</table>
+
 <h4><strong>Semester 2 Supplementary Lessons (P6, 2PM - 3PM)</strong></h4>
 <table class="iveo_table ives_tab_simple2 ive_eobj_center">
 <tbody>
