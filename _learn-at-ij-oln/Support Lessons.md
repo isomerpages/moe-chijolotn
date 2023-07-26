@@ -3,6 +3,12 @@ title: Support Lessons
 permalink: /learn-at-ij-oln/support-lessons/
 description: ""
 ---
+<style>
+table, th, td {
+  border: 0.5px solid black;
+  border-collapse: collapse;
+}
+</style>
 <h4><strong>Schedule for Support and Supplementary Lessons 2023</strong></h4>
 <p>Parents whose daughter is selected for Support Lessons will receive more details via Parents Gateway.</p>
 <h4><strong>P1 - P5 Support Lessons</strong></h4>
@@ -301,17 +307,16 @@ description: ""
 </tbody>
 </table>
 
-<h4><strong>Dates &amp; timing of P6 Supplementary Lessons during the September holidays 2023</strong></h4>
+<h4><strong>SEPTEMBER HOLIDAYS Supplementary Lessons: P6</strong></h4>
 <table>
 <tbody>
 <tr>
-<th>EL</th>
 <th>Dates</th>
 <th>Timing</th>
 </tr>
 <tr>
-<td>September Holidays</td>
-<td>4 &amp; 5 September 2023</td>
+<td>4 September 2023 (Mon) <br>
+5 September 2023 (Tue)</td>
 <td>7.45 am to 12.15 pm<br>
 7.45 am to 11.15 pm (For pupils exempted from MTL)</td>
 </tr>
