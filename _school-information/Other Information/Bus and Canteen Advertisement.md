@@ -50,5 +50,5 @@ third_nav_title: Other Information
 
 <hr>
 
-#### School Bus Advertisement
-Application closed on 11 Jul 2023.
+#### School Bus Service
+School Bus Operator and Bus Fare
