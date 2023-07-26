@@ -181,6 +181,7 @@ description: ""
 </table>
 
 <h4><strong>P6 Supplementary Lessons</strong></h4>
+<font color="blue"><ul><li>SEMESTER 2 Supplementary Lessons Days by Subjects: P6</li></ul></font>
 <table>
 <tbody>
 <tr>
@@ -239,11 +240,10 @@ description: ""
 <td>Tuesday</td>
 <td>Thursday</td>
 </tr>
-</tbody>
-</table>
-<h4><strong>Semester 2 Supplementary Lessons (P6, 2PM - 3PM)</strong></h4>
-<table class="iveo_table ives_tab_simple2 ive_eobj_center">
-<tbody>
+</tbody></table>
+<br>
+<font color="blue"><ul><li>SEMESTER 2 SupplementaryLessons Schedule: P6 (2PM - 3PM)</li></ul></font>
+<table><tbody>
 <tr>
 <th style="text-align: center;">Mondays</th>
 <th style="text-align: center;">Tuesdays</th>
