@@ -51,8 +51,8 @@ description: ""
 <td>Monday</td>
 <td>Thursday</td>
 </tr>
-</tbody>
-</table>
+</tbody></table>
+<br>
 <font color="blue"><ul><li>SEMESTER 2 Support Lessons Schedule: P1 - P5 (2PM - 3PM)</li></ul></font>
 <table>
 <tbody>
