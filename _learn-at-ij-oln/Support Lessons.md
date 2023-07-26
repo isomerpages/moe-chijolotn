@@ -93,31 +93,38 @@ description: ""
 </tr>
 <tr>
 <td>T4, W2</td>
-<td style="text-align: center;">11 Sep</td>
-<td style="text-align: center;">3 Oct</td>
-<td style="text-align: center;">28 Sep</td>
-<td style="text-align: center;">20 Oct</td>
+<td style="text-align: center;">18 Sep</td>
+<td style="text-align: center;">19 Sep</td>
+<td style="text-align: center;">21 Sep</td>
+<td style="text-align: center;">22 Sep</td>
 </tr>
 	<tr>
 <td>T4, W3</td>
-<td style="text-align: center;">11 Sep</td>
-<td style="text-align: center;">3 Oct</td>
+<td style="text-align: center;">25 Sep</td>
+<td style="text-align: center;">26 Sep</td>
 <td style="text-align: center;">28 Sep</td>
-<td style="text-align: center;">20 Oct</td>
+<td style="text-align: center;">29 Sep</td>
 </tr>
 <tr>
 <td></td>
 <td style="text-align: center;">2 Oct</td>
+<td style="text-align: center;">3 Oct</td>
 <td style="text-align: center;"> - </td>
-<td style="text-align: center;">19 Oct</td>
 <td style="text-align: center;"> - </td>
 </tr>
 <tr>
-<td></td>
+<td>T4, W5</td>
 <td style="text-align: center;">9 Oct</td>
 <td style="text-align: center;"> - </td>
 <td style="text-align: center;"> - </td>
 <td style="text-align: center;"> - </td>
+</tr>
+<tr>
+<td>T4, W6</td>
+<td style="text-align: center;"> - </td>
+<td style="text-align: center;"> - </td>
+<td style="text-align: center;">19 Oct</td>
+<td style="text-align: center;">20 Oct</td>
 </tr>
 <tr>
 	<td colspan="4"><b>^</b>No Support Lessons for P3</td>
