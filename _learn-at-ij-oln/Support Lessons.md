@@ -4,7 +4,7 @@ permalink: /learn-at-ij-oln/support-lessons/
 description: ""
 ---
 <style>
-table, th, td {
+table, th, tr,  td {
   border: 1px solid black;
   border-collapse: collapse;
 }
