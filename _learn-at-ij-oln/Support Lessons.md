@@ -5,8 +5,10 @@ description: ""
 ---
 <h4><strong>Schedule for Support and Supplementary Lessons 2023</strong></h4>
 <p>Parents whose daughter is selected for Support Lessons will receive more details via Parents Gateway.</p>
-<h4><strong>Days of Support Lessons in Semester 2 (P1 - P5)</strong></h4>
-<table>
+<h4><strong>P1 - P5 Support Lessons</strong></h4>
+<ul><li><strong>SEMESTER 2 Support Lessons Days by Subjects: P1 – P5<strong></strong></strong></li><strong><strong>
+</strong></strong></ul><strong><strong>
+	<table>
 <tbody>
 <tr>
 <th>Subjects /<br>Levels</th>
@@ -52,8 +54,8 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4><strong>Semester 2 Support Lessons (P1 - P5, 2PM - 3PM)</strong></h4>
-<table>
+<ul><li><strong>SEMESTER 2 Support Lessons Schedule: P1 - P5 (2PM - 3PM)<strong></strong></strong></li><strong><strong>
+	<table>
 <tbody>
 <tr>
 <th></th>
@@ -179,7 +181,7 @@ description: ""
 </tbody>
 </table>
 
-<h4><strong>Days of Supplementary Lessons (P6)</strong></h4>
+<h4><strong>P6 Supplementary Lessons</strong></h4>
 <table>
 <tbody>
 <tr>
@@ -315,4 +317,4 @@ description: ""
 7.45 am to 11.15 pm (For pupils exempted from MTL)</td>
 </tr>
 </tbody>
-</table>
+</table></strong></strong></ul></strong></strong>
