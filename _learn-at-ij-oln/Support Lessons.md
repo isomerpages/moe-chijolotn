@@ -242,7 +242,7 @@ description: ""
 </tr>
 </tbody></table>
 <br>
-<font color="blue"><ul><li>SEMESTER 2 SupplementaryLessons Schedule: P6 (2PM - 3PM)</li></ul></font>
+<font color="blue"><ul><li>SEMESTER 2 Supplementary Lessons Schedule: P6 (2PM - 3PM)</li></ul></font>
 <table><tbody>
 <tr>
 <th></th>
