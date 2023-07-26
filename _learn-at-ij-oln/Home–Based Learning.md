@@ -26,7 +26,7 @@ description: ""
 <tbody>
 <tr>
 <th style="text-align: center;">Level:</th>
-<td style="text-align: center;">P1</td>
+<td style="text-align: center;"><a href="/files/TaskSheets28072023/P1 HBL TASK SHEET.pdf" target="_blank" rel="noopener">P1</a></td>
 <td style="text-align: center;">P2</td>
 <td style="text-align: center;">P3</td>
 <td style="text-align: center;">P4</td>
