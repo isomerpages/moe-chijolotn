@@ -3,7 +3,6 @@ title: Support Lessons
 permalink: /learn-at-ij-oln/support-lessons/
 description: ""
 ---
-
 <h4><strong>Schedule for Support and Supplementary Lessons 2023</strong></h4>
 <p>Parents whose daughter is selected for Support Lessons will receive more details via Parents Gateway.</p>
 <h4><strong>P1 - P5 Support Lessons</strong></h4>
@@ -246,54 +245,63 @@ description: ""
 <font color="blue"><ul><li>SEMESTER 2 SupplementaryLessons Schedule: P6 (2PM - 3PM)</li></ul></font>
 <table><tbody>
 <tr>
+<th></th>
 <th style="text-align: center;">Mondays</th>
 <th style="text-align: center;">Tuesdays</th>
 <th style="text-align: center;">Thursdays</th>
 <th style="text-align: center;">Fridays</th>
 </tr>
 <tr>
+<td></td>
 <td style="text-align: center;">26 Jun</td>
 <td style="text-align: center;">27 Jun</td>
 <td style="text-align: center;">6 Jul</td>
 <td style="text-align: center;">30 Jun</td>
 </tr>
 <tr>
+<td></td>
 <td style="text-align: center;">10 Jul</td>
 <td style="text-align: center;">4 Jul</td>
 <td style="text-align: center;">13 Jul</td>
 <td style="text-align: center;">7 Jul</td>
 </tr>
 <tr>
+<td></td>
 <td style="text-align: center;">17 Jul</td>
 <td style="text-align: center;">11 Jul</td>
 <td style="text-align: center;">20 Jul</td>
 <td style="text-align: center;">14 Jul</td>
 </tr>
 <tr>
+<td></td>
 <td style="text-align: center;">24 Jul</td>
 <td style="text-align: center;">18 Jul</td>
 <td style="text-align: center;">27 Jul</td>
 <td style="text-align: center;">21 Jul</td>
 </tr>
 <tr>
+<td></td>
 <td style="text-align: center;">31 Jul</td>
 <td style="text-align: center;">25 Jul</td>
 <td style="text-align: center;">3 Aug</td>
 <td style="text-align: center;">28 Jul </td>
 </tr>
 <tr>
+<td></td>
 <td style="text-align: center;">7 Aug</td>
 <td style="text-align: center;">1 Aug</td>
 <td style="text-align: center;">21 Sep</td>
 <td style="text-align: center;">4 Aug</td>
 </tr>
 <tr>
+<td></td>
 <td style="text-align: center;">11 Sep</td>
 <td style="text-align: center;">12 Sep</td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;">11 Aug</td>
 </tr>
-	<tr>
+<tr>
+<td></td>
 <td style="text-align: center;">18 Sep</td>
 <td style="text-align: center;">19 Sep</td>
 <td style="text-align: center;"></td>
