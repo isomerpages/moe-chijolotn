@@ -6,7 +6,7 @@ description: ""
 <h4><strong>Schedule for Support and Supplementary Lessons 2023</strong></h4>
 <p>Parents whose daughter is selected for Support Lessons will receive more details via Parents Gateway.</p>
 <h4><strong>P1 - P5 Support Lessons</strong></h4>
-<ul><li>SEMESTER 2 Support Lessons Days by Subjects: P1 – P5</li></ul>
+<font color="blue"><ul><li>SEMESTER 2 Support Lessons Days by Subjects: P1 – P5</li></ul></font>
 <table>
 <tbody>
 <tr>
@@ -53,7 +53,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<ul><li>SEMESTER 2 Support Lessons Schedule: P1 - P5 (2PM - 3PM)</li></ul>
+<font color="blue"><ul><li>SEMESTER 2 Support Lessons Schedule: P1 - P5 (2PM - 3PM)</li></ul></font>
 <table>
 <tbody>
 <tr>
