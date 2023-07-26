@@ -106,7 +106,7 @@ description: ""
 <td style="text-align: center;">29 Sep</td>
 </tr>
 <tr>
-<td></td>
+<td>T4, W4</td>
 <td style="text-align: center;">2 Oct</td>
 <td style="text-align: center;">3 Oct</td>
 <td style="text-align: center;"> - </td>
