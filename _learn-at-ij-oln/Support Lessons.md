@@ -346,11 +346,11 @@ description: ""
 <th>Timing</th>
 </tr>
 <tr>
-<td rowspan="2">4 September 2023 (Mon) <br>
-5 September 2023 (Tue)</td>
-<td>7.45 am to 12.15 pm
+<td>4 September 2023 (Mon)
+</td>
+<td rowspan="2">7.45 am to 12.15 pm<br>7.45 am to 11.15 pm (For pupils exempted from MTL)
 </td>
 </tr>
-	<tr><td>7.45 am to 11.15 pm (For pupils exempted from MTL)</td></tr>
+<tr><td>5 September 2023 (Tue)</td></tr>
 </tbody>
 </table>
