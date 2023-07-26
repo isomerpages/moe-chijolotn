@@ -26,13 +26,13 @@ description: ""
 <tbody>
 <tr>
 <th style="text-align: center;">Level:</th>
-<td style="text-align: center;">P1</td>
-<td style="text-align: center;">P2</td>
-<td style="text-align: center;">P3</td>
-<td style="text-align: center;">P4</td>
-<td style="text-align: center;">P5</td>
+<td style="text-align: center;"><a href="/files/TaskSheets28072023/p1 hbl sheet.pdf" target="_blank" rel="noopener">P1</a></td>
+<td style="text-align: center;"><a href="/files/TaskSheets28072023/p2 hbl sheet.pdf" target="_blank" rel="noopener">P2</a></td>
+<td style="text-align: center;"><a href="/files/TaskSheets28072023/p3 hbl sheet.pdf" target="_blank" rel="noopener">P3</a></td>
+<td style="text-align: center;"><a href="/files/TaskSheets28072023/p4 hbl sheet.pdf" target="_blank" rel="noopener">P4</a></td>
+<td style="text-align: center;"><a href="/files/TaskSheets28072023/p5 hbl sheet.pdf" target="_blank" rel="noopener">P5</a></td>
 </tr>
-	</tbody>
+</tbody>
 </table>
 
 
@@ -183,8 +183,9 @@ description: ""
 </tr>
 </tbody>
 </table>
-<hr>
 <br><br>
+<hr>
+<br>
 For SLS matters, you may also email the SLS Central Helpdesk at helpdesk@sls.ufinity.com at any time for assistance. Please include your daughter’s full name, name of school and form class.
 <br><br>
 Please fill in this&nbsp;<a href="https://go.gov.sg/chijolnpasswordreset" target="_blank" rel="noopener">form</a>&nbsp;to request for the following:
