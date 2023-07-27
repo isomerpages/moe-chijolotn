@@ -528,7 +528,7 @@ third_nav_title: Our People
 <td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
 <td><a href="mailto:lena_teo@moe.edu.sg" target="">Mrs Lena Teo</a></td>
 <td><a href="mailto:kenett_wong_tick_woon@moe.edu.sg" target="">Mr Kenett Wong</a></td>
-<td><a href="mailto:sim_fatimah_mohammed@moe.edu.sg" target="">Ms Fatimah Sim</a></td>
+<td><a href="mailto:nadira_abdul_gani@moe.edu.sg" target="">Mdm Nadira</a></td>
 </tr>
 </tbody>
 </table>
