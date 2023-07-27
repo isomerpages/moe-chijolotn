@@ -314,7 +314,7 @@ third_nav_title: Our People
 <td><a href="mailto:khoo_may_ying_elaine@moe.edu.sg" target="">Ms Elaine Khoo</a></td>
 <td><a href="mailto:elena_ong_yijin@moe.edu.sg" target="">Mrs Elena Ong</a></td>
 <td><a href="mailto:elena_ong_yijin@moe.edu.sg" target="">Ms Elena Ong</a></td>
-<td><a href="mailto:norlela_ahmad@moe.edu.sg" target="">Mdm Norlela</a></td>
+<td><a href="mailto:wang_chia_suan@moe.edu.sg" target="">Mdm Wong Chia Suan</a></td>
 <td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
 <td><a href="mailto:lena_teo@moe.edu.sg" target="">Mrs Lena Teo</a></td>
 <td><a href="mailto:foo_weng_heng_fiona@moe.edu.sg" target="">Mdm Fiona Foo</a></td>
