@@ -306,7 +306,7 @@ third_nav_title: Our People
 <td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
 <td><a href="mailto:sum_qiu_mei_sharon@moe.edu.sg" target="">Mrs Sharon Lai</a></td>
 <td><a href="mailto:kenett_wong_tick_woon@moe.edu.sg" target="">Mr Kenett Wong</a></td>
-<td><a href="mailto:toh_ai_di_eadelin@moe.edu.sg" target="">Mrs Eadelin Marzinek</a></td>
+<td><a href="mailto:low-tay_lee_pheng_teresa@moe.edu.sg" target="">Mrs Teresa Low</a></td>
 </tr>
 <tr>
 <td><strong>3 Truth</strong></td>
