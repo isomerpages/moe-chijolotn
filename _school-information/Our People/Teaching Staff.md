@@ -137,7 +137,7 @@ third_nav_title: Our People
 <td><a href="mailto:tan_shin_shin_helen@moe.edu.sg" target="">Ms Helen Tan</a></td>
 <td><a href="mailto:nur_safikha_abdul_ghapar@moe.edu.sg" target="">Mdm Nur Safikha</a></td>
 <td><a href="mailto:poh_shi_ling_edna@moe.edu.sg" target="">Ms Edna Poh</a></td>
-<td><a href="mailto:norlela_ahmad@moe.edu.sg" target="">Mdm Norlela</a></td>
+<td><a href="mailto:wang_chia_suan@moe.edu.sg" target="">Mdm Wong Chia Suan</a></td>
 </tr>
 <tr>
 <td><strong>2 Faith</strong></td>
