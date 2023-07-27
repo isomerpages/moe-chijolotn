@@ -572,7 +572,7 @@ third_nav_title: Our People
 <td><a href="mailto:tan_shin_shin_helen@moe.edu.sg" target="">Ms Helen Tan</a></td>
 <td><a href="mailto:wong_wendy@moe.edu.sg" target="">Ms Wendy Wong</a></td>
 <td><a href="mailto:kenett_wong_tick_woon@moe.edu.sg" target="">Mr Kenett Wong</a></td>
-<td><a href="mailto:toh_ai_di_eadelin@moe.edu.sg" target="">Mrs Eadelin Marzinek</a></td>
+<td><a href="mailto:tan_lee_lee@moe.edu.sg" target="">Ms Jaslyn Tan</a></td>
 </tr>
 <tr>
 <td><strong>6 Hope</strong></td>
