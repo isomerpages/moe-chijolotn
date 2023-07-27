@@ -524,7 +524,7 @@ third_nav_title: Our People
 <td><a href="mailto:joseph_lim@moe.edu.sg" target="">Mr Joseph Lim</a></td>
 <td><a href="mailto:png_lay_koon_josephine@moe.edu.sg" target="">Mrs Josephine Raj</a></td>
 <td><a href="mailto:veronica_lim_chuay_suan@moe.edu.sg" target="">Mrs Veronica Lim</a></td>
-<td><a href="mailto:norlela_ahmad@moe.edu.sg" target="">Mdm Norlela</a></td>
+<td><a href="mailto:wong_chia_suan@moe.edu.sg" target="">Mdm Wong Chia Suan</a></td>
 <td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
 <td><a href="mailto:lena_teo@moe.edu.sg" target="">Mrs Lena Teo</a></td>
 <td><a href="mailto:kenett_wong_tick_woon@moe.edu.sg" target="">Mr Kenett Wong</a></td>
