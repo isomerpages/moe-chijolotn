@@ -240,7 +240,7 @@ third_nav_title: Our People
 <td><strong>3 Faith</strong></td>
 <td><a href="mailto:tan_cheh_hia@moe.edu.sg" target="">Mrs Tan Cheh Hia</a></td>
 <td><a href="mailto:illiany_suhaily_mohamed_juhri@moe.edu.sg" target="">Mdm Illiany</a></td>
-<td><a href="mailto:sim_fatimah_mohammed@moe.edu.sg" target="">Ms Fatimah Sim</a></td>
+<td><a href="mailto:nadira_abdul_gani@moe.edu.sg" target="">Mdm Nadira</a></td>
 <td><a href="mailto:tan_cheh_hia@moe.edu.sg" target="">Mrs Tan Cheh Hia</a></td>
 <td><a href="mailto:gan_eng_eng_cheryl@moe.edu.sg" target="">Mrs Cheryl Gan</a></td>
 <td><a href="mailto:tan_shin_shin_helen@moe.edu.sg" target="">Ms Helen Tan</a></td>
@@ -250,9 +250,9 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td><strong>3 Grace</strong></td>
-<td><a href="mailto:sim_fatimah_mohammed@moe.edu.sg" target="">Ms Fatimah Sim</a></td>
+<td><a href="mailto:nadira_abdul_gani@moe.edu.sg" target="">Mdm Nadira</a></td>
 <td><a href="mailto:wong_wendy@moe.edu.sg" target="">Ms Wendy Wong</a></td>
-<td><a href="mailto:sim_fatimah_mohammed@moe.edu.sg" target="">Ms Fatimah Sim</a></td>
+<td><a href="mailto:nadira_abdul_gani@moe.edu.sg" target="">Mdm Nadira</a></td>
 <td><a href="mailto:sharon_jodi@moe.edu.sg" target="">Ms Sharon Jodi</a></td>
 <td><a href="mailto:chen_yingru@moe.edu.sg" target="">Mrs Sim Yingru</a></td>
 <td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
