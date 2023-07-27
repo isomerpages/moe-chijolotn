@@ -632,7 +632,7 @@ third_nav_title: Our People
 <td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
 <td><a href="mailto:nur_safikha_abdul_ghapar@moe.edu.sg" target="">Mdm Nur Safikha</a></td>
 <td><a href="mailto:njoo_kiat_chong_edwin@moe.edu.sg" target="">Mr Edwin Njoo</a></td>
-<td><a href="mailto:norlela_ahmad@moe.edu.sg" target="">Mdm Norlela</a></td>
+<td><a href="mailto:wang_chia_suan@moe.edu.sg" target="">Mdm Wong Chia Suan</a></td>
 </tr>
 </tbody>
 </table>
