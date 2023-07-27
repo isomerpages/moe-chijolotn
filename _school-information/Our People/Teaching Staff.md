@@ -420,7 +420,7 @@ third_nav_title: Our People
 <td><a href="mailto:sim_suat_lee@moe.edu.sg" target="">Mdm Sim Suat Lee</a></td>
 <td><a href="mailto:sarina_md_ismail@moe.edu.sg" target="">Ms Sarina</a></td>
 <td><a href="mailto:tan_lee_lee@moe.edu.sg" target="">Ms Jaslyn Tan</a></td>
-<td><a href="mailto:norlela_ahmad@moe.edu.sg" target="">Mdm Norlela</a></td>
+<td><a href="mailto:wong_chia_suan@moe.edu.sg" target="">Mdm Wong Chia Suan</a></td>
 <td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
 <td><a href="mailto:wong_wendy@moe.edu.sg" target="">Ms Wendy Wong</a></td>
 <td><a href="mailto:kenett_wong_tick_woon@moe.edu.sg" target="">Mr Kenett Wong</a></td>
