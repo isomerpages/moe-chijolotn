@@ -23,9 +23,9 @@ third_nav_title: Our People
 <td style="text-align: center;">wong_sin_cheong@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="text-align: center;">Infocomm Technology Manager</td>
-<td style="text-align: center;">Mr Syed Idrus Bin Omar Alhabshi</td>
-<td style="text-align: center;">s_idrus_omar_alhabshi@moe.edu.sg</td>
+<td style="text-align: center;">Infocomm Technology Associate</td>
+<td style="text-align: center;">Mdm Nur Ain Khahar</td>
+<td style="text-align: center;">nur_ain_khahar@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;">Administrative Executive&nbsp;</td>
@@ -67,9 +67,14 @@ third_nav_title: Our People
 <td style="text-align: center;">Mrs Lim Kim Tia</td>
 <td style="text-align: center;">&nbsp;</td>
 </tr>
-	<tr>
+<tr>
 <td style="text-align: center;">Operation Support Officer</td>
 <td style="text-align: center;">Mr Ang Toh Whatt</td>
+<td style="text-align: center;">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center;">Operation Support Officer</td>
+<td style="text-align: center;">Mdm Koh Sok Hwee</td>
 <td style="text-align: center;">&nbsp;</td>
 </tr>
 </tbody>
