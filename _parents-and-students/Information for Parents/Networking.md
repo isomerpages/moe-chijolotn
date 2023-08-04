@@ -8,6 +8,10 @@ third_nav_title: Information for Parents
 <table>
 	<tbody>
 <tr><th>Date</th><th>Event</th></tr>
+<tr>
+<td>3 Aug 2023</td>
+<td><a href="/files/Comms_Networking/2023 kopi chat - up_final v2_web.pdf" target="_blank" rel="noopener">Meeting with Parents - P1 2023</a></td>
+</tr>
 	<tr>
 <td>3 Jan 2023</td>
 <td><a href="/files/Comms_Networking/Briefing slides for P1 Parents_P1 Day1.pdf" target="_blank" rel="noopener">Meeting with Parents - P1 2023</a></td>
