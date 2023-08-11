@@ -109,13 +109,13 @@ description: ""
 	<tr>
 <td style="text-align: center;">P3</td>
 <td style="text-align: center;"><a href="/files/TSheetsAug/Maths/3 5 joy classroom.pdf" target="_blank" rel="noopener">@5joy classroom</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/Maths/3 FAITH HBL TASK SHEET.pdf" target="_blank" rel="noopener">3F</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/Maths/3 GRACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">3G</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/Maths/3 HOPE HBL TASK SHEET.pdf" target="_blank" rel="noopener">3H</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/Maths/3 JOY HBL TASK SHEET.pdf" target="_blank" rel="noopener">3J</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/Maths/3 LOVE HBL TASK SHEET.pdf" target="_blank" rel="noopener">3L</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/Maths/3 PEACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">3P</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/Maths/3 TRUTH HBL TASK SHEET.pdf" target="_blank" rel="noopener">3T</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/Maths/3 faith maths.pdf" target="_blank" rel="noopener">3F</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/Maths/3 grace maths.pdf" target="_blank" rel="noopener">3G</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/Maths/3 hope maths.pdf" target="_blank" rel="noopener">3H</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/Maths/3 joy maths.pdf" target="_blank" rel="noopener">3J</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/Maths/3 love maths.pdf" target="_blank" rel="noopener">3L</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/Maths/3 peace maths.pdf" target="_blank" rel="noopener">3P</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/Maths/3 truth maths.pdf" target="_blank" rel="noopener">3T</a></td>
 </tr>
 <tr>
 <td style="text-align: center;">P4</td>
