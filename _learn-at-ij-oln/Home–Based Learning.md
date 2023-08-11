@@ -155,9 +155,20 @@ description: ""
 <th style="text-align: center;">Peace</th>
 <th style="text-align: center;">Truth</th>
 </tr>
+<tr>
+<td style="text-align: center;">P2</td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/MT/3 5 joy classroom.pdf" target="_blank" rel="noopener">2C</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/MT/3 FAITH HBL TASK SHEET.pdf" target="_blank" rel="noopener">3F</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/MT/3 GRACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">3G</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/MT/3 HOPE HBL TASK SHEET.pdf" target="_blank" rel="noopener">3H</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/MT/3 JOY HBL TASK SHEET.pdf" target="_blank" rel="noopener">3J</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/MT/3 LOVE HBL TASK SHEET.pdf" target="_blank" rel="noopener">3L</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/MT/3 PEACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">3P</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/MT/3 TRUTH HBL TASK SHEET.pdf" target="_blank" rel="noopener">3T</a></td>
+</tr>
 	<tr>
 <td style="text-align: center;">P3</td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/MT/3 5 joy classroom.pdf" target="_blank" rel="noopener">2C</a></td>
+<td style="text-align: center;"> - </td>
 <td style="text-align: center;"><a href="/files/TSheetsAug/MT/3 FAITH HBL TASK SHEET.pdf" target="_blank" rel="noopener">3F</a></td>
 <td style="text-align: center;"><a href="/files/TSheetsAug/MT/3 GRACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">3G</a></td>
 <td style="text-align: center;"><a href="/files/TSheetsAug/MT/3 HOPE HBL TASK SHEET.pdf" target="_blank" rel="noopener">3H</a></td>
