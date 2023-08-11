@@ -134,7 +134,7 @@ description: ""
 <td style="text-align: center;"><a href="/files/TSheetsAug/Maths/5 faith maths (b1).pdf" target="_blank" rel="noopener">5F</a></td>
 <td style="text-align: center;"><a href="/files/TSheetsAug/Maths/5 grace maths (b3).pdf" target="_blank" rel="noopener">5G</a></td>
 <td style="text-align: center;"><a href="/files/TSheetsAug/Maths/5 hope maths (b2).pdf" target="_blank" rel="noopener">5H</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/Maths/P5 JOY HBL TASK SHEET.pdf" target="_blank" rel="noopener">5J</a></td>
+<td style="text-align: center;"> - </td>
 <td style="text-align: center;"><a href="/files/TSheetsAug/Maths/5 love math (b4).pdf" target="_blank" rel="noopener">5L</a></td>
 <td style="text-align: center;"><a href="/files/TSheetsAug/Maths/5 peace maths (a1).pdf" target="_blank" rel="noopener">5P</a></td>
 <td style="text-align: center;"><a href="/files/TSheetsAug/Maths/5 truth maths (a3).pdf" target="_blank" rel="noopener">5T</a></td>
