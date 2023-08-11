@@ -131,11 +131,11 @@ description: ""
 <tr>
 <td style="text-align: center;">P5</td>
 <td style="text-align: center;"><a href="/files/TSheetsAug/Maths/5 teaching lab maths (a2).pdf" target="_blank" rel="noopener">@Teaching Lab</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/Maths/P5 FAITH HBL TASK SHEET.pdf" target="_blank" rel="noopener">5F</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/Maths/P5 GRACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">5G</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/Maths/P5 HOPE HBL TASK SHEET.pdf" target="_blank" rel="noopener">5H</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/Maths/5 faith maths (b1).pdf" target="_blank" rel="noopener">5F</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/Maths/5 grace maths (b3).pdf" target="_blank" rel="noopener">5G</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/Maths/5 hope maths (b2).pdf" target="_blank" rel="noopener">5H</a></td>
 <td style="text-align: center;"><a href="/files/TSheetsAug/Maths/P5 JOY HBL TASK SHEET.pdf" target="_blank" rel="noopener">5J</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/Maths/P5 LOVE HBL TASK SHEET.pdf" target="_blank" rel="noopener">5L</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/Maths/5 love math (b4).pdf" target="_blank" rel="noopener">5L</a></td>
 <td style="text-align: center;"><a href="/files/TSheetsAug/Maths/P5 PEACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">5P</a></td>
 <td style="text-align: center;"><a href="/files/TSheetsAug/Maths/P5 TRUTH HBL TASK SHEET.pdf" target="_blank" rel="noopener">5T</a></td>
 </tr>
