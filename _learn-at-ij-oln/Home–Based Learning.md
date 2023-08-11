@@ -136,8 +136,8 @@ description: ""
 <td style="text-align: center;"><a href="/files/TSheetsAug/Maths/5 hope maths (b2).pdf" target="_blank" rel="noopener">5H</a></td>
 <td style="text-align: center;"><a href="/files/TSheetsAug/Maths/P5 JOY HBL TASK SHEET.pdf" target="_blank" rel="noopener">5J</a></td>
 <td style="text-align: center;"><a href="/files/TSheetsAug/Maths/5 love math (b4).pdf" target="_blank" rel="noopener">5L</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/Maths/P5 PEACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">5P</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/Maths/P5 TRUTH HBL TASK SHEET.pdf" target="_blank" rel="noopener">5T</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/Maths/5 peace maths (a1).pdf" target="_blank" rel="noopener">5P</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/Maths/5 truth maths (a3).pdf" target="_blank" rel="noopener">5T</a></td>
 </tr>
 <tr>
 	<td style="text-align: center;">P5</td><td><a href="/files/TSheetsAug/Maths/5 foundation maths.pdf" target="_blank" rel="noopener">Foundation</a></td></tr>
