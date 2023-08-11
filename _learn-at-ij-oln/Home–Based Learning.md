@@ -130,7 +130,7 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">P5</td>
-<td style="text-align: center;"> - </td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/Maths/P5 FAITH HBL TASK SHEET.pdf" target="_blank" rel="noopener">@Teaching Lab</a></td>
 <td style="text-align: center;"><a href="/files/TSheetsAug/Maths/P5 FAITH HBL TASK SHEET.pdf" target="_blank" rel="noopener">5F</a></td>
 <td style="text-align: center;"><a href="/files/TSheetsAug/Maths/P5 GRACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">5G</a></td>
 <td style="text-align: center;"><a href="/files/TSheetsAug/Maths/P5 HOPE HBL TASK SHEET.pdf" target="_blank" rel="noopener">5H</a></td>
@@ -139,6 +139,8 @@ description: ""
 <td style="text-align: center;"><a href="/files/TSheetsAug/Maths/P5 PEACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">5P</a></td>
 <td style="text-align: center;"><a href="/files/TSheetsAug/Maths/P5 TRUTH HBL TASK SHEET.pdf" target="_blank" rel="noopener">5T</a></td>
 </tr>
+<tr>
+	<td style="text-align: center;">P5</td><td>Foundation</td></tr>
 </tbody>
 </table>
 <h6><u>Mother Tongue (Banded Classes)</u></h6>
