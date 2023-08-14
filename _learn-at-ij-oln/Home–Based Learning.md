@@ -87,13 +87,13 @@ description: ""
 <tr>
 <td style="text-align: center;">P5</td>
 <td style="text-align: center;"> - </td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/P5 FAITH HBL TASK SHEET.pdf" target="_blank" rel="noopener">5F</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/P5 GRACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">5G</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/P5 HOPE HBL TASK SHEET.pdf" target="_blank" rel="noopener">5H</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/P5 JOY HBL TASK SHEET.pdf" target="_blank" rel="noopener">5J</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/P5 LOVE HBL TASK SHEET.pdf" target="_blank" rel="noopener">5L</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/P5 PEACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">5P</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/P5 TRUTH HBL TASK SHEET.pdf" target="_blank" rel="noopener">5T</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/P5 faith.pdf" target="_blank" rel="noopener">5F</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/P5 grace.pdf" target="_blank" rel="noopener">5G</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/P5 hope.pdf" target="_blank" rel="noopener">5H</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/P5 joy class.pdf" target="_blank" rel="noopener">5J</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/P5 love.pdf" target="_blank" rel="noopener">5L</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/P5 peace.pdf" target="_blank" rel="noopener">5P</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/P5 truth.pdf" target="_blank" rel="noopener">5T</a></td>
 <td style="text-align: center;"> - </td>
 </tr>
 </tbody>
