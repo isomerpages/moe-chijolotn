@@ -162,6 +162,8 @@ description: ""
 <th style="text-align: center;">Love</th>
 <th style="text-align: center;">Peace</th>
 <th style="text-align: center;">Truth</th>
+<th style="text-align: center;">Malay</th>
+<th style="text-align: center;">Tamil</th>
 </tr>
 <tr>
 <td style="text-align: center;">P2</td>
@@ -173,6 +175,8 @@ description: ""
 <td style="text-align: center;"><a href="/files/TSheetsAug/MT/2 love cl.pdf" target="_blank" rel="noopener">2L</a></td>
 <td style="text-align: center;"><a href="/files/TSheetsAug/MT/2 peace cl.pdf" target="_blank" rel="noopener">2P</a></td>
 <td style="text-align: center;"><a href="/files/TSheetsAug/MT/2 truth cl.pdf" target="_blank" rel="noopener">2T</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/MT/p2 malay.pdf" target="_blank" rel="noopener">ML</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/MT/p2 tamil.pdf" target="_blank" rel="noopener">TL</a></td>
 </tr>
 	<tr>
 <td style="text-align: center;">P3</td>
