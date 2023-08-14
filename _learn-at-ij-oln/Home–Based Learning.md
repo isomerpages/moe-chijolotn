@@ -37,58 +37,58 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">P1</td>
-<td style="text-align: center;"><a href="/files/TSheets29Mar/1 CHARITY HBL TASK SHEET.pdf" target="_blank" rel="noopener">1C</a></td>
-<td style="text-align: center;"><a href="/files/TSheets29Mar/1 FAITH HBL TASK SHEET.pdf" target="_blank" rel="noopener">1F</a></td>
-<td style="text-align: center;"><a href="/files/TSheets29Mar/1 GRACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">1G</a></td>
-<td style="text-align: center;"><a href="/files/TSheets29Mar/1 HOPE HBL TASK SHEET.pdf" target="_blank" rel="noopener">1H</a></td>
-<td style="text-align: center;"><a href="/files/TSheets29Mar/1 JOY HBL TASK SHEET.pdf" target="_blank" rel="noopener">1J</a></td>
-<td style="text-align: center;"><a href="/files/TSheets29Mar/1 LOVE HBL TASK SHEET.pdf" target="_blank" rel="noopener">1L</a></td>
-<td style="text-align: center;"><a href="/files/TSheets29Mar/1 PEACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">1P</a></td>
-<td style="text-align: center;"><a href="/files/TSheets29Mar/1 TRUTH HBL TASK SHEET.pdf" target="_blank" rel="noopener">1T</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/1 CHARITY HBL TASK SHEET.pdf" target="_blank" rel="noopener">1C</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/1 FAITH HBL TASK SHEET.pdf" target="_blank" rel="noopener">1F</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/1 GRACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">1G</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/1 HOPE HBL TASK SHEET.pdf" target="_blank" rel="noopener">1H</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/1 JOY HBL TASK SHEET.pdf" target="_blank" rel="noopener">1J</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/1 LOVE HBL TASK SHEET.pdf" target="_blank" rel="noopener">1L</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/1 PEACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">1P</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/1 TRUTH HBL TASK SHEET.pdf" target="_blank" rel="noopener">1T</a></td>
 </tr>
 <tr>
 <td style="text-align: center;">P2</td>
-<td style="text-align: center;"><a href="/files/TSheets29Mar/2 CHARITY HBL TASK SHEET.pdf" target="_blank" rel="noopener">2C</a></td>
-<td style="text-align: center;"><a href="/files/TSheets29Mar/2 FAITH HBL TASK SHEET.pdf" target="_blank" rel="noopener">2F</a></td>
-<td style="text-align: center;"><a href="/files/TSheets29Mar/2 GRACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">2G</a></td>
-<td style="text-align: center;"><a href="/files/TSheets29Mar/2 HOPE HBL TASK SHEET.pdf" target="_blank" rel="noopener">2H</a></td>
-<td style="text-align: center;"><a href="/files/TSheets29Mar/2 JOY HBL TASK SHEET.pdf" target="_blank" rel="noopener">2J</a></td>
-<td style="text-align: center;"><a href="/files/TSheets29Mar/2 LOVE HBL TASK SHEET.pdf" target="_blank" rel="noopener">2L</a></td>
-<td style="text-align: center;"><a href="/files/TSheets29Mar/2 PEACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">2P</a></td>
-<td style="text-align: center;"><a href="/files/TSheets29Mar/2 TRUTH HBL TASK SHEET.pdf" target="_blank" rel="noopener">2T</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/2 CHARITY HBL TASK SHEET.pdf" target="_blank" rel="noopener">2C</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/2 FAITH HBL TASK SHEET.pdf" target="_blank" rel="noopener">2F</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/2 GRACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">2G</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/2 HOPE HBL TASK SHEET.pdf" target="_blank" rel="noopener">2H</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/2 JOY HBL TASK SHEET.pdf" target="_blank" rel="noopener">2J</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/2 LOVE HBL TASK SHEET.pdf" target="_blank" rel="noopener">2L</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/2 PEACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">2P</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/2 TRUTH HBL TASK SHEET.pdf" target="_blank" rel="noopener">2T</a></td>
 </tr>
 <tr>
 <td style="text-align: center;">P3</td>
 <td style="text-align: center;"> - </td>
-<td style="text-align: center;"><a href="/files/TSheets29Mar/3 FAITH HBL TASK SHEET.pdf" target="_blank" rel="noopener">3F</a></td>
-<td style="text-align: center;"><a href="/files/TSheets29Mar/3 GRACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">3G</a></td>
-<td style="text-align: center;"><a href="/files/TSheets29Mar/3 HOPE HBL TASK SHEET.pdf" target="_blank" rel="noopener">3H</a></td>
-<td style="text-align: center;"><a href="/files/TSheets29Mar/3 JOY HBL TASK SHEET.pdf" target="_blank" rel="noopener">3J</a></td>
-<td style="text-align: center;"><a href="/files/TSheets29Mar/3 LOVE HBL TASK SHEET.pdf" target="_blank" rel="noopener">3L</a></td>
-<td style="text-align: center;"><a href="/files/TSheets29Mar/3 PEACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">3P</a></td>
-<td style="text-align: center;"><a href="/files/TSheets29Mar/3 TRUTH HBL TASK SHEET.pdf" target="_blank" rel="noopener">3T</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/3 FAITH HBL TASK SHEET.pdf" target="_blank" rel="noopener">3F</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/3 GRACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">3G</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/3 HOPE HBL TASK SHEET.pdf" target="_blank" rel="noopener">3H</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/3 JOY HBL TASK SHEET.pdf" target="_blank" rel="noopener">3J</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/3 LOVE HBL TASK SHEET.pdf" target="_blank" rel="noopener">3L</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/3 PEACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">3P</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/3 TRUTH HBL TASK SHEET.pdf" target="_blank" rel="noopener">3T</a></td>
 </tr>
 <tr>
 <td style="text-align: center;">P4</td>
 <td style="text-align: center;"> - </td>
-<td style="text-align: center;"><a href="/files/TSheets29Mar/4 FAITH HBL TASK SHEET.pdf" target="_blank" rel="noopener">4F</a></td>
-<td style="text-align: center;"><a href="/files/TSheets29Mar/4 GRACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">4G</a></td>
-<td style="text-align: center;"><a href="/files/TSheets29Mar/4 HOPE HBL TASK SHEET.pdf" target="_blank" rel="noopener">4H</a></td>
-<td style="text-align: center;"><a href="/files/TSheets29Mar/4 JOY HBL TASK SHEET.pdf" target="_blank" rel="noopener">4J</a></td>
-<td style="text-align: center;"><a href="/files/TSheets29Mar/4 LOVE HBL TASK SHEET.pdf" target="_blank" rel="noopener">4L</a></td>
-<td style="text-align: center;"><a href="/files/TSheets29Mar/4 PEACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">4P</a></td>
-<td style="text-align: center;"><a href="/files/TSheets29Mar/4 TRUTH HBL TASK SHEET.pdf" target="_blank" rel="noopener">4T</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/4 FAITH HBL TASK SHEET.pdf" target="_blank" rel="noopener">4F</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/4 GRACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">4G</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/4 HOPE HBL TASK SHEET.pdf" target="_blank" rel="noopener">4H</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/4 JOY HBL TASK SHEET.pdf" target="_blank" rel="noopener">4J</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/4 LOVE HBL TASK SHEET.pdf" target="_blank" rel="noopener">4L</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/4 PEACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">4P</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/4 TRUTH HBL TASK SHEET.pdf" target="_blank" rel="noopener">4T</a></td>
 </tr>
 <tr>
 <td style="text-align: center;">P5</td>
 <td style="text-align: center;"> - </td>
-<td style="text-align: center;"><a href="/files/TSheets29Mar/P5 FAITH HBL TASK SHEET.pdf" target="_blank" rel="noopener">5F</a></td>
-<td style="text-align: center;"><a href="/files/TSheets29Mar/P5 GRACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">5G</a></td>
-<td style="text-align: center;"><a href="/files/TSheets29Mar/P5 HOPE HBL TASK SHEET.pdf" target="_blank" rel="noopener">5H</a></td>
-<td style="text-align: center;"><a href="/files/TSheets29Mar/P5 JOY HBL TASK SHEET.pdf" target="_blank" rel="noopener">5J</a></td>
-<td style="text-align: center;"><a href="/files/TSheets29Mar/P5 LOVE HBL TASK SHEET.pdf" target="_blank" rel="noopener">5L</a></td>
-<td style="text-align: center;"><a href="/files/TSheets29Mar/P5 PEACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">5P</a></td>
-<td style="text-align: center;"><a href="/files/TSheets29Mar/P5 TRUTH HBL TASK SHEET.pdf" target="_blank" rel="noopener">5T</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/P5 FAITH HBL TASK SHEET.pdf" target="_blank" rel="noopener">5F</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/P5 GRACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">5G</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/P5 HOPE HBL TASK SHEET.pdf" target="_blank" rel="noopener">5H</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/P5 JOY HBL TASK SHEET.pdf" target="_blank" rel="noopener">5J</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/P5 LOVE HBL TASK SHEET.pdf" target="_blank" rel="noopener">5L</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/P5 PEACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">5P</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/P5 TRUTH HBL TASK SHEET.pdf" target="_blank" rel="noopener">5T</a></td>
 </tr>
 </tbody>
 </table>
