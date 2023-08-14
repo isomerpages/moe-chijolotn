@@ -211,7 +211,7 @@ description: ""
 <td style="text-align: center;"><a href="/files/TSheetsAug/MT/5 joy cl.pdf" target="_blank" rel="noopener">5J</a></td>
 <td style="text-align: center;"><a href="/files/TSheetsAug/MT/5 love cl.pdf" target="_blank" rel="noopener">5L</a></td>
 <td style="text-align: center;"><a href="/files/TSheetsAug/MT/5 peace cl.pdf" target="_blank" rel="noopener">5P</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/MT/5 truth cl.pdf" target="_blank" rel="noopener">5T</a></td>
+<td style="text-align: center;"> - </td>
 <td style="text-align: center;"><a href="/files/TSheetsAug/MT/p5 malay.pdf" target="_blank" rel="noopener">ML</a></td>
 <td style="text-align: center;"><a href="/files/TSheetsAug/MT/p5 tamil.pdf" target="_blank" rel="noopener">TL</a></td>
 </tr>
