@@ -569,7 +569,7 @@ third_nav_title: Our People
 <td><a href="mailto:png_lay_koon_josephine@moe.edu.sg" target="">Mrs Josephine Raj</a></td>
 <td><a href="mailto:low_tze_lin_vanessa@moe.edu.sg" target="">Mrs Vanessa Tan</a></td>
 <td><a href="mailto:lim_soo_mei_serena@moe.edu.sg" target="">Mrs Serena Lee</a></td>
-<td><a href="mailto:tan_shin_shin_helen@moe.edu.sg" target="">Ms Helen Tan</a></td>
+<td><a href="mailto:wong_tze_ying_jacelyn@moe.edu.sg" target="">Ms Jacelyn Wong</a></td>
 <td><a href="mailto:wong_wendy@moe.edu.sg" target="">Ms Wendy Wong</a></td>
 <td><a href="mailto:kenett_wong_tick_woon@moe.edu.sg" target="">Mr Kenett Wong</a></td>
 <td><a href="mailto:wong_tze_ying_jacelyn@moe.edu.sg" target="">Ms Jacelyn Wong</a></td>
@@ -617,7 +617,7 @@ third_nav_title: Our People
 <td><a href="mailto:sky_frank@moe.edu.sg" target="">Mrs Sky Frank</a></td>
 <td><a href="mailto:chong_sheau_huey@moe.edu.sg" target="">Mrs Tan Sheau Huey</a></td>
 <td><a href="mailto:chong_lai_kuan@moe.edu.sg" target="">Ms Joanne Chong</a></td>
-<td><a href="mailto:tan_shin_shin_helen@moe.edu.sg" target="">Ms Helen Tan</a></td>
+<td><a href="mailto:wong_tze_ying_jacelyn@moe.edu.sg" target="">Ms Jacelyn Wong</a></td>
 <td><a href="mailto:sum_qiu_mei_sharon@moe.edu.sg" target="">Mrs Sharon Lai</a></td>
 <td><a href="mailto:tan_hwee_khoon_a@moe.edu.sg" target="">Mrs Lee Hwee Khoon</a></td>
 <td><a href="mailto:chong_lai_kuan@moe.edu.sg" target="">Ms Joanne Chong</a></td>
