@@ -39,7 +39,7 @@ third_nav_title: Our People
 <td><a href="mailto:a_sumathi@moe.edu.sg" target="">Miss A Sumathi</a></td>
 <td><a href="mailto:oh_wah_gee@moe.edu.sg" target="">Mrs Cindy Oh</a></td>
 <td><a href="mailto:oh_wah_gee@moe.edu.sg" target="">Mrs Cindy Oh</a></td>
-<td><a href="mailto:tan_shin_shin_helen@moe.edu.sg" target="">Ms Helen Tan</a></td>
+<td><a href="mailto:wong_tze_ying_jacelyn@moe.edu.sg" target="">Ms Jacelyn Wong</a></td>
 <td><a href="mailto:nur_safikha_abdul_ghapar@moe.edu.sg" target="">Mdm Nur Safikha</a></td>
 <td><a href="mailto:tan_hwee_khoon_a@moe.edu.sg" target="">Mrs Lee Hwee Khoon</a></td>
 <td><a href="mailto:oh_wah_gee@moe.edu.sg" target="">Mrs Cindy Oh</a></td>
