@@ -212,6 +212,8 @@ description: ""
 <td style="text-align: center;"><a href="/files/TSheetsAug/MT/P5 LOVE HBL TASK SHEET.pdf" target="_blank" rel="noopener">5L</a></td>
 <td style="text-align: center;"><a href="/files/TSheetsAug/MT/P5 PEACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">5P</a></td>
 <td style="text-align: center;"><a href="/files/TSheetsAug/MT/P5 TRUTH HBL TASK SHEET.pdf" target="_blank" rel="noopener">5T</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/MT/p5 malay.pdf" target="_blank" rel="noopener">ML</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/MT/p5 tamil.pdf" target="_blank" rel="noopener">TL</a></td>
 </tr>
 </tbody>
 </table>
