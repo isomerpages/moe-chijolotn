@@ -50,14 +50,14 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">P2</td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/2 CHARITY HBL TASK SHEET.pdf" target="_blank" rel="noopener">2C</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/2 FAITH HBL TASK SHEET.pdf" target="_blank" rel="noopener">2F</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/2 GRACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">2G</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/2 HOPE HBL TASK SHEET.pdf" target="_blank" rel="noopener">2H</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/2 JOY HBL TASK SHEET.pdf" target="_blank" rel="noopener">2J</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/2 LOVE HBL TASK SHEET.pdf" target="_blank" rel="noopener">2L</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/2 PEACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">2P</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/2 TRUTH HBL TASK SHEET.pdf" target="_blank" rel="noopener">2T</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/2 charity.pdf" target="_blank" rel="noopener">2C</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/2 faith.pdf" target="_blank" rel="noopener">2F</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/2 grace.pdf" target="_blank" rel="noopener">2G</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/2 hope.pdf" target="_blank" rel="noopener">2H</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/2 joy class.pdf" target="_blank" rel="noopener">2J</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/2 love.pdf" target="_blank" rel="noopener">2L</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/2 peace.pdf" target="_blank" rel="noopener">2P</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/2 truth.pdf" target="_blank" rel="noopener">2T</a></td>
 <td style="text-align: center;"><a href="/files/TSheetsAug/p2 LSM.pdf" target="_blank" rel="noopener">LSM</a></td>
 </tr>
 <tr>
