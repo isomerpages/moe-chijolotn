@@ -75,13 +75,13 @@ description: ""
 <tr>
 <td style="text-align: center;">P4</td>
 <td style="text-align: center;"> - </td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/4 FAITH HBL TASK SHEET.pdf" target="_blank" rel="noopener">4F</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/4 GRACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">4G</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/4 HOPE HBL TASK SHEET.pdf" target="_blank" rel="noopener">4H</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/4 JOY HBL TASK SHEET.pdf" target="_blank" rel="noopener">4J</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/4 LOVE HBL TASK SHEET.pdf" target="_blank" rel="noopener">4L</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/4 PEACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">4P</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/4 TRUTH HBL TASK SHEET.pdf" target="_blank" rel="noopener">4T</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/4 faith.pdf" target="_blank" rel="noopener">4F</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/4 grace.pdf" target="_blank" rel="noopener">4G</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/4 hope.pdf" target="_blank" rel="noopener">4H</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/4 joy class.pdf" target="_blank" rel="noopener">4J</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/4 love.pdf" target="_blank" rel="noopener">4L</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/4 peace.pdf" target="_blank" rel="noopener">4P</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/4 truth.pdf" target="_blank" rel="noopener">4T</a></td>
 <td style="text-align: center;"> - </td>
 </tr>
 <tr>
