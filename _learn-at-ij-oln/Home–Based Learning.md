@@ -173,7 +173,7 @@ description: ""
 <td style="text-align: center;"><a href="/files/TSheetsAug/MT/2 hope cl.pdf" target="_blank" rel="noopener">2H</a></td>
 <td style="text-align: center;"><a href="/files/TSheetsAug/MT/2 joy cl.pdf" target="_blank" rel="noopener">2J</a></td>
 <td style="text-align: center;"><a href="/files/TSheetsAug/MT/2 love cl.pdf" target="_blank" rel="noopener">2L</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/MT/2 peace cl.pdf" target="_blank" rel="noopener">2P</a></td>
+<td style="text-align: center;"> - </td>
 <td style="text-align: center;"><a href="/files/TSheetsAug/MT/2 truth cl.pdf" target="_blank" rel="noopener">2T</a></td>
 <td style="text-align: center;"><a href="/files/TSheetsAug/MT/p2 malay.pdf" target="_blank" rel="noopener">ML</a></td>
 <td style="text-align: center;"><a href="/files/TSheetsAug/MT/p2 tamil.pdf" target="_blank" rel="noopener">TL</a></td>
