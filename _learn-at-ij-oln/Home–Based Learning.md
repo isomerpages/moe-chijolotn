@@ -46,7 +46,7 @@ description: ""
 <td style="text-align: center;"><a href="/files/TSheetsAug/1 love.pdf" target="_blank" rel="noopener">1L</a></td>
 <td style="text-align: center;"><a href="/files/TSheetsAug/1 peace.pdf" target="_blank" rel="noopener">1P</a></td>
 <td style="text-align: center;"><a href="/files/TSheetsAug/1 truth.pdf" target="_blank" rel="noopener">1T</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/p1 LSM.pdf" target="_blank" rel="noopener">LSM</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/p1 lsm.pdf" target="_blank" rel="noopener">LSM</a></td>
 </tr>
 <tr>
 <td style="text-align: center;">P2</td>
@@ -58,7 +58,7 @@ description: ""
 <td style="text-align: center;"><a href="/files/TSheetsAug/2 love.pdf" target="_blank" rel="noopener">2L</a></td>
 <td style="text-align: center;"><a href="/files/TSheetsAug/2 peace.pdf" target="_blank" rel="noopener">2P</a></td>
 <td style="text-align: center;"><a href="/files/TSheetsAug/2 truth.pdf" target="_blank" rel="noopener">2T</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/p2 LSM.pdf" target="_blank" rel="noopener">LSM</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/p2 lsm.pdf" target="_blank" rel="noopener">LSM</a></td>
 </tr>
 <tr>
 <td style="text-align: center;">P3</td>
