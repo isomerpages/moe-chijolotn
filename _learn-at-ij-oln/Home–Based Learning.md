@@ -215,23 +215,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<br>
-<hr>
-<h5>Task sheets for 28 Jul 2023</h5>
-<table>
-<tbody>
-<tr>
-<th style="text-align: center;">Level:</th>
-<td style="text-align: center;"><a href="/files/TaskSheets28072023/p1 hbl sheet.pdf" target="_blank" rel="noopener">P1</a></td>
-<td style="text-align: center;"><a href="/files/TaskSheets28072023/p2 hbl sheet.pdf" target="_blank" rel="noopener">P2</a></td>
-<td style="text-align: center;"><a href="/files/TaskSheets28072023/p3 hbl sheet.pdf" target="_blank" rel="noopener">P3</a></td>
-<td style="text-align: center;"><a href="/files/TaskSheets28072023/p4 hbl sheet.pdf" target="_blank" rel="noopener">P4</a></td>
-<td style="text-align: center;"><a href="/files/TaskSheets28072023/p5 hbl sheet.pdf" target="_blank" rel="noopener">P5</a></td>
-</tr>
-</tbody>
-</table>
-
-
 
 <br><br>
 <hr>
