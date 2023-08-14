@@ -187,7 +187,7 @@ description: ""
 <td style="text-align: center;"><a href="/files/TSheetsAug/MT/3 joy cl.pdf" target="_blank" rel="noopener">3J</a></td>
 <td style="text-align: center;"><a href="/files/TSheetsAug/MT/3 love cl.pdf" target="_blank" rel="noopener">3L</a></td>
 <td style="text-align: center;"><a href="/files/TSheetsAug/MT/3 peace cl.pdf" target="_blank" rel="noopener">3P</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/MT/3 truth cl.pdf" target="_blank" rel="noopener">3T</a></td>
+<td style="text-align: center;"> - </td>
 <td style="text-align: center;"><a href="/files/TSheetsAug/MT/p3 malay.pdf" target="_blank" rel="noopener">ML</a></td>
 <td style="text-align: center;"><a href="/files/TSheetsAug/MT/p3 tamil.pdf" target="_blank" rel="noopener">TL</a></td>
 </tr>
