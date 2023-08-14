@@ -61,7 +61,7 @@ third_nav_title: Our People
 <td><a href="mailto:wong_hui_erl@moe.edu.sg" target="">Mrs Ngoh Hui Erl</a></td>
 <td><a href="mailto:wong_hui_erl@moe.edu.sg" target="">Mrs Ngoh Hui Erl</a></td>
 <td><a href="mailto:wong_hui_erl@moe.edu.sg" target="">Mrs Ngoh Hui Erl</a></td>
-<td><a href="mailto:tan_shin_shin_helen@moe.edu.sg" target="">Ms Helen Tan</a></td>
+<td><a href="mailto:wong_tze_ying_jacelyn@moe.edu.sg" target="">Ms Jacelyn Wong</a></td>
 <td><a href="mailto:sum_qiu_mei_sharon@moe.edu.sg" target="">Mrs Sharon Lai</a></td>
 <td><a href="mailto:tan_hwee_khoon_a@moe.edu.sg" target="">Mrs Lee Hwee Khoon</a></td>
 <td><a href="mailto:aileen_yap_hui_ling@moe.edu.sg" target="">Ms Aileen Yap</a></td>
@@ -134,7 +134,7 @@ third_nav_title: Our People
 <td><a href="mailto:ler_ser_ling_serene@moe.edu.sg" target="">Ms Serene Ler</a></td>
 	<td><a href="mailto:lee_su_keow_irene@moe.edu.sg" target="">Mrs Irene Wong</a></td>
 <td><a href="mailto:nur_safikha_abdul_ghapar@moe.edu.sg" target="">Mdm Nur Safikha</a></td>
-<td><a href="mailto:tan_shin_shin_helen@moe.edu.sg" target="">Ms Helen Tan</a></td>
+<td><a href="mailto:wong_tze_ying_jacelyn@moe.edu.sg" target="">Ms Jacelyn Wong</a></td>
 <td><a href="mailto:nur_safikha_abdul_ghapar@moe.edu.sg" target="">Mdm Nur Safikha</a></td>
 <td><a href="mailto:poh_shi_ling_edna@moe.edu.sg" target="">Ms Edna Poh</a></td>
 <td><a href="mailto:wang_chia_suan@moe.edu.sg" target="">Mdm Wong Chia Suan</a></td>
@@ -145,7 +145,7 @@ third_nav_title: Our People
 <td><a href="mailto:hang_yun@moe.edu.sg" target="">Mdm Hang Yun</a></td>
 <td><a href="mailto:zuwaria_parvin@moe.edu.sg" target="">Mdm Parvin</a></td>
 <td><a href="mailto:zuwaria_parvin@moe.edu.sg" target="">Mdm Parvin</a></td>
-<td><a href="mailto:tan_shin_shin_helen@moe.edu.sg" target="">Ms Helen Tan</a></td>
+<td><a href="mailto:wong_tze_ying_jacelyn@moe.edu.sg" target="">Ms Jacelyn Wong</a></td>
 <td><a href="mailto:sum_qiu_mei_sharon@moe.edu.sg" target="">Mrs Sharon Lai</a></td>
 <td><a href="mailto:tan_hwee_khoon_a@moe.edu.sg" target="">Mrs Lee Hwee Khoon</a></td>
 <td><a href="mailto:zuwaria_parvin@moe.edu.sg" target="">Mdm Parvin</a></td>
@@ -243,7 +243,7 @@ third_nav_title: Our People
 <td><a href="mailto:nadira_abdul_gani@moe.edu.sg" target="">Mdm Nadira</a></td>
 <td><a href="mailto:tan_cheh_hia@moe.edu.sg" target="">Mrs Tan Cheh Hia</a></td>
 <td><a href="mailto:gan_eng_eng_cheryl@moe.edu.sg" target="">Mrs Cheryl Gan</a></td>
-<td><a href="mailto:tan_shin_shin_helen@moe.edu.sg" target="">Ms Helen Tan</a></td>
+<td><a href="mailto:wong_tze_ying_jacelyn@moe.edu.sg" target="">Ms Jacelyn Wong</a></td>
 <td><a href="mailto:wong_wendy@moe.edu.sg" target="">Ms Wendy Wong</a></td>
 <td><a href="mailto:muhammad_nazri_subawi@moe.edu.sg" target="">Mr Muhammad Nazri</a></td>
 <td><a href="mailto:elena_ong_yijin@moe.edu.sg" target="">Ms Elena Ong</a></td>
@@ -267,7 +267,7 @@ third_nav_title: Our People
 <td><a href="mailto:chern_shihui_charissa@moe.edu.sg" target="">Mrs Charissa Tan</a></td>
 <td><a href="mailto:sharon_jodi@moe.edu.sg" target="">Ms Sharon Jodi</a></td>
 <td><a href="mailto:chua_sze_li_adeline@moe.edu.sg" target="">Ms Adeline Chua</a></td>
-<td><a href="mailto:tan_shin_shin_helen@moe.edu.sg" target="">Ms Helen Tan</a></td>
+<td><a href="mailto:wong_tze_ying_jacelyn@moe.edu.sg" target="">Ms Jacelyn Wong</a></td>
 <td><a href="mailto:wong_wendy@moe.edu.sg" target="">Ms Wendy Wong</a></td>
 <td><a href="mailto:kenett_wong_tick_woon@moe.edu.sg" target="">Mr Kenett Wong</a></td>
 <td><a href="mailto:siaw_yee_looi@moe.edu.sg" target="">Mdm Elaine Siaw</a></td>
@@ -373,7 +373,7 @@ third_nav_title: Our People
 <td><a href="mailto:chan_weihan_jarryl@moe.edu.sg" target="">Mr Jarryl Chan</a></td>
 <td><a href="mailto:law_ee_peng@moe.edu.sg" target="">Ms Law Ee Peng</a></td>
 <td><a href="mailto:low_sook_ching_a@moe.edu.sg" target="">Mdm Low Sook Ching </a></td>
-<td><a href="mailto:tan_shin_shin_helen@moe.edu.sg" target="">Ms Helen Tan</a></td>
+<td><a href="mailto:wong_tze_ying_jacelyn@moe.edu.sg" target="">Ms Jacelyn Wong</a></td>
 <td><a href="mailto:lena_teo@moe.edu.sg" target="">Mrs Lena Teo</a></td>
 <td><a href="mailto:muhammad_nazri_subawi@moe.edu.sg" target="">Mr Muhammad Nazri</a></td>
 <td><a href="mailto:rabiah_begum_angullia_musa@moe.edu.sg" target="">Ms Rabiah</a></td>
@@ -397,7 +397,7 @@ third_nav_title: Our People
 <td><a href="mailto:neo_wei_keong_alphonsus@moe.edu.sg" target="">Mr Alphonsus Neo</a></td>
 <td><a href="mailto:neo_wei_keong_alphonsus@moe.edu.sg" target="">Mr Alphonsus Neo</a></td>
 <td><a href="mailto:siaw_yee_looi@moe.edu.sg" target="">Mdm Elaine Siaw</a></td>
-<td><a href="mailto:tan_shin_shin_helen@moe.edu.sg" target="">Ms Helen Tan</a></td>
+<td><a href="mailto:wong_tze_ying_jacelyn@moe.edu.sg" target="">Ms Jacelyn Wong</a></td>
 <td><a href="mailto:wong_wendy@moe.edu.sg" target="">Ms Wendy Wong</a></td>
 <td><a href="mailto:zanizam_zaini@moe.edu.sg" target="">Mr Zanizam Zaini</a></td>
 <td><a href="mailto:neo_wei_keong_alphonsus@moe.edu.sg" target="">Mr Alphonsus Neo</a></td>
