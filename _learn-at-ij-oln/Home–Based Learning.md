@@ -165,14 +165,14 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">P2</td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/MT/3 5 joy classroom.pdf" target="_blank" rel="noopener">2C</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/MT/3 FAITH HBL TASK SHEET.pdf" target="_blank" rel="noopener">3F</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/MT/3 GRACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">3G</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/MT/3 HOPE HBL TASK SHEET.pdf" target="_blank" rel="noopener">3H</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/MT/3 JOY HBL TASK SHEET.pdf" target="_blank" rel="noopener">3J</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/MT/3 LOVE HBL TASK SHEET.pdf" target="_blank" rel="noopener">3L</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/MT/3 PEACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">3P</a></td>
-<td style="text-align: center;"><a href="/files/TSheetsAug/MT/3 TRUTH HBL TASK SHEET.pdf" target="_blank" rel="noopener">3T</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/MT/2 charity cl.pdf" target="_blank" rel="noopener">2C</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/MT/2 faith cl.pdf" target="_blank" rel="noopener">2F</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/MT/2 grace cl.pdf" target="_blank" rel="noopener">2G</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/MT/2 hope cl.pdf" target="_blank" rel="noopener">2H</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/MT/2 joy cl.pdf" target="_blank" rel="noopener">2J</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/MT/3 LOVE HBL TASK SHEET.pdf" target="_blank" rel="noopener">2L</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/MT/3 PEACE HBL TASK SHEET.pdf" target="_blank" rel="noopener">2P</a></td>
+<td style="text-align: center;"><a href="/files/TSheetsAug/MT/3 TRUTH HBL TASK SHEET.pdf" target="_blank" rel="noopener">2T</a></td>
 </tr>
 	<tr>
 <td style="text-align: center;">P3</td>
