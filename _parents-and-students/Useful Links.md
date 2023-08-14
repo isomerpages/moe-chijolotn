@@ -15,3 +15,4 @@ description: ""
 8. [MOE's Secondary 1 (S1) posting process](https://www.moe.gov.sg/secondary/s1-posting)
 9. [MOE School Finder](https://www.moe.gov.sg/schoolfinder)
 10. [Affiliation - CHIJ St Joseph's Convent](https://www.chijstjosephsconvent.moe.edu.sg/)
+11. [CHIJ Our Lady Of The Nativity Library](https://schoolibrary.moe.edu.sg/chijourladyofthenativity/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
