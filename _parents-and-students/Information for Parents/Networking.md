@@ -9,6 +9,10 @@ third_nav_title: Information for Parents
 	<tbody>
 <tr><th>Date</th><th>Event</th></tr>
 <tr>
+<td>14 Aug 2023</td>
+<td><a href="/files/Comms_Networking/2023 kopi chat mp - final for web.pdf" target="_blank" rel="noopener">Lower Primary Kopi Chat information</a></td>
+</tr>
+<tr>
 <td>7 Aug 2023</td>
 <td><a href="/files/Comms_Networking/2023 kopi chat mp - final for web.pdf" target="_blank" rel="noopener">Middle Primary Kopi Chat information</a></td>
 </tr>
