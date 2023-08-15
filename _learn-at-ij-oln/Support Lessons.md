@@ -134,7 +134,7 @@ description: ""
 </tr>
 <tr>
 <td>T4, W1</td>
-<td style="text-align: center;">11 Sep</td>
+<td style="text-align: center;"> - </td>
 <td style="text-align: center;">12 Sep</td>
 <td style="text-align: center;">14 Sep</td>
 <td style="text-align: center;"> - </td>
@@ -323,7 +323,7 @@ description: ""
 </tr>
 <tr>
 <td>T4, W1</td>
-<td style="text-align: center;">11 Sep</td>
+<td style="text-align: center;"> - </td>
 <td style="text-align: center;">12 Sep</td>
 <td style="text-align: center;"> - </td>
 <td style="text-align: center;"> - </td>
