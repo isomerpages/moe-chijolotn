@@ -1,6 +1,6 @@
 ---
 title: Canteen Food List
-permalink: /information-for-parents/Canteen-Food-List/
+permalink: /information-for-parents/canteen-food-list/
 description: ""
 third_nav_title: Information for Parents
 ---

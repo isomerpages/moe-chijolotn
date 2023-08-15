@@ -1,6 +1,6 @@
 ---
 title: Letters to Parents
-permalink: /information-for-parents/communications/letters-to-parents/
+permalink: /information-for-parents/letters-to-parents/
 description: ""
 third_nav_title: Information for Parents
 ---

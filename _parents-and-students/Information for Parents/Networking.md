@@ -1,6 +1,6 @@
 ---
 title: Networking
-permalink: /information-for-parents/communications/networking/
+permalink: /information-for-parents/networking/
 description: ""
 third_nav_title: Information for Parents
 ---

@@ -1,6 +1,6 @@
 ---
 title: Tok Tok
-permalink: /information-for-parents/messaging-system/tok-tok/
+permalink: /information-for-parents/tok-tok/
 description: ""
 third_nav_title: Information for Parents
 ---
