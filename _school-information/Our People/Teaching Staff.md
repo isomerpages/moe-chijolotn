@@ -829,11 +829,11 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td><strong>P4 CL</strong></td>
-<td>Mdm Jenny Lee</td>
+<td>Mdm Rachel Siow</td>
 <td>Mdm Li Ning</td>
 <td>Ms Heng Meow Ern</td>
 <td>Ms Jasmine Yap</td>
-<td>Mdm Rachel Siow</td>
+<td>Mdm Jenny Lee</td>
 <td>Mdm Sim Suat Lee</td>
 </tr>
 <tr>
