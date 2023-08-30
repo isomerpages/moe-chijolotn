@@ -11,9 +11,9 @@ third_nav_title: Co Curricular Activities (CCA)
 <td>
 <p><strong><u>Sports<br></u></strong>Netball</p>
 <ul>
-<li><a href="/files/2023CCASchedules/T4/2023oln_0270l - cca schedule 2023 t3 - p3 netball.pdf" target="_blank" rel="noopener">P3</a></li>
-<li><a href="/files/2023CCASchedules/T4/2023oln_0270m - cca schedule 2023 t3 - p4 netball.pdf" target="_blank" rel="noopener">P4</a></li>
-<li><a href="/files/2023CCASchedules/T4/2023oln_0270n - cca schedule 2023 t3 - p5 netball.pdf" target="_blank" rel="noopener">P5</a></li>
+<li><a href="/files/2023CCASchedules/T4/t4 - p3 netball.pdf" target="_blank" rel="noopener">P3</a></li>
+<li><a href="/files/2023CCASchedules/T4/t4 - p4 netball.pdf" target="_blank" rel="noopener">P4</a></li>
+<li><a href="/files/2023CCASchedules/T4/t4 - p5 netball.pdf" target="_blank" rel="noopener">P5</a></li>
 
 <li><a href="/files/2023CCASchedules/T4/2023oln_0270o - cca schedule 2023 t3 - netball developmental team.pdf" target="_blank" rel="noopener">Development Team</a></li>
 </ul>
