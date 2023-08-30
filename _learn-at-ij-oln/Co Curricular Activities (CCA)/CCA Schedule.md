@@ -17,9 +17,9 @@ third_nav_title: Co Curricular Activities (CCA)
 
 <li><a href="/files/2023CCASchedules/T4/t4 - netball developmental team.pdf" target="_blank" rel="noopener">Development Team</a></li>
 </ul>
-<p><a href="/files/2023CCASchedules/T4/2023oln_0270j - cca schedule 2023 t3 - p3, p4 &amp; p5 floorball (1).pdf" target="_blank" rel="noopener">P3, P4 &amp; P5 Floorball</a><br><br>
-	<a href="/files/2023CCASchedules/T4/2023oln_0270a - cca schedule 2023 t3 - bowling.pdf" target="_blank" rel="noopener">Bowling</a><br><br>
-	<a href="/files/2023CCASchedules/T4/2023oln_0270p - cca schedule 2023 t3 - table tennis.pdf" target="_blank" rel="noopener">P3, P4 &amp;  P5 Table Tennis</a></p>
+<p><a href="/files/2023CCASchedules/T4/t4 - p3_p4_p5 floorball.pdf" target="_blank" rel="noopener">P3, P4 &amp; P5 Floorball</a><br><br>
+	<a href="/files/2023CCASchedules/T4/t4 - bowling.pdf" target="_blank" rel="noopener">Bowling</a><br><br>
+	<a href="/files/t4 - table tennis.pdf" target="_blank" rel="noopener">P3, P4 &amp;  P5 Table Tennis</a></p>
 </td>
 <td>
 <p><strong><u>Visual &amp;Performing Arts<br></u></strong><a href="/files/2023CCASchedules/T4/2023oln_0270e - cca schedule 2023 t3 - creative crew.pdf" target="_blank" rel="noopener">Creative Crew</a><br>
