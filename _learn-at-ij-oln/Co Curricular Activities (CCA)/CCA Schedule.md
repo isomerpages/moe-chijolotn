@@ -19,7 +19,7 @@ third_nav_title: Co Curricular Activities (CCA)
 </ul>
 <p><a href="/files/2023CCASchedules/T4/t4 - p3_p4_p5 floorball.pdf" target="_blank" rel="noopener">P3, P4 &amp; P5 Floorball</a><br><br>
 	<a href="/files/2023CCASchedules/T4/t4 - bowling.pdf" target="_blank" rel="noopener">Bowling</a><br><br>
-	<a href="/files/t4 - table tennis.pdf" target="_blank" rel="noopener">P3, P4 &amp;  P5 Table Tennis</a></p>
+	<a href="/files/2023CCASchedules/T4/t4 - table tennis.pdf" target="_blank" rel="noopener">P3, P4 &amp;  P5 Table Tennis</a></p>
 </td>
 <td>
 <p><strong><u>Visual &amp;Performing Arts<br></u></strong><a href="/files/2023CCASchedules/T4/t4 - creative crew.pdf" target="_blank" rel="noopener">Creative Crew</a><br>
