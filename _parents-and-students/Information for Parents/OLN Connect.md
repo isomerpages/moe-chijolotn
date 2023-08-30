@@ -18,7 +18,7 @@ third_nav_title: Information for Parents
 <tr>
 	<td><a href="/files/2023Connect/oln_connect_p007.pdf" rel="noopener">July</a></td>
 	<td><a href="/files/2023Connect/oln_connect_p008r2.pdf" rel="noopener">August</a></td>
-<td>September</td>
+	<td><a href="/files/2023Connect/oln_connect_p009.pdf" rel="noopener">September</a></td>
 <td>October</td>
 <td>November</td>
 <td>December</td>
