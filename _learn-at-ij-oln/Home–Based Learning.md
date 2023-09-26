@@ -25,7 +25,7 @@ description: ""
 <table>
 <tbody>
 <tr>
-<td><a href="/files/hbl1grace/1 grace_27_28 sept upd.pdf" target="_blank" rel="noopener">P1 Grace</a></td>
+<td><a href="/files/Hbl1grace/1 grace_27_28 sept upd.pdf" target="_blank" rel="noopener">P1 Grace</a></td>
 </tr>
 </tbody>
 </table>
