@@ -20,33 +20,21 @@ description: ""
 <li><a href="/files/Guides/ZOOM ONBOARDING GUIDE.pdf" target="_blank" rel="noopener">Zoom Onboarding</a></li>
 	<li><a href="/files/Guides/GOOGLE CLASSROOM.pdf" target="_blank" rel="noopener">Google Classroom</a></li>
 </ol>
-<hr><br>
-<h5>Task sheets for 1 Grace (27 &amp; 28 Sep 2023)</h5>
+
+<hr>
+<h5>Task sheets for 16 - 18 Oct 2023</h5>
 <table>
 <tbody>
 <tr>
-<td><a href="/files/Hbl1grace/1 grace_27_28 sept upd.pdf" target="_blank" rel="noopener">P1 Grace</a></td>
+<td><b>Level</b></td>
+<td><a href="/files/TaskSheetsOct/primary 3 task sheet.pdf" target="_blank" rel="noopener">P3</a></td>
+<td><a href="/files/TaskSheetsOct/primary 4 task sheet.pdf" target="_blank" rel="noopener">P4</a></td>
+<td><a href="/files/TaskSheetsOct/primary 5 task sheet.pdf" target="_blank" rel="noopener">P5</a></td>
+	<td></td>
+	<td></td>
 </tr>
 </tbody>
 </table>
-<br>
-
-<hr><br>
-<h5>Task sheets for 15 Sep 2023</h5>
-<table>
-<tbody>
-<tr>
-<td style="text-align: center;"><b>Level<b></b></b></td>
-<td style="text-align: center;"><a href="/files/TaskSheetsSep/p1 hbl sheet.pdf" target="_blank" rel="noopener">P1</a></td>
-<td style="text-align: center;"><a href="/files/TaskSheetsSep/p2 hbl sheet.pdf" target="_blank" rel="noopener">P2</a></td>
-<td style="text-align: center;"><a href="/files/TaskSheetsSep/p3 hbl sheet.pdf" target="_blank" rel="noopener">P3</a></td>
-<td style="text-align: center;"><a href="/files/TaskSheetsSep/p4 hbl sheet.pdf" target="_blank" rel="noopener">P4</a></td>
-<td style="text-align: center;"><a href="/files/TaskSheetsSep/p5 hbl sheet.pdf" target="_blank" rel="noopener">P5</a></td>
-</tr>
-</tbody>
-</table>
-
-<br><br>
 <hr>
 <br>
 For SLS matters, you may also email the SLS Central Helpdesk at helpdesk@sls.ufinity.com at any time for assistance. Please include your daughter’s full name, name of school and form class.
