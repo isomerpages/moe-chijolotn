@@ -32,11 +32,7 @@ third_nav_title: Our People
 <td style="text-align: center;">Ms Stephanie Quek Su Ping</td>
 <td style="text-align: center;">&nbsp;</td>
 </tr>
-<tr>
-<td style="text-align: center;">Adjunct Administrative Executive&nbsp;</td>
-<td style="text-align: center;">Mr Mohamed Qabeer Bin Sulaiman</td>
-<td style="text-align: center;">&nbsp;</td>
-</tr>
+
 <tr>
 <td style="text-align: center;">Adjunct Administrative Executive&nbsp;</td>
 <td style="text-align: center;">Ms Pee Lay Hoon&nbsp;</td>
