@@ -22,6 +22,11 @@ third_nav_title: Our People
 <td style="text-align: center;">Mr Wong Sin Cheong</td>
 <td style="text-align: center;">wong_sin_cheong@moe.edu.sg</td>
 </tr>
+	<tr>
+<td style="text-align: center;">Operations Manager</td>
+<td style="text-align: center;">Mr Allan Chua</td>
+<td style="text-align: center;">chua_song_kim@moe.edu.sg</td>
+</tr>
 <tr>
 <td style="text-align: center;">Infocomm Technology Associate</td>
 <td style="text-align: center;">Mdm Nur Ain Khahar</td>
