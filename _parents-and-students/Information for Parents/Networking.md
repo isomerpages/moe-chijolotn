@@ -11,11 +11,11 @@ variant: markdown
 <tr><th>Date</th><th>Event</th></tr>
 		<tr>
 <td>10 Nov 2023</td>
-<td><a href="/files/Comms_Networking/2023_P1_Orientation_14Nov.pdf" target="_blank" rel="noopener">2023 P1 Orientation</a></td>
+<td><a href="/files/Comms_Networking/2023_p1_orientation_14nov.pdf" target="_blank" rel="noopener">2023 P1 Orientation</a></td>
 </tr>
 <tr>
 <td>10 Nov 2023</td>
-<td><a href="/files/Comms_Networking/P1_STARTING_SCHOOL_IN_2024_14Nov.pdf" target="_blank" rel="noopener">Starting School in 2024 (P1 Orientation)</a></td>
+<td><a href="/files/Comms_Networking/p1_starting_school_in_2024_14nov.pdf" target="_blank" rel="noopener">Starting School in 2024 (P1 Orientation)</a></td>
 </tr>
 <tr>
 <td>14 Aug 2023</td>
