@@ -15,6 +15,8 @@ Prayer is an integral part of our daily routine in school. Our Faith Ambassadors
 We start off our week each Monday with a reflection on a verse taken from the previous Sunday’s readings. A teacher not only explains the verse but also poses reflection questions for all to think about and act on
 
 ![](/images/CatholicID/CelebrateKeyEvents.jpg)
+<br>
+
  
 ![](/images/CatholicID/School_Wide_Programmes_4.JPG)
 We celebrate the start of each school year with a mass, seeking God’s blessings for the new year.&nbsp;
