@@ -10,22 +10,24 @@ Nurturing the value of the Catholic identity and ethos in our everyday school li
 
 ![](/images/CatholicID/School_Wide_Programmes_1.JPG)
 Prayer is an integral part of our daily routine in school. Our Faith Ambassadors lead in prayer daily, at morning assembly, after recess as we sing a hymn of thanksgiving and later again at dismissal.
+<br>
 
 ![](/images/CatholicID/School_Wide_Programmes_2.JPG)
 We start off our week each Monday with a reflection on a verse taken from the previous Sunday’s readings. A teacher not only explains the verse but also poses reflection questions for all to think about and act on
-
-![](/images/CatholicID/CelebrateKeyEvents.jpg)
 <br>
 
- 
+![](/images/CatholicID/CelebrateKeyEvents.jpg)
+<br><br>
+
 ![](/images/CatholicID/School_Wide_Programmes_4.JPG)
 We celebrate the start of each school year with a mass, seeking God’s blessings for the new year.&nbsp;
 Founder’s Day Mass is celebrated to commemorate our founder, Blessed Nicolas Barré.&nbsp;
 We give thanks to God for His blessings with a Thanksgiving Mass at the end of the year.
-
+<br>
 
 ![](/images/CatholicID/RecitationOftheRosary.jpg)
 The months of May and October are dedicated to Our Lady.  Each morning, our teachers lead students in a reflection on a mystery to help them see how they can embrace values such as gratitude and love for others. Catholic students are also encouraged to spend quiet time in the prayer room saying the rosary. 
+<br>
 
 ![](/images/CatholicID/School_Wide_Programmes_6.JPG)
 <p align="center">Project G.O.O.D. – Gift of One Dollar</p>
