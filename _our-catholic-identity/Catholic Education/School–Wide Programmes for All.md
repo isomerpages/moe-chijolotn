@@ -17,9 +17,7 @@ We start off our week each Monday with a reflection on a verse taken from the pr
 
 
 ![](/images/CatholicID/School_Wide_Programmes_3.jpg)
-	<small>
-	</small><small>
-	</small><table>
+	<table>
 <tbody>
 <tr>
 <td style="width: 50%;" colspan="2"><img src="/images/CatholicID/EventInLitCal.jpg"></td>
