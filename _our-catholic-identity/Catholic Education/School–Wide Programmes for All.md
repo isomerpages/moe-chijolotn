@@ -44,5 +44,6 @@ We give thanks to God for His blessings with a Thanksgiving Mass at the end of t
 
 ![](/images/CatholicID/School_Wide_Programmes_6.JPG)
 <p align="center">Project G.O.O.D. – Gift of One Dollar</p>
-Every year, we encourage students to put aside one dollar over the 40 days of Lent. As a Lenten observance of charity and almsgiving, students are encouraged to make a little sacrifice each day. By giving up something, our girls show their love for others. The money collected is donated to IJHCC (Infant Jesus Homes and Children's Centres). 
+<p>
+Every year, we encourage students to put aside one dollar over the 40 days of Lent. As a Lenten observance of charity and almsgiving, students are encouraged to make a little sacrifice each day. By giving up something, our girls show their love for others. The money collected is donated to IJHCC (Infant Jesus Homes and Children's Centres). </p>
 
