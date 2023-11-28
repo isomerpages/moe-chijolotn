@@ -11,3 +11,7 @@ Prayer is an integral part of our daily routine in school. Our Faith Ambassadors
 ![](/images/CatholicID/School_Wide_Programmes_2.JPG)
 We start off our week each Monday with a reflection on a verse taken from the previous Sunday’s readings. A teacher not only explains the verse but also poses reflection questions for all to think about and act on. 
 ![](/images/CatholicID/School_Wide_Programmes_3.JPG)
+
+
+
+
