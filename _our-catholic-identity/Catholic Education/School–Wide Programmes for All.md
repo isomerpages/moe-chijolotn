@@ -42,6 +42,7 @@ Founder’s Day Mass is celebrated to commemorate our founder, Blessed Nicolas B
 We give thanks to God for His blessings with a Thanksgiving Mass at the end of the year.
 
 ![](/images/CatholicID/RecitationOftheRosary.jpg)
+The months of May and October are dedicated to Our Lady.  Each morning, our teachers lead students in a reflection on a mystery to help them see how they can embrace values such as gratitude and love for others. Catholic students are also encouraged to spend quiet time in the prayer room saying the rosary. 
 
 ![](/images/CatholicID/School_Wide_Programmes_6.JPG)
 <p align="center">Project G.O.O.D. – Gift of One Dollar</p>
