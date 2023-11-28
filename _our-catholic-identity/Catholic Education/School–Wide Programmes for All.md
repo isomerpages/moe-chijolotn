@@ -24,9 +24,9 @@ We start off our week each Monday with a reflection on a verse taken from the pr
 <td style="width: 50%;" colspan="2"><img src="/images/CatholicID/SchoolEvent.jpg"></td>
 </tr>
 <tr>
-<td style="width: 30%;"><img src="/images/CatholicID/EventInLitCalPict.jpg"></td>
+<td style="font-size: 10px;"><img src="/images/CatholicID/EventInLitCalPict.jpg"></td>
 	<td><ul>
-<li>Ash Wednesday  sml
+<li>Ash Wednesday style
 </li><li>Lent and Easter
 </li><li>Marian months
 		</li><li>Thanksgiving &amp; Christmas</li></ul></td>
