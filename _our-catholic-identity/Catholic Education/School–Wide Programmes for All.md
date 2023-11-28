@@ -22,13 +22,13 @@ We start off our week each Monday with a reflection on a verse taken from the pr
 </tr>
 <tr>
 <td style="width: 30%;"><img src="/images/CatholicID/EventInLitCalPict.jpg"></td>
-	<td style="font-size:50%"><ul>
+	<td style="font-size:20%"><ul>
 <li>Ash Wednesday
 </li><li>Lent and Easter
 </li><li>Marian months
 </li><li>Thanksgiving &amp; Christmas</li></ul></td>
 <td style="width: 30%;"><img src="/images/CatholicID/SchoolEventPict.jpg"></td>
-	<td style="font-size:50%">
+	<td style="font-size:20%">
 		<ul>
 		<li>Start of the School Year&nbsp;
 </li><li>Founder’s Day 
