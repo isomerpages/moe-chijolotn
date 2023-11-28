@@ -18,7 +18,7 @@ We start off our week each Monday with a reflection on a verse taken from the pr
 
 ![](/images/CatholicID/School_Wide_Programmes_3.jpg)
 <font size="5px">
-	</font><table>
+	<table>
 <tbody>
 <tr>
 <td style="width: 50%;" colspan="2"><img src="/images/CatholicID/EventInLitCal.jpg"></td>
@@ -37,7 +37,7 @@ We start off our week each Monday with a reflection on a verse taken from the pr
 </li><li>Founder’s Day 
 </li><li>National Day
 </li><li>Thanksgiving</li></ul></td>
-</tr></tbody></table>
+</tr></tbody></table></font>
 
 
 ![](/images/CatholicID/School_Wide_Programmes_4.JPG)
