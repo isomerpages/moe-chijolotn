@@ -11,8 +11,7 @@ Prayer is an integral part of our daily routine in school. Our Faith Ambassadors
 ![](/images/CatholicID/School_Wide_Programmes_2.JPG)
 We start off our week each Monday with a reflection on a verse taken from the previous Sunday’s readings. A teacher not only explains the verse but also poses reflection questions for all to think about and act on.&nbsp;
 ![](/images/CatholicID/School_Wide_Programmes_3.JPG)
-
-<table border="0">
+<table>
 <tbody>
 <tr>
 <td style="width: 50%;" colspan="2"><img src="/images/CatholicID/EventInLitCal.jpg"></td>
@@ -31,6 +30,9 @@ We start off our week each Monday with a reflection on a verse taken from the pr
 </li><li>Founder’s Day 
 </li><li>National Day
 </li><li>Thanksgiving</li></ul></td>
-</tr>
-</tbody>
-</table>
+</tr></tbody></table>
+
+![](/images/CatholicID/School_Wide_Programmes_4.JPG)
+We celebrate the start of each school year with a mass, seeking God’s blessings for the new year.&nbsp;
+Founder’s Day Mass is celebrated to commemorate our founder, Blessed Nicolas Barré.&nbsp;
+We give thanks to God for His blessings with a Thanksgiving Mass at the end of the year.
