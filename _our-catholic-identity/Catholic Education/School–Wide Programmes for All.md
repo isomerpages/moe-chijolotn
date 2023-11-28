@@ -22,13 +22,14 @@ We start off our week each Monday with a reflection on a verse taken from the pr
 </tr>
 <tr>
 <td style="width: 30%;"><img src="/images/CatholicID/EventInLitCalPict.jpg"></td>
-	<td><ul>
+	<td><ul style="font-size:70%">
 <li>Ash Wednesday
 </li><li>Lent and Easter
 </li><li>Marian months
 </li><li>Thanksgiving &amp; Christmas</li></ul></td>
 <td style="width: 30%;"><img src="/images/CatholicID/SchoolEventPict.jpg"></td>
-	<td><ul>
+	<td>
+		<ul style="font-size:70%">
 		<li>Start of the School Year&nbsp;
 </li><li>Founder’s Day 
 </li><li>National Day
@@ -46,4 +47,3 @@ We give thanks to God for His blessings with a Thanksgiving Mass at the end of t
 <p align="center">Project G.O.O.D. – Gift of One Dollar</p>
 <p>
 Every year, we encourage students to put aside one dollar over the 40 days of Lent. As a Lenten observance of charity and almsgiving, students are encouraged to make a little sacrifice each day. By giving up something, our girls show their love for others. The money collected is donated to IJHCC (Infant Jesus Homes and Children's Centres). </p>
-
