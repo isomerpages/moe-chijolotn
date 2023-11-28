@@ -14,7 +14,8 @@ Prayer is an integral part of our daily routine in school. Our Faith Ambassadors
 We start off our week each Monday with a reflection on a verse taken from the previous Sunday’s readings. A teacher not only explains the verse but also poses reflection questions for all to think about and act on
 
 ![](/images/CatholicID/School_Wide_Programmes_3.jpg)
-<table>
+<font size="1">
+	</font><table>
 <tbody>
 <tr>
 <td style="width: 50%;" colspan="2"><img src="/images/CatholicID/EventInLitCal.jpg"></td>
@@ -22,15 +23,14 @@ We start off our week each Monday with a reflection on a verse taken from the pr
 </tr>
 <tr>
 <td style="width: 30%;"><img src="/images/CatholicID/EventInLitCalPict.jpg"></td>
-	<td style="font-size:20%"><ul>
+	<td><ul>
 <li>Ash Wednesday
 </li><li>Lent and Easter
 </li><li>Marian months
 </li><li>Thanksgiving &amp; Christmas</li></ul></td>
 <td style="width: 30%;"><img src="/images/CatholicID/SchoolEventPict.jpg"></td>
-	<td style="font-size:20%">
-		<ul>
-		<li>Start of the School Year&nbsp;
+	<td><ul>
+	<li>Start of the School Year&nbsp;
 </li><li>Founder’s Day 
 </li><li>National Day
 </li><li>Thanksgiving</li></ul></td>
