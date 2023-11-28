@@ -36,3 +36,4 @@ We start off our week each Monday with a reflection on a verse taken from the pr
 We celebrate the start of each school year with a mass, seeking God’s blessings for the new year.&nbsp;
 Founder’s Day Mass is celebrated to commemorate our founder, Blessed Nicolas Barré.&nbsp;
 We give thanks to God for His blessings with a Thanksgiving Mass at the end of the year.
+![](/images/CatholicID/RecitationOftheRosary.jpg)
