@@ -31,5 +31,4 @@ The months of May and October are dedicated to Our Lady.  Each morning, our teac
 
 ![](/images/CatholicID/School_Wide_Programmes_6.JPG)
 <p align="center">Project G.O.O.D. – Gift of One Dollar</p>
-<p>
-Every year, we encourage students to put aside one dollar over the 40 days of Lent. As a Lenten observance of charity and almsgiving, students are encouraged to make a little sacrifice each day. By giving up something, our girls show their love for others. The money collected is donated to IJHCC (Infant Jesus Homes and Children's Centres). </p>
+<p>Every year, we encourage students to put aside one dollar over the 40 days of Lent. As a Lenten observance of charity and almsgiving, students are encouraged to make a little sacrifice each day. By giving up something, our girls show their love for others. The money collected is donated to IJHCC (Infant Jesus Homes and Children's Centres). </p>
