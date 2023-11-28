@@ -17,8 +17,9 @@ We start off our week each Monday with a reflection on a verse taken from the pr
 
 
 ![](/images/CatholicID/School_Wide_Programmes_3.jpg)
-<font size="5px">
-	<table>
+	<small>
+	</small><small>
+	</small><table>
 <tbody>
 <tr>
 <td style="width: 50%;" colspan="2"><img src="/images/CatholicID/EventInLitCal.jpg"></td>
@@ -27,18 +28,17 @@ We start off our week each Monday with a reflection on a verse taken from the pr
 <tr>
 <td style="width: 30%;"><img src="/images/CatholicID/EventInLitCalPict.jpg"></td>
 	<td><ul>
-<li>Ash Wednesday 5px
+<li>Ash Wednesday  sml
 </li><li>Lent and Easter
 </li><li>Marian months
-</li><li>Thanksgiving &amp; Christmas</li></ul></td>
+		</li><li>Thanksgiving &amp; Christmas</li></ul></td>
 <td style="width: 30%;"><img src="/images/CatholicID/SchoolEventPict.jpg"></td>
 	<td><ul>
 	<li>Start of the School Year&nbsp;
 </li><li>Founder’s Day 
 </li><li>National Day
-</li><li>Thanksgiving</li></ul></td>
-</tr></tbody></table></font>
-
+		</li><li>Thanksgiving</li></ul></td>
+</tr></tbody></table>
 
 ![](/images/CatholicID/School_Wide_Programmes_4.JPG)
 We celebrate the start of each school year with a mass, seeking God’s blessings for the new year.&nbsp;
