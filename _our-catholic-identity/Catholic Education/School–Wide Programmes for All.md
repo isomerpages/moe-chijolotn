@@ -25,7 +25,12 @@ We start off our week each Monday with a reflection on a verse taken from the pr
 </li><li>Lent and Easter
 </li><li>Marian months
 </li><li>Thanksgiving &amp; Christmas</li></ul></td>
-<td style="width: 30%;"><img src="/images/CatholicID/SchoolEventPict.jpg"></td><td></td>
+<td style="width: 30%;"><img src="/images/CatholicID/SchoolEventPict.jpg"></td>
+	<td><ul>
+		<li>Start of the School Year&nbsp;
+</li><li>Founder’s Day 
+</li><li>National Day
+</li><li>Thanksgiving</li></ul></td>
 </tr>
 </tbody>
 </table>
