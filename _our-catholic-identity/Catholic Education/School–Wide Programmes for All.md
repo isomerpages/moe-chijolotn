@@ -6,18 +6,16 @@ third_nav_title: Catholic Education
 variant: markdown
 ---
 Nurturing the value of the Catholic identity and ethos in our everyday school life provides guidance to our Catholic students.&nbsp; These practices serve as the lifelong foundation, giving them meaning and purpose as they live a God-centred life.
-<br>
+
 
 ![](/images/CatholicID/School_Wide_Programmes_1.JPG)
 Prayer is an integral part of our daily routine in school. Our Faith Ambassadors lead in prayer daily, at morning assembly, after recess as we sing a hymn of thanksgiving and later again at dismissal.
-<br>
 
 ![](/images/CatholicID/School_Wide_Programmes_2.JPG)
 We start off our week each Monday with a reflection on a verse taken from the previous Sunday’s readings. A teacher not only explains the verse but also poses reflection questions for all to think about and act on
-<br>
 
 ![](/images/CatholicID/CelebrateKeyEvents.jpg)
-<br><br>
+<br>
 
 ![](/images/CatholicID/School_Wide_Programmes_4.JPG)
 We celebrate the start of each school year with a mass, seeking God’s blessings for the new year.&nbsp;
