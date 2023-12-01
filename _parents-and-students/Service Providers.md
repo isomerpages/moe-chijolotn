@@ -5,7 +5,9 @@ description: booklist bookshop bus service provider school uniform
 variant: markdown
 ---
 <h4><strong>School Uniform and PE Attire</strong></h4>
-<p><strong>Magdalene Sewing Centre Pte Ltd<br></strong>Tech Place II<br>5000 Ang Mo Kio Ave 5 #05-09, Singapore 569870<br>Tel: 6293 5840 / 8638 0499 (WhatsApp)<br>Email:&nbsp;<a href="mailto:info@magdalene.com.sg?subject=Request%20for%20information">info@magdalene.com.sg</a><br>Sale Method: School uniform and PE attire are available at the school bookshop.<br>Mon to Fri: 11.30am to 12.30pm</p>
+<p><strong>Magdalene Sewing Centre Pte Ltd<br></strong>Tech Place II<br>5000 Ang Mo Kio Ave 5 #05-09, Singapore 569870<br>Tel: 6293 5840 / 8638 0499 (WhatsApp)<br>Email:&nbsp;<a href="mailto:info@magdalene.com.sg?subject=Request%20for%20information">info@magdalene.com.sg</a>
+<br>website: <a href="https://www.magdalene.com.sg/"> https://www.magdalene.com.sg</a>
+<br>Sale Method: School uniform and PE attire are available at the school bookshop.<br>Mon to Fri: 11.30am to 12.30pm</p>
 
 <h4><strong>Transport</strong></h4>
 <p><strong>KW Bus Pte Ltd<br></strong>764A Woodlands Circle, #10-304<br>Singapore 731764<br>Tel: 8498 4950<br>Email: kwbus@yahoo.com.sg<br>
