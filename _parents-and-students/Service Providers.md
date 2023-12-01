@@ -15,7 +15,7 @@ variant: markdown
 <a target="_blank" href="/files/Ops/school bus operator - awarded.pdf">Bus Service Awarded for 2024 - 2025</a></p>
 <h4><strong>Bookshop</strong></h4>
 <p><strong>BL Marketing Pte Ltd<br></strong>61, Ubi Road 1, #02-02 Oxley Bizhub, Singapore 408727<br>Tel: 6281 9274<br>Email: sales@blmarketing.sg
-<br>Website: <a target="_blank" href="https://www.blmarketing.sg"> https://https://www.blmarketing.sg</a>
+<br>Website: <a target="_blank" href="https://www.blmarketing.sg"> https://www.blmarketing.sg</a>
 <br>School Bookshop Opening Hours<br>Mon to Fri during school term (excluding public holidays): 11:30am to 12:30pm<br><a target="_blank" href="/files/Ops/2024_P1_P6_booklists.pdf">2024 Booklist</a></p>
 
 <h4><strong>Dental Clinic</strong></h4>
