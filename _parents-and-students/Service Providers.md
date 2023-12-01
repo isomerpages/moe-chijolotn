@@ -11,7 +11,7 @@ variant: markdown
 
 <h4><strong>Transport</strong></h4>
 <p><strong>KW Bus Pte Ltd<br></strong>764A Woodlands Circle, #10-304<br>Singapore 731764<br>Tel: 8498 4950<br>Email: kwbus@yahoo.com.sg<br>
-	<a target="_blank" href="/files/Ops/school bus nte prices.pdf">More details..</a><br><br>
+	<a target="_blank" href="/files/Ops/school bus nte prices.pdf">More details..</a><br>
 <a target="_blank" href="/files/Ops/school bus operator - awarded.pdf">Bus Service Awarded for 2024 - 2025</a></p>
 <h4><strong>Bookshop</strong></h4>
 <p><strong>BL Marketing Pte Ltd<br></strong>61, Ubi Road 1, #02-02 Oxley Bizhub, Singapore 408727<br>Tel: 6281 9274<br>Email: sales@blmarketing.sg
