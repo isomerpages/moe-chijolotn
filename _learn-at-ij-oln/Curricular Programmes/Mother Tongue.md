@@ -21,4 +21,7 @@ Our school-based reading programme seeks to cultivate joy and interest in readin
 <td><img src="/images/Our%20Curriculum/MTL/character_dressup3_w.jpg"></td>
 </tr></tbody></table>
 
+##### Conversational Chinese &amp; Malay Programme
+The Conversational Chinese and Malay (CCM) programme aims to strengthen Singapore’s multi-racial compact and is available to students who are unfamiliar with the Chinese Language or Malay Language. Through modular and topic-based online lesson units over 5 days, students learn to converse in the language.
+
 
