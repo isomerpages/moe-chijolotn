@@ -89,9 +89,8 @@ Where possible, students are provided with opportunities to watch performances. 
 
 **Combined IJ Schools Tamil Language and Cultural Camp** <br>
 To foster greater camaraderie among the 7 CHIJ primary schools, the Tamil Language teachers collaborate to organise an annual fun-filled Tamil Language and Cultural Camp for all Tamil Language students. During this annual event, the students and teachers come together to learn more about their culture and build bonds of friendship.  
-<table style="border-collapse: collapse; width: 100%;" border="0">
-<tbody>
-<tr>
+<table style="border-collapse: collapse;" border="0">
+<tbody><tr>
 <td><img src="/images/Our%20Curriculum/MTL/ij_combined_camp_1_w.jpg"></td>
 <td><img src="/images/Our%20Curriculum/MTL/ij_combined_camp_2_w.jpg"></td>
 <td><img src="/images/Our%20Curriculum/MTL/ij_combined_camp_3_w.jpg"></td>
