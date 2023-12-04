@@ -64,9 +64,10 @@ This takes place in Term 3 and provides opportunities for all students to active
 
 **Attending performances** <br>
 Where possible, students are provided with opportunities to watch performances. Through enjoying the performances put up by local and foreign arts groups, students enjoy language and culture in a different environment. 
-In 2023, P2 Chinese Language learners had the opportunity to watch a live performance entitled “Cinderella” at the National Library Drama Centre.
+
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
+<tr><td colspan="2">In 2023, P2 Chinese Language learners had the opportunity to watch a live performance entitled “Cinderella” at the National Library Drama Centre.</td></tr>
 <tr>
 <td><img src="/images/Our%20Curriculum/MTL/Attending_Performances_1_w.jpg"></td>
 <td><img src="/images/Our%20Curriculum/MTL/Attending_Performances_2_w.jpg"></td>
