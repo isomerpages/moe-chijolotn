@@ -31,7 +31,7 @@ REAL sees engagement with Literature and in the process, develops critical think
 	<td><img src="/images/Our%20Curriculum/EL/REAL_Presentations_w.jpg"></td>
 </tr></tbody></table>
 
-##### Technology in Language Learning 
+##### Technology in Language Learning
 We empower our students to leverage Technology as 
 1. A tool to apply skills of verifying the accuracy, credibility and currency of information. For example, students use and curate digital evidence to support/explain their reasoning and decisions.
 2. An enabler of peer interactions, synchronously and asynchronously, in the exploration and assessment of information and ideas.  
