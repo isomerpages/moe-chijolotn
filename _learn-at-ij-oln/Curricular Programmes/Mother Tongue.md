@@ -61,3 +61,7 @@ This takes place in Term 3 and provides opportunities for all students to active
 </tr>
 	<tr><td>Students made their own bamboo dragonfly toy <br>(竹蜻蜓 ).</td><td>Students having fun tinkering with the main lereng.</td><td>Students learning the Kolattam dance, also known as the “stick dance”.</td></tr>
 </tbody></table>
+
+**Attending performances** <br>
+Where possible, students are provided with opportunities to watch performances. Through enjoying the performances put up by local and foreign arts groups, students enjoy language and culture in a different environment. 
+In 2023, P2 Chinese Language learners had the opportunity to watch a live performance entitled “Cinderella” at the National Library Drama Centre.
