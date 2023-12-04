@@ -92,9 +92,9 @@ To foster greater camaraderie among the 7 CHIJ primary schools, the Tamil Langua
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
-<td><img src="/images/Our%20Curriculum/MTL/MT_fortnight_CL2_w.jpg"></td>
-<td><img src="/images/Our%20Curriculum/MTL/MT_fortnight_ML_2_w.jpg"></td>
-<td><img src="/images/Our%20Curriculum/MTL/MT_fortnight_TL_2_w.jpg"></td>
+<td><img src="/images/Our%20Curriculum/MTL/ij_combined_camp_1_w.jpg"></td>
+<td><img src="/images/Our%20Curriculum/MTL/ij_combined_camp_2_w.jpg"></td>
+<td><img src="/images/Our%20Curriculum/MTL/ij_combined_camp_3_w.jpg"></td>
 </tr>
 	<tr><td>Students made their own bamboo dragonfly toy <br>(竹蜻蜓 ).</td><td>Students having fun tinkering with the main lereng.</td><td>Students learning the Kolattam dance, also known as the “stick dance”.</td></tr>
 </tbody></table>
