@@ -34,4 +34,12 @@ The Conversational Chinese and Malay (CCM) programme aims to strengthen Singapor
 ##### Enhancing An Understanding Of Cultures
 The learning of culture and of languages are linked. As we learn a language, we learn more about their culture. Learning a culture too is aided when, you can communicate in the language. To that end, IJOLN annually plans programmes to help our students better understand cultures – that linked with the language they are studying as their Mother Tongues as well as others. 
 
+**Festive Celebrations**
+<table style="border-collapse: collapse; width: 100%;" border="0">
+<tbody>
+<tr>
+<td style="border-collapse: collapse; width: 100%;"><img src="/images/Our%20Curriculum/MTL/CNY_1_w.jpg"></td>
+<td>Chinese New Year celebration</td>
+</tr></tbody></table>
+
 
