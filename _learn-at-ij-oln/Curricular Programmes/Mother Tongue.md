@@ -38,15 +38,15 @@ The learning of culture and of languages are linked. As we learn a language, we 
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
-<td style="border-collapse: collapse; width: 100%;"><img src="/images/Our%20Curriculum/MTL/CNY_1_w.jpg"></td>
+<td style="border-collapse: collapse; width: 70%;"><img src="/images/Our%20Curriculum/MTL/CNY_1_w.jpg"></td>
 <td>Chinese New Year celebration</td>
 </tr>
 <tr>
-<td style="border-collapse: collapse; width: 100%;"><img src="/images/Our%20Curriculum/MTL/HariRaya1_w.jpg"></td>
+<td style="border-collapse: collapse; width: 70%;"><img src="/images/Our%20Curriculum/MTL/HariRaya1_w.jpg"></td>
 <td>Hari Raya celebration</td>
 </tr>
 <tr>
-<td style="border-collapse: collapse; width: 100%;"><img src="/images/Our%20Curriculum/MTL/Deepavali_1_2_w.jpg"></td>
+<td style="border-collapse: collapse; width: 70%;"><img src="/images/Our%20Curriculum/MTL/deepavali_1_2_w.jpg"></td>
 <td>Deepvali celebration</td>
 </tr>
 	</tbody></table>
