@@ -20,6 +20,14 @@ STELLAR is an interactive literacy programme that fosters confidence in learning
 </tbody>
 </table>
 
+
+
+|  ![](/images/Our%20Curriculum/EL/STELLAR_in_action_w.jpg) |  ![](/images/Our%20Curriculum/EL/Reading_as_a_way_of_life_w.jpg) | ![](/images/Our%20Curriculum/EL/The_Queen_s_Challenge_w.jpg) |
+| -------- | -------- | -------- |
+
+
+
+
 ##### Rich, Enduring and Active Learning (REAL)
 REAL is a curriculum innovation unique to our school. REAL sparks a love for language with authentic, rich texts that create language-rich environments and enables students to appreciate language and issues beyond the classroom. There is also promotion of extensive reading to help students sharpen reading comprehension and narrative writing capabilities, and provision of discussion platforms to hone oracy. 
 
