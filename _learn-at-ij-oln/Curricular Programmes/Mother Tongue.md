@@ -72,3 +72,17 @@ Where possible, students are provided with opportunities to watch performances. 
 <td><img src="/images/Our%20Curriculum/MTL/Attending_Performances_1_w.jpg"></td>
 <td><img src="/images/Our%20Curriculum/MTL/Attending_Performances_2_w.jpg"></td>
 </tr></tbody></table>
+<table style="border-collapse: collapse; width: 100%;" border="0">
+<tbody>
+<tr><td colspan="2">The P2 and P3 Malay Language learners watching a performance.</td></tr>
+<tr>
+<td><img src="/images/Our%20Curriculum/MTL/Attending_Performances_ML_3_w.jpg"></td>
+<td><img src="/images/Our%20Curriculum/MTL/Attending_Performances_ML_4_w.jpg"></td>
+</tr></tbody></table>
+<table style="border-collapse: collapse; width: 100%;" border="0">
+<tbody>
+<tr><td colspan="2">The P2 Tamil Language learners had the opportunity to watch live performances at the India Heritage Centre.</td></tr>
+<tr>
+<td><img src="/images/Our%20Curriculum/MTL/Attending_Performances_TL_5_w.jpg"></td>
+<td><img src="/images/Our%20Curriculum/MTL/Attending_Performances_TL_6_w.jpg"></td>
+</tr></tbody></table>
