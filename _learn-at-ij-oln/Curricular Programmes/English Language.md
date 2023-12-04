@@ -40,6 +40,6 @@ We empower our students to leverage Technology as
 
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody><tr>
-<td><img src="/images/Our%20Curriculum/EL/Library_Programme_in_line_with_REAL_w.jpg"></td>
-<td><img src="/images/Our%20Curriculum/EL/Hotseating_with_Narnia_w.jpg"></td>
+<td><img src="/images/Our%20Curriculum/EL/Nearpod_w.jpg"></td>
+<td><img src="/images/Our%20Curriculum/EL/Peer_Feedback_with_Tech_w.jpg"></td>
 </tr></tbody></table>
