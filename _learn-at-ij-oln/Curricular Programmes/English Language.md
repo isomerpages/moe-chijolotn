@@ -37,3 +37,9 @@ We empower our students to leverage Technology as
 2. An enabler of peer interactions, synchronously and asynchronously, in the exploration and assessment of information and ideas.  
 3. A means of exchanging feedback with peers and teachers to enhance deep and engaged learning. 
 4. A partner in developing multiliteracies.
+
+<table style="border-collapse: collapse; width: 100%;" border="0">
+<tbody><tr>
+<td><img src="/images/Our%20Curriculum/EL/Library_Programme_in_line_with_REAL_w.jpg"></td>
+<td><img src="/images/Our%20Curriculum/EL/Hotseating_with_Narnia_w.jpg"></td>
+</tr></tbody></table>
