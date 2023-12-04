@@ -27,6 +27,6 @@ REAL sees engagement with Literature and in the process, develops critical think
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody><tr>
 <td><img src="/images/Our%20Curriculum/EL/Library_Programme_in_line_with_REAL_w.jpg"></td>
-<td><img src="/images/Our%20Curriculum/EL/Hotseating with Narnia_w.jpg"></td>
-	<td><img src="/images/Our%20Curriculum/EL/The_Queen_s_Challenge_w.jpg"></td>
+<td><img src="/images/Our%20Curriculum/EL/Hotseating_with_Narnia_w.jpg"></td>
+	<td><img src="/images/Our%20Curriculum/EL/REAL_Presentations_w.jpg"></td>
 </tr></tbody></table>
