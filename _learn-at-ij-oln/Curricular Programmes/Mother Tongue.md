@@ -40,6 +40,11 @@ The learning of culture and of languages are linked. As we learn a language, we 
 <tr>
 <td style="border-collapse: collapse; width: 100%;"><img src="/images/Our%20Curriculum/MTL/CNY_1_w.jpg"></td>
 <td>Chinese New Year celebration</td>
-</tr></tbody></table>
+</tr>
+	<tr>
+<td style="border-collapse: collapse; width: 100%;"><img src="/images/Our%20Curriculum/MTL/CNY_1_w.jpg"></td>
+<td>Chinese New Year celebration</td>
+</tr>
+	</tbody></table>
 
 
