@@ -43,3 +43,18 @@ We empower our students to leverage Technology as
 <td><img src="/images/Our%20Curriculum/EL/Nearpod_w.jpg"></td>
 <td><img src="/images/Our%20Curriculum/EL/Peer_Feedback_with_Tech_w.jpg"></td>
 </tr></tbody></table>
+
+**Stretch Opportunities**<br>
+The department has in place various opportunities and platforms to meet the needs of students who show greater aptitude and interest in the English Language.
+
+* Within Curriculum
+June Maker’s Model of Curriculum Differentiation for curriculum enrichment is applied to STELLAR classrooms where curriculum work is differentiated in Content, Process, Product and / or Learning Environment for the Verbal-Talented. 
+
+  Curriculum Differentiation also factors in our REAL x LEAP curriculum enrichment where breadth and depth of reading and speaking experiences extend beyond the mainstream syllabus. Differentiated experiences to stretch students with greater aptitude or interest include, for example, exploring moral dilemmas in novels by appreciating and understanding multiple and conflicting perspectives. 
+ 
+* Beyond Curriculum
+Students with greater aptitude and interest are presented with authentic experiences beyond the classroom that further stretch them. Going beyond reading current affairs, they are challenge to respond to news by writing to the editor. 
+
+  Furthermore, our students are encouraged to develop their language and literacy talents through participation in competitions such as The Royal Commonwealth Essay Competition and the Plain English Speaking Award (PESA). 
+
+All in all, these stretch opportunities within and beyond the curriculum further develop empathy in learners, deepens creative expression skills, encourage meaningful meaning-making across new and different contexts, instils risk-taking and fosters courage in learners to engage a real-world audience with their unique voice. 
