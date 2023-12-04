@@ -13,6 +13,12 @@ We aim to develop our students into confident and competent speakers and users o
 ##### School Based Reading Programme
 Our school-based reading programme seeks to cultivate joy and interest in reading story books in the Mother Tongue Languages. This would enhance students’ appreciation for the language.
 
-![](/images/Our%20Curriculum/MTL/Eccm_2_w.jpg)
+<table style="border-collapse: collapse; width: 100%;" border="0">
+<tbody>
+<tr>
+<td><img src="/images/Our%20Curriculum/MTL/brooches_w.jpg"></td>
+<td><img src="/images/Our%20Curriculum/MTL/character_dressup1_w.jpg"></td>
+<td><img src="/images/Our%20Curriculum/MTL/character_dressup3_w.jpg"></td>
+</tr></tbody></table>
 
 
