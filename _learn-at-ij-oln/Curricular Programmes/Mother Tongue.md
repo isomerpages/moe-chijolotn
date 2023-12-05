@@ -73,8 +73,10 @@ Where possible, students are provided with opportunities to watch performances. 
 <tr>
 <td><img src="/images/Our%20Curriculum/MTL/Attending_Performances_1_w.jpg"></td>
 <td><img src="/images/Our%20Curriculum/MTL/Attending_Performances_2_w.jpg"></td>
-</tr></tbody></table>
-In 2023, P2 Chinese Language learners had the opportunity to watch a live performance entitled “Cinderella” at the National Library Drama Centre.
+</tr>
+<tr><td colspan="2">In 2023, P2 Chinese Language learners had the opportunity to watch a live performance entitled “Cinderella” at the National Library Drama Centre.</td></tr>
+</tbody></table>
+
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
