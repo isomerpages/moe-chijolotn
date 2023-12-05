@@ -70,25 +70,26 @@ Where possible, students are provided with opportunities to watch performances. 
 
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
-<tr><td colspan="2">In 2023, P2 Chinese Language learners had the opportunity to watch a live performance entitled “Cinderella” at the National Library Drama Centre.</td></tr>
 <tr>
 <td><img src="/images/Our%20Curriculum/MTL/Attending_Performances_1_w.jpg"></td>
 <td><img src="/images/Our%20Curriculum/MTL/Attending_Performances_2_w.jpg"></td>
 </tr></tbody></table>
+In 2023, P2 Chinese Language learners had the opportunity to watch a live performance entitled “Cinderella” at the National Library Drama Centre.
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
-<tr><td colspan="2">The P2 and P3 Malay Language learners watching a performance.</td></tr>
 <tr>
 <td><img src="/images/Our%20Curriculum/MTL/Attending_Performances_ML_3_w.jpg"></td>
 <td><img src="/images/Our%20Curriculum/MTL/Attending_Performances_ML_4_w.jpg"></td>
-</tr></tbody></table>
+</tr>
+<tr><td colspan="2">The P2 and P3 Malay Language learners watching a performance.</td></tr>
+</tbody></table>
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
-<tr><td colspan="2">The P2 Tamil Language learners had the opportunity to watch live performances at the India Heritage Centre.</td></tr>
 <tr>
 <td><img src="/images/Our%20Curriculum/MTL/Attending_Performances_TL_5_w.jpg"></td>
 <td><img src="/images/Our%20Curriculum/MTL/Attending_Performances_TL_6_w.jpg"></td>
-</tr></tbody></table>
+</tr>
+	<tr><td colspan="2">The P2 Tamil Language learners had the opportunity to watch live performances at the India Heritage Centre.</td></tr></tbody></table>
 
 **Combined IJ Schools Tamil Language and Cultural Camp** <br>
 To foster greater camaraderie among the 7 CHIJ primary schools, the Tamil Language teachers collaborate to organise an annual fun-filled Tamil Language and Cultural Camp for all Tamil Language students. During this annual event, the students and teachers come together to learn more about their culture and build bonds of friendship.  
