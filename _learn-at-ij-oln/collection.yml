@@ -2,6 +2,7 @@ collections:
   learn-at-ij-oln:
     output: true
     order:
+      - Departments/IJOLN Curriculum.md
       - Departments/.keep
       - Our Curriculum/.keep
       - Our Curriculum/General Information.md
