@@ -65,7 +65,7 @@ This takes place in Term 3 and provides opportunities for all students to active
 
 </tbody></table>
 
-**Attending performances** <br>
+##### Attending performances
 Where possible, students are provided with opportunities to watch performances. Through enjoying the performances put up by local and foreign arts groups, students enjoy language and culture in a different environment. 
 
 <table style="border-collapse: collapse; width: 100%;" border="0">
