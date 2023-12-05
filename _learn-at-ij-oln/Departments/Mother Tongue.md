@@ -55,13 +55,10 @@ This takes place in Term 3 and provides opportunities for all students to active
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
-<td><img src="/images/Our%20Curriculum/MTL/MT_fortnight_CL2_w.jpg"></td>
-<td><img src="/images/Our%20Curriculum/MTL/MT_fortnight_ML_2_w.jpg"></td>
-<td><img src="/images/Our%20Curriculum/MTL/MT_fortnight_TL_2_w.jpg"></td>
-	</tr><tr>
-		<td style="border-collapse: collapse; width: 33%;">Students made their own bamboo dragonfly toy <br>(竹蜻蜓 ).</td>
-		<td style="border-collapse: collapse; width: 33%;">Students having fun tinkering with the main lereng.</td>
-		<td style="border-collapse: collapse; width: 33%;">Students learning the Kolattam dance, also known as the “stick dance”.</td></tr>
+<td><img src="/images/Our%20Curriculum/MTL/MT_fortnight_CL2_w.jpg">Students made their own bamboo dragonfly toy <br>(竹蜻蜓 ).</td>
+<td><img src="/images/Our%20Curriculum/MTL/MT_fortnight_ML_2_w.jpg">Students having fun tinkering with the main lereng.</td>
+<td style="border-collapse: collapse; width: 33%;"><img src="/images/Our%20Curriculum/MTL/MT_fortnight_TL_2_w.jpg">Students learning the Kolattam dance, also known as the “stick dance”.</td>
+</tr>
 
 </tbody></table>
 
