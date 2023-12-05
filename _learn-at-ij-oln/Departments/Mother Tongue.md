@@ -50,7 +50,7 @@ The learning of culture and of languages are linked. As we learn a language, we 
 <td>Deepvali celebration</td>
 </tr></tbody></table>
 
-**The Mother Tongue Languages (MTL) Fortnight**<br>
+##### The Mother Tongue Languages (MTL) Fortnight
 This takes place in Term 3 and provides opportunities for all students to actively understand and appreciate the different cultures linked to the various Mother Tongue languages they and their friends learn in school. Through a wide range of fun and interactive activities, students get opportunities to use their MTL and experience the cultures.
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
@@ -93,7 +93,7 @@ Where possible, students are provided with opportunities to watch performances. 
 </tr>
 	<tr><td colspan="2">The P2 Tamil Language learners had the opportunity to watch live performances at the India Heritage Centre.</td></tr></tbody></table>
 
-**Combined IJ Schools Tamil Language and Cultural Camp** <br>
+##### Combined IJ Schools Tamil Language and Cultural Camp
 To foster greater camaraderie among the 7 CHIJ primary schools, the Tamil Language teachers collaborate to organise an annual fun-filled Tamil Language and Cultural Camp for all Tamil Language students. During this annual event, the students and teachers come together to learn more about their culture and build bonds of friendship.  
 <table style="border-collapse: collapse;" border="0">
 <tbody><tr>
