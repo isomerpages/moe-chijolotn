@@ -52,16 +52,6 @@ The learning of culture and of languages are linked. As we learn a language, we 
 
 **The Mother Tongue Languages (MTL) Fortnight**<br>
 This takes place in Term 3 and provides opportunities for all students to actively understand and appreciate the different cultures linked to the various Mother Tongue languages they and their friends learn in school. Through a wide range of fun and interactive activities, students get opportunities to use their MTL and experience the cultures.
-<table style="border-collapse: collapse; width: 100%;" border="0">
-<tbody>
-<tr>
-<td><img src="/images/Our%20Curriculum/MTL/MT_fortnight_CL2_w.jpg"></td>
-<td><img src="/images/Our%20Curriculum/MTL/MT_fortnight_ML_2_w.jpg"></td>
-<td><img src="/images/Our%20Curriculum/MTL/MT_fortnight_TL_2_w.jpg"></td>
-</tr>
-	<tr><td>Students made their own bamboo dragonfly toy <br>(竹蜻蜓 ).</td><td>Students having fun tinkering with the main lereng.</td><td>Students learning the Kolattam dance, also known as the “stick dance”.</td></tr>
-</tbody></table>
-
 **Attending performances** <br>
 Where possible, students are provided with opportunities to watch performances. Through enjoying the performances put up by local and foreign arts groups, students enjoy language and culture in a different environment. 
 
