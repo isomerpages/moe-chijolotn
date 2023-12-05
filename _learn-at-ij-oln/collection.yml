@@ -2,6 +2,7 @@ collections:
   learn-at-ij-oln:
     output: true
     order:
+      - Departments/English Language.md
       - Departments/IJOLN Curriculum.md
       - Departments/.keep
       - Our Curriculum/.keep
