@@ -54,8 +54,8 @@ The integration of Environmental Education (EE) into Mathematics has proven bene
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
-<td><img src="/images/Depts/Maths/EEinMaths3_w.jpg"></td>
-<td><img src="/images/Depts/Maths/EEinMaths2_w.jpg"></td>
+<td><img src="/images/Depts/Maths/EEinMaths3_w.jpeg"></td>
+<td><img src="/images/Depts/Maths/EEinMaths2_w.jpeg"></td>
 	</tr>
 	<tr><td style="text-align:center;" colspan="2">Samples of the end products where toys are creatively made from recycled materials. Students explore Shapes that can be found in these toys.</td></tr>
 </tbody>
