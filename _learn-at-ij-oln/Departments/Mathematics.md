@@ -33,7 +33,7 @@ The multiplication challenge is an event that makes multiplication enjoyable and
 </tr>
 <tr>
 <td style="width: 37%;">Students demonstrating their understanding of Mathematical concepts at different stations of the Mathematics Trail. </td>
-	<td><img src="/images/Depts/Maths/LowerPrimaryMathsTrail3_w.jpg"></td></tr>
+	<td><img src="/images/Depts/Maths/MultiplicationChallenge3_w.jpg"></td></tr>
 </tbody>
 </table>
 
