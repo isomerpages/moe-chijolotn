@@ -13,9 +13,9 @@ STELLAR is an interactive literacy programme that fosters confidence in learning
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
-<td><img src="/images/Our%20Curriculum/EL/STELLAR_in_action_w.jpg"></td>
-<td><img src="/images/Our%20Curriculum/EL/Reading_as_a_way_of_life_w.jpg"></td>
-	<td><img src="/images/Our%20Curriculum/EL/The_Queen_s_Challenge_w.jpg"></td>
+<td><img src="/images/Depts/EL/STELLAR_in_action_w.jpg"></td>
+<td><img src="/images/Depts/EL/Reading_as_a_way_of_life_w.jpg"></td>
+	<td><img src="/images/Depts/EL/The_Queen_s_Challenge_w.jpg"></td>
 </tr>
 </tbody>
 </table>
@@ -26,9 +26,9 @@ REAL is a curriculum innovation unique to our school. REAL sparks a love for lan
 REAL sees engagement with Literature and in the process, develops critical thinking in students. In recent years, REAL has been integrated with our Applied Learning Programme (ALP) – Learn, Engage, Articulate &amp; Perform (LEAP).
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody><tr>
-<td><img src="/images/Our%20Curriculum/EL/Library_Programme_in_line_with_REAL_w.jpg"></td>
-<td><img src="/images/Our%20Curriculum/EL/Hotseating_with_Narnia_w.jpg"></td>
-	<td><img src="/images/Our%20Curriculum/EL/REAL_Presentations_w.jpg"></td>
+<td><img src="/images/Depts/EL/Library_Programme_in_line_with_REAL_w.jpg"></td>
+<td><img src="/images/Depts/EL/Hotseating_with_Narnia_w.jpg"></td>
+	<td><img src="/images/Depts/EL/REAL_Presentations_w.jpg"></td>
 </tr></tbody></table>
 
 ##### Technology in Language Learning
@@ -40,8 +40,8 @@ We empower our students to leverage Technology as
 
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody><tr>
-<td><img src="/images/Our%20Curriculum/EL/Nearpod_w.jpg"></td>
-<td><img src="/images/Our%20Curriculum/EL/Peer_Feedback_with_Tech_w.jpg"></td>
+<td><img src="/images/Depts/EL/Nearpod_w.jpg"></td>
+<td><img src="/images/Depts/EL/Peer_Feedback_with_Tech_w.jpg"></td>
 </tr></tbody></table>
 
 **Stretch Opportunities**<br>
