@@ -48,5 +48,10 @@ This enrichment program is designed for students who exhibit a keen interest and
 </tbody>
 </table>
 
+##### Environmental Education in Mathematics
+The integration of Environmental Education (EE) into Mathematics has proven beneficial in engaging students in problem-solving scenarios that reflect real-word situations. It enhances their comprehension of the interconnectedness between Mathematics and the environment. Through the integration of EE, students gain valuable insights into the practical applications of mathematical concepts. Students are encouraged to think critically and creatively, exploring how Mathematics can effectively address environmental challenges. In the lower primary level, students create ‘toys’ using recycled materials brought from home. This activity also allows students to identify the shapes they have learnt in their Mathematics lessons.
+
+
+
 
 
