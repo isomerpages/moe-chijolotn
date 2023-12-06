@@ -37,5 +37,16 @@ The multiplication challenge is an event that makes multiplication enjoyable and
 </tbody>
 </table>
 
+##### Fibonacci Mathematics
+This enrichment program is designed for students who exhibit a keen interest and exceptional proficiency in Mathematics. Its objective is to cultivate the students’ mathematical reasoning abilities and enhance their conceptual comprehension through an inquiry-based approach. Students collaborate with their peers and actively engage in mathematical thinking through puzzles, games and mathematical explorations.
+<table style="border-collapse: collapse; width: 100%;" border="0">
+<tbody>
+<tr>
+<td><img src="/images/Depts/Maths/Fibonacci2_w.jpg"></td>
+<td><img src="/images/Depts/Maths/Fibonacci1_w.jpg"></td>
+</tr><tr><td style="text-align:center;" colspan="2">Students actively participate in Mathematical thinking through puzzles, games and exploring various Mathematical concepts.</td></tr>
+</tbody>
+</table>
+
 
 
