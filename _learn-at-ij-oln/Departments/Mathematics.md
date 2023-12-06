@@ -20,3 +20,21 @@ The Mathematics trail is conducted for Primary 1 and 2 students to foster the pr
 <td style="width: 50%;">Students demonstrating their understanding of Mathematical concepts at different stations of the Mathematics Trail. </td></tr>
 </tbody>
 </table>
+
+##### Multiplication Challenge
+
+The multiplication challenge is an event that makes multiplication enjoyable and foster teamwork among students. Students embark on a journey of fun and learning at four interactive stations. At each station, students encounter unique and engaging activities that test their multiplication skills. The activities include puzzles and peer challenges that are crafted to be entertaining and educational. By the end of the challenge, students sharpen their multiplication skills and experience the joy of learning in a collaborative setting. 
+
+<table style="border-collapse: collapse; width: 100%;" border="0">
+<tbody>
+<tr>
+<td><img src="/images/Depts/Maths/MultiplicationChallenge2_w.jpg"></td>
+<td><img src="/images/Depts/Maths/MultiplicationChallenge1_w.jpg"></td>
+</tr>
+<tr>
+<td style="width: 37%;">Students demonstrating their understanding of Mathematical concepts at different stations of the Mathematics Trail. </td>
+	<td><img src="/images/Depts/Maths/LowerPrimaryMathsTrail3_w.jpg"></td></tr>
+</tbody>
+</table>
+
+
