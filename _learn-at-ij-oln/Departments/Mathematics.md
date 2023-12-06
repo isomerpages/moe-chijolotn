@@ -17,6 +17,6 @@ The Mathematics trail is conducted for Primary 1 and 2 students to foster the pr
 </tr>
 <tr>
 <td><img src="/images/Depts/Maths/LowerPrimaryMathsTrail3_w.jpg"></td>
-<td></td></tr>
+<td style="width: 50%;">Students demonstrating their understanding of Mathematical concepts at different stations of the Mathematics Trail. </td></tr>
 </tbody>
 </table>
