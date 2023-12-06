@@ -16,7 +16,7 @@ Guided by our OLN Teaching &amp; Learning Framework, our curriculum focuses on h
 * Learn through teaching processes that activate their learning, that promote thinking &amp; discussion, that facilitate demonstration of learning and through monitoring and provision of feedback.
 * Learn in a positive environment that encourages collaboration, that is supported by technology and is enriched by feedback.
 
-<p><img style="width: 60%;" src="/images/tl.png"><i>Figure: The OLN Teaching and Learning Framework (The Framework’)</i></p>
+<p><img style="width: 60%;" src="/images/TeachingLearningFramework.png"><i>Figure: The OLN Teaching and Learning Framework (The Framework’)</i></p>
 
 The Framework is built on a foundation of understanding the CHIJ Mission, students &amp; learning, teaching and subject matter &amp; goals.
 
