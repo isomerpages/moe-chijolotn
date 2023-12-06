@@ -40,34 +40,35 @@ The multiplication challenge is an event that makes multiplication enjoyable and
 
 ##### Fibonacci Mathematics
 This enrichment program is designed for students who exhibit a keen interest and exceptional proficiency in Mathematics. Its objective is to cultivate the students’ mathematical reasoning abilities and enhance their conceptual comprehension through an inquiry-based approach. Students collaborate with their peers and actively engage in mathematical thinking through puzzles, games and mathematical explorations.
-<figure>
+
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td><img src="/images/Depts/Maths/Fibonacci2_w.jpg"></td>
 	<td><img src="/images/Depts/Maths/Fibonacci1_w.jpg"></td>
 	</tr>
+	<tr><td colspan="2">Students actively participate in Mathematical thinking through puzzles, games and exploring various Mathematical concepts.</td></tr>
 </tbody>
-</table><figcaption>Students actively participate in Mathematical thinking through puzzles, games and exploring various Mathematical concepts.</figcaption>
-	</figure>
+</table>
 
 ##### Environmental Education in Mathematics
 The integration of Environmental Education (EE) into Mathematics has proven beneficial in engaging students in problem-solving scenarios that reflect real-word situations. It enhances their comprehension of the interconnectedness between Mathematics and the environment. Through the integration of EE, students gain valuable insights into the practical applications of mathematical concepts. Students are encouraged to think critically and creatively, exploring how Mathematics can effectively address environmental challenges. In the lower primary level, students create ‘toys’ using recycled materials brought from home. This activity also allows students to identify the shapes they have learnt in their Mathematics lessons.
-<figure>
+
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
 <td><img src="/images/Depts/Maths/EEinMaths3_w.jpeg"></td>
 <td><img src="/images/Depts/Maths/EEinMaths2_w.jpeg"></td>
-	</tr>
+</tr>
+	<tr><td colspan="2">Samples of the end products where toys are creatively made from recycled materials. Students explore Shapes that can be found in these toys.</td></tr>	
 </tbody>
 </table>
-<figcaption>
-	Samples of the end products where toys are creatively made from recycled materials. Students explore Shapes that can be found in these toys. </figcaption>
-</figure>
 
-<figure>
-<img src="/images/Depts/Maths/Acty3_w.jpg">
-<figcaption>
-	An example of an activity where students make use of paper cut-outs of symmetrical figures using materials to be recycled e.g. newspapers, brochures.</figcaption>
-</figure>
+<table style="border-collapse: collapse; width: 100%;" border="0">
+<tbody>
+<tr>
+<td><img src="/images/Depts/Maths/Acty3_w.jpg"></td>
+</tr>
+	<tr><td>An example of an activity where students make use of paper cut-outs of symmetrical figures using materials to be recycled e.g. newspapers, brochures.</td></tr>	
+</tbody>
+</table>
