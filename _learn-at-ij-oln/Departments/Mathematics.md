@@ -61,5 +61,12 @@ The integration of Environmental Education (EE) into Mathematics has proven bene
 </tbody>
 </table>
 
+<figure>
+<img src="/images/Depts/Maths/Acty3_w.jpg">
+<figcaption>
+	An example of an activity where students make use of paper cut-outs of symmetrical figures using materials to be recycled e.g. newspapers, brochures.</figcaption>
+</figure>
+
+
 
 
