@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Departments
 variant: markdown
 ---
-#### English Language Department
 ##### Key Programmes: 
 ##### STELLAR (Strategies for English Language Learning And Reading) 
 
