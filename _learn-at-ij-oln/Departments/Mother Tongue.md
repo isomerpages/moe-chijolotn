@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: Departments
 ---
-#### Mother Tongue Language Department
 ![](/images/Depts/MTL/lj_girl_MTL_learning.jpg)
 We aim to develop our students into confident and competent speakers and users of their Mother Tongue Languages - Chinese Language, Malay Language and Tamil Language – and as users with a love and an appreciation of their own culture and traditional values. The teachers work together to create a fun and interesting learning environment for students to foster their interest and passion for the language and culture.
 
