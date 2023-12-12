@@ -5,7 +5,6 @@ collections:
       - Our Curriculum/.keep
       - Our Curriculum/General Information.md
       - Our Curriculum/T&L Framework.md
-      - Departments/Character & Citizen Education.md
       - Departments/.keep
       - Departments/IJOLN Curriculum.md
       - Departments/English Language.md
@@ -14,6 +13,7 @@ collections:
       - Departments/Science.md
       - Departments/Physical Education.md
       - Departments/Aesthetics.md
+      - Departments/Character & Citizen Education.md
       - Student Well Being/.keep
       - Student Well Being/Signature Programmes.md
       - Student Well Being/Cyber Wellness.md
