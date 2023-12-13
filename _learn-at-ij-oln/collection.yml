@@ -3,9 +3,6 @@ collections:
     output: true
     order:
       - IJOLN Curriculum.md
-      - Our Curriculum/.keep
-      - Our Curriculum/General Information.md
-      - Our Curriculum/T&L Framework.md
       - Departments/.keep
       - Departments/English Language.md
       - Departments/Mother Tongue.md
