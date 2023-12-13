@@ -2,7 +2,6 @@ collections:
   learn-at-ij-oln:
     output: true
     order:
-      - Student Well being.md
       - IJOLN Curriculum.md
       - Our Curriculum/.keep
       - Our Curriculum/General Information.md
@@ -16,6 +15,7 @@ collections:
       - Departments/Aesthetics.md
       - Departments/Character & Citizen Education.md
       - Departments/Information & Communications Technology.md
+      - Student Well being.md
       - Student Well Being/.keep
       - Student Well Being/Signature Programmes.md
       - Student Well Being/Cyber Wellness.md
