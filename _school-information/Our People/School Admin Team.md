@@ -3,6 +3,7 @@ title: School Admin Team
 permalink: /school-information/our-people/executive-n-admin-staff/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 <h4 style="text-align: center;"><strong>School Admin Team (SAT)</strong></h4>
 <table class="iveo_table ives_tab_blue ive_eobj_center">
@@ -93,7 +94,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td style="text-align: center;">Desktop Engineer</td>
-<td style="text-align: center;">Ms Charmaine Pua</td>
+<td style="text-align: center;">Miss Charmaine Pua</td>
 </tr>
 <tr>
 <td style="text-align: center;">Desktop Engineer</td>
