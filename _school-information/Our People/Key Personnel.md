@@ -3,6 +3,7 @@ title: Key Personnel
 permalink: /school-information/our-people/key-personnel/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 <h4 style="text-align: center;"><strong>School Leaders (SL)</strong></h4>
 <table>
@@ -27,7 +28,11 @@ third_nav_title: Our People
 <td>Mrs Catherine Michelle Beins</td>
 <td>catherine_michelle@moe.edu.sg</td>
 </tr>
-	
+<tr style="text-align: left;">
+<td>Vice-Principal (Academic)</td>
+<td>Mdm Wong Yen Ling</td>
+<td>wong_yen_ling@moe.edu.sg</td>
+</tr>
 </tbody>
 </table>
 <h4 style="text-align: center;"><strong>Year Heads (YH) and School Staff Developer (SSD)</strong></h4>
