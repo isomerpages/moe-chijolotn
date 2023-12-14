@@ -81,4 +81,3 @@ variant: markdown
 <li>Acquiring technical and tactical knowledge and skills through the activities conducted</li>
 <li>Development of oratorical (Presentation) and critical thinking skills&nbsp;</li>
 </ul>
-<p style="text-align: center;"><strong><a href="/learn-at-ij-oln/cca/cca-policy" target="_blank" rel="noopener">CCA Policy</a> | <a href="/learn-at-ij-oln/cca/ccaschedule" target="_blank" rel="noopener">CCA Schedule</a></strong></p>
