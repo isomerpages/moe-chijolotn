@@ -2,8 +2,6 @@ collections:
   learn-at-ij-oln:
     output: true
     order:
-      - Special Programmes/OLN 360.md
-      - Special Programmes/.keep
       - IJOLN Curriculum.md
       - Departments/.keep
       - Departments/English Language.md
@@ -29,5 +27,7 @@ collections:
       - Co Curricular Activities (CCA)/Infocomm Media Club.md
       - Co Curricular Activities (CCA)/CCA Policy.md
       - Co Curricular Activities (CCA)/CCA Schedule.md
+      - Special Programmes/.keep
+      - Special Programmes/OLN 360.md
       - Support Lessons.md
       - Home–Based Learning.md
