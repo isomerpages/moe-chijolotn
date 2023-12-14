@@ -20,7 +20,7 @@ variant: markdown
 <p><strong><u>Uniformed Groups:<br></u></strong><a href="/learn-at-ij-oln/cca/brownies" target="_self" rel="noopener">Brownies</a>&nbsp;</p>
 </td>
 <td>
-<p><u><strong>Visual &amp; Performing Arts<br></strong></u><a href="/learn-at-ij-oln/cca/creativecrew" target="_self" rel="noopener">Creative Crew</a><br><a href="/learn-at-ij-oln/cca/brassband" target="_self" rel="noopener">Brass Band</a><br><a href="/learn-at-ij-oln/cca/choir" target="_self" rel="noopener">Choir</a><br><a href="/learn-at-ij-oln/cca/danceinc" target="_self" rel="noopener">Dance Inc (International 1/International 2/Chinese/Malay)</a><br><a href="/learn-at-ij-oln/cca/infomediaclub" target="_self" rel="noopener">Info Comm Media Club</a></p>
+<p><u><strong>Visual &amp; Performing Arts<br></strong></u><a href="/learn-at-ij-oln/cca/creativecrew" target="_self" rel="noopener">Creative Crew</a><br><a href="/learn-at-ij-oln/cca/brassband" target="_self" rel="noopener">Brass Band</a><br><a href="/learn-at-ij-oln/cca/choir" target="_self" rel="noopener">Choir</a><br><a href="/learn-at-ij-oln/cca/danceinc" target="_self" rel="noopener">Dance Inc (International 1/International 2/Chinese/Malay)</a><br><a href="/learn-at-ij-oln/cca/infomediaclub" target="_self" rel="noopener">Infocomm Media Club</a></p>
 </td>
 </tr>
 </tbody>
