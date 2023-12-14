@@ -2,6 +2,7 @@ collections:
   learn-at-ij-oln:
     output: true
     order:
+      - Special Programmes/OLN360.md
       - Special Programmes/.keep
       - IJOLN Curriculum.md
       - Departments/.keep
