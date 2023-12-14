@@ -41,7 +41,7 @@ variant: markdown
 
 <tr>
 <td style="text-align: center;">Adjunct Administrative Executive&nbsp;</td>
-<td style="text-align: center;">Ms Pee Lay Hoon&nbsp;</td>
+<td style="text-align: center;">Mdm Pee Lay Hoon&nbsp;</td>
 <td style="text-align: center;">&nbsp;</td>
 </tr>
 <tr>
@@ -90,7 +90,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;">Librarian&nbsp;&nbsp;</td>
-<td style="text-align: center;">Mdm Shaba Bte Noor</td>
+<td style="text-align: center;">Mdm Shaba Bte Mohd Noor</td>
 </tr>
 <tr>
 <td style="text-align: center;">Desktop Engineer</td>
