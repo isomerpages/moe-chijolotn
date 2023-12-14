@@ -9,18 +9,21 @@ variant: markdown
 <table>
 <tbody>
 <tr>
-<th>
+<td>
 <p><strong><u>Sports:<br></u></strong>
 	<a href="/learn-at-ij-oln/cca/netball" target="_self" rel="noopener">Netball</a><br>
 	<a href="/learn-at-ij-oln/cca/bowling" target="_self" rel="noopener">Bowling</a><br>
 	<a href="/learn-at-ij-oln/cca/floorball" target="_self" rel="noopener">Floorball</a><br>
 	<a href="/learn-at-ij-oln/cca/tabletennis" target="_self" rel="noopener">Table-Tennis</a></p>
-</th>
+</td>
 <td>
 <p><strong><u>Uniformed Groups:<br></u></strong><a href="/learn-at-ij-oln/cca/brownies" target="_self" rel="noopener">Brownies</a>&nbsp;</p>
 </td>
 <td>
-<p><u><strong>Visual &amp; Performing Arts<br></strong></u><a href="/learn-at-ij-oln/cca/creativecrew" target="_self" rel="noopener">Creative Crew</a><br><a href="/learn-at-ij-oln/cca/brassband" target="_self" rel="noopener">Brass Band</a><br><a href="/learn-at-ij-oln/cca/choir" target="_self" rel="noopener">Choir</a><br><a href="/learn-at-ij-oln/cca/danceinc" target="_self" rel="noopener">Dance Inc (International 1/International 2/Chinese/Malay)</a><br><a href="/learn-at-ij-oln/cca/infomediaclub" target="_self" rel="noopener">Infocomm Media Club</a></p>
+<p><u><strong>Visual &amp; Performing Arts<br></strong></u><a href="/learn-at-ij-oln/cca/creativecrew" target="_self" rel="noopener">Creative Crew</a><br><a href="/learn-at-ij-oln/cca/brassband" target="_self" rel="noopener">Brass Band</a><br><a href="/learn-at-ij-oln/cca/choir" target="_self" rel="noopener">Choir</a><br><a href="/learn-at-ij-oln/cca/danceinc" target="_self" rel="noopener">Dance Inc (Intl 1/Intl 2/Chinese/Malay)</a></p>
+</td>
+	<td>
+<p><strong><u>Club</u></strong><br><a href="/learn-at-ij-oln/cca/infomediaclub" target="_self" rel="noopener">Infocomm Media Club</a></p>
 </td>
 </tr>
 </tbody>
