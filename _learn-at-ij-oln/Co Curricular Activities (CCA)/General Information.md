@@ -14,7 +14,7 @@ variant: markdown
 	<a href="/learn-at-ij-oln/cca/netball" target="_self" rel="noopener">Netball</a><br>
 	<a href="/learn-at-ij-oln/cca/bowling" target="_self" rel="noopener">Bowling</a><br>
 	<a href="/learn-at-ij-oln/cca/floorball" target="_self" rel="noopener">Floorball</a><br>
-	<a href="/learn-at-ij-oln/cca/table-tennis" target="_self" rel="noopener">Table-Tennis</a></p>
+	<a href="/learn-at-ij-oln/cca/tabletennis" target="_self" rel="noopener">Table-Tennis</a></p>
 </th>
 <td>
 <p><strong><u>Uniformed Groups:<br></u></strong><a href="/learn-at-ij-oln/cca/brownies" target="_self" rel="noopener">Brownies</a>&nbsp;</p>
@@ -78,4 +78,4 @@ variant: markdown
 <li>Acquiring technical and tactical knowledge and skills through the activities conducted</li>
 <li>Development of oratorical (Presentation) and critical thinking skills&nbsp;</li>
 </ul>
-<p style="text-align: center;"><strong><a href="/learn-at-ij-oln/cca/cca-policy" target="_blank" rel="noopener">CCA Policy</a> | <a href="/learn-at-ij-oln/cca/cca-schedule" target="_blank" rel="noopener">CCA Schedule</a></strong></p>
+<p style="text-align: center;"><strong><a href="/learn-at-ij-oln/cca/cca-policy" target="_blank" rel="noopener">CCA Policy</a> | <a href="/learn-at-ij-oln/cca/ccaschedule" target="_blank" rel="noopener">CCA Schedule</a></strong></p>
