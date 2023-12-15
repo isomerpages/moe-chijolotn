@@ -2,47 +2,36 @@ collections:
   learn-at-ij-oln:
     output: true
     order:
-      - Our Curriculum/.keep
-      - Our Curriculum/General Information.md
-      - Our Curriculum/T&L Framework.md
-      - Curricular Programmes/.keep
-      - Curricular Programmes/General Information.md
-      - Curricular Programmes/English Language.md
-      - Curricular Programmes/Mathematics.md
-      - Curricular Programmes/Science.md
-      - Curricular Programmes/Mother Tongue (Chinese).md
-      - Curricular Programmes/Mother Tongue (Malay).md
-      - Curricular Programmes/Mother Tongue (Tamil).md
-      - Curricular Programmes/Aesthetics.md
-      - Curricular Programmes/Character & Citizenship Education (CCE).md
-      - Curricular Programmes/Information and Communications Technology (ICT).md
-      - Curricular Programmes/Physical Education (PE).md
-      - Co Curricular Programmes/.keep
-      - Co Curricular Programmes/General Information.md
-      - Co Curricular Programmes/OLN 360 Programme.md
-      - Co Curricular Programmes/Programme for Active Learning (PAL).md
-      - Co Curricular Programmes/Learning Journeys & Camps.md
-      - Co Curricular Programmes/Enrichment Activities.md
-      - Student Well Being/.keep
-      - Student Well Being/Signature Programmes.md
-      - Student Well Being/Cyber Wellness.md
-      - Student Well Being/Sexuality Education.md
+      - IJOLN Curriculum.md
+      - Departments/.keep
+      - Departments/English Language.md
+      - Departments/Mother Tongue.md
+      - Departments/Mathematics.md
+      - Departments/Science.md
+      - Departments/Physical Education.md
+      - Departments/Aesthetics.md
+      - Departments/Character & Citizen Education.md
+      - Departments/Information & Communications Technology.md
+      - Student Well being.md
       - Co Curricular Activities (CCA)/.keep
       - Co Curricular Activities (CCA)/General Information.md
+      - Co Curricular Activities (CCA)/Bowling.md
+      - Co Curricular Activities (CCA)/Floorball.md
+      - Co Curricular Activities (CCA)/Netball.md
+      - Co Curricular Activities (CCA)/Table Tennis.md
+      - Co Curricular Activities (CCA)/Brownies.md
+      - Co Curricular Activities (CCA)/Brass Band.md
+      - Co Curricular Activities (CCA)/Choir.md
+      - Co Curricular Activities (CCA)/Creative Crew.md
+      - Co Curricular Activities (CCA)/Dance Inc.md
+      - Co Curricular Activities (CCA)/Infocomm Media Club.md
       - Co Curricular Activities (CCA)/CCA Policy.md
       - Co Curricular Activities (CCA)/CCA Schedule.md
-      - Co Curricular Activities (CCA)/FAQ.md
-      - Sports CCA/.keep
-      - Sports CCA/Netball.md
-      - Sports CCA/Bowling.md
-      - Sports CCA/Floorball.md
-      - Sports CCA/Table Tennis.md
-      - Uniform Groups CCA/.keep
-      - Uniform Groups CCA/Brownies.md
-      - Visual and Performing Arts CCA/.keep
-      - Visual and Performing Arts CCA/Dance Inc.md
-      - Visual and Performing Arts CCA/Creative Crew.md
-      - Visual and Performing Arts CCA/Choir.md
-      - Visual and Performing Arts CCA/Brass Band.md
+      - Special Programmes/.keep
+      - Special Programmes/OLN 360.md
+      - Special Programmes/Applied Learning Programme (ALP).md
+      - Special Programmes/Learning for Life Programme (LLP).md
+      - Special Programmes/Student Leadership Development (SLD).md
+      - Special Programmes/Programme for Active Learning (PAL).md
       - Support Lessons.md
       - Home–Based Learning.md

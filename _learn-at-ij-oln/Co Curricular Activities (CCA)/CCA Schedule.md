@@ -1,8 +1,9 @@
 ---
 title: CCA Schedule
-permalink: /learn-at-ij-oln/co-curricular-activities/cca-schedule/
+permalink: /learn-at-ij-oln/cca/ccaschedule/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
+variant: tiptap
 ---
 <h5>2023 Term 4 Schedules:</h5>
 <table>

@@ -3,6 +3,7 @@ title: School Admin Team
 permalink: /school-information/our-people/executive-n-admin-staff/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 <h4 style="text-align: center;"><strong>School Admin Team (SAT)</strong></h4>
 <table class="iveo_table ives_tab_blue ive_eobj_center">
@@ -40,7 +41,7 @@ third_nav_title: Our People
 
 <tr>
 <td style="text-align: center;">Adjunct Administrative Executive&nbsp;</td>
-<td style="text-align: center;">Ms Pee Lay Hoon&nbsp;</td>
+<td style="text-align: center;">Mdm Pee Lay Hoon&nbsp;</td>
 <td style="text-align: center;">&nbsp;</td>
 </tr>
 <tr>
@@ -89,11 +90,11 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td style="text-align: center;">Librarian&nbsp;&nbsp;</td>
-<td style="text-align: center;">Mdm Shaba Bte Noor</td>
+<td style="text-align: center;">Mdm Shaba Bte Mohd Noor</td>
 </tr>
 <tr>
 <td style="text-align: center;">Desktop Engineer</td>
-<td style="text-align: center;">Ms Charmaine Pua</td>
+<td style="text-align: center;">Miss Charmaine Pua</td>
 </tr>
 <tr>
 <td style="text-align: center;">Desktop Engineer</td>

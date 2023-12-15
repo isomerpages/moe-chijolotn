@@ -1,9 +1,0 @@
-collections:
-  kivinfo:
-    output: true
-    order:
-      - CathIDCanvas.md
-      - Updates on COVID–19.md
-      - Frequently Asked Questions.md
-      - PSLE and S1 Sch Selection.md
-      - Subject–Based Banding.md

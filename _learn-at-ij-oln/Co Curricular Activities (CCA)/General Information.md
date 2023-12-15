@@ -3,23 +3,27 @@ title: General Information
 permalink: /learn-at-ij-oln/co-curricular-activities/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
+variant: markdown
 ---
 <p>While CCA is not compulsory at the primary school, we believe in developing further the talents of our girls in sports and the aesthetics as well as in community service. The CCAs our girls might want to participate in can be found below:</p>
 <table>
 <tbody>
 <tr>
-<th>
-<p><strong><u>Sports:<br/></u></Strong>
-	<a href="/learn-at-ij-oln/co-curricular-activities/sports/netball" target="_self" rel="noopener">Netball</a><br />
-	<a href="/learn-at-ij-oln/co-curricular-activities/sports/bowling" target="_self" rel="noopener">Bowling</a><br />
-	<a href="/learn-at-ij-oln/co-curricular-activities/sports/floorball" target="_self" rel="noopener">Floorball</a><br />
-	<a href="/learn-at-ij-oln/co-curricular-activities/sports/table-tennis" target="_self" rel="noopener">Table-Tennis</a></p>
-</th>
 <td>
-<p><strong><u>Uniformed Groups:<br /></u></strong><a href="/learn-at-ij-oln/co-curricular-activities/uniform-group/brownies" target="_self" rel="noopener">Brownies</a>&nbsp;</p>
+<p><strong><u>Sports:<br></u></strong>
+	<a href="/learn-at-ij-oln/cca/netball" target="_self" rel="noopener">Netball</a><br>
+	<a href="/learn-at-ij-oln/cca/bowling" target="_self" rel="noopener">Bowling</a><br>
+	<a href="/learn-at-ij-oln/cca/floorball" target="_self" rel="noopener">Floorball</a><br>
+	<a href="/learn-at-ij-oln/cca/tabletennis" target="_self" rel="noopener">Table-Tennis</a></p>
 </td>
 <td>
-<p><u><strong>Visual &amp; Performing Arts<br /></strong></u><a href="/learn-at-ij-oln/co-curricular-activities/visual-and-performing-arts/creative-crew" target="_self" rel="noopener">Creative Crew</a><br /><a href="/learn-at-ij-oln/co-curricular-activities/visual-and-performing-arts/brass-band" target="_self" rel="noopener">Brass Band</a><br /><a href="/learn-at-ij-oln/co-curricular-activities/visual-and-performing-arts/choir" target="_self" rel="noopener">Choir</a><br /><a href="/learn-at-ij-oln/co-curricular-activities/visual-and-performing-arts/dance-inc" target="_self" rel="noopener">Dance Inc (International 1/International 2/Chinese/Malay)</a></p>
+<p><strong><u>Uniformed Groups:<br></u></strong><a href="/learn-at-ij-oln/cca/brownies" target="_self" rel="noopener">Brownies</a>&nbsp;</p>
+</td>
+<td>
+<p><u><strong>Visual &amp; Performing Arts<br></strong></u><a href="/learn-at-ij-oln/cca/creativecrew" target="_self" rel="noopener">Creative Crew</a><br><a href="/learn-at-ij-oln/cca/brassband" target="_self" rel="noopener">Brass Band</a><br><a href="/learn-at-ij-oln/cca/choir" target="_self" rel="noopener">Choir</a><br><a href="/learn-at-ij-oln/cca/danceinc" target="_self" rel="noopener">Dance Inc (Intl 1/Intl 2/Chinese/Malay)</a></p>
+</td>
+	<td>
+<p><strong><u>Club</u></strong><br><a href="/learn-at-ij-oln/cca/infomediaclub" target="_self" rel="noopener">Infocomm Media Club</a></p>
 </td>
 </tr>
 </tbody>
@@ -45,7 +49,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <li>CCA also offer excellent platforms for students to learn core values, social and emotional competencies and the emerging 21st Century Competencies.</li>
 <li>All CCA emphasise social interaction by providing a common space for friendships and social integration amongst students of diverse backgrounds. Through CCA, students develop a sense of identity and belonging to the school.</li>
 </ul>
-<p><h4><strong>Objectives<br /></strong></h4>Through sustained and active participation in CCA, we hope that students will develop and demonstrate:</p>
+<p></p><h4><strong>Objectives<br></strong></h4>Through sustained and active participation in CCA, we hope that students will develop and demonstrate:<p></p>
 <ul>
 <li>knowledge and skills related to their chosen CCA</li>
 <li>our school values (GRACIA), social and emotional competencies and the emerging 21st Century Competencies</li>
@@ -77,4 +81,3 @@ third_nav_title: Co Curricular Activities (CCA)
 <li>Acquiring technical and tactical knowledge and skills through the activities conducted</li>
 <li>Development of oratorical (Presentation) and critical thinking skills&nbsp;</li>
 </ul>
-<p style="text-align: center;"><strong><a href="/learn-at-ij-oln/co-curricular-activities/cca-policy" target="_blank" rel="noopener">CCA Policy</a> | <a href="/learn-at-ij-oln/co-curricular-activities/cca-schedule" target="_blank" rel="noopener">CCA Schedule</a></strong></p>

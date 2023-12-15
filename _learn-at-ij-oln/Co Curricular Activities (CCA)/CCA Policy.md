@@ -1,11 +1,10 @@
 ---
 title: CCA Policy
-permalink: /learn-at-ij-oln/co-curricular-activities/cca-policy/
+permalink: /learn-at-ij-oln/cca/cca-policy/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
+variant: tiptap
 ---
-
-
 <h4><strong>GENERAL</strong></h4>
 <ul>
 <li>All Primary 3 to 6 students are strongly encouraged to participate in a CCA of their choice.</li>
@@ -37,7 +36,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <li>Students are selected to represent the school in competitions based on the criteria set by the respective CCA teachers-in-charge and the coaches or instructors.</li>
 <li>The school is unable to send representatives for competitions other than the ones offered through the school's CCAs.</li>
 <li>Students will have to abide by the National School Games (NSG) guidelines if they wish to participate in the external competitions via the School Adult Representative (Parent) scheme.</li>
-<li>Students have to meet the previous year&rsquo;s 3rd placing score / timing.</li>
+<li>Students have to meet the previous year’s 3rd placing score / timing.</li>
 </ul>
 <h4><strong>ATTIRE</strong></h4>
 <ul>

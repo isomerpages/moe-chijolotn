@@ -37,24 +37,18 @@ links:
       - title: IJ Board of Management
         url: /school-information/ij-board-of-mgt
   - title: Learn @ IJ OLN
-    url: /learn-at-ij-oln/our-curriculum/GenInfo
+    url: /learn-at-ij-oln/ijolncurr/
     sublinks:
       - title: Our Curriculum
-        url: /learn-at-ij-oln/our-curriculum/GenInfo
-      - title: Curricular Programmes
-        url: /learn-at-ij-oln/curricular-programmes/GenInfo/
-      - title: Co-Curricular Programmes
-        url: /learn-at-ij-oln/Co-Curricular-Programmes/GenInfo/
+        url: /learn-at-ij-oln/ijolncurr/
+      - title: Departments
+        url: /learn-at-ij-oln/departments/english-language/
       - title: Student Well Being
-        url: /student-well-being/signature-programmes/
+        url: /learn-at-ij-oln/studentwellbeing/
       - title: Co-Curricular Activities (CCA)
         url: /learn-at-ij-oln/co-curricular-activities
-      - title: Sports CCA
-        url: /learn-at-ij-oln/co-curricular-activities/sports/netball/
-      - title: Uniform Groups CCA
-        url: /learn-at-ij-oln/co-curricular-activities/uniform-group/brownies/
-      - title: Visual and Performing Arts CCA
-        url: /learn-at-ij-oln/co-curricular-activities/visual-and-performing-arts/dance-inc/
+      - title: Special Programmes
+        url: /learn-at-ij-oln/special-programmes/oln360/
       - title: Support Lessons
         url: /learn-at-ij-oln/support-lessons
       - title: Home-Based Learning

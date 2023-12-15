@@ -3,6 +3,7 @@ title: Teaching Staff
 permalink: /school-information/our-people/teaching-staff/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 <h4><center>2023</center></h4>
 <p>Click on the Teacher's name to email the teacher using your default email client.<br>Right-click on the Teacher's name to copy email address if you do not have a default email client setup.</p>
@@ -47,7 +48,7 @@ third_nav_title: Our People
 <tr>
 <td><strong>1 Grace</strong></td>
 <td><a href="mailto:masturah_salman@moe.edu.sg" target="">Mrs Masturah Azman</a></td>
-<td><a href="mailto:wu_li_chuang_stephanie@moe.edu.sg" target="">Mrs Stephanie Wu</a></td>
+<td><a href="mailto:wu_li_chuang_stephanie@moe.edu.sg" target="">Mdm Stephanie Wu</a></td>
 <td><a href="mailto:masturah_salman@moe.edu.sg" target="">Mrs Masturah Azman</a></td>
 <td><a href="mailto:masturah_salman@moe.edu.sg" target="">Mrs Masturah Azman</a></td>
 <td><a href="mailto:tang_dan_li_emily@moe.edu.sg" target="">Mrs Emily Chew</a></td>
@@ -666,7 +667,7 @@ third_nav_title: Our People
 <td><a href="mailto:bao_hong@moe.edu.sg" target="">Mdm Bao Hong</a><br>包钰箖老师</td>
 <td><a href="mailto:heng_ai_ling@moe.edu.sg" target="">Mdm Heng Ai Ling</a><br>王爱玲老师&nbsp;(HOD)</td>
 <td><a href="mailto:hang_yun@moe.edu.sg" target="">Mdm Hang Yun</a> <br>杭云老师</td>
-<td><a href="mailto:wu_li_chuang_stephanie@moe.edu.sg" target="">Mrs Stephanie Wu</a><br>吴丽娟老师</td>
+<td><a href="mailto:wu_li_chuang_stephanie@moe.edu.sg" target="">Mdm Stephanie Wu</a><br>吴丽娟老师</td>
 <td><a href="mailto:jin_xiumei@moe.edu.sg" target="">Mdm Jin Xiumei</a><br>金秀梅老师</td>
 </tr>
 <tr>
@@ -725,7 +726,7 @@ third_nav_title: Our People
 <td><strong>P1 CL</strong></td>
 <td>Mdm Bao Hong</td>
 <td>Ms Jasmine Yap</td>
-<td>Mrs Stephanie Wu</td>
+<td>Mdm Stephanie Wu</td>
 <td>Mdm Pang Woei Ru</td>
 <td>Mdm Lai Mei Yu</td>
 <td>Mdm Jin Xiumei</td>
@@ -859,7 +860,7 @@ third_nav_title: Our People
 </tr>
 <tr>
 <td><strong>P5 CL</strong></td>
-<td>Mrs Stephanie Wu</td>
+<td>Mdm Stephanie Wu</td>
 <td>Mdm Bao Hong</td>
 <td>Mdm Pang Woei Ru</td>
 <td>Mdm Jin Xiumei</td>
