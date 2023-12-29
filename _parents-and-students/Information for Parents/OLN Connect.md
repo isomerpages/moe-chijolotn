@@ -3,26 +3,6 @@ title: OLN Connect
 permalink: /parents-and-students/information-for-parents/oln-connect/
 description: ""
 third_nav_title: Information for Parents
-variant: markdown
+variant: tiptap
 ---
-<h4 style="text-align: center;"><strong>2023</strong></h4>
-<table class="ive_eobj_center iveo_table ives_tab_simple3">
-<tbody>
-<tr>
-<td><a href="/files/2023Connect/OLN_Connect_P001r1.pdf" rel="noopener">January</a></td>
-<td><a href="/files/2023Connect/OLN_Connect_P002.pdf" rel="noopener">February</a></td>
-<td><a href="/files/2023Connect/OLN_Connect_P003 (1).pdf" rel="noopener">March</a></td>
-<td><a href="/files/2023Connect/oln_connect_p004 (2).pdf" rel="noopener">April</a></td>
-<td><a href="/files/2023Connect/oln_connect_p005 (2).pdf" rel="noopener">May</a></td>
-<td><a href="/files/2023Connect/oln_connect_p006.pdf" rel="noopener">June</a></td>
-</tr>
-<tr>
-	<td><a href="/files/2023Connect/oln_connect_p007.pdf" rel="noopener">July</a></td>
-	<td><a href="/files/2023Connect/oln_connect_p008r2.pdf" rel="noopener">August</a></td>
-	<td><a href="/files/2023Connect/oln_connect_p009.pdf" rel="noopener">September</a></td>
-	<td><a href="/files/2023Connect/oln_connect_p010.pdf" rel="noopener">October</a></td>
-	<td><a href="/files/2023Connect/oln_connect_p011.pdf" rel="noopener">November</a></td>
-	<td><a href="/files/2023Connect/OLN_Connect_P012.pdf" rel="noopener">December</a></td>
-</tr>
-</tbody>
-</table>
+<h4><strong>2024</strong></h4><table><tbody><tr><td rowspan="1" colspan="1"><p><a href="/files/2024olnconnect/OLN_Connect_P001.pdf" rel="noopener noreferrer nofollow" target="_blank">January</a></p></td><td rowspan="1" colspan="1"><p>February</p></td><td rowspan="1" colspan="1"><p>March</p></td><td rowspan="1" colspan="1"><p>April</p></td><td rowspan="1" colspan="1"><p>May</p></td><td rowspan="1" colspan="1"><p>June</p></td></tr><tr><td rowspan="1" colspan="1"><p>July</p></td><td rowspan="1" colspan="1"><p>August</p></td><td rowspan="1" colspan="1"><p>September</p></td><td rowspan="1" colspan="1"><p>October</p></td><td rowspan="1" colspan="1"><p>November</p></td><td rowspan="1" colspan="1"><p>December</p></td></tr></tbody></table><p></p><h4><strong>2023</strong></h4><table><tbody><tr><td rowspan="1" colspan="1"><p><a href="/files/2023Connect/OLN_Connect_P001r1.pdf" rel="noopener" target="_blank">January</a></p></td><td rowspan="1" colspan="1"><p><a href="/files/2023Connect/OLN_Connect_P002.pdf" rel="noopener" target="_blank">February</a></p></td><td rowspan="1" colspan="1"><p><a href="/files/2023Connect/OLN_Connect_P003 (1).pdf" rel="noopener" target="_blank">March</a></p></td><td rowspan="1" colspan="1"><p><a href="/files/2023Connect/oln_connect_p004 (2).pdf" rel="noopener" target="_blank">April</a></p></td><td rowspan="1" colspan="1"><p><a href="/files/2023Connect/oln_connect_p005 (2).pdf" rel="noopener" target="_blank">May</a></p></td><td rowspan="1" colspan="1"><p><a href="/files/2023Connect/oln_connect_p006.pdf" rel="noopener" target="_blank">June</a></p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="/files/2023Connect/oln_connect_p007.pdf" rel="noopener" target="_blank">July</a></p></td><td rowspan="1" colspan="1"><p><a href="/files/2023Connect/oln_connect_p008r2.pdf" rel="noopener" target="_blank">August</a></p></td><td rowspan="1" colspan="1"><p><a href="/files/2023Connect/oln_connect_p009.pdf" rel="noopener" target="_blank">September</a></p></td><td rowspan="1" colspan="1"><p><a href="/files/2023Connect/oln_connect_p010.pdf" rel="noopener" target="_blank">October</a></p></td><td rowspan="1" colspan="1"><p><a href="/files/2023Connect/oln_connect_p011.pdf" rel="noopener" target="_blank">November</a></p></td><td rowspan="1" colspan="1"><p><a href="/files/2023Connect/OLN_Connect_P012.pdf" rel="noopener" target="_blank">December</a></p></td></tr></tbody></table><p></p>

@@ -203,7 +203,7 @@ variant: markdown
 <td><a href="mailto:ng_seet_mei@moe.edu.sg" target="">Mrs Clara Ong</a></td>
 <td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
 <td><a href="mailto:lena_teo@moe.edu.sg" target="">Mrs Lena Teo</a></td>
-<td><a href="mailto:poh_shi_ling_edna@moe.edu.sg" target="">Mrs Edna Poh</a></td>
+<td><a href="mailto:poh_shi_ling_edna@moe.edu.sg" target="">Ms Edna Poh</a></td>
 <td><a href="mailto:joycelyn_agnes_ferdinand_john@moe.edu.sg" target="">Mrs Joycelyn Trevor</a></td>
 </tr>
 <tr>
@@ -301,7 +301,7 @@ variant: markdown
 <td><strong>3 Peace</strong></td>
 <td><a href="mailto:siow_chian@moe.edu.sg" target="">Mdm Rachel Siow</a></td>
 <td><a href="mailto:low_sook_ching_a@moe.edu.sg" target="">Mdm Low Sook Ching</a></td>
-<td><a href="mailto:sky_frank@moe.edu.sg@moe.edu.sg" target="">Mrs Sky Frank</a></td>
+<td><a href="mailto:sky_frank@moe.edu.sg" target="">Mrs Sky Frank</a></td>
 <td><a href="mailto:chew_yin_sy@moe.edu.sg" target="">Mrs Kwek Yin Sy</a></td>
 <td><a href="mailto:low_sook_ching_a@moe.edu.sg" target="">Mdm Low Sook Ching</a></td>
 <td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
@@ -406,9 +406,9 @@ variant: markdown
 <tr>
 <td><strong>4 Peace</strong></td>
 <td><a href="mailto:muhammad_nazri_subawi@moe.edu.sg" target="">Mr Muhammad Nazri</a></td>
-<td><a href="mailto:nai_ting-tiang_jacqueline@moe.edu.sg" target="">Mrs Jacqueline Nai</a></td>
+<td><a href="mailto:nai_ting-tiang_jacqueline@moe.edu.sg" target="">Mdm Jacqueline Nai</a></td>
 <td><a href="mailto:sarina_md_ismail@moe.edu.sg" target="">Ms Sarina</a></td>
-<td><a href="mailto:nai_ting-tiang_jacqueline@moe.edu.sg" target="">Mrs Jacqueline Nai</a></td>
+<td><a href="mailto:nai_ting-tiang_jacqueline@moe.edu.sg" target="">Mdm Jacqueline Nai</a></td>
 <td><a href="mailto:wong_chia_suan@moe.edu.sg" target="">Mdm Wong Chia Suan</a></td>
 <td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
 <td><a href="mailto:lena_teo@moe.edu.sg" target="">Mrs Lena Teo</a></td>
@@ -500,7 +500,7 @@ variant: markdown
 <td><a href="mailto:ang_i-ling@moe.edu.sg" target="">Mdm Ang I-Ling</a></td>
 <td><a href="mailto:kenett_wong_tick_woon@moe.edu.sg" target="">Mr Kenett Wong</a></td>
 <td><a href="mailto:chern_shihui_charissa@moe.edu.sg" target="">Mrs Charissa Tan</a></td>
-<td><a href="mailto:nai_ting-tiang_jacqueline@moe.edu.sg" target="">Mrs Jacqueline Nai</a></td>
+<td><a href="mailto:nai_ting-tiang_jacqueline@moe.edu.sg" target="">Mdm Jacqueline Nai</a></td>
 <td><a href="mailto:siaw_yee_looi@moe.edu.sg" target="">Mdm Elaine Siaw</a></td>
 <td><a href="mailto:leong_pei_ying@moe.edu.sg" target="">Mrs Gan Pei Ying</a></td>
 <td><a href="mailto:lena_teo@moe.edu.sg" target="">Mrs Lena Teo</a></td>
