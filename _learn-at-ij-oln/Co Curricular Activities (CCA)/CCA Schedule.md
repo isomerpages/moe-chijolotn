@@ -5,38 +5,4 @@ description: ""
 third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
-<h5>2023 Term 4 Schedules:</h5>
-<table>
-<tbody>
-<tr>
-<td>
-<p><strong><u>Sports<br></u></strong>Netball</p>
-<ul>
-<li><a href="/files/2023CCASchedules/T4/t4 - p3 netball.pdf" target="_blank" rel="noopener">P3</a></li>
-<li><a href="/files/2023CCASchedules/T4/t4 - p4 netball.pdf" target="_blank" rel="noopener">P4</a></li>
-<li><a href="/files/2023CCASchedules/T4/t4 - p5 netball.pdf" target="_blank" rel="noopener">P5</a></li>
-
-<li><a href="/files/2023CCASchedules/T4/t4 - netball developmental team.pdf" target="_blank" rel="noopener">Development Team</a></li>
-</ul>
-<p><a href="/files/2023CCASchedules/T4/t4 - p3_p4_p5 floorball.pdf" target="_blank" rel="noopener">P3, P4 &amp; P5 Floorball</a><br><br>
-	<a href="/files/2023CCASchedules/T4/t4 - bowling.pdf" target="_blank" rel="noopener">Bowling</a><br><br>
-	<a href="/files/2023CCASchedules/T4/t4 - table tennis.pdf" target="_blank" rel="noopener">P3, P4 &amp;  P5 Table Tennis</a></p>
-</td>
-<td>
-<p><strong><u>Visual &amp;Performing Arts<br></u></strong><a href="/files/2023CCASchedules/T4/t4 - creative crew r1.pdf" target="_blank" rel="noopener">Creative Crew</a><br>
-	<a href="/files/2023CCASchedules/T4/t4 - brass band.pdf" target="_blank" rel="noopener">Brass Band</a><br>
-	<a href="/files/2023CCASchedules/T4/t4 - choir.pdf" target="_blank" rel="noopener">Choir</a><br><br>
-<a href="/files/2023CCASchedules/T4/t4 - infocomm media_r1.pdf" target="_blank" rel="noopener">Infocomm Media</a>	
-</p>
-<p>Dance Inc</p>
-<ul>
-<li><a href="/files/2023CCASchedules/T4/t4 - dance inc 1.pdf" target="_blank" rel="noopener">International 1</a></li>
-<li><a href="/files/2023CCASchedules/T4/t4 - dance inc 2.pdf" target="_blank" rel="noopener">International 2</a></li>
-<li><a href="/files/2023CCASchedules/T4/t4 - dance inc 3.pdf" target="_blank" rel="noopener">Chinese</a></li>
-<li><a href="/files/2023CCASchedules/T4/t4 - dance inc 4.pdf" target="_blank" rel="noopener">Malay</a></li>
-</ul>
-<p><strong><u>Uniform Group<br></u></strong><a href="/files/2023CCASchedules/T4/t4 - brownies.pdf" target="_blank" rel="noopener">Brownies</a></p>
-</td>
-</tr>
-</tbody>
-</table>
+<p>2024 Term 1 Schedules:</p><table><tbody><tr><th rowspan="1" colspan="1"><p><a href="/files/2024CCASchedule/Term1/t1_p3_netball.pdf" rel="noopener noreferrer nofollow" target="_blank">Netball - P3</a></p></th><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p><a href="/files/2024CCASchedule/Term1/t1_p4_netball.pdf" rel="noopener noreferrer nofollow" target="_blank">Netball - P4</a></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="/files/2024CCASchedule/Term1/t1_p5_netball.pdf" rel="noopener noreferrer nofollow" target="_blank">Netball - P5</a></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="/files/2024CCASchedule/Term1/t1_netball_developmental_team.pdf" rel="noopener noreferrer nofollow" target="_blank">Netball - Development Team</a></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="/files/2024CCASchedule/Term1/t1_p3_p4_p5_floorball.pdf" rel="noopener noreferrer nofollow" target="_blank">Floorball - P3, P4 &amp; P5</a></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="/files/2024CCASchedule/Term1/t1_p6_floorball.pdf" rel="noopener noreferrer nofollow" target="_blank">Floorball - P6</a></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p></p><p></p><p></p><h5>2023 Term 4 Schedules:</h5><table><tbody><tr><td rowspan="1" colspan="1"><p><strong><u>Sports<br></u></strong>Netball</p><p></p><ul data-tight="true" class="tight"><li><p><a href="/files/2023CCASchedules/T4/t4 - p4 netball.pdf" rel="noopener" target="_blank">P4</a></p></li><li><p><a href="/files/2023CCASchedules/T4/t4 - p5 netball.pdf" rel="noopener" target="_blank">P5</a></p></li><li><p><a href="/files/2023CCASchedules/T4/t4 - netball developmental team.pdf" rel="noopener" target="_blank">Development Team</a></p></li></ul><p><a href="/files/2023CCASchedules/T4/t4 - p3_p4_p5 floorball.pdf" rel="noopener" target="_blank">P3, P4 &amp; P5 Floorball</a><br><br><a href="/files/2023CCASchedules/T4/t4 - bowling.pdf" rel="noopener" target="_blank">Bowling</a><br><br><a href="/files/2023CCASchedules/T4/t4 - table tennis.pdf" rel="noopener" target="_blank">P3, P4 &amp; P5 Table Tennis</a></p></td><td rowspan="1" colspan="1"><p><strong><u>Visual &amp;Performing Arts<br></u></strong><a href="/files/2023CCASchedules/T4/t4 - creative crew r1.pdf" rel="noopener" target="_blank">Creative Crew</a><br><a href="/files/2023CCASchedules/T4/t4 - brass band.pdf" rel="noopener" target="_blank">Brass Band</a><br><a href="/files/2023CCASchedules/T4/t4 - choir.pdf" rel="noopener" target="_blank">Choir</a><br><br><a href="/files/2023CCASchedules/T4/t4 - infocomm media_r1.pdf" rel="noopener" target="_blank">Infocomm Media</a></p><p>Dance Inc</p><ul data-tight="true" class="tight"><li><p><a href="/files/2023CCASchedules/T4/t4 - dance inc 1.pdf" rel="noopener" target="_blank">International 1</a></p></li><li><p><a href="/files/2023CCASchedules/T4/t4 - dance inc 2.pdf" rel="noopener" target="_blank">International 2</a></p></li><li><p><a href="/files/2023CCASchedules/T4/t4 - dance inc 3.pdf" rel="noopener" target="_blank">Chinese</a></p></li><li><p><a href="/files/2023CCASchedules/T4/t4 - dance inc 4.pdf" rel="noopener" target="_blank">Malay</a></p></li></ul><p><strong><u>Uniform Group<br></u></strong><a href="/files/2023CCASchedules/T4/t4 - brownies.pdf" rel="noopener" target="_blank">Brownies</a></p></td></tr></tbody></table><p></p>
