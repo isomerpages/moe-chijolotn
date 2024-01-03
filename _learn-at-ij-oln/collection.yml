@@ -1,0 +1,37 @@
+collections:
+  learn-at-ij-oln:
+    output: true
+    order:
+      - IJOLN Curriculum.md
+      - Departments/.keep
+      - Departments/English Language.md
+      - Departments/Mother Tongue.md
+      - Departments/Mathematics.md
+      - Departments/Science.md
+      - Departments/Physical Education.md
+      - Departments/Aesthetics.md
+      - Departments/Character & Citizen Education.md
+      - Departments/Information & Communications Technology.md
+      - Student Well being.md
+      - Co Curricular Activities (CCA)/.keep
+      - Co Curricular Activities (CCA)/General Information.md
+      - Co Curricular Activities (CCA)/Bowling.md
+      - Co Curricular Activities (CCA)/Floorball.md
+      - Co Curricular Activities (CCA)/Netball.md
+      - Co Curricular Activities (CCA)/Table Tennis.md
+      - Co Curricular Activities (CCA)/Brownies.md
+      - Co Curricular Activities (CCA)/Brass Band.md
+      - Co Curricular Activities (CCA)/Choir.md
+      - Co Curricular Activities (CCA)/Creative Crew.md
+      - Co Curricular Activities (CCA)/Dance Inc.md
+      - Co Curricular Activities (CCA)/Infocomm Media Club.md
+      - Co Curricular Activities (CCA)/CCA Schedule.md
+      - Co Curricular Activities (CCA)/CCA Policy.md
+      - Special Programmes/.keep
+      - Special Programmes/OLN 360.md
+      - Special Programmes/Applied Learning Programme (ALP).md
+      - Special Programmes/Learning for Life Programme (LLP).md
+      - Special Programmes/Student Leadership Development (SLD).md
+      - Special Programmes/Programme for Active Learning (PAL).md
+      - Support Lessons.md
+      - Home–Based Learning.md
