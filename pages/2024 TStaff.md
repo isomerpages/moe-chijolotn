@@ -1,6 +1,6 @@
 ---
 title: 2024 TStaff
-permalink: /permalink/
+permalink: /2024tstafftest/
 variant: tiptap
 description: ""
 ---
