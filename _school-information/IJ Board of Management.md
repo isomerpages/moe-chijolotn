@@ -2,9 +2,6 @@
 title: IJ Board of Management
 permalink: /school-information/ij-board-of-mgt/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-![](/images/School%20Info/ij%20bom%20members20230822f.jpg)
-<hr>
-
-###### [2023_Year_End_Message_from_IJBOM_Chairperson](/files/IJBoard/2023_Year_End_Message_from_IJBOM_Chairperson.pdf)
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Info/IJBOMMembers20240102.jpg"></div><p></p>

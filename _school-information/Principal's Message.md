@@ -2,8 +2,9 @@
 title: Principal's Message
 permalink: /school-information/principals-message/
 description: ""
+variant: markdown
 ---
-Welcome to 2023! We are so glad to partner you once again to ensure that your child grows up to be the teenager that God wants her to be. We are also glad that you chose a school that will place priority on character education.
+Welcome! We are so glad to partner you once again to ensure that your child grows up to be the teenager that God wants her to be. We are also glad that you chose a school that will place priority on character education.
 
 As an IJ school, CHIJ OLN strives to help all our girls have a values – centered education, one that assures them that God has made us all different with different gifts and that God loves each one of us dearly. As such then, an IJ girl works hard to develop her gifts to the fullest, and to use her gifts to bless others.
 
