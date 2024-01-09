@@ -9,7 +9,7 @@ The Catholic parents of the school entrust their children to our care. We share 
 
 Non-Catholic students are welcomed to join in these programmes. Parents can inform their children’s form teacher if they would like their children to do so.
 
-![](/images/CatholicID/Spirituality_Programmes_for_Catholics_1.JPG)
+![](/images/CatholicID/Spirituality_Programmes_for_Catholics_1_upd.jpg)
 On Wednesdays during the Values Education Lessons, Catholic students come together to learn about the teachings of Jesus Christ and how it impacts our day-to-day life. 
 
 Do note that TLC Lessons do not replace Catechism lessons conducted by churches. The programme at church prepares children for the Sacraments of Communion, Reconciliation and Confirmation; TLC does not.
