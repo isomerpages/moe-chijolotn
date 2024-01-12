@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Success Stories
           description: Achievements by Pupils & Staff
-          url: /success-stories/students/2023sss/
+          url: /success-stories/students/2023studentss/
         - title: CONNECT WITH US
           description: Catch us on FB & IG
           url: /SocialMedia/
