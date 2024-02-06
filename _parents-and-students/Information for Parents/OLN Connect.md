@@ -14,7 +14,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024olnconnect/OLN_Connect_P002r1.pdf" rel="noopener noreferrer nofollow" target="_blank">February</a>
+<p><a href="/files/2024olnconnect/OLN_Connect_P002r2.pdf" rel="noopener noreferrer nofollow" target="_blank">February</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
