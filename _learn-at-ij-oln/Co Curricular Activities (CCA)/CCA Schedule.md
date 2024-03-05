@@ -157,7 +157,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term1/t1_p3_netball.pdf" rel="noopener noreferrer nofollow" target="_blank">Netball - P3</a>
+<p><a href="/files/2024CCASchedule/Term2/t2_p3_netball.pdf" rel="noopener noreferrer nofollow" target="_blank">Netball - P3</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -171,7 +171,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term1/t1_p4_netball.pdf" rel="noopener noreferrer nofollow" target="_blank">Netball - P4</a>
+<p><a href="/files/2024CCASchedule/Term2/t2_p4_netball.pdf" rel="noopener noreferrer nofollow" target="_blank">Netball - P4</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -185,7 +185,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term1/t1_p5_netball.pdf" rel="noopener noreferrer nofollow" target="_blank">Netball - P5</a>
+<p><a href="/files/2024CCASchedule/Term2/t2_p5_netball.pdf" rel="noopener noreferrer nofollow" target="_blank">Netball - P5</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -199,7 +199,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term1/t1_p6_netball_r1.pdf" rel="noopener noreferrer nofollow" target="_blank">Netball - P6</a>
+<p><a href="/files/2024CCASchedule/Term2/t2_p6_netball.pdf" rel="noopener noreferrer nofollow" target="_blank">Netball - P6</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -213,11 +213,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term1/t1_netball_developmental_team.pdf" rel="noopener noreferrer nofollow" target="_blank">Netball - Development Team</a>
+<p><a href="/files/2024CCASchedule/Term2/t2_netball_developmental_team.pdf" rel="noopener noreferrer nofollow" target="_blank">Netball - Development Team</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term1/t1_danceinc3_syfgrp.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc - Chinese Dance (SYF)</a>
+<p><a href="/files/2024CCASchedule/Term1/t1_danceinc3_syfgrp.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc - Chinese Dance</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -227,24 +227,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term1/t1_p3_p4_p5_floorball.pdf" rel="noopener noreferrer nofollow" target="_blank">Floorball - P3, P4 &amp; P5</a>
+<p><a href="/files/2024CCASchedule/Term2/t2_p3_p4_p5_floorball.pdf" rel="noopener noreferrer nofollow" target="_blank">Floorball - P3, P4 &amp; P5</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term1/t1_dance_inc3_non_syfgrp.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc - Chinese Dance (Non SYF)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term1/t1_p6_floorball_r1.pdf" rel="noopener noreferrer nofollow" target="_blank">Floorball - P6</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term1/t1_danceinc4_syfgrp.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc - Malay Dance (SYF)</a>
+<p><a href="/files/2024CCASchedule/Term1/t1_danceinc4_syfgrp.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc - Malay Dance</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -253,19 +240,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term1/t1_danceinc4_non_syfgrp.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc - Malay Dance (Non SYF)</a>
+<p><a href="/files/2024CCASchedule/Term2/t2_p6_floorball.pdf" rel="noopener noreferrer nofollow" target="_blank">Floorball - P6</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2024CCASchedule/Term1/t1_dance_inc_pri_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc - Pri 3</a>
