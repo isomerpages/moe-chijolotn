@@ -32,8 +32,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term1/t1_brass_band.pdf" rel="noopener noreferrer nofollow" target="_blank">Brass Band</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
