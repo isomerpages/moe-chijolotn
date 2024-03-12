@@ -255,7 +255,7 @@ These lessons will commence on 15 January 2024 from 2 p.m to 3 p.m.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>P6 Supplementary Lessons 2024</strong></h4>
+<h4><strong>P6 Supplementary Lessons 2024 (Term 2)</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Supplementary Lessons Days by Subjects</p>
