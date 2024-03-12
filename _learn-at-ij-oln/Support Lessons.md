@@ -573,16 +573,16 @@ These lessons will commence on 15 January 2024 from 2 p.m to 3 p.m.</p>
 <p>T2, W10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>-</p>
 </td>
 </tr>
 <tr>
