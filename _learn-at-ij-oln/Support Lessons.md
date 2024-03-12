@@ -508,6 +508,23 @@ These lessons will commence on 15 January 2024 from 2 p.m to 3 p.m.</p>
 <p>22 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>T2, W7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>30 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -519,7 +536,7 @@ These lessons will commence on 15 January 2024 from 2 p.m to 3 p.m.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>T2, W7</p>
+<p>T2, W8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -536,7 +553,7 @@ These lessons will commence on 15 January 2024 from 2 p.m to 3 p.m.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>T2, W8</p>
+<p>T2, W9</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>13 May</p>
@@ -549,23 +566,6 @@ These lessons will commence on 15 January 2024 from 2 p.m to 3 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>17 May</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>T2, W9</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
