@@ -6,8 +6,7 @@ variant: tiptap
 ---
 <h4><strong>Schedule for Support and Supplementary Lessons 2024</strong></h4>
 <p>Support lessons provide additional academic support to students identified
-by teachers. Parents will be notified of the schedule by 5 January 2024.
-These lessons will commence on 15 January 2024 from 2 p.m to 3 p.m.</p>
+by teachers.</p>
 <h4><strong>P3 - P5 Support Lessons 2024 Term 1</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -604,4 +603,42 @@ These lessons will commence on 15 January 2024 from 2 p.m to 3 p.m.</p>
 </tr>
 </tbody>
 </table>
+<ul data-tight="true" class="tight">
+<li>
+<p>Dates &amp; timing of P6 Supplementary Lessons during the June holidays
+2024</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Dates</p>
+</th>
+<th rowspan="1" colspan="2">
+<p>Timing</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18 to 20 June 2024</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>7.45 am to 12.15 pm
+<br>8.45 am to 12.15 pm (For pupils exempted from MTL)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
 <p></p>
