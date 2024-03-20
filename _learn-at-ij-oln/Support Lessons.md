@@ -105,7 +105,6 @@ by teachers.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Support Lessons Schedule</p>
-<p></p>
 <table>
 <tbody>
 <tr>
