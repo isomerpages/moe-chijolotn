@@ -15,7 +15,7 @@ through closer interactions and communications with schools.</p>
 latest school information.</p>
 <p></p>
 <p>For assistance, you may
-<br>1. Download the Step-by-step&nbsp;<a href="/files/User%20Guide%20for%20Parents%20Gateway.pdf" rel="noopener" target="_blank">onboarding guide</a>&nbsp;here.
+<br>1. Download the Step-by-step&nbsp;<a href="/files/Guides/User Guide for Parents Gateway.pdf" rel="noopener" target="_blank">onboarding guide</a>&nbsp;here.
 <br>2. Frequently asked questions (<a href="/files/PG%20FAQs%20for%20Parents.pdf" rel="noopener" target="_blank">FAQ</a>)
 on Parents Gateway</p>
 <div class="iframe-wrapper">
