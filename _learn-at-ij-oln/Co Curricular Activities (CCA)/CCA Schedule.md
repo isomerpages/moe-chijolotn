@@ -42,7 +42,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term2/t2_dance_inc_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc - International 1</a>
+<p><a href="/files/2024CCASchedule/Term2/t2_dance_inc_1r1.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc - International 1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -84,7 +84,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term2/t2_dance_inc_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc - Malay Dance</a>
+<p><a href="/files/2024CCASchedule/Term2/t2_dance_inc_4r1.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc - Malay Dance</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
