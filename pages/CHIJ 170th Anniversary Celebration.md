@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement/170thAnniversaryBanner.jpg">
 </div>
-<h2>Calling All Ex-CHIJ OLN students!</h2>
+<h2>Calling All Ex-CHIJ OLN Students!</h2>
 <p>This year marks a significant milestone for the <strong>CHIJ family as we commemorate the 170th anniversary of the CHIJ Mission in Singapore</strong>.
 It is with great joy that <strong>we invite you to join us in celebrating this occasion</strong>.
 The highlight of our celebrations will be the gathering of the entire CHIJ
