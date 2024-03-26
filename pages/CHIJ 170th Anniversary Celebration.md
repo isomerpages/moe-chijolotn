@@ -21,7 +21,7 @@ our IJ community of Sisters with a Thanksgiving Mass. We thank His Eminence,
 William Cardinal Goh, who has agreed to grace the occasion as the main
 celebrant.</p>
 <p><strong>We warmly extend our invitation to you to join us in the celebrations by filling in the form at</strong> 
-<a href="www.go.gov.sg/ijoln170" rel="noopener noreferrer nofollow" target="_blank">www.go.gov.sg/ijoln170</a> <strong>by 15 April 2024</strong> . Please note
+<a href="http://www.go.gov.sg/ijoln170" rel="noopener noreferrer nofollow" target="_blank">www.go.gov.sg/ijoln170</a> <strong>by 15 April 2024</strong> . Please note
 that we have a limited number of tickets and they will be given out on
 a first-come, first-served basis.</p>
 <h4>The details are as follows:</h4>
