@@ -14,5 +14,8 @@ sections:
         - title: CONNECT WITH US
           description: Catch us on FB & IG
           url: /SocialMedia/
+        - title: "Calling All Ex-CHIJ OLN students! "
+          description: 170th anniversary Celebrations
+          url: ""
       background: /images/Banner and Logo/herobanner_updjun2023.gif
 ---
