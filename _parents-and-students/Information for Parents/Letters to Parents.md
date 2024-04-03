@@ -24,6 +24,66 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>P3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024PGLetters/2024OLN_0213___P3_Parents_Online_Teaching_Videos.pdf" rel="noopener noreferrer nofollow" target="_blank">2024OLN_213</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Teaching Package on use of Mathematics Heuristics - P3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Apr</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024PGLetters/2024OLN_0214___P4_Parents_Online_Teaching_Videos.pdf" rel="noopener noreferrer nofollow" target="_blank">2024OLN_214</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Teaching Package on use of Mathematics Heuristics - P4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Apr</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024PGLetters/2024OLN_0215___P5_Parents_Online_Teaching_Videos.pdf" rel="noopener noreferrer nofollow" target="_blank">2024OLN_215</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Teaching Package on use of Mathematics Heuristics - P5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Apr</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024PGLetters/2024OLN_0216___P6_Parents_Online_Teaching_Videos.pdf" rel="noopener noreferrer nofollow" target="_blank">2024OLN_216</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Teaching Package on use of Mathematics Heuristics - P6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Apr</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>All</p>
 </td>
 <td rowspan="1" colspan="1">
