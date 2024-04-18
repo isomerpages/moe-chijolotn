@@ -298,7 +298,52 @@ to the necessary follow-up.</p>
 </table>
 <p></p>
 <h5>Task sheets for 23 Apr 2023 (Mother Tongue)</h5>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Levels</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="/files/TaskSheetsOct/primary 3 task sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">P2</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>P3</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>P4</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>P5</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>P6</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br>For SLS matters, you may also email the SLS Central Helpdesk at helpdesk@sls.ufinity.com
 at any time for assistance. Please include your daughter’s full name, name
