@@ -87,7 +87,7 @@ to the necessary follow-up.</p>
 <p>1C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1C</p>
+<p>2C</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
