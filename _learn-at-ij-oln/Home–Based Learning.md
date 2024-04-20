@@ -114,7 +114,7 @@ to the necessary follow-up.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/TaskSheetsOct/2_CHARITY_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">2F</a>
+<p><a href="/files/TaskSheetsOct/2_FAITH_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">2F</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -144,7 +144,7 @@ to the necessary follow-up.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/TaskSheetsOct/2_FAITH_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">2G</a>
+<p><a href="/files/TaskSheetsOct/2_GRACE_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">2G</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -174,7 +174,7 @@ to the necessary follow-up.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/TaskSheetsOct/2_GRACE_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">2H</a>
+<p><a href="/files/TaskSheetsOct/2_HOPE_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">2H</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
