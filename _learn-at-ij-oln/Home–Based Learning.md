@@ -88,7 +88,8 @@ to the necessary follow-up.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2C</p>
+<p><a href="/files/TaskSheetsOct/2_CHARITY_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">2C</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
