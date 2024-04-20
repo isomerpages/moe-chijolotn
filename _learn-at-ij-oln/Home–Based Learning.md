@@ -84,7 +84,8 @@ to the necessary follow-up.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1C</p>
+<p><a href="/files/TaskSheetsOct/1_CHARITY_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">1C</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2C</p>
@@ -108,22 +109,28 @@ to the necessary follow-up.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1F</p>
+<p><a href="/files/TaskSheetsOct/1_FAITH_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">1F</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2F</p>
+<p><a href="/files/TaskSheetsOct/2_CHARITY_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">2F</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3F</p>
+<p><a href="/files/TaskSheetsOct/3_FAITH_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">3F</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4F</p>
+<p><a href="/files/TaskSheetsOct/4_FAITH_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">4F</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5F</p>
+<p><a href="/files/TaskSheetsOct/5_FAITH_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">5F</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6F</p>
+<p><a href="/files/TaskSheetsOct/6_FAITH_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">6F</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -132,22 +139,28 @@ to the necessary follow-up.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1G</p>
+<p><a href="/files/TaskSheetsOct/1_GRACE_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">1G</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2G</p>
+<p><a href="/files/TaskSheetsOct/2_FAITH_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">2G</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3G</p>
+<p><a href="/files/TaskSheetsOct/3_GRACE_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">3G</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4G</p>
+<p><a href="/files/TaskSheetsOct/4_GRACE_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">4G</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5G</p>
+<p><a href="/files/TaskSheetsOct/5_GRACE_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">5G</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6G</p>
+<p><a href="/files/TaskSheetsOct/6_GRACE_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">6G</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -156,22 +169,28 @@ to the necessary follow-up.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1H</p>
+<p><a href="/files/TaskSheetsOct/1_HOPE_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">1H</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2H</p>
+<p><a href="/files/TaskSheetsOct/2_GRACE_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">2H</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3H</p>
+<p><a href="/files/TaskSheetsOct/3_HOPE_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">3H</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4H</p>
+<p><a href="/files/TaskSheetsOct/4_HOPE_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">4H</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5H</p>
+<p><a href="/files/TaskSheetsOct/5_HOPE_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">5H</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6H</p>
+<p><a href="/files/TaskSheetsOct/6_HOPE_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">6H</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -180,22 +199,28 @@ to the necessary follow-up.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1J</p>
+<p><a href="/files/TaskSheetsOct/1_JOY_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">1J</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2J</p>
+<p><a href="/files/TaskSheetsOct/2_JOY_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">2J</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3J</p>
+<p><a href="/files/TaskSheetsOct/3_JOY_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">3J</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4J</p>
+<p><a href="/files/TaskSheetsOct/4_JOY_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">4J</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5J</p>
+<p><a href="/files/TaskSheetsOct/5_JOY_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">5J</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6J</p>
+<p><a href="/files/TaskSheetsOct/6_JOY_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">6J</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -204,22 +229,28 @@ to the necessary follow-up.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1L</p>
+<p><a href="/files/TaskSheetsOct/1_LOVE_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">1L</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2L</p>
+<p><a href="/files/TaskSheetsOct/2_LOVE_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">2L</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3L</p>
+<p><a href="/files/TaskSheetsOct/3_LOVE_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">3L</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4L</p>
+<p><a href="/files/TaskSheetsOct/4_LOVE_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">4L</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5L</p>
+<p><a href="/files/TaskSheetsOct/5_LOVE_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">5L</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6L</p>
+<p><a href="/files/TaskSheetsOct/6_LOVE_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">6L</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -228,22 +259,28 @@ to the necessary follow-up.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1P</p>
+<p><a href="/files/TaskSheetsOct/1_PEACE_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">1P</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2P</p>
+<p><a href="/files/TaskSheetsOct/2_PEACE_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">2P</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3P</p>
+<p><a href="/files/TaskSheetsOct/3_PEACE_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">3P</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4P</p>
+<p><a href="/files/TaskSheetsOct/4_PEACE_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">4P</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5P</p>
+<p><a href="/files/TaskSheetsOct/5_PEACE_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">5P</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6P</p>
+<p><a href="/files/TaskSheetsOct/6_PEACE_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">6P</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -252,22 +289,28 @@ to the necessary follow-up.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1T</p>
+<p><a href="/files/TaskSheetsOct/1_TRUTH_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">1T</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2T</p>
+<p><a href="/files/TaskSheetsOct/2_TRUTH_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">2T</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3T</p>
+<p><a href="/files/TaskSheetsOct/3_TRUTH_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">3T</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4T</p>
+<p><a href="/files/TaskSheetsOct/4_TRUTH_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">4T</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5T</p>
+<p><a href="/files/TaskSheetsOct/5_TRUTH_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">5T</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6T</p>
+<p><a href="/files/TaskSheetsOct/6_TRUTH_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">6T</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -282,16 +325,20 @@ to the necessary follow-up.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P3</p>
+<p><a href="/files/TaskSheetsOct/P3_MATHEMATICS.pdf" rel="noopener noreferrer nofollow" target="_blank">P3</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P4</p>
+<p><a href="/files/TaskSheetsOct/P4_MATHEMATICS.pdf" rel="noopener noreferrer nofollow" target="_blank">P4</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P5</p>
+<p><a href="/files/TaskSheetsOct/P5_STD_MATHEMATICS___F_MATHEMATICS.pdf" rel="noopener noreferrer nofollow" target="_blank">P5</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P6</p>
+<p><a href="/files/TaskSheetsOct/P6_STD_MATHEMATICS___F_MATHEMATICS.pdf" rel="noopener noreferrer nofollow" target="_blank">P6</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -306,19 +353,24 @@ to the necessary follow-up.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P2</p>
+<p><a href="/files/TaskSheetsOct/P2_MT_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">P2</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P3</p>
+<p><a href="/files/TaskSheetsOct/P3_MT_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">P3</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P4</p>
+<p><a href="/files/TaskSheetsOct/P4_MT_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">P4</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P5</p>
+<p><a href="/files/TaskSheetsOct/P5_MT_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">P5</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P6</p>
+<p><a href="/files/TaskSheetsOct/P6_MT_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">P6</a>
+</p>
 </td>
 </tr>
 </tbody>
