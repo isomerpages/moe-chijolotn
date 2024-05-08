@@ -1,4 +1,5 @@
 collections:
   kiv2024:
     output: true
-    order: []
+    order:
+      - 2021kiv.md
