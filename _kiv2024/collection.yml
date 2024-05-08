@@ -1,0 +1,5 @@
+collections:
+  kiv2024:
+    output: true
+    order:
+      - 2021kiv.md

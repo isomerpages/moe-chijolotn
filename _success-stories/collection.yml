@@ -2,9 +2,9 @@ collections:
   success-stories:
     output: true
     order:
+      - Students/2024.md
       - Students/2023.md
       - Students/2022.md
-      - Students/2021.md
       - Students/.keep
       - Staff/2023.md
       - Staff/2022.md
