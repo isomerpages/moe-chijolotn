@@ -5,16 +5,21 @@ description: ""
 third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
-<h2>2024 Term 2 Schedules</h2>
-<table>
+<h2>2024 Term 3 Schedules</h2>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term2/t2_p3_netball.pdf" rel="noopener noreferrer nofollow" target="_blank">Netball - P3</a>
+<p><a href="/files/2024CCASchedule/Term3/T3_P3_Netball.pdf" rel="noopener noreferrer nofollow" target="_blank">Netball - P3</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term2/t2_bowling.pdf" rel="noopener noreferrer nofollow" target="_blank">Bowling</a>
+<p><a href="/files/2024CCASchedule/Term3/T3_Bowling.pdf" rel="noopener noreferrer nofollow" target="_blank">Bowling</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -24,11 +29,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term2/t2_p4_netball.pdf" rel="noopener noreferrer nofollow" target="_blank">Netball - P4</a>
+<p><a href="/files/2024CCASchedule/Term3/T3_P4_Netball.pdf" rel="noopener noreferrer nofollow" target="_blank">Netball - P4</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term2/t2_table_tennis.pdf" rel="noopener noreferrer nofollow" target="_blank">Table-Tennis</a>
+<p><a href="/files/2024CCASchedule/Term3/T3_Table_Tennis.pdf" rel="noopener noreferrer nofollow" target="_blank">Table-Tennis</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -38,11 +43,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term2/t2_p5_netball.pdf" rel="noopener noreferrer nofollow" target="_blank">Netball - P5</a>
+<p><a href="/files/2024CCASchedule/Term3/T3_P5_Netball.pdf" rel="noopener noreferrer nofollow" target="_blank">Netball - P5</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term2/t2_dance_inc_1r1.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc - International 1</a>
+<p><a href="/files/2024CCASchedule/Term3/T3_Dance_Inc_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc - International 1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -52,7 +57,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term2/t2_p6_netball.pdf" rel="noopener noreferrer nofollow" target="_blank">Netball - P6</a>
+<p><a href="/files/2024CCASchedule/Term3/T3_Netball_Developmental_Team.pdf" rel="noopener noreferrer nofollow" target="_blank">Netball - Development Team</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -66,8 +71,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term2/t2_netball_developmental_team.pdf" rel="noopener noreferrer nofollow" target="_blank">Netball - Development Team</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2024CCASchedule/Term2/t2_dance_inc_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc - Chinese Dance</a>
@@ -80,7 +84,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term2/t2_p3_p4_p5_floorball.pdf" rel="noopener noreferrer nofollow" target="_blank">Floorball - P3, P4 &amp; P5</a>
+<p><a href="/files/2024CCASchedule/Term3/T3_Floorball.pdf" rel="noopener noreferrer nofollow" target="_blank">Floorball - P3, P4 &amp; P5</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -93,8 +97,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term2/t2_p6_floorball.pdf" rel="noopener noreferrer nofollow" target="_blank">Floorball - P6</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2024CCASchedule/Term2/t2_dance_inc_pri_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc - Pri 3</a>
