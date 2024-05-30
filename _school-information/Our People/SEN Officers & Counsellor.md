@@ -32,7 +32,8 @@ variant: tiptap
 <p>Mdm Anbarasi Palanithurai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>anbarasi_palanithurai@moe.edu.sg</p>
+<p><a href="mailto:anbarasi_palanithurai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">anbarasi_palanithurai@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
