@@ -6,7 +6,15 @@ third_nav_title: Information for Parents
 variant: tiptap
 ---
 <h4><strong>2024</strong></h4>
-<table>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -30,7 +38,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>June</p>
+<p><a href="/files/2024olnconnect/OLN_Connect_P006.pdf" rel="noopener noreferrer nofollow" target="_blank">June</a>
+</p>
 </td>
 </tr>
 <tr>
