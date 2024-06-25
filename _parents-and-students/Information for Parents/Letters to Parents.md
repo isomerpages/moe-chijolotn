@@ -6,7 +6,13 @@ third_nav_title: Information for Parents
 variant: tiptap
 ---
 <h4><strong>2024</strong></h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -24,6 +30,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024PGLetters/2024OLN_0307___2024_P1_Registration_Exercise___Phase_1_Registration.pdf" rel="noopener noreferrer nofollow" target="_blank">2024OLN_0307</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P1 Registration Exercise - Phase 1 Registration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24 Jun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>P3</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -31,7 +52,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Teaching Package on use of Mathematics Heuristics - P3</p>
+<p>Teaching Package on use of Mathematics Heuristics - P3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 Apr</p>
@@ -46,7 +67,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Teaching Package on use of Mathematics Heuristics - P4</p>
+<p>Teaching Package on use of Mathematics Heuristics - P4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 Apr</p>
@@ -61,7 +82,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Teaching Package on use of Mathematics Heuristics - P5</p>
+<p>Teaching Package on use of Mathematics Heuristics - P5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 Apr</p>
@@ -76,7 +97,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Teaching Package on use of Mathematics Heuristics - P6</p>
+<p>Teaching Package on use of Mathematics Heuristics - P6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 Apr</p>

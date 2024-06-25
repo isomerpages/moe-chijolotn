@@ -11,7 +11,18 @@ client.
 <br>Right-click on the Teacher's name to copy email address if you do not
 have a default email client setup.</p>
 <hr>
-<table>
+<table style="minWidth: 225px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -350,7 +361,18 @@ have a default email client setup.</p>
 </tbody>
 </table>
 <hr>
-<table>
+<table style="minWidth: 225px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -590,7 +612,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:raniah_mohd_noor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Raniah</a>
+<p><a href="mailto:low_tze_lin_vanessa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Vanessa Loh</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -691,7 +713,19 @@ have a default email client setup.</p>
 <hr>
 <p><strong>^All Maths classes are Banded classes for Primary 3 - 6.</strong>
 </p>
-<table>
+<table style="minWidth: 250px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -778,7 +812,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jasmine_yap_see_puay_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jasmine Yap</a>
+<p><a href="mailto:illiany_suhaily_mohamed_juhri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Illiany</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -912,7 +946,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:raniah_mohd_noor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Raniah</a>
+<p><a href="mailto:low_tze_lin_vanessa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Vanessa Loh</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1025,7 +1059,19 @@ have a default email client setup.</p>
 <hr>
 <p><strong>^All Maths classes are Banded classes for Primary 3 - 6.</strong>
 </p>
-<table>
+<table style="minWidth: 250px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1359,7 +1405,19 @@ have a default email client setup.</p>
 <hr>
 <p><strong>^All Maths classes are Banded classes for Primary 3 - 6.</strong>
 </p>
-<table>
+<table style="minWidth: 250px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1572,7 +1630,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:low_tze_lin_vanessa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Vanessa Tan</a>
+<p><a href="mailto:wong_chia_suan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wong Chia Suan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1580,7 +1638,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:low_tze_lin_vanessa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Vanessa Tan</a>
+<p><a href="mailto:wong_chia_suan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wong Chia Suan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1622,7 +1680,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:low_tze_lin_vanessa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Vanessa Tan</a>
+<p><a href="mailto:wong_chia_suan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wong Chia Suan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1693,7 +1751,19 @@ have a default email client setup.</p>
 <hr>
 <p><strong>^All Maths classes are Banded classes for Primary 3 - 6.</strong>
 </p>
-<table>
+<table style="minWidth: 250px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -2027,7 +2097,11 @@ have a default email client setup.</p>
 <p>
 <br><strong>Teachers for P6 Foundation Classes:</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -2071,7 +2145,15 @@ have a default email client setup.</p>
 <p><strong>All Mother Tongue classes are Banded classes, except for Primary 1 who are in their form classes</strong> 
 <br><strong>Teachers:</strong>
 </p>
-<table>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -2161,8 +2243,9 @@ have a default email client setup.</p>
 <br>彭伟如</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jasmine_yap_see_puay_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Ms Jasmine Yap</a> 
-<br>&nbsp;叶诗蓓</p>
+<p><a href="mailto:ng_yee_hong_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Mr Ng Yee Hong</a>
+</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yong_ann_chie@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Ms Yong Ann Chie</a> 
@@ -2225,7 +2308,18 @@ have a default email client setup.</p>
 </table>
 <p><strong>Teachers and Classes:</strong>
 </p>
-<table>
+<table style="minWidth: 225px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -2335,7 +2429,17 @@ have a default email client setup.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 200px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -2436,7 +2540,16 @@ have a default email client setup.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 175px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -2476,7 +2589,7 @@ have a default email client setup.</p>
 <p>Mrs Ong Sok Chin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jasmin Yap</p>
+<p>Mr Ng Yee Hong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Yang Wenxia</p>
@@ -2491,7 +2604,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="5">
-<p>Mdm Nazurah</p>
+<p>Mdm Illiany</p>
 </td>
 </tr>
 <tr>
@@ -2555,7 +2668,16 @@ have a default email client setup.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 175px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -2598,7 +2720,7 @@ have a default email client setup.</p>
 <p>Mdm Peh Bee Leng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jasmine Yap</p>
+<p>Mr Ng Yee Hong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Jenny Lee</p>
@@ -2610,7 +2732,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="5">
-<p>Mdm Nazurah</p>
+<p>Mdm Illiany</p>
 </td>
 </tr>
 <tr>
@@ -2656,7 +2778,16 @@ have a default email client setup.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 175px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -2784,7 +2915,16 @@ have a default email client setup.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 175px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
