@@ -23,7 +23,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term3/T3_Creative_Crew.pdf" rel="noopener noreferrer nofollow" target="_blank">Creative Crew</a>
+<p><a href="/files/2024CCASchedule/Term3/T3_Creative_Crew.pdf" rel="noopener noreferrer nofollow" target="_blank">Creative Crew (Visual Arts)</a>
 </p>
 </td>
 </tr>
