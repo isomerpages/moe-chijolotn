@@ -29,7 +29,7 @@ be found below:</p>
 <p><strong><u>Uniformed Groups:<br></u></strong><a href="/learn-at-ij-oln/cca/brownies" rel="noopener" target="_self">Brownies</a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Visual &amp; Performing Arts<br></u></strong><a href="/learn-at-ij-oln/cca/creativecrew" rel="noopener" target="_self">Creative Crew (Visual Art)</a>
+<p><strong><u>Visual &amp; Performing Arts<br></u></strong><a href="/learn-at-ij-oln/cca/creativecrew" rel="noopener" target="_self">Creative Crew (Visual Arts)</a>
 <br><a href="/learn-at-ij-oln/cca/brassband" rel="noopener" target="_self">Brass Band</a>
 <br><a href="/learn-at-ij-oln/cca/choir" rel="noopener" target="_self">Choir</a>
 <br><a href="/learn-at-ij-oln/cca/danceinc" rel="noopener" target="_self">Dance Inc (Intl 1/Intl 2/Chinese/Malay)</a>
