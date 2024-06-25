@@ -37,7 +37,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term3/T3_Brass_Band.pdf" rel="noopener noreferrer nofollow" target="_blank">Brass Band</a>
+<p><a href="/files/2024CCASchedule/Term3/t3_brass_band_upd1_24_june.pdf" rel="noopener noreferrer nofollow" target="_blank">Brass Band</a>
 </p>
 </td>
 </tr>
