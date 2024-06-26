@@ -10,7 +10,8 @@ by teachers.</p>
 <h4><strong>P1 - P5 Support Lessons 2024 Sem 2</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Support Lessons Days by Subjects</p>
+<p><strong>Support Lessons Days by Subjects</strong>
+</p>
 </li>
 </ul>
 <table style="minWidth: 125px">
@@ -145,7 +146,8 @@ by teachers.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Support Lessons Schedule</p>
+<p><strong>Support Lessons Schedule</strong>
+</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -451,7 +453,8 @@ by teachers.</p>
 <h4><strong>P6 Supplementary Lessons 2024 (Sem 2)</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Supplementary Lessons Days by Subjects</p>
+<p><strong>Supplementary Lessons Days by Subjects</strong>
+</p>
 </li>
 </ul>
 <table style="minWidth: 125px">
@@ -588,12 +591,30 @@ by teachers.</p>
 <p>Friday</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Supplementary Lessons Schedule</p>
+<p><strong>Supplementary Lessons Schedule</strong>
+</p>
 <p></p>
 <table style="minWidth: 125px">
 <colgroup>
@@ -848,8 +869,8 @@ by teachers.</p>
 </ul>
 <ul data-tight="true" class="tight">
 <li>
-<p>Dates &amp; timing of P6 Supplementary Lessons during the September holidays
-2024</p>
+<p><strong>Dates &amp; timing of P6 Supplementary Lessons during the September holidays 2024</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
