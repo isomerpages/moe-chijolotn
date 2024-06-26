@@ -251,10 +251,10 @@ by teachers.</p>
 <p>6 Aug</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -387,7 +387,7 @@ by teachers.</p>
 <p>8 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -810,74 +810,6 @@ by teachers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>T4, W3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>27 Sep</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>T4, W4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>T4, W5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>T4, W6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>18 Oct</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -899,7 +831,7 @@ by teachers.</p>
 </ul>
 <ul data-tight="true" class="tight">
 <li>
-<p>Dates &amp; timing of P6 Supplementary Lessons during the June holidays
+<p>Dates &amp; timing of P6 Supplementary Lessons during the September holidays
 2024</p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -918,11 +850,11 @@ by teachers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18 to 20 June 2024</p>
+<p>2 &amp; 3 Sep</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>7.45 am to 12.15 pm
-<br>8.45 am to 12.15 pm (For pupils exempted from MTL)</p>
+<br>7.45 am to 11.15 pm (For pupils exempted from MTL)</p>
 </td>
 </tr>
 <tr>
