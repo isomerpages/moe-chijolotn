@@ -626,7 +626,7 @@ by teachers.</p>
 <p>T3, W2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 Jul</p>
