@@ -7,7 +7,7 @@ variant: tiptap
 <h4><strong>Schedule for Support and Supplementary Lessons 2024</strong></h4>
 <p>Support lessons provide additional academic support to students identified
 by teachers.</p>
-<h4><strong>P2 - P5 Support Lessons 2024 Term 2</strong></h4>
+<h4><strong>P1 - P5 Support Lessons 2024 Sem 2</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Support Lessons Days by Subjects</p>
