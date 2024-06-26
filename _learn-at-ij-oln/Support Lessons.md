@@ -13,7 +13,14 @@ by teachers.</p>
 <p>Support Lessons Days by Subjects</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -32,6 +39,23 @@ by teachers.</p>
 <th rowspan="1" colspan="1">
 <p>MTL</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -105,7 +129,14 @@ by teachers.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Support Lessons Schedule</p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -304,7 +335,14 @@ by teachers.</p>
 <p>Supplementary Lessons Days by Subjects</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -439,7 +477,14 @@ by teachers.</p>
 <p>Supplementary Lessons Schedule</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -651,7 +696,12 @@ by teachers.</p>
 <li>
 <p>Dates &amp; timing of P6 Supplementary Lessons during the June holidays
 2024</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
