@@ -194,7 +194,7 @@ by teachers.</p>
 <p>T3, W4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 Julr</p>
+<p>15 Jul</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>16 Jul</p>
