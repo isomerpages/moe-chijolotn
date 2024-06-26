@@ -745,10 +745,10 @@ by teachers.</p>
 <p>T3, W9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>19 Aug</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20 Aug</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>22 Aug</p>
@@ -813,7 +813,7 @@ by teachers.</p>
 <p>T4, W3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>23 Sep</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>24 Sep</p>
@@ -830,7 +830,7 @@ by teachers.</p>
 <p>T4, W4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 Sep</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Oct</p>
@@ -847,7 +847,7 @@ by teachers.</p>
 <p>T4, W5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 Oct</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8 Oct</p>
