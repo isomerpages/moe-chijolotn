@@ -219,7 +219,7 @@ by teachers.</p>
 <p>16 Jul</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18 Jul</p>
+<p><strong>^</strong>18 Jul</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>19 Jul</p>
@@ -430,20 +430,8 @@ by teachers.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="5">
+<p><strong>^ </strong>P3 Cultural Camp. No support lessons for P3.</p>
 </td>
 </tr>
 </tbody>
