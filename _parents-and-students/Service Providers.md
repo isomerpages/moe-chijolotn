@@ -35,9 +35,9 @@ Bizhub, Singapore 408727
 <p>Sale of Name Tags: <a href="https://www.stitchwerkz.sg/nametags_chijoln" rel="noopener noreferrer nofollow" target="_blank">https://www.stitchwerkz.sg/nametags_chijoln</a>
 </p>
 <h4><strong>Dental Clinic</strong></h4>
-<p><strong>Dental Therapist: Ms Jane Ang Swee Poh<br></strong>As the dental
-therapist is roving between schools, please call <strong>8764 6945</strong> to
-make an appointment before coming down for any dental issues.
+<p><strong>Dental Therapist: Ms Lee Xin Fang<br></strong>As the dental therapist
+is roving between schools, please call <strong>8764 6945</strong> to make
+an appointment before coming down for any dental issues.
 <br>
 </p>
 <p>For assistance, you may contact the School at 63852455.</p>
