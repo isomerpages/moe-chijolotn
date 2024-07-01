@@ -37,9 +37,7 @@ Bizhub, Singapore 408727
 <h4><strong>Dental Clinic</strong></h4>
 <p><strong>Dental Therapist: Ms Lee Xin Fang<br></strong>As the dental therapist
 is roving between schools, please call <strong>8764 6945</strong> to make
-an appointment before coming down for any dental issues.
-<br>
-</p>
+an appointment before coming down for any dental issues.</p>
 <p>For assistance, you may contact the School at 63852455.</p>
 <p></p>
 <h4><strong>School-based Student Care Centre</strong></h4>
