@@ -37,7 +37,8 @@ are owned by, licensed to or controlled by CHIJ Our Lady of the Nativity.</p>
 <h4>Privacy Policy</h4>
 <ol start="5" data-tight="true" class="tight">
 <li>
-<p>Click here to review this Web Site Privacy Statement.</p>
+<p>Click <a href="/privacy/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+review this Web Site Privacy Statement.</p>
 </li>
 </ol>
 <h4>Restrictions on Use of Materials</h4>
