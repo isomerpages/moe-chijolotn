@@ -4,4 +4,6 @@ permalink: /privacy/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<h4>PRIVACY STATEMENT</h4>
+<p><strong>CHIJ OUR LADY OF THE NATIVITY PRIVACY STATEMENT</strong>
+</p>
