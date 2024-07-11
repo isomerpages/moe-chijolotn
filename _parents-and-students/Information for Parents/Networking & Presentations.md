@@ -26,7 +26,7 @@ variant: tiptap
 <p>04 Jul 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Comms_Networking/Kopi_Chat_Lower_Pri_4_July_2024___web.pdf" rel="noopener noreferrer nofollow" target="_blank">Kopi Chat (Lower Primary) Presentation Slides</a>
+<p><a href="/files/Comms_Networking/kopi_chat_lower_pri_4_july_2024_final_for_web.pdf" rel="noopener noreferrer nofollow" target="_blank">Kopi Chat (Lower Primary) Presentation Slides</a>
 </p>
 </td>
 </tr>
