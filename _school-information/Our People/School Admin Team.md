@@ -3,102 +3,200 @@ title: School Admin Team
 permalink: /school-information/our-people/executive-n-admin-staff/
 description: ""
 third_nav_title: Our People
-variant: markdown
+variant: tiptap
 ---
-<h4 style="text-align: center;"><strong>School Admin Team (SAT)</strong></h4>
-<table class="iveo_table ives_tab_blue ive_eobj_center">
+<h4><strong>School Admin Team (SAT)</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th style="text-align: center;">&nbsp;Designation</th>
-<th style="text-align: center;">Personnel</th>
-<th style="text-align: center;">Email</th>
+<th rowspan="1" colspan="1">
+<p>&nbsp;Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Personnel</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
 </tr>
 <tr>
-<td style="text-align: center;">Administration Manager</td>
-<td style="text-align: center;">Ms Clarabelle Chu</td>
-<td style="text-align: center;">clarabelle_chu@moe.edu.sg</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Clarabelle Chu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>clarabelle_chu@moe.edu.sg</p>
+</td>
 </tr>
 <tr>
-<td style="text-align: center;">Operations Manager</td>
-<td style="text-align: center;">Mr Wong Sin Cheong</td>
-<td style="text-align: center;">wong_sin_cheong@moe.edu.sg</td>
-</tr>
-	<tr>
-<td style="text-align: center;">Operations Manager</td>
-<td style="text-align: center;">Mr Allan Chua</td>
-<td style="text-align: center;">chua_song_kim@moe.edu.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;">Infocomm Technology Associate</td>
-<td style="text-align: center;">Mdm Nur Ain Khahar</td>
-<td style="text-align: center;">nur_ain_khahar@moe.edu.sg</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Allan Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chua_song_kim@moe.edu.sg</p>
+</td>
 </tr>
 <tr>
-<td style="text-align: center;">Administrative Executive&nbsp;</td>
-<td style="text-align: center;">Ms Stephanie Quek Su Ping</td>
-<td style="text-align: center;">&nbsp;</td>
-</tr>
-
-<tr>
-<td style="text-align: center;">Adjunct Administrative Executive&nbsp;</td>
-<td style="text-align: center;">Mdm Pee Lay Hoon&nbsp;</td>
-<td style="text-align: center;">&nbsp;</td>
-</tr>
-<tr>
-<td style="text-align: center;">Corporate Support Officer</td>
-<td style="text-align: center;">Mdm Maliga Servalingam&nbsp;&nbsp;</td>
-<td style="text-align: center;">&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p>Infocomm Technology Associate</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Ain Khahar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nur_ain_khahar@moe.edu.sg</p>
+</td>
 </tr>
 <tr>
-<td style="text-align: center;">Corporate Support Officer</td>
-<td style="text-align: center;">Mdm Ng Guek Eng</td>
-<td style="text-align: center;">&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p>Administrative Executive&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Stephanie Quek Su Ping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
 </tr>
 <tr>
-<td style="text-align: center;">Corporate Support Officer</td>
-<td style="text-align: center;">Mdm Sutinah Saob</td>
-<td style="text-align: center;">&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p>Administrative Executive&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Pee Lay Hoon&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
 </tr>
 <tr>
-<td style="text-align: center;">Operation Support Officer</td>
-<td style="text-align: center;">Mdm Wong Lai Chan</td>
-<td style="text-align: center;">&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Maliga Servalingam&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
 </tr>
 <tr>
-<td style="text-align: center;">Operation Support Officer</td>
-<td style="text-align: center;">Mrs Lim Kim Tia</td>
-<td style="text-align: center;">&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ng Guek Eng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
 </tr>
 <tr>
-<td style="text-align: center;">Operation Support Officer</td>
-<td style="text-align: center;">Mr Ang Toh Whatt</td>
-<td style="text-align: center;">&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sutinah Saob</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
 </tr>
 <tr>
-<td style="text-align: center;">Operation Support Officer</td>
-<td style="text-align: center;">Mdm Koh Sok Hwee</td>
-<td style="text-align: center;">&nbsp;</td>
+<td rowspan="1" colspan="1">
+<p>Operation Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Wong Lai Chan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operation Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Lim Kim Tia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operation Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ang Toh Whatt</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operation Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Koh Sok Hwee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
 </tr>
 </tbody>
 </table>
-<h4 style="text-align: center;"><strong>&nbsp;Support Staff</strong></h4>
-<table class="iveo_table ives_tab_blue ive_eobj_center">
+<h4><strong>&nbsp;Support Staff</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<th style="text-align: center;">&nbsp;Designation</th>
-<th style="text-align: center;">Personnel</th>
+<th rowspan="1" colspan="1">
+<p>&nbsp;Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Personnel</p>
+</th>
 </tr>
 <tr>
-<td style="text-align: center;">Librarian&nbsp;&nbsp;</td>
-<td style="text-align: center;">Mdm Shaba Bte Mohd Noor</td>
+<td rowspan="1" colspan="1">
+<p>Librarian&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Shaba Bte Mohd Noor</p>
+</td>
 </tr>
 <tr>
-<td style="text-align: center;">Desktop Engineer</td>
-<td style="text-align: center;">Miss Charmaine Pua</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Charmaine Pua</p>
+</td>
 </tr>
 <tr>
-<td style="text-align: center;">Desktop Engineer</td>
-<td style="text-align: center;">Mr Muhammad Nurazim</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Nurazim</p>
+</td>
 </tr>
 </tbody>
 </table>
+<p></p>
