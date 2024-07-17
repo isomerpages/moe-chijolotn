@@ -137,10 +137,11 @@ Singapore Food Agency (SFA).</p>
 <p>Contact No: 6385 2455</p>
 </li>
 <li>
-<p>Email: wong_sin_cheong@moe.edu.sg</p>
+<p>Email: <a href="mailto:chua_song_kim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_song_kim@moe.edu.sg</a>
+</p>
 </li>
 <li>
-<p>Contact Person: Mr Wong (Operations Manager)</p>
+<p>Contact Person: Mr Chua (Operations Manager)</p>
 </li>
 </ul>
 <p><strong>How to get there?</strong>
