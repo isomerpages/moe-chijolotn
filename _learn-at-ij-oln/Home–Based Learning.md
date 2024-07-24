@@ -63,39 +63,24 @@ to the necessary follow-up.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P1</p>
+<p><a href="/files/P1.pdf" rel="noopener noreferrer nofollow" target="_blank">P1</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P2</p>
+<p><a href="/files/P2.pdf" rel="noopener noreferrer nofollow" target="_blank">P2</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P3</p>
+<p><a href="/files/P3.pdf" rel="noopener noreferrer nofollow" target="_blank">P3</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P4</p>
+<p><a href="/files/P4.pdf" rel="noopener noreferrer nofollow" target="_blank">P4</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/P5.pdf" rel="noopener noreferrer nofollow" target="_blank">P5</a>
+</p>
 </td>
 </tr>
 </tbody>
