@@ -46,45 +46,6 @@ to the necessary follow-up.</p>
 </li>
 </ol>
 <hr>
-<h5>Task sheets for 26 July 2024</h5>
-<table style="minWidth: 150px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Levels</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/P1.pdf" rel="noopener noreferrer nofollow" target="_blank">P1</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/P2.pdf" rel="noopener noreferrer nofollow" target="_blank">P2</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/P3.pdf" rel="noopener noreferrer nofollow" target="_blank">P3</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/P4.pdf" rel="noopener noreferrer nofollow" target="_blank">P4</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/P5.pdf" rel="noopener noreferrer nofollow" target="_blank">P5</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h5>Task sheets for 13 &amp; 14 Aug 2024</h5>
 <table style="minWidth: 150px">
 <colgroup>
@@ -345,6 +306,8 @@ to the necessary follow-up.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <h5>Task sheets for 13 &amp; 14 Aug 2024 (Mathematics)</h5>
 <table style="minWidth: 100px">
 <colgroup>
