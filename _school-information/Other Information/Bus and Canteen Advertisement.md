@@ -40,13 +40,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Western (Halal or non-Halal)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Open</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Please contact us for details</p>
+<p></p>
 </td>
 </tr>
 </tbody>
