@@ -23,7 +23,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term3/T3_Creative_Crew.pdf" rel="noopener noreferrer nofollow" target="_blank">Creative Crew (Visual Arts)</a>
+<p><a href="/files/2024CCASchedule/Term4/t4_creative_crew_visual_arts.pdf" rel="noopener noreferrer nofollow" target="_blank">Creative Crew (Visual Arts)</a>
 </p>
 </td>
 </tr>
@@ -37,7 +37,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term3/t3_brass_band_upd1_24_june.pdf" rel="noopener noreferrer nofollow" target="_blank">Brass Band</a>
+<p><a href="/files/2024CCASchedule/Term4/t4_brass_band.pdf" rel="noopener noreferrer nofollow" target="_blank">Brass Band</a>
 </p>
 </td>
 </tr>
@@ -50,7 +50,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term3/T3_Choir.pdf" rel="noopener noreferrer nofollow" target="_blank">Choir</a>
+<p><a href="/files/2024CCASchedule/Term4/t4_choir.pdf" rel="noopener noreferrer nofollow" target="_blank">Choir</a>
 </p>
 </td>
 </tr>
@@ -64,7 +64,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term3/T3_Brownies.pdf" rel="noopener noreferrer nofollow" target="_blank">Brownies</a>
+<p><a href="/files/2024CCASchedule/Term4/t4_brownies.pdf" rel="noopener noreferrer nofollow" target="_blank">Brownies</a>
 </p>
 </td>
 </tr>
@@ -77,7 +77,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term3/T3_Infocomm_Media_Club.pdf" rel="noopener noreferrer nofollow" target="_blank">InfoComm Media Club</a>
+<p><a href="/files/2024CCASchedule/Term4/t4_inforcomm_media_club.pdf" rel="noopener noreferrer nofollow" target="_blank">InfoComm Media Club</a>
 </p>
 </td>
 </tr>
@@ -87,19 +87,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term3/T3_Dance_Inc_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc - Malay Dance</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term3/T3_Primary_3_Dance_Inc.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc - Pri 3</a>
+<p><a href="/files/2024CCASchedule/Term4/t4_dance_inc_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc - Malay Dance</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
