@@ -52,7 +52,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>September</p>
+<p><a href="/files/2024olnconnect/OLN_Connect_P009.pdf" rel="noopener noreferrer nofollow" target="_blank">September</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>October</p>
