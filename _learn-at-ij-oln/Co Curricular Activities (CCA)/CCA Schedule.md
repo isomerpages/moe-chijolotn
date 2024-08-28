@@ -23,7 +23,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term4/t4_creative_crew_visual_arts_r1.pdf" rel="noopener noreferrer nofollow" target="_blank">Creative Crew (Visual Arts)</a>
+<p><a href="/files/2024CCASchedule/Term4/t4_creative_crew_visual_arts_r2.pdf" rel="noopener noreferrer nofollow" target="_blank">Creative Crew (Visual Arts)</a>
 </p>
 </td>
 </tr>
@@ -33,7 +33,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term4/t4_table_tennis_r1.pdf" rel="noopener noreferrer nofollow" target="_blank">Table-Tennis</a>
+<p><a href="/files/2024CCASchedule/Term4/t4_table_tennis_r2.pdf" rel="noopener noreferrer nofollow" target="_blank">Table-Tennis</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -43,7 +43,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Netball - P5</p>
+<p><a href="/files/2024CCASchedule/Term4/t4_p5_netball.pdf" rel="noopener noreferrer nofollow" target="_blank">Netball - P5</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2024CCASchedule/Term4/t4_dance_inc_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc - International 1</a>
@@ -64,7 +65,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term4/t4_brownies.pdf" rel="noopener noreferrer nofollow" target="_blank">Brownies</a>
+<p><a href="/files/2024CCASchedule/Term4/t4_brownies_r1.pdf" rel="noopener noreferrer nofollow" target="_blank">Brownies</a>
 </p>
 </td>
 </tr>
@@ -83,7 +84,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term4/t4_floorball_r1.pdf" rel="noopener noreferrer nofollow" target="_blank">Floorball - P3, P4 &amp; P5</a>
+<p><a href="/files/2024CCASchedule/Term4/t4_floorball_r2.pdf" rel="noopener noreferrer nofollow" target="_blank">Floorball - P3, P4 &amp; P5</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
