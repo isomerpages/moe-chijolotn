@@ -83,9 +83,35 @@ to the necessary follow-up.</p>
 </p>
 </th>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-<h5><br>For SLS matters, you may also email the SLS Central Helpdesk at helpdesk@sls.ufinity.com at any time for assistance. Please include your daughter’s full name, name of school and form class. <br><br>Please fill in this&nbsp;<a href="https://go.gov.sg/chijolnpasswordreset" rel="noopener" target="_blank">form</a>&nbsp;to request for the following:</h5>
+<p></p>
+<p>For SLS matters, you may also email the SLS Central Helpdesk at helpdesk@sls.ufinity.com
+at any time for assistance. Please include your daughter’s full name, name
+of school and form class.
+<br>
+<br>Please fill in this&nbsp;<a href="https://go.gov.sg/chijolnpasswordreset" rel="noopener" target="_blank">form</a>&nbsp;to
+request for the following:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Password Reset for SLS and/or Student iCON account</p>
