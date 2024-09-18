@@ -23,6 +23,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>05 Aug 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Comms_Networking/kopi_chat_middle_pri_5_aug_2024_for_web.pdf" rel="noopener noreferrer nofollow" target="_blank">Kopi Chat (Middle Primary) Presentation Slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>01 Aug 2024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -41,11 +50,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>05 Aug 2024</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Comms_Networking/kopi_chat_middle_pri_5_aug_2024_for_web.pdf" rel="noopener noreferrer nofollow" target="_blank">Kopi Chat (Middle Primary) Presentation Slides</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
