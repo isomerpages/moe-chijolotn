@@ -41,10 +41,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>05 Aug 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Comms_Networking/kopi_chat_middle_pri_5_aug_2024_for_web.pdf" rel="noopener noreferrer nofollow" target="_blank">Kopi Chat (Middle Primary) Presentation Slides</a>
+</p>
 </td>
 </tr>
 </tbody>
