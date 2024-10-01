@@ -30,6 +30,66 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>P6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024PGLetters/2024OLN_0460_Post_PSLE_Prog_for_P6_Students_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024OLN_0460</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Post-Psle Programme For Primary 6 Students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Oct</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024PGLetters/2024OLN_0445_P5_EYE_Letters_to_Parents_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024OLN_0445</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 5 Standard &amp; Foundation End-Of-Year Examination 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13 Sep</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024PGLetters/2024OLN_0444_P4_EYE_Letters_to_Parents_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024OLN_0444</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 4 End-Of-Year Examination 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13 Sep</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024PGLetters/2024OLN_0443_P3_EYE_Letters_to_Parents_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024OLN_0443</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 3 End-Of-Year Examination 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13 Sep</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>All</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -48,7 +108,7 @@ variant: tiptap
 <p>P3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024PGLetters/2024OLN_0213___P3_Parents_Online_Teaching_Videos.pdf" rel="noopener noreferrer nofollow" target="_blank">2024OLN_213</a>
+<p><a href="/files/2024PGLetters/2024OLN_0213___P3_Parents_Online_Teaching_Videos.pdf" rel="noopener noreferrer nofollow" target="_blank">2024OLN_0213</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -63,7 +123,7 @@ variant: tiptap
 <p>P4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024PGLetters/2024OLN_0214___P4_Parents_Online_Teaching_Videos.pdf" rel="noopener noreferrer nofollow" target="_blank">2024OLN_214</a>
+<p><a href="/files/2024PGLetters/2024OLN_0214___P4_Parents_Online_Teaching_Videos.pdf" rel="noopener noreferrer nofollow" target="_blank">2024OLN_0214</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -78,7 +138,7 @@ variant: tiptap
 <p>P5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024PGLetters/2024OLN_0215___P5_Parents_Online_Teaching_Videos.pdf" rel="noopener noreferrer nofollow" target="_blank">2024OLN_215</a>
+<p><a href="/files/2024PGLetters/2024OLN_0215___P5_Parents_Online_Teaching_Videos.pdf" rel="noopener noreferrer nofollow" target="_blank">2024OLN_0215</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -93,7 +153,7 @@ variant: tiptap
 <p>P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024PGLetters/2024OLN_0216___P6_Parents_Online_Teaching_Videos.pdf" rel="noopener noreferrer nofollow" target="_blank">2024OLN_216</a>
+<p><a href="/files/2024PGLetters/2024OLN_0216___P6_Parents_Online_Teaching_Videos.pdf" rel="noopener noreferrer nofollow" target="_blank">2024OLN_0216</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
