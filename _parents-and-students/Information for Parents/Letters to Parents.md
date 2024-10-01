@@ -33,7 +33,8 @@ variant: tiptap
 <p>P6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024OLN_0460</p>
+<p><a href="/files/2024PGLetters/2024OLN_0460_Post_PSLE_Prog_for_P6_Students_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024OLN_0460</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Post-Psle Programme For Primary 6 Students</p>
@@ -47,7 +48,8 @@ variant: tiptap
 <p>P5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024OLN_0445</p>
+<p><a href="/files/2024PGLetters/2024OLN_0445_P5_EYE_Letters_to_Parents_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024OLN_0445</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Primary 5 Standard &amp; Foundation End-Of-Year Examination 2024</p>
@@ -61,7 +63,8 @@ variant: tiptap
 <p>P4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024OLN_0444</p>
+<p><a href="/files/2024PGLetters/2024OLN_0444_P4_EYE_Letters_to_Parents_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024OLN_0444</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Primary 4 End-Of-Year Examination 2024</p>
@@ -75,7 +78,8 @@ variant: tiptap
 <p>P3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024OLN_0443</p>
+<p><a href="/files/2024PGLetters/2024OLN_0443_P3_EYE_Letters_to_Parents_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024OLN_0443</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Primary 3 End-Of-Year Examination 2024</p>
