@@ -30,6 +30,62 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>P6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024OLN_0460</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Post-Psle Programme For Primary 6 Students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Oct</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024OLN_0445</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 5 Standard &amp; Foundation End-Of-Year Examination 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13 Sep</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024OLN_0444</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 4 End-Of-Year Examination 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13 Sep</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024OLN_0443</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 3 End-Of-Year Examination 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13 Sep</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>All</p>
 </td>
 <td rowspan="1" colspan="1">
