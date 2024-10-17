@@ -5,15 +5,13 @@ description: 2023 P1 Orientation Slides Videos for new P1 parents
 third_nav_title: Information for Parents
 variant: tiptap
 ---
-<h5><strong>2023 P1 Orientation Slides</strong></h5>
+<p><strong>2024 P1 Orientation Slides </strong>(<em>Pending Updates</em>)</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Comms_Networking/2023_p1_orientation_14nov.pdf" rel="noopener" target="_blank">2023 P1 Orientation</a>
-</p>
+<p>2024 P1 Orientation</p>
 </li>
 <li>
-<p><a href="/files/Comms_Networking/p1_starting_school_in_2024_14nov.pdf" rel="noopener" target="_blank">Starting School in 2024 (P1 Orientation)</a>
-</p>
+<p>Starting School in 2025 (P1 Orientation)</p>
 </li>
 </ul>
 <h5>Here are the links to the informative videos about our school:</h5>
