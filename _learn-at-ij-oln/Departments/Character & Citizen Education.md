@@ -547,7 +547,7 @@ and/or supplementary sexuality education programmes by MOE-approved external
 providers.&nbsp;</p>
 <p>9. Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form has been sent out to
-parents in October 2023.</p>
+parents in October 2024.</p>
 <p>10. Parents can contact the school at Email:&nbsp;<strong><a href="mailto:chijoln@moe.edu.sg" rel="noopener noreferrer nofollow" target="">chijoln@moe.edu.sg</a></strong>&nbsp;or
 Tel:&nbsp;<strong>6385 2455</strong>&nbsp;for discussion or to seek clarification
 about the school’s sexuality education programme.</p>
