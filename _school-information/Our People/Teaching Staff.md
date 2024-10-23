@@ -980,7 +980,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_yen_ching_jenny@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jenny Lee</a>
+<p><a href="mailto:yasvanth_g_vandayar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Yasvanth</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
