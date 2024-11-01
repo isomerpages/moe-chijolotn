@@ -8,7 +8,7 @@ variant: tiptap
 <h2>P1 Orientation</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Comms_Networking/P1_STARTING_SCHOOL_IN_2025__P1_Oriention_6Nov2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Starting School in 2025 - Primary 1</a>
+<p><a href="/files/Comms_Networking/P1_STARTING_SCHOOL_IN_2025__P1_Oriention_6Nov2024r1.pdf" rel="noopener noreferrer nofollow" target="_blank">Starting School in 2025 - Primary 1</a>
 </p>
 </li>
 </ul>
