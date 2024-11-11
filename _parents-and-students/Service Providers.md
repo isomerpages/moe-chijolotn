@@ -30,7 +30,7 @@ Bizhub, Singapore 408727
 <br>School Bookshop Opening Hours
 <br>Mon to Fri during school term (excluding public holidays): 11:30am to
 12:30pm
-<br><a href="/files/Ops/2024_P1_P6_booklists.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Booklist</a>
+<br><a href="/files/Ops/CHIJ_OLN_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Booklist</a>
 </p>
 <p>Sale of Name Tags: <a href="https://www.stitchwerkz.sg/nametags_chijoln" rel="noopener noreferrer nofollow" target="_blank">https://www.stitchwerkz.sg/nametags_chijoln</a>
 </p>
