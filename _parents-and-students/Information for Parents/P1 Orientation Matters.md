@@ -11,6 +11,10 @@ variant: tiptap
 <p><a href="/files/Comms_Networking/P1_STARTING_SCHOOL_IN_2025__P1_Oriention_6Nov2024r1.pdf" rel="noopener noreferrer nofollow" target="_blank">Starting School in 2025 - Primary 1</a>
 </p>
 </li>
+<li>
+<p><a href="/files/Comms_Networking/P1_Orientation_slides_website.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Orientation Slides (6 Nov 2024)</a>
+</p>
+</li>
 </ul>
 <p></p>
 <h5>Here are the links to the informative videos about our school:</h5>
