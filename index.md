@@ -14,8 +14,8 @@ sections:
         - title: CONNECT WITH US
           description: Catch us on FB & IG
           url: /SocialMedia/
-        - title: GRACIA! Award Photos
-          description: Key Highlight description
+        - title: GRACIA! Photos
+          description: Photographs of Award Winners
           url: https://go.gov.sg/chijoln-gracia-awards
       background: /images/Banner and Logo/herobanner_updjun2023.gif
 ---
