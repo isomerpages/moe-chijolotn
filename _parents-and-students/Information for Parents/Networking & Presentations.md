@@ -50,10 +50,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>20 Nov 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Comms_Networking/PSLE_Results_Briefing_Slides_for_Parents__Nov_2024__.pdf" rel="noopener noreferrer nofollow" target="_blank">PSLE Result Briefing Presentation Slides</a>
+</p>
 </td>
 </tr>
 </tbody>
