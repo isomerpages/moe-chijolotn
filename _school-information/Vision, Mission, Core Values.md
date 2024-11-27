@@ -2,6 +2,7 @@
 title: Vision, Mission, Core Values
 permalink: /school-information/vision-mission-core-values/
 description: ""
+variant: markdown
 ---
 <h4><strong>School Mission</strong></h4>
 <h4><strong>Mission of CHIJ SCHOOLS</strong></h4>
@@ -36,7 +37,7 @@ description: ""
 </ul>
 	
 <h4><strong>Qualities of an IJ OLN Graduate</strong></h4>
-The IJ OLN girl for Tomorrow will Live out the IJ Mission and our GRACIA values as she will..<br>
+The IJ OLN girl for Tomorrow will Live out the IJ Mission and our GRACIA values as she ...<br>
 <ul><li>Leads with initiative, serves with love.</li>
 <li>Thinks creatively and critically</li>
 <li>Communicates confidently.</li>
