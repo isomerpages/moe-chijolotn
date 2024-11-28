@@ -2,11 +2,11 @@ collections:
   school-information:
     output: true
     order:
-      - School Pledge.md
       - Principal's Message.md
       - Vision, Mission, Core Values.md
       - School Crest.md
       - School Song.md
+      - School Pledge.md
       - IJ Songs.md
       - School Hours.md
       - School Rules.md
