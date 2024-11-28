@@ -25,7 +25,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
+<h4><strong>"Simple in Virtue, Steadfast in Duty."</strong></h4>
 </td>
 </tr>
 </tbody>
