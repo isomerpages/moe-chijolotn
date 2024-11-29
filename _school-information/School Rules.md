@@ -38,20 +38,24 @@ any form of bullying, cyber-bullying, intimidation or retaliation.</p>
 <p>Live up to the school motto, 'Simple in Virtue, Steadfast in Duty'.</p>
 </li>
 </ul>
-<h4>Assembly and Flag-raising Ceremony</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Be on time for Assembly at 7.30 a.m. from Monday to Friday. Students who
-are not with their class for Assembly at 7.30 a.m. will be considered late.</p>
-</li>
-<li>
-<p>Students who are Singapore citizens must sing the National Anthem and
-take the Pledge. Students will take the Pledge with their right fist placed
-over their heart.</p>
-</li>
-</ul>
 <h4>Attire</h4>
 <ul data-tight="true" class="tight">
+<li>
+<p>Students are to wear the prescribed school uniform and modification to
+the uniform is not allowed.</p>
+</li>
+<li>
+<p>Students are to wear only white school socks and shoes.</p>
+</li>
+<li>
+<p>Students must have their name tags ironed onto their school uniform and
+PE attire.</p>
+</li>
+<li>
+<p>Students must be neat and properly attired in their school uniform at
+all</p>
+<p>times, inside and outside school.</p>
+</li>
 <li>
 <p>Students are to wear the prescribed school uniform and modification to
 the uniform is not allowed.</p>
@@ -60,44 +64,68 @@ the uniform is not allowed.</p>
 <p>Students must be neat and properly attired in their school uniform at
 all times, inside and outside school.</p>
 </li>
+</ul>
+<h4>School PE T-shirt</h4>
+<ul data-tight="true" class="tight">
 <li>
-<p>Students are allowed to wear the school's PE T-shirt the whole day (under
+<p>Students are allowed to wear the school’s PE T-shirt the whole day (under
 their pinafore) on days they have PE lessons.</p>
 </li>
 <li>
-<p>Students must have their iron-on name tags on their school uniform and
-PE attire.&nbsp;</p>
+<p>If students attend SwimSafer lessons, they are to change into the school’s
+PE T-shirt (under their pinafore) after the session.</p>
 </li>
 <li>
-<p>If students attend SwimSafer lessons, they are to change into the school's
-PE T-Shirt (under their pinafore) after the session.</p>
+<p>Students who are going for camps should report to school in their PE/</p>
+<p>Camp T-shirt and track pants. Swimming attire can be worn underneath the
+PE/Camp T-shirt if the first programme for the day involves a water-based
+activity.</p>
+</li>
+</ul>
+<h4>Hair/ Hair Accessories</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Hair that touches the collar should be tied up into a ponytail.</p>
 </li>
 <li>
-<p>Students who are going for camps should report to school in their PE/Camp
-T-Shirt and track pants. Swimming attire can be worn underneath the PE/CampT-Shirt
-if the first programme for the day involves water-based activity</p>
-</li>
-<li>
-<p>Students are not allowed to wear any jewellery or accessories or bring
-any valuables to school.</p>
-</li>
-<li>
-<p>There should not be any display of religious accessories.</p>
+<p>Fringe should not touch the eyebrows. Long fringes should be pinned up.</p>
 </li>
 <li>
 <p>Only plain black hair accessories are allowed.</p>
 </li>
 <li>
+<p>The black hair accessories should be simple. Fanciful designs like big
+bows and charms on hair accessories are not allowed.</p>
+</li>
+<li>
 <p>Students are not allowed to colour their hair.</p>
 </li>
+</ul>
+<h4>Ear Studs</h4>
+<p>Students are allowed to wear small simple ear studs as specified below.</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>Students are to wear only white school socks and shoes.</p>
+<p>"small”: The ear studs should not be larger than 0.5 cm in diameter.</p>
 </li>
 <li>
-<p>Students are not allowed to wear smart watches or watches that have recording
-functions. The only exception is the POSB Smart Buddy.</p>
+<p>“simple”: The ear stud should be of a plain design, round and of a single
+colour, i.e. gold, silver, white or black. It can be made of plastic or
+metal.</p>
+</li>
+<li>
+<p>“ear studs”: Students should not wear ear loops/hoops as this is a safety
+concern. Hoops can catch onto fingers or other objects while playing or
+during activities, and injuries can and have occurred.</p>
+</li>
+<li>
+<p>These are some images of ear studs currently used by our girls that are
+in line with the school rules.</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ear_studs.jpg">
+</div>
+<p><strong>Should a student wear ear studs not in line with the guidelines, parents will be informed and requested to partner the school to help the child comply with the rule. Should the student still not change her ear studs, she will be given a pair of transparent ear sticks to use instead of her ear studs. Parents will then be notified of this. Please note that the school will not be responsible for any loss of the ear studs</strong>.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -118,20 +146,100 @@ functions. The only exception is the POSB Smart Buddy.</p>
 </tr>
 </tbody>
 </table>
+<h4>Handphone and Smart Watch Policy</h4>
+<p>The school provides students with the use of school-owned ICT devices
+for technology-enabled lessons. In addition, students should not be distracted
+by notifications from smartphones or smartwatches during school hours.
+Should a student need to contact a family member or caregiver in the case
+of illness or to make transport arrangements, she is to approach the administrative
+staff in our General Office for assistance.</p>
+<p><strong>As such, students are discouraged from bringing personal smartphones and/or smartwatches to schools.</strong>
+</p>
+<p>In the event that you require your child to bring her handphone/smart
+watch to school, please submit your request via the request link in Parents
+Gateway sent in January 2025.</p>
+<p>Please take note of the following conditions that would then apply should
+your request be approved:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students are not allowed to use personal digital devices like handphone/smart
+watches during school hours which include recess, CCA and after-school
+programme e.g. supplementary/enrichment lessons. Students are not to use
+their devices to make/receive calls or texts, take pictures or make any
+form of recording. The only exception is the POSB Smart Buddy watch which
+can be use during recess.</p>
+</li>
+<li>
+<p>Devices must be switched off when brought to school.</p>
+</li>
+<li>
+<p>Students bear responsibility for the safekeeping of their devices e.g.
+in their lockers/school bags.</p>
+</li>
+<li>
+<p>Students should use their handphone/smart watch after school hours only
+to call/text their parents/guardians and not for any other purpose e.g.
+gaming, using social media, etc. They are to use their handphone/smart
+watch after school hours at the the two designated areas within the school
+premises:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Foyer</p>
+</li>
+<li>
+<p>Security Guard Post at Side Gate 2</p>
+</li>
+</ul>
+</li>
+</ul>
+<p><strong>Should the above conditions not be adhered to, the handphone/smart watch will be confiscated and the permission to bring a handphone/smart watch to school may be revoked.</strong>
+</p>
+<p><strong>The school will not be responsible for any loss or damage to the handphone/smart watch brought to school.</strong>
+</p>
+<h4>Assembly and Flag-raising Ceremony</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Be on time for Assembly at 7.30 a.m. from Monday to Friday. Students who
+are not with their class for Assembly at 7.30 a.m. will be considered late.</p>
+</li>
+<li>
+<p>Students who are Singapore citizens must sing the National Anthem and
+take the Pledge. Students will take the Pledge with their right fist placed
+over their heart.</p>
+</li>
+</ul>
 <h4>Attendance</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students must be punctual for school and lessons.</p>
 </li>
 <li>
-<p>Attendance is compulsory on all school days, functions and activities.
-Students who are absent must inform the school and present medical certificates
-or letters from parents/guardians when they next return to school.</p>
+<p>All students are required to attend school daily during the school terms.
+Under the Singapore Compulsory Education Act, " a child of compulsory school
+age shall attend regular as a pupil at a national primary school" .</p>
 </li>
 <li>
-<p>The school will accept a maximum of 3 letters from parents/guardians each
-term for their child's/ward's absence from school. A medical certificate
-should be given otherwise.</p>
+<p>The school curriculum designed to be implemented over 40 weeks, prepared
+students academically for the subsequent levels. Much of what is taught
+is progressive and builds on concepts/content previously taught. As such,
+students should not be absent from school during term time, even if the
+examinations are over. Parents/Guardians are requested to support the school
+in inculcating the values of commitment and responsibility in our students.</p>
+</li>
+<li>
+<p>Students will be considered absent without valid reason should they go
+for holidays overseas or staycation during school term as curriculum time
+is sacrosanct.</p>
+</li>
+<li>
+<p>Attendance is compulsory on all school days, functions and activities.
+Students who are absent must inform the school of their absence and present
+medical certificates or letters from parents/guardians when they return
+to school.</p>
+</li>
+<li>
+<p>The school will accept a maximum of <strong>10</strong> letters from parents/guardians <strong>per year</strong> for
+their child's/ward's absence from school.</p>
 </li>
 <li>
 <p>Parents/Guardians must sign the "Permission to Leave School" form in the
@@ -200,50 +308,6 @@ will receive a "Fair" conduct grade.</p>
 </tr>
 </tbody>
 </table>
-<h4>Handphone and Smart Watch Policy</h4>
-<p>Handphones/smart watches are not encouraged in the school. Should your
-child/ward need to contact a family member or caregiver in the case of
-illness or to make transport arrangements, she is to approach the administrative
-staff in our General Office for assistance.</p>
-<p>In the event that you require your child/ward to bring her handphone/smart
-watch to school, please submit your request via the request link in Parents
-Gateway sent in January 2024.</p>
-<p>Please take note of the following conditions:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Students are not to use their handphone/smart watches during school hours
-without permission, e.g. to make/receive calls or texts, take pictures
-or make any form of recording.</p>
-</li>
-<li>
-<p>Students are not to allow others to use their handphone/smart watch.</p>
-</li>
-<li>
-<p>Should students need to use their handphone/smart watch after school hours,
-the school has designated two areas within the school premises for this
-purpose. The two designated areas are as follows:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Foyer</p>
-</li>
-<li>
-<p>Security Guard Post at Side Gate 2</p>
-</li>
-</ul>
-</li>
-</ul>
-<ul data-tight="true" class="tight">
-<li>
-<p>Students should use their handphone/smart watch after school hours only
-to call/text their parents/guardians and not for any other purpose e.g.
-gaming, using social media, etc.</p>
-</li>
-</ul>
-<p><strong>Should the above conditions not be adhered to, the handphone/smart watch will be confiscated and the permission to bring a handphone/smart watch to school may be revoked.</strong>
-</p>
-<p><strong>The school will not be responsible for any loss or damage to the handphone/smart watch brought to school.</strong>
-</p>
-<p></p>
 <h4>Possession of Weapons</h4>
 <ul data-tight="true" class="tight">
 <li>
