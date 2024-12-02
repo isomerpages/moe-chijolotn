@@ -11,7 +11,7 @@ responsibility for, and a role to play in building a safe learning environment
 where we treat each other with respect and understanding. As such, our
 school will not tolerate any unlawful or disruptive behaviour, including
 any form of bullying, cyber-bullying, intimidation or retaliation.</p>
-<p>We expect all students to</p>
+<p>We expect all students to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Be courteous, considerate and honest at all times.</p>
@@ -53,8 +53,7 @@ PE attire.</p>
 </li>
 <li>
 <p>Students must be neat and properly attired in their school uniform at
-all</p>
-<p>times, inside and outside school.</p>
+all times, inside and outside school.</p>
 </li>
 <li>
 <p>Students are to wear the prescribed school uniform and modification to
@@ -76,10 +75,9 @@ their pinafore) on days they have PE lessons.</p>
 PE T-shirt (under their pinafore) after the session.</p>
 </li>
 <li>
-<p>Students who are going for camps should report to school in their PE/</p>
-<p>Camp T-shirt and track pants. Swimming attire can be worn underneath the
-PE/Camp T-shirt if the first programme for the day involves a water-based
-activity.</p>
+<p>Students who are going for camps should report to school in their PE/Camp
+T-shirt and track pants. Swimming attire can be worn underneath the PE/Camp
+T-shirt if the first programme for the day involves a water-based activity.</p>
 </li>
 </ul>
 <h4>Hair/ Hair Accessories</h4>
@@ -300,7 +298,7 @@ parents/guardians.&nbsp;</p>
 <td rowspan="1" colspan="2">
 <p>A warning letter will be issued to a student who is late 3 times or more
 in a semester.</p>
-<p>Late coming data will be reflected in the report book if a child is late
+<p>Late-coming data will be reflected in the report book if a child is late
 12 times or more in a semester.</p>
 <p>Students who are frequently late (20% of the number of days in a semester)
 will receive a "Fair" conduct grade.</p>
@@ -312,8 +310,8 @@ will receive a "Fair" conduct grade.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>All students are not allowed to have in their possession any weapon. They
-are also not allowed to bring any weapon-like item which is used or intended
-to be used to cause harm to others.</p>
+are also not allowed to bring any weapon-like item which can be used or
+intended to be used to cause harm to others.</p>
 </li>
 </ul>
 <h4>School Assessment Rules</h4>
