@@ -19,7 +19,7 @@ for parents to join the groups they have created.&nbsp;</p>
 <a href="https://apps.apple.com/sg/app/whatsapp-messenger/id310633997" rel="noopener nofollow" target="_blank">App Store (iOS)</a>(this is a free App)</p>
 </li>
 <li>
-<p>FAQ on WhatsApp -&nbsp;<a href="https://www.tok-tok.me/faq.FAQ.html?pageId=FAQ" rel="noopener" target="_blank">Frequently Asked Questions</a>
+<p>FAQ on WhatsApp -&nbsp;<a href="https://faq.whatsapp.com/" rel="noopener" target="_blank">Frequently Asked Questions</a>
 </p>
 </li>
 <li>
