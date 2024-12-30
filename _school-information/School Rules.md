@@ -55,14 +55,6 @@ PE attire.</p>
 <p>Students must be neat and properly attired in their school uniform at
 all times, inside and outside school.</p>
 </li>
-<li>
-<p>Students are to wear the prescribed school uniform and modification to
-the uniform is not allowed.</p>
-</li>
-<li>
-<p>Students must be neat and properly attired in their school uniform at
-all times, inside and outside school.</p>
-</li>
 </ul>
 <h4>School PE T-shirt</h4>
 <ul data-tight="true" class="tight">
@@ -214,10 +206,10 @@ over their heart.</p>
 <li>
 <p>All students are required to attend school daily during the school terms.
 Under the Singapore Compulsory Education Act, " a child of compulsory school
-age shall attend regular as a pupil at a national primary school" .</p>
+age shall attend regularly as a pupil at a national primary school" .</p>
 </li>
 <li>
-<p>The school curriculum designed to be implemented over 40 weeks, prepared
+<p>The school curriculum designed to be implemented over 40 weeks, prepares
 students academically for the subsequent levels. Much of what is taught
 is progressive and builds on concepts/content previously taught. As such,
 students should not be absent from school during term time, even if the
