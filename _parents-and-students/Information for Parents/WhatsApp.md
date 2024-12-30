@@ -23,7 +23,7 @@ for parents to join the groups they have created.&nbsp;</p>
 </p>
 </li>
 <li>
-<p>Contact details for technical support: Email:&nbsp;<strong><a href="mailto:services@hello-technology.com" rel="noopener noreferrer nofollow" target="">services@hello-technology.com</a></strong>
+<p>Contact details for technical support: Email:&nbsp;<strong><a href="mailto:services@hello-technology.com" rel="noopener noreferrer nofollow" target="">chijoln@moe.edu.sg</a></strong>
 </p>
 </li>
 </ul>
