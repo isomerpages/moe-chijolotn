@@ -54,4 +54,8 @@ OLN.</p>
 <p>May the year be a meaningful and blessed one for all of us - students,
 staff and parents - as we hold on to our IJ dreams and grow together as
 an IJ family.</p>
-<p>Your partner-in education, Mrs Karen Tan Principal</p>
+<p>Your partner-in education,
+<br>Mrs Karen Tan
+<br>Principal</p>
+<p></p>
+<p></p>
