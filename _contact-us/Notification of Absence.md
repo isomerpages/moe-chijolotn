@@ -4,12 +4,20 @@ permalink: /contact-us/notification-of-absence/
 description: ""
 variant: tiptap
 ---
-<h4>2024</h4>
+<h4>2025</h4>
 <p>Dear Parents.
 <br>This is a one-stop portal for you to submit information about your child's
 absence. Please click on the class and provide the necessary details for
 the teacher to take note.</p>
-<table>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
