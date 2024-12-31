@@ -1473,7 +1473,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chijoln@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Liu Zhen Yu</a>
+<p><a href="mailto:chijoln@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lui Zhen Yu</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1725,7 +1725,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_i-ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Mdm Ang I-Ling</a> 
+<p><a href="mailto:ang_i-ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Mdm Ang I-Ling</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2218,8 +2218,8 @@ have a default email client setup.</p>
 <br>胡素慧老师</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_yen_ching_jenny@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Mdm Jenny Lee</a> 
-<br>李苑菁老师</p>
+<p><a href="mailto:yang_wenxia@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Mdm Yang Wenxia</a> 
+<br>杨文侠老师</p>
 </td>
 </tr>
 <tr>
@@ -2250,8 +2250,8 @@ have a default email client setup.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yang_wenxia@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Mdm Yang Wenxia</a> 
-<br>杨文侠老师</p>
+<p><a href="mailto:yong_ann_chie@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Ms Yong Ann Chie</a> 
+<br>杨安琦</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:pang_woei_ru@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Mdm Pang Woei Ru</a> 
@@ -2263,11 +2263,12 @@ have a default email client setup.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yong_ann_chie@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Ms Yong Ann Chie</a> 
-<br>杨安琦</p>
+<p><a href="mailto:chijoln@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Pang Lin Hua</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chijoln@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lui Zhen Yu</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2372,10 +2373,13 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lai Mei Yu</p>
+<p>Ms Heng Meow Ern</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sim Suat Lee</p>
+<p>Ms Oh Soo Hwee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lai Meiyu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Hang Yun</p>
@@ -2384,16 +2388,13 @@ have a default email client setup.</p>
 <p>Mrs Ong Sok Chin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rachel Siow</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Oh Soo Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yong Ann Chie</p>
+<p>Mdm Pang Li Hua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Heng Meow Ern</p>
+<p>Mdm Bao Hong</p>
 </td>
 </tr>
 <tr>
@@ -2489,25 +2490,25 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Pang Woei Ru</p>
+<p>Ms Yeo Chun Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ang I-Ling</p>
+<p>Mr Lui Zhen Yu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Stephanie Wu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Li Ning</p>
+<p>Mdm Ang I-Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Serene Ler</p>
+<p>Mdm Li Ningr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jin Xiumei</p>
+<p>Mdm Yong Ann Chie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Bao Hong</p>
+<p>Mdm Yang Wenxia</p>
 </td>
 </tr>
 <tr>
@@ -2516,7 +2517,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="7">
-<p>Mdm Hanizah</p>
+<p>Mdm Nazurah</p>
 </td>
 </tr>
 <tr>
@@ -2525,13 +2526,141 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="7">
-<p>Mrs Jabar</p>
+<p>Ms Vasantha</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 175px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Grace</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Hope</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Joy</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Love</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Truth</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Able</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P3 CL</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Ong Sok Chin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Bao Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Peh Bee Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Pang Woei Ru</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Pang Lin Hua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Serene Ler</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>P3 ML</strong>
+</p>
+</td>
+<td rowspan="1" colspan="5">
+<p>Mdm Hani</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>P3 TL</strong>
+</p>
+</td>
+<td rowspan="1" colspan="5">
+<p>Mrs Jabar</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>P3 HCL</strong>
+</p>
+</td>
+<td rowspan="1" colspan="5">
+<p>Mdm Peh Bee Leng / Mdm Pang Woei Rui</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>P3 HML</strong>
+</p>
+</td>
+<td rowspan="1" colspan="5">
+<p>Ms Nazurah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>P3 HTL</strong>
+</p>
+</td>
+<td rowspan="1" colspan="5">
+<p>Ms Vasantha</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -2592,154 +2721,26 @@ have a default email client setup.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>P3 CL</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Yeo Chun Hui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Peh Bee Leng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Ong Sok Chin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Yee Hong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Yang Wenxia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Jenny Lee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>P3 ML</strong>
-</p>
-</td>
-<td rowspan="1" colspan="5">
-<p>Mdm Illiany</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>P3 TL</strong>
-</p>
-</td>
-<td rowspan="1" colspan="5">
-<p>Mrs T Yuvaraj</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>P3 HCL</strong>
-</p>
-</td>
-<td rowspan="1" colspan="5">
-<p>Mdm Yang Wenxia</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>P3 HML</strong>
-</p>
-</td>
-<td rowspan="1" colspan="5">
-<p>Mdm Fadilah</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>P3 HTL</strong>
-</p>
-</td>
-<td rowspan="1" colspan="5">
-<p>Miss Shanthini</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 175px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Class</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Faith</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Grace</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Hope</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Joy</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Love</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Peace</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>P4 CL</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yang Wenxia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Heng Ai Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Yeo Chun Hui</p>
+<p>Mdm Lai Meiyu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Peh Bee Leng</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Pang Woei Rui</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Ng Yee Hong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jenny Lee</p>
+<p>Ms Serene Ler</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Jin Xiumei</p>
 </td>
 </tr>
 <tr>
@@ -2748,7 +2749,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="5">
-<p>Mdm Illiany</p>
+<p>Mdm Hani</p>
 </td>
 </tr>
 <tr>
@@ -2757,7 +2758,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="5">
-<p>Mrs Yuvaraj</p>
+<p>Mrs Jabar</p>
 </td>
 </tr>
 <tr>
@@ -2766,7 +2767,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="5">
-<p>Mdm Heng Ai Ling / Mdm Peh Bee Leng</p>
+<p>Mr Ng Yee Hong/ Ms Serene Ler</p>
 </td>
 </tr>
 <tr>
@@ -2775,7 +2776,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="5">
-<p>Mdm Nazurah</p>
+<p>Ms Nazurah</p>
 </td>
 </tr>
 <tr>
@@ -2784,7 +2785,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="5">
-<p>Mrs T Yuvaraj</p>
+<p>Ms Vasantha</p>
 </td>
 </tr>
 <tr>
@@ -2834,22 +2835,22 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rachel Siow</p>
+<p>Mr Lui Zhen Yu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hang Yun</p>
+<p>Mdm Li Ning</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lai Meiyu</p>
+<p>Mdm Yang Wenxia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Heng Meow Ern</p>
+<p>Ms Yeo Chun Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sim Suat Lee</p>
+<p>Mdm Stephanie Wu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Oh Soo Hwee</p>
+<p>Mdm Ang I-Ling</p>
 </td>
 </tr>
 <tr>
@@ -2858,7 +2859,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="5">
-<p>Mdm Fadilah</p>
+<p>Ms Nazurah</p>
 </td>
 </tr>
 <tr>
@@ -2867,7 +2868,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="5">
-<p>Miss Shanthini</p>
+<p>Miss Vasantha</p>
 </td>
 </tr>
 <tr>
@@ -2885,7 +2886,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="5">
-<p>Mdm Hang Yun / Ms Oh Soo Hwee</p>
+<p>Mr Lui Zhen Yu / Mdm Li Ning</p>
 </td>
 </tr>
 <tr>
@@ -2894,7 +2895,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="5">
-<p>Mdm Fadilah</p>
+<p>Ms Nazurah</p>
 </td>
 </tr>
 <tr>
@@ -2903,7 +2904,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="5">
-<p>Miss Shanthini</p>
+<p>Ms Vasantha</p>
 </td>
 </tr>
 <tr>
@@ -2947,6 +2948,9 @@ have a default email client setup.</p>
 <p>Class</p>
 </th>
 <th rowspan="1" colspan="1">
+<p>Faith</p>
+</th>
+<th rowspan="1" colspan="1">
 <p>Grace</p>
 </th>
 <th rowspan="1" colspan="1">
@@ -2961,9 +2965,6 @@ have a default email client setup.</p>
 <th rowspan="1" colspan="1">
 <p>Peace</p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -2971,22 +2972,22 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Bao Hong</p>
+<p>Mdm Heng Ai Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jin Xuimei</p>
+<p>Mdm Hang Yun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Pang Woei Ru</p>
+<p>Mdm Jin Xiu Mei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm I-Ling</p>
+<p>Ms Heng Meow Ern</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Li Ning</p>
+<p>Mdm Rachel Siow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Oh Soo Hwee</p>
 </td>
 </tr>
 <tr>
@@ -2995,7 +2996,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="5">
-<p>Mdm Hanizah</p>
+<p>Mdm Fadilah</p>
 </td>
 </tr>
 <tr>
@@ -3004,7 +3005,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="5">
-<p>Mrs Jabar</p>
+<p>Miss Shanthini</p>
 </td>
 </tr>
 <tr>
@@ -3013,7 +3014,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="5">
-<p>Mdm Stephanie Wu</p>
+<p>Mr Ng Yee Hong</p>
 </td>
 </tr>
 <tr>
@@ -3022,7 +3023,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="5">
-<p>Mdm Jin Xiumei</p>
+<p>Mdm Hang Yun</p>
 </td>
 </tr>
 <tr>
@@ -3031,7 +3032,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="5">
-<p>Mrs Jabar</p>
+<p>Miss Shanthini</p>
 </td>
 </tr>
 <tr>
