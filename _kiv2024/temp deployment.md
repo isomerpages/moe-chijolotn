@@ -1,9 +1,8 @@
 ---
-title: Teaching Staff
-permalink: /school-information/our-people/teaching-staff/
+title: temp deployment
+permalink: /temp-deployment/
 variant: tiptap
 description: ""
-third_nav_title: Our People
 ---
 <h4>2025</h4>
 <p>Click on the Teacher's name to email the teacher using your default email
@@ -161,7 +160,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lin_yingying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Yap Ying Ying</a>
+<p><a href="mailto:lin_yingying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lin Ying Ying</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -261,7 +260,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lin_yingying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Yap Ying Ying</a>
+<p><a href="mailto:lin_yingying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lin Ying Ying</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -281,7 +280,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lin_yingying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Yap Ying Ying</a>
+<p><a href="mailto:lin_yingying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lin Ying Ying</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -357,7 +356,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lin_yingying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Yap Ying Ying</a>
+<p><a href="mailto:lin_yingying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lin Ying Ying</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

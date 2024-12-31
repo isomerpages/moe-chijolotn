@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Information for Parents
 variant: tiptap
 ---
-<h4><strong>2024</strong></h4>
+<h4><strong>2025</strong></h4>
 <table style="minWidth: 150px">
 <colgroup>
 <col>
@@ -18,30 +18,58 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024olnconnect/OLN_Connect_P001.pdf" rel="noopener noreferrer nofollow" target="_blank">January</a>
+<p><a href="/files/2025 oln connect/OLN_Connect_P001.pdf" rel="noopener noreferrer nofollow" target="_blank">January</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024olnconnect/OLN_Connect_P002r2.pdf" rel="noopener noreferrer nofollow" target="_blank">February</a>
-</p>
+<p>February</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024olnconnect/OLN_Connect_P003.pdf" rel="noopener noreferrer nofollow" target="_blank">March</a>
-</p>
+<p>March</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024olnconnect/OLN_Connect_P004.pdf" rel="noopener noreferrer nofollow" target="_blank">April</a>
-</p>
+<p>April</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024olnconnect/OLN_Connect_P005.pdf" rel="noopener noreferrer nofollow" target="_blank">May</a>
-</p>
+<p>May</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024olnconnect/OLN_Connect_P006r1.pdf" rel="noopener noreferrer nofollow" target="_blank">June</a>
-</p>
+<p>June</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>August</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>September</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>October</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>November</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>December</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>2024</strong></h4>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/2024olnconnect/OLN_Connect_P007r1.pdf" rel="noopener noreferrer nofollow" target="_blank">July</a>
