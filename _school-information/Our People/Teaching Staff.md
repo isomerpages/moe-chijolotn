@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our People
 ---
-<h4>2024</h4>
+<h4>2025</h4>
 <p>Click on the Teacher's name to email the teacher using your default email
 client.
 <br>Right-click on the Teacher's name to copy email address if you do not
@@ -161,7 +161,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lin_yingying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lin Ying Ying</a>
+<p><a href="mailto:lin_yingying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Yap Ying Ying</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -183,13 +183,13 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kwa_lay_khim_stephanie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs </a>
+<p><a href="mailto:kwa_lay_khim_stephanie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs</a>
 </p>
 <p><a href="mailto:chia_ley_chin_lynette@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lynette Lim</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kwa_lay_khim_stephanie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs </a>
+<p><a href="mailto:kwa_lay_khim_stephanie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs</a>
 </p>
 <p><a href="mailto:chia_ley_chin_lynette@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lynette Lim</a>
 </p>
@@ -207,7 +207,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kwa_lay_khim_stephanie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs </a>
+<p><a href="mailto:kwa_lay_khim_stephanie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs</a>
 </p>
 <p><a href="mailto:chia_ley_chin_lynette@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lynette Lim</a>
 </p>
@@ -261,7 +261,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lin_yingying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lin Ying Ying</a>
+<p><a href="mailto:lin_yingying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Yap Ying Ying</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -281,7 +281,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lin_yingying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lin Ying Ying</a>
+<p><a href="mailto:lin_yingying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Yap Ying Ying</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -357,7 +357,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lin_yingying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lin Ying Ying</a>
+<p><a href="mailto:lin_yingying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Yap Ying Ying</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -381,6 +381,11 @@ have a default email client setup.</p>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="9">
+<h4>2024</h4>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p><strong>Class\Teacher</strong>
