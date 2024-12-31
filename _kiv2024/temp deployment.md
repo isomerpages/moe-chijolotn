@@ -688,7 +688,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yang_wenxia@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Mdm Yang Wenxia</a> 
+<p><a href="mailto:yang_wenxia@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Mdm Yang Wenxia</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
