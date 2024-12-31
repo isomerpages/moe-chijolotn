@@ -378,11 +378,6 @@ have a default email client setup.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="9">
-<h4>2024</h4>
-</td>
-</tr>
-<tr>
 <th rowspan="1" colspan="1">
 <p><strong>Class\Teacher</strong>
 </p>
