@@ -2762,7 +2762,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="5">
-<p>Mr Ng Yee Hong/ Ms Serene Ler</p>
+<p>Mr Ng Yee Hong / Ms Serene Ler</p>
 </td>
 </tr>
 <tr>
