@@ -4,6 +4,11 @@ permalink: /school-information/principals-message/
 description: ""
 variant: tiptap
 ---
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Info/MrsKarenTan.png">
+</div>
 <p>It is with great joy and blessing that I join the family here at CHIJ
 Our Lady of the Nativity (CHIJ OLN). An IJ girl myself, I had the privilege
 of experiencing the IJ education in primary and secondary school, first
