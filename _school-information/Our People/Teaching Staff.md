@@ -60,23 +60,23 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:adeline_enriquez@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Adeline Enriquez</a>
+<p><a href="mailto:lim_poh_gek_delphine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Delphine Minjoot</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:norfadilah_sufke@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fadilah</a>
+<p><a href="mailto:heng_meow_ern@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Heng Meow Ern</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:adeline_enriquez@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Adeline Enriquez</a>
+<p><a href="mailto:lim_poh_gek_delphine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Delphine Minjoot</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:adeline_enriquez@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Adeline Enriquez</a>
+<p><a href="mailto:lim_poh_gek_delphine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Delphine Minjoot</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_si_yinn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Lee Si Yinn</a>
+<p><a href="mailto:poh_shi_ling_edna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Edna Poh</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -84,11 +84,11 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tang_dan_li_emily@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Emily Chew</a>
+<p><a href="mailto:leong_pei_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Gan Pei Ying</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zuwaria_parvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Parvin</a>
+<p><a href="mailto:lim_poh_gek_delphine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Delphine Minjoot</a>
 </p>
 </td>
 </tr>
@@ -98,19 +98,19 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:aileen_yap_hui_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Aileen Yap</a>
+<p><a href="mailto:Oh_wah_gee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Cindy Oh</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sim_suat_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Sim Suat Lee</a>
+<p><a href="mailto:norfadilah_sufke@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fadilah</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:aileen_yap_hui_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Aileen Yap</a>
+<p><a href="mailto:Oh_wah_gee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Cindy Oh</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:aileen_yap_hui_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Aileen Yap</a>
+<p><a href="mailto:Oh_wah_gee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Cindy Oh</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -118,15 +118,15 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sum_qiu_mei_sharon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Sharon Lai</a>
+<p><a href="mailto:feng_jingwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Feng Jingwei</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tang_dan_li_emily@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Emily Chew</a>
+<p><a href="Mailto:tan_shin_shin_helen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Helen Tan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:aileen_yap_hui_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Aileen Yap</a>
+<p><a href="mailto:Oh_wah_gee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Cindy Oh</a>
 </p>
 </td>
 </tr>
@@ -136,61 +136,24 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_seet_mei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Clara Ong</a>
+<p><a href="mailto:farhanna_zainal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Farhanna</a>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lai_meiyu@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Mdm Lai Meiyu</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hang_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Hang Yun</a>
+<p><a href="mailto:farhanna_zainal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Farhanna</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_seet_mei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Clara Ong</a>
+<p><a href="mailto:farhanna_zainal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Farhanna</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_seet_mei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Clara Ong</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:poh_shi_ling_edna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Edna Poh</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:feng_jingwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Feng Jingwei</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tang_dan_li_emily@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Emily Chew</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_seet_mei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Clara Ong</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>1 Hope</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kwa_lay_khim_stephanie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Stephanie Ho</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:zuwaria_parvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Parvin</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kwa_lay_khim_stephanie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Stephanie Ho</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kwa_lay_khim_stephanie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Stephanie Ho</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:poh_shi_ling_edna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Edna Poh</a>
+<p><a href="mailto:foo_weng_heng_fiona@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fiona Foo</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -198,7 +161,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="Mailto:tan_shin_shin_helen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Helen Tan</a>
+<p><a href="mailto:lin_yingying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lin Ying Ying</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -208,65 +171,31 @@ have a default email client setup.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1 Joy</strong>
+<p><strong>1 Hope</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_hidayah_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Hidayah Ronny</a>
+<p><a href="mailto:chia_ley_chin_lynette@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lynette Lim</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siow_chian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rachel Siow</a>
+<p><a href="mailto:hang_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Hang Yun</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:joycelyn_agnes_ferdinand_john@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Joycelyn Trevor</a>
+<p><a href="mailto:kwa_lay_khim_stephanie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs </a>
+</p>
+<p><a href="mailto:chia_ley_chin_lynette@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lynette Lim</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_hidayah_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Hidayah Ronny</a>
+<p><a href="mailto:kwa_lay_khim_stephanie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs </a>
+</p>
+<p><a href="mailto:chia_ley_chin_lynette@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lynette Lim</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:poh_shi_ling_edna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Edna Poh</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:feng_jingwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Feng Jingwei</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="Mailto:tan_shin_shin_helen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Helen Tan</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:zuwaria_parvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Parvin</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>1 Love</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_si_yinn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Lee Si Yinn</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nurathirah_md_sharoni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Thirah</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nurathirah_md_sharoni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Thirah</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nurathirah_md_sharoni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Thirah</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_si_yinn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Lee Si Yinn</a>
+<p><a href="mailto:foo_weng_heng_fiona@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fiona Foo</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -278,33 +207,19 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurathirah_md_sharoni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Thirah</a>
+<p><a href="mailto:kwa_lay_khim_stephanie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs </a>
+</p>
+<p><a href="mailto:chia_ley_chin_lynette@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lynette Lim</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1 Peace</strong>
+<p><strong>1 Joy</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:dennis_chew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Dennis Chew</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:foo_weng_heng_fiona@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fiona Foo</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:dennis_chew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Dennis Chew</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:dennis_chew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Dennis Chew</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:foo_weng_heng_fiona@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fiona Foo</a>
+<p><a href="mailto:chua_sze_li_adeline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Adeline Chua</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -312,37 +227,15 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:leong_pei_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Gan Pei Ying</a>
+<p><a href="mailto:nadira_abdul_gani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nadira</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:dennis_chew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Dennis Chew</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>1 Truth</strong>
+<p><a href="mailto:chua_sze_li_adeline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Adeline Chua</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:laura_ann_netto@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Laura Stephen</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:heng_meow_ern@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Heng Meow Ern</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:laura_ann_netto@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Laura Stephen</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:laura_ann_netto@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Laura Stephen</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_si_yinn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Lee Si Yinn</a>
+<p><a href="mailto:foo_weng_heng_fiona@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fiona Foo</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -355,6 +248,120 @@ have a default email client setup.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:elena_ong_yijin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Elena Ong</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>1 Love</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:law_ee_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Law Ee Peng</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lin_yingying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lin Ying Ying</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:fonseka_halena_nimali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Fonseka Halena</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:law_ee_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Law Ee Peng</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_si_yinn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Lee Si Yinn</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:feng_jingwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Feng Jingwei</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lin_yingying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lin Ying Ying</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:law_ee_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Law Ee Peng</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>1 Peace</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nurfaldillah_hussain@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Birkan</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siow_chian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Rachel Siow</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nurfaldillah_hussain@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Birkan</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nurfaldillah_hussain@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Birkan</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:poh_shi_ling_edna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Edna Poh</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sum_qiu_mei_sharon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Sharon Lai</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="Mailto:tan_shin_shin_helen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Helen Tan</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nurfaldillah_hussain@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Birkan</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>1 Truth</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_sing_hwee_eileen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Eileen Goh</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:shanthini_ramalingam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Shanthini</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_sing_hwee_eileen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Eileen Goh</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_sing_hwee_eileen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Eileen Goh</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_si_yinn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Lee Si Yinn</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sum_qiu_mei_sharon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Sharon Lai</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lin_yingying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lin Ying Ying</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_sing_hwee_eileen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Eileen Goh</a>
 </p>
 </td>
 </tr>
@@ -412,6 +419,8 @@ have a default email client setup.</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:goh_sing_hwee_eileen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Eileen Goh</a>
 </p>
+<p><a href="mailto:adeline_enriquez@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Adeline Enriquez</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sangeetha_m_suppiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Sangeetha Jabar</a>
@@ -448,7 +457,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Oh_wah_gee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Cindy Oh</a>
+<p><a href="mailto:aileen_yap_hui_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Aileen Yap</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -488,6 +497,8 @@ have a default email client setup.</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:masturah_salman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Masturah Azman</a>
 </p>
+<p><a href="mailto:ng_seet_mei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Clara Ong</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wu_li_chuang_stephanie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Stephanie Wu</a>
@@ -525,6 +536,8 @@ have a default email client setup.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:li_ning@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Li Ning</a>
+</p>
+<p><a href="mailto:kwa_lay_khim_stephanie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Stephanie Ho</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -564,6 +577,8 @@ have a default email client setup.</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mailto:chua_sze_li_adeline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Adeline Chua</a>
 </p>
+<p><a href="mailto:nur_hidayah_abdul_aziz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Hidayah Ronny</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ler_ser_ling_serene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Serene Ler</a>
@@ -601,6 +616,8 @@ have a default email client setup.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nadira_abdul_gani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nadira</a>
+</p>
+<p><a href="mailto:lee_si_yinn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Lee Si Yinn</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -640,6 +657,8 @@ have a default email client setup.</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sum_qiu_mei_sharon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Sharon Lai</a>
 </p>
+<p><a href="mailto:dennis_chew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Dennis Chew</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chia_ley_chin_lynette@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lynette Lim</a>
@@ -677,6 +696,8 @@ have a default email client setup.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:leong_pei_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Gan Pei Ying</a>
+</p>
+<p><a href="mailto:laura_ann_netto@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Laura Stephen</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -977,6 +998,8 @@ have a default email client setup.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nai_ting-tiang_jacqueline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jacqueline Nai</a>
+</p>
+<p><a href="mailto:masturah_salman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Masturah Azman</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
