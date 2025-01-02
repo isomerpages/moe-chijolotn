@@ -406,6 +406,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Zulia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>zulia_said@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -424,6 +435,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>wong_hui_erl@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Learning Needs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Delphine Minjoot</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_poh_gek_delphine@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
