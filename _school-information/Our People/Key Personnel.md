@@ -437,6 +437,17 @@ variant: tiptap
 <p>wong_hui_erl@moe.edu.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Learning Needs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Delphine Minjoot</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_poh_gek_delphine@moe.edu.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
