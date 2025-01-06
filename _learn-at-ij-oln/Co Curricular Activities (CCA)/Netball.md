@@ -169,8 +169,8 @@ for programmes on a school level.</p>
 <p>Primary 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Lee Si Yinn (OIC)</p>
-<p>Mrs Laura Stephen</p>
+<p>Miss Lee Si Yinn (OIC)
+<br>Mrs Laura Stephen</p>
 </td>
 </tr>
 </tbody>
