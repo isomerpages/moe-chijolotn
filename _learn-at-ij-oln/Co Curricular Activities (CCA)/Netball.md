@@ -134,8 +134,8 @@ for programmes on a school level.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Dennis Chew (OIC)
-<br>Mdm Parvin</p>
-<p>Ms Vasantha</p>
+<br>Mdm Parvin
+<br>Ms Vasantha</p>
 </td>
 </tr>
 <tr>
