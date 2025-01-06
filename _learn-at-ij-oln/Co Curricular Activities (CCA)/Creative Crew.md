@@ -125,9 +125,9 @@ upholding discipline, forging camaraderie amongst members.</p>
 <p>Thursdays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sharon Lai (OIC)
-<br>Ms Wendy Wong
-<br>Ms Feng Jing Wei</p>
+<p>Ms Feng Jing Wei (OIC)
+<br>Mrs Sharon Lai
+<br>Ms Wendy Wong</p>
 </td>
 </tr>
 </tbody>
