@@ -158,8 +158,8 @@ for programmes on a school level.</p>
 <p>Primary 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Lee Si Yinn (OIC)</p>
-<p>Mr Yasvanth
+<p>Miss Lee Si Yinn (OIC)
+<br>Mr Yasvanth
 <br>
 </p>
 </td>
