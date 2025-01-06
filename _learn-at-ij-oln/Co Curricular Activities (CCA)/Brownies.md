@@ -154,7 +154,7 @@ Pack 1: Gold
 <p>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.15 pm - 5.15 pm</p>
+<p>3.15 pm - 4.45 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Kwek Yin Sy (OIC)
