@@ -153,9 +153,11 @@ dance programme. These activities include SYF and school performances.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Norfadilah (OIC)&nbsp;
+<p>Mrs Hidayah Ronny (OIC)
+<br>Mdm Norfadilah
 <br>Mrs Jabar
-<br>Mrs Hidayah Ronny</p>
+<br>
+</p>
 </td>
 </tr>
 </tbody>
