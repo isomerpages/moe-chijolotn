@@ -2,6 +2,7 @@ collections:
   kiv2024:
     output: true
     order:
+      - Supp 2025.md
       - temp deployment.md
       - 2021.md
       - 2021kiv.md
