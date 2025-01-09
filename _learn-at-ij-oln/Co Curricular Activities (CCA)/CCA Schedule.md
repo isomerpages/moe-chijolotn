@@ -15,81 +15,96 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term4/t4_p3_netball.pdf" rel="noopener noreferrer nofollow" target="_blank">Netball - P3</a>
+<p><a href="/files/2025CCASchedule/Term 1/t1_p3_netballschedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Netball - P3</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term4/t4_bowling.pdf" rel="noopener noreferrer nofollow" target="_blank">Bowling</a>
+<p><a href="/files/2025CCASchedule/Term 1/t1_bowlingschedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Bowling</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term4/t4_creative_crew_visual_arts_r2.pdf" rel="noopener noreferrer nofollow" target="_blank">Creative Crew (Visual Arts)</a>
+<p><a href="/files/2025CCASchedule/Term 1/t1_creativecrewschedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Creative Crew (Visual Arts)</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term4/t4_p4_netball.pdf" rel="noopener noreferrer nofollow" target="_blank">Netball - P4</a>
+<p><a href="/files/2025CCASchedule/Term 1/t1_p4_netballschedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Netball - P4</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term4/t4_table_tennis_r2.pdf" rel="noopener noreferrer nofollow" target="_blank">Table-Tennis</a>
+<p><a href="/files/2025CCASchedule/Term 1/t1_tabletennisschedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Table-Tennis</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term4/t4_brass_band.pdf" rel="noopener noreferrer nofollow" target="_blank">Brass Band</a>
+<p><a href="/files/2025CCASchedule/Term 1/t1_brassbandschedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Brass Band</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term4/t4_p5_netball.pdf" rel="noopener noreferrer nofollow" target="_blank">Netball - P5</a>
+<p><a href="/files/2025CCASchedule/Term 1/t1_p5_netballschedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Netball - P5</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term4/t4_dance_inc_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc - International 1</a>
+<p><a href="/files/2025CCASchedule/Term 1/t1_danceinc1schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc - International 1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term4/t4_choir_r1.pdf" rel="noopener noreferrer nofollow" target="_blank">Choir</a>
+<p><a href="/files/2025CCASchedule/Term 1/t1_choirschedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Choir</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term4/t4_netball_developmental_team.pdf" rel="noopener noreferrer nofollow" target="_blank">Netball - Development Team</a>
+<p><a href="/files/2025CCASchedule/Term 1/t1_p6_netballschedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Netball - P6</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term4/t4_dance_inc_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc - International 2</a>
+<p><a href="/files/2025CCASchedule/Term 1/t1_danceinc2schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc - International 2</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term4/t4_brownies_r1.pdf" rel="noopener noreferrer nofollow" target="_blank">Brownies</a>
+<p><a href="/files/2025CCASchedule/Term 1/t1_browniesschedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Brownies</a>
 </p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025CCASchedule/Term 1/t1_netballdevelopmentalteamschedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Netball - Develop</a>
+<a href="/files/2025CCASchedule/Term 1/t1_netballdevelopmentalteamschedule.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/2025CCASchedule/Term 1/t1_netballdevelopmentalteamschedule.pdf" rel="noopener noreferrer nofollow" target="_blank">ment Team</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025CCASchedule/Term 1/t1_danceinc3schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc 3 - Chinese Dance</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025CCASchedule/Term 1/t1_infocommmediaschedule.pdf" rel="noopener noreferrer nofollow" target="_blank">InfoComm Media Club</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025CCASchedule/Term 1/t1_p3p4p5_floorballschedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Floorball - P3, P4 &amp; P5</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025CCASchedule/Term 1/t1_danceinc4schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc 4 - Malay Dance</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025CCASchedule/Term 1/t1_danceinc_pri_3_schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc - Primary 3</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025CCASchedule/Term 1/t1_p6_floorballschedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Floorball - P6</a>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term4/t4_dance_inc_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc - Chinese Dance</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term4/t4_inforcomm_media_club_r1.pdf" rel="noopener noreferrer nofollow" target="_blank">InfoComm Media Club</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term4/t4_floorball_r2.pdf" rel="noopener noreferrer nofollow" target="_blank">Floorball - P3, P4 &amp; P5</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2024CCASchedule/Term4/t4_dance_inc_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc - Malay Dance</a>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
