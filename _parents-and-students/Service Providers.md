@@ -32,7 +32,7 @@ Bizhub, Singapore 408727
 12:30pm
 <br><a href="/files/Ops/CHIJ_OLN_Booklist_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Booklist</a>
 </p>
-<p>Sale of Name Tags: <a href="https://www.stitchwerkz.sg/nametags_chijoln" rel="noopener noreferrer nofollow" target="_blank">https://www.stitchwerkz.sg/nametags_chijoln</a>
+<p>Sale of Name Tags: <a href="https://nametags.stitchwerkz.sg/chijoln" rel="noopener noreferrer nofollow" target="_blank">https://nametags.stitchwerkz.sg/chijoln</a>
 </p>
 <h4><strong>Dental Clinic</strong></h4>
 <p><strong>Dental Therapist: Ms Lee Xin Fang<br></strong>As the dental therapist
