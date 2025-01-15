@@ -1022,7 +1022,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chijoln@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Pang Lin Hua</a>
+<p><a href="mailto:pang_lin_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Pang Lin Hua</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1466,7 +1466,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chijoln@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lui Zhen Yu</a>
+<p><a href="mailto:lui_zhenyu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lui Zhen Yu</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1550,7 +1550,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chijoln@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nazurah</a>
+<p><a href="mailto:nazurah_ibrahim_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nazurah</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2254,11 +2254,11 @@ have a default email client setup.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chijoln@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Pang Lin Hua</a>
+<p><a href="mailto:pang_lin_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Pang Lin Hua</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chijoln@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lui Zhen Yu</a>
+<p><a href="mailto:lui_zhenyu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Lui Zhen Yu</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2275,7 +2275,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chijoln@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nazurah</a>
+<p><a href="mailto:nazurah_ibrahim_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nazurah</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
