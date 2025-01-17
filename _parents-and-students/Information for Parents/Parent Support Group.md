@@ -24,7 +24,7 @@ variant: tiptap
 </li>
 </ul>
 <p>If your daughter is currently studying in CHIJ OLN and you would like
-to&nbsp;register as a Parent Volunteer, please click here -&nbsp;<a href="https://form.gov.sg/#!/5dc277ad11ecd70012efb541" rel="noopener" target="_blank">Register as PV</a>
+to&nbsp;register as a Parent Volunteer, please click here -&nbsp;<a href="https://go.gov.sg/pvregistration" rel="noopener" target="_blank">Register as PV</a>
 </p>
 <h4><strong>Roles of Executive Committee</strong></h4>
 <ul data-tight="true" class="tight">
