@@ -2817,7 +2817,7 @@ have a default email client setup.</p>
 <p>Love</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Peace</p>
+<p>Truth</p>
 </th>
 </tr>
 <tr>
