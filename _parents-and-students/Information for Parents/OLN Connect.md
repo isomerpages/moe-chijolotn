@@ -60,43 +60,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>2024</strong></h4>
-<table style="minWidth: 150px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2024olnconnect/OLN_Connect_P007r1.pdf" rel="noopener noreferrer nofollow" target="_blank">July</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2024olnconnect/OLN_Connect_P008.pdf" rel="noopener noreferrer nofollow" target="_blank">August</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2024olnconnect/OLN_Connect_P009.pdf" rel="noopener noreferrer nofollow" target="_blank">September</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2024olnconnect/OLN_Connect_P010r1.pdf" rel="noopener noreferrer nofollow" target="_blank">October</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2024olnconnect/OLN_Connect_P011.pdf" rel="noopener noreferrer nofollow" target="_blank">November</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2024olnconnect/OLN_Connect_P012.pdf" rel="noopener noreferrer nofollow" target="_blank">December</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
