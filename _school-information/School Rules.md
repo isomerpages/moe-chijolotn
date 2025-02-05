@@ -116,21 +116,16 @@ in line with the school rules.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ear_studs.jpg">
 </div>
 <p><strong>Should a student wear ear studs not in line with the guidelines, parents will be informed and requested to partner the school to help the child comply with the rule. Should the student still not change her ear studs, she will be given a pair of transparent ear sticks to use instead of her ear studs. Parents will then be notified of this. Please note that the school will not be responsible for any loss of the ear studs</strong>.</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Info/UniformPic1.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Info/UniformPic2.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/School Info/Attire_PE_Uniform.jpg">
 </div>
 </td>
 </tr>
