@@ -125,7 +125,7 @@ in line with the school rules.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/School Info/Attire_PE_Uniform.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/School Info/Attire_PE_Uniform.jpg">
 </div>
 </td>
 </tr>
