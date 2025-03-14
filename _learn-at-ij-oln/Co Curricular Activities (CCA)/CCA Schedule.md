@@ -23,7 +23,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025CCASchedule/Term 1/t1_creativecrewschedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Creative Crew (Visual Arts)</a>
+<p><a href="/files/2025CCASchedule/Term2/T2___Creative_Crew.pdf" rel="noopener noreferrer nofollow" target="_blank">Creative Crew (Visual Arts)</a>
 </p>
 </td>
 </tr>
@@ -37,7 +37,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025CCASchedule/Term 1/t1_brassbandschedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Brass Band</a>
+<p><a href="/files/2025CCASchedule/Term2/T2___Brass_Band.pdf" rel="noopener noreferrer nofollow" target="_blank">Brass Band</a>
 </p>
 </td>
 </tr>
@@ -51,7 +51,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025CCASchedule/Term 1/t1_choirschedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Choir</a>
+<p><a href="/files/2025CCASchedule/Term2/T2___Choir.pdf" rel="noopener noreferrer nofollow" target="_blank">Choir</a>
 </p>
 </td>
 </tr>
@@ -65,7 +65,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025CCASchedule/Term 1/t1_browniesschedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Brownies</a>
+<p><a href="/files/2025CCASchedule/Term2/T2___Brownies.pdf" rel="noopener noreferrer nofollow" target="_blank">Brownies</a>
 </p>
 </td>
 </tr>
@@ -79,7 +79,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025CCASchedule/Term 1/t1_infocommmediaschedule.pdf" rel="noopener noreferrer nofollow" target="_blank">InfoComm Media Club</a>
+<p><a href="/files/2025CCASchedule/Term2/T2___Infocomm_Media_Club.pdf" rel="noopener noreferrer nofollow" target="_blank">InfoComm Media Club</a>
 </p>
 </td>
 </tr>
