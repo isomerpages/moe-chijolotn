@@ -19,7 +19,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025CCASchedule/Term 1/t1_bowlingschedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Bowling</a>
+<p><a href="/files/2025CCASchedule/Term2/T2___Bowling.pdf" rel="noopener noreferrer nofollow" target="_blank">Bowling</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -33,7 +33,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025CCASchedule/Term 1/t1_tabletennisschedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Table-Tennis</a>
+<p><a href="/files/2025CCASchedule/Term2/T2___Table_Tennis.pdf" rel="noopener noreferrer nofollow" target="_blank">Table-Tennis</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -47,7 +47,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025CCASchedule/Term 1/t1_danceinc_pri_3_schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc - P3</a>
+<p><a href="/files/2025CCASchedule/Term2/T2___Dance_Inc_P3.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc - P3</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -61,7 +61,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025CCASchedule/Term 1/t1_danceinc1schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc 1 - International 1</a>
+<p><a href="/files/2025CCASchedule/Term2/T2___Dance_Inc_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc 1 - International 1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -75,7 +75,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025CCASchedule/Term 1/t1_danceinc2schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc 2 - International 2</a>
+<p><a href="/files/2025CCASchedule/Term2/T2___Dance_Inc_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc 2 - International 2</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -89,7 +89,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025CCASchedule/Term 1/t1_danceinc3schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc 3 - Chinese Dance</a>
+<p><a href="/files/2025CCASchedule/Term2/T2___Dance_Inc_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc 3 - Chinese Dance</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -102,7 +102,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025CCASchedule/Term 1/t1_danceinc4schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc 4 - Malay Dance</a>
+<p><a href="/files/2025CCASchedule/Term2/T2___Dance_Inc_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc 4 - Malay Dance</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
