@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
-<h2>2025 Term 1 Schedules</h2>
+<h2>2025 Term 2 Schedules</h2>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
