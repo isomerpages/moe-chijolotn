@@ -9,7 +9,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Students are expected to be present during the Google Meet sessions.</p>
+<p>Students are expected to be present during the Google Meet / Zoom sessions.</p>
 </li>
 <li>
 <p>No recording of the lesson is permissible as this infringes both copyright
@@ -42,6 +42,18 @@ to the necessary follow-up.</p>
 </li>
 <li>
 <p><a href="/files/Guides/GOOGLE CLASSROOM.pdf" rel="noopener" target="_blank">Google Classroom</a>
+</p>
+</li>
+</ol>
+<hr>
+<p>Useful Links:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank"><u>Student Learning Space (SLS)</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fclassroom.google.com&amp;ifkv=ASSHykr4b4Dha2ExVrGyUnRAvARRgR7W_QqKRMXswEv02NrXEQYW6BDdUDj2aE8YxoSEx82ISurYyQ&amp;passive=true&amp;flowName=GlifWebSignIn&amp;flowEntry=ServiceLogin&amp;dsh=S-902868010%3A1740536738731515&amp;ddm=1" rel="noopener nofollow" target="_blank">Google Classroom</a>
 </p>
 </li>
 </ol>
