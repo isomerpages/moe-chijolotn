@@ -121,7 +121,10 @@ to the necessary follow-up.</p>
 </tbody>
 </table>
 <hr>
-<h6><strong>Account issues</strong><br><br>Please fill in this&nbsp;<a href="https://go.gov.sg/olnpasswordreset" rel="noopener" target="_blank">form</a>&nbsp;to request for the following:</h6>
+<p><strong>Account Issue</strong>
+</p>
+<p>Please fill in this <a href="https://go.gov.sg/olnpasswordreset" rel="noopener nofollow" target="_blank">form </a>to
+request for the following:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Password Reset for SLS and/or Student iCON (MIMS) account</p>
