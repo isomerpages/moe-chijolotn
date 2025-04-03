@@ -46,7 +46,19 @@ to the necessary follow-up.</p>
 </li>
 </ol>
 <hr>
-<h5>Task sheets for 14-16 Oct 2024</h5>
+<p>Useful Links:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank"><u>Student Learning Space (SLS)</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fclassroom.google.com&amp;ifkv=ASSHykr4b4Dha2ExVrGyUnRAvARRgR7W_QqKRMXswEv02NrXEQYW6BDdUDj2aE8YxoSEx82ISurYyQ&amp;passive=true&amp;flowName=GlifWebSignIn&amp;flowEntry=ServiceLogin&amp;dsh=S-902868010%3A1740536738731515&amp;ddm=1" rel="noopener nofollow" target="_blank">Google Classroom</a>
+</p>
+</li>
+</ol>
+<hr>
+<h5>Task sheets for 4 April 2025</h5>
 <p></p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -61,16 +73,13 @@ to the necessary follow-up.</p>
 <p>Levels</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/files/2024 Aug Tasksheet/P3_TASK_SHEET_PSLE_MARKING.pdf" rel="noopener noreferrer nofollow" target="_blank">P3</a>
-</p>
+<p>P3</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/files/2024 Aug Tasksheet/P4_TASK_SHEET_PSLE_MARKING.pdf" rel="noopener noreferrer nofollow" target="_blank">P4</a>
-</p>
+<p>P4</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="/files/2024 Aug Tasksheet/P5_TASK_SHEET_PSLE_MARKING.pdf" rel="noopener noreferrer nofollow" target="_blank">P5</a>
-</p>
+<p>P5</p>
 </th>
 </tr>
 <tr>
@@ -94,7 +103,7 @@ to the necessary follow-up.</p>
 at any time for assistance. Please include your daughter’s full name, name
 of school and form class.
 <br>
-<br>Please fill in this&nbsp;<a href="https://go.gov.sg/chijolnpasswordreset" rel="noopener" target="_blank">form</a>&nbsp;to
+<br>Please fill in this&nbsp;<a href="https://go.gov.sg/olnpasswordreset" rel="noopener" target="_blank">form</a>&nbsp;to
 request for the following:</p>
 <ul data-tight="true" class="tight">
 <li>
