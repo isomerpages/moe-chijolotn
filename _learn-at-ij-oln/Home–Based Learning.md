@@ -26,7 +26,7 @@ to the necessary follow-up.</p>
 </li>
 </ul>
 <hr>
-<h6>Guides for HBL</h6>
+<h6><strong>Guides for HBL</strong></h6>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="/files/Guides/STUDENT LEARNING SPACE.pdf" rel="noopener" target="_blank">Student Learning Space</a>
@@ -46,7 +46,8 @@ to the necessary follow-up.</p>
 </li>
 </ol>
 <hr>
-<p>Useful Links:</p>
+<p><strong>Useful Links</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank"><u>Student Learning Space (SLS)</u></a>
@@ -60,8 +61,11 @@ to the necessary follow-up.</p>
 <hr>
 <h5>Task sheets for 4 April 2025</h5>
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 175px">
 <colgroup>
+<col>
+<col>
+<col>
 <col>
 <col>
 <col>
@@ -73,6 +77,12 @@ to the necessary follow-up.</p>
 <p>Levels</p>
 </th>
 <th rowspan="1" colspan="1">
+<p>P1</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>P2</p>
+</th>
+<th rowspan="1" colspan="1">
 <p>P3</p>
 </th>
 <th rowspan="1" colspan="1">
@@ -81,8 +91,20 @@ to the necessary follow-up.</p>
 <th rowspan="1" colspan="1">
 <p>P5</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>P6</p>
+</th>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -98,22 +120,28 @@ to the necessary follow-up.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p>For SLS matters, you may also email the SLS Central Helpdesk at helpdesk@sls.ufinity.com
-at any time for assistance. Please include your daughter’s full name, name
-of school and form class.
-<br>
-<br>Please fill in this&nbsp;<a href="https://go.gov.sg/olnpasswordreset" rel="noopener" target="_blank">form</a>&nbsp;to
+<hr>
+<p><strong>Account Issue</strong>
+</p>
+<p>Please fill in this <a href="https://go.gov.sg/olnpasswordreset" rel="noopener nofollow" target="_blank">form </a>to
 request for the following:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Password Reset for SLS and/or Student iCON account</p>
+<p>Password Reset for SLS and/or Student iCON (MIMS) account</p>
 </li>
 <li>
 <p>Unlocking of SLS Account</p>
 </li>
+<li>
+<p>Student iCON (MIMS) account By Pass</p>
+</li>
 </ul>
-<p>We will get back to you with the new password soon.</p>
+<p>We will reach out to you as soon as possible. For requests submitted on
+non-working days, please allow up to 1 working day for a response.</p>
+<p></p>
+<p>For SLS matters, you may also email the SLS Central Helpdesk at helpdesk@sls.ufinity.com
+at any time for assistance. Please include your daughter’s full name, name
+of school and form class.</p>
 <hr>
 <h4><strong>Cyber Wellness Guide</strong></h4>
 <table style="minWidth: 50px">
