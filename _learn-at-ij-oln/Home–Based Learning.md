@@ -60,7 +60,6 @@ to the necessary follow-up.</p>
 </ol>
 <hr>
 <h5>Task sheets for 4 April 2025</h5>
-<p></p>
 <table style="minWidth: 175px">
 <colgroup>
 <col>
@@ -97,8 +96,338 @@ to the necessary follow-up.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Charity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P1/1_Charity.pdf" rel="noopener noreferrer nofollow" target="_blank">1C</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P2/2_Charity.pdf" rel="noopener noreferrer nofollow" target="_blank">2C</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Faith</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P1/1_Faith_.pdf" rel="noopener noreferrer nofollow" target="_blank">1F</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P2/2_Faith.pdf" rel="noopener noreferrer nofollow" target="_blank">2F</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P3/3_Faith.pdf" rel="noopener noreferrer nofollow" target="_blank">3F</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P4/4_Faith.pdf" rel="noopener noreferrer nofollow" target="_blank">4F</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P5/5_Faith.pdf" rel="noopener noreferrer nofollow" target="_blank">5F</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P6/6_Faith.pdf" rel="noopener noreferrer nofollow" target="_blank">6F</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Grace</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P1/1_Grace_.pdf" rel="noopener noreferrer nofollow" target="_blank">1G</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P2/2_Grace.pdf" rel="noopener noreferrer nofollow" target="_blank">2G</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P3/3_Grace.pdf" rel="noopener noreferrer nofollow" target="_blank">3G</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P4/4_Grace.pdf" rel="noopener noreferrer nofollow" target="_blank">4G</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P5/5_Grace.pdf" rel="noopener noreferrer nofollow" target="_blank">5G</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P6/6_Grace.pdf" rel="noopener noreferrer nofollow" target="_blank">6G</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hope</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P1/1_Hope.pdf" rel="noopener noreferrer nofollow" target="_blank">1H</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P2/2_Hope.pdf" rel="noopener noreferrer nofollow" target="_blank">2H</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P3/3_Hope.pdf" rel="noopener noreferrer nofollow" target="_blank">3H</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P4/4_Hope.pdf" rel="noopener noreferrer nofollow" target="_blank">4H</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P5/5_Hope.pdf" rel="noopener noreferrer nofollow" target="_blank">5H</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P6/6_Hope.pdf" rel="noopener noreferrer nofollow" target="_blank">6H</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Joy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P1/1_Joy_.pdf" rel="noopener noreferrer nofollow" target="_blank">1J</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P2/2_Joy.pdf" rel="noopener noreferrer nofollow" target="_blank">2J</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P3/3_Joy.pdf" rel="noopener noreferrer nofollow" target="_blank">3J</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P4/4_Joy.pdf" rel="noopener noreferrer nofollow" target="_blank">4J</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P5/5_Joy.pdf" rel="noopener noreferrer nofollow" target="_blank">5J</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P6/6_Joy.pdf" rel="noopener noreferrer nofollow" target="_blank">6J</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Love</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P1/1_Love.pdf" rel="noopener noreferrer nofollow" target="_blank">1L</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P2/2_Love.pdf" rel="noopener noreferrer nofollow" target="_blank">2L</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P3/3_Love.pdf" rel="noopener noreferrer nofollow" target="_blank">3L</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P4/4_Love.pdf" rel="noopener noreferrer nofollow" target="_blank">4L</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P5/5_Love.pdf" rel="noopener noreferrer nofollow" target="_blank">5L</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P6/6_Love_.pdf" rel="noopener noreferrer nofollow" target="_blank">6L</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Peace</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P1/1_Peace_.pdf" rel="noopener noreferrer nofollow" target="_blank">1P</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P2/2_Peace.pdf" rel="noopener noreferrer nofollow" target="_blank">2P</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P3/3_Peace.pdf" rel="noopener noreferrer nofollow" target="_blank">3P</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P4/4_Peace.pdf" rel="noopener noreferrer nofollow" target="_blank">4P</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P5/5_Peace.pdf" rel="noopener noreferrer nofollow" target="_blank">5P</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P6/6_Peace.pdf" rel="noopener noreferrer nofollow" target="_blank">6P</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Truth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P1/1_Truth_.pdf" rel="noopener noreferrer nofollow" target="_blank">1T</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P2/2_Truth.pdf" rel="noopener noreferrer nofollow" target="_blank">2T</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P3/3_Truth.pdf" rel="noopener noreferrer nofollow" target="_blank">3T</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P4/4_Truth.pdf" rel="noopener noreferrer nofollow" target="_blank">4T</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P5/5_Truth.pdf" rel="noopener noreferrer nofollow" target="_blank">5T</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/P6/6_Truth.pdf" rel="noopener noreferrer nofollow" target="_blank">6T</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>MATHEMATIC</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Levels</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/Math/P3_MATHEMATICS.pdf" rel="noopener noreferrer nofollow" target="_blank">P3</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/Math/P4_MATHEMATICS.pdf" rel="noopener noreferrer nofollow" target="_blank">P4</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/Math/P6_MATHEMATICS.pdf" rel="noopener noreferrer nofollow" target="_blank">P6</a>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>MOTHER TONGUE LANGUAGE </strong>
+</p>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Levels</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/MT/P2_CCE_MTL___MT_HBL_TASK_SHEET_.pdf" rel="noopener nofollow" target="_blank">P2</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/MT/P3_MT_HBL_TASK_SHEET_.pdf" rel="noopener noreferrer nofollow" target="_blank">P3</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/MT/P4_CCE_MTL___MT_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">P4</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/MT/P5_CCE_MTL___MT_HBL_TASK_SHEET.pdf" rel="noopener noreferrer nofollow" target="_blank">P5</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="/files/2025TaskSheet/MT/P6_MT_HBL_TASK_SHEET_.pdf" rel="noopener noreferrer nofollow" target="_blank">P6</a>
+</p>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
