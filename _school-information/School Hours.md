@@ -318,17 +318,17 @@ dismissal should wait at Side gate 2.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mon to Fri<br>6.30 a.m. - 8.00 a.m.&nbsp;</strong>(gate will be
+<p><strong>Mon to Fri<br></strong>6.30 a.m. - 8.00 a.m.&nbsp;(gate will be
 opened only if it rains)
 <br>
 <br><strong>Mon to Fri</strong>
-<br><strong>1.30 p.m. - 2.00 p.m.</strong>
-</p>
+<br>1.30 p.m. - 2.00 p.m.</p>
 <p></p>
 <p></p>
 <p><strong>Turnstile (for exit from school only)</strong>
 <br><strong>Mon to Fri</strong>
-<br><strong>1.30 p.m. - 6.00 p.m.<br></strong>
+<br>1.30 p.m. - 6.00 p.m.
+<br>
 </p>
 </td>
 </tr>
@@ -346,13 +346,12 @@ opened only if it rains)
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mon to Fri</strong>
-<br><strong>6.30 a.m. - 8.00 a.m.</strong>
-<br><strong>1:30pm to 2.00pm</strong>
+<br>6.30 a.m. - 8.00 a.m.
+<br>1:30pm to 2.00pm
 <br>
 <br><strong>Turnstile (for exit from school only)</strong>
 <br><strong>Mon to Fri</strong>
-<br><strong>1:30pm to 6:00pm</strong>
-</p>
+<br>1:30pm to 6:00pm</p>
 </td>
 </tr>
 <tr>
