@@ -8,14 +8,19 @@ variant: tiptap
 <h5>Canteen Food Prices</h5>
 <p><a href="/files/CanteenFood/CanteenPrice_2024_Stall1.pdf" rel="noopener noreferrer nofollow" target="_blank">STALL 1 - NOODLES</a>
 <br><a href="/files/CanteenFood/CanteenPrice_2024_Stall3.pdf" rel="noopener noreferrer nofollow" target="_blank">STALL 3 - WESTERN and KAMPONG DELIGHTS</a>
-<br><a href="/files/CanteenFood/CanteenPrice_2024_Stall4.pdf" rel="noopener noreferrer nofollow" target="_blank">STALL 4 - WESTERN</a>
+<br><a href="/files/CanteenFood/CanteenPrice_2025__Stall_4.pdf" rel="noopener noreferrer nofollow" target="_blank">STALL 4 - WESTERN</a>
 <br><a href="/files/CanteenFood/CanteenPrice_2024_Stall5.pdf" rel="noopener noreferrer nofollow" target="_blank">STALL 5 - ORIENTAL</a>
 <br><a href="/files/CanteenFood/CanteenPrice_2024_Stall6.pdf" rel="noopener noreferrer nofollow" target="_blank">STALL 6 - WOK SPECIALITIES</a>
 <br><a href="/files/CanteenFood/CanteenPrice_2024_Stall7.pdf" rel="noopener noreferrer nofollow" target="_blank">STALL 7 – SEDAP</a>
 <br><a href="/files/CanteenFood/CanteenPrice_2024_Stall8.pdf" rel="noopener noreferrer nofollow" target="_blank">STALL 8 – QUICK BITES</a>
 </p>
 <h5><strong>Some of the dishes we have</strong>:</h5>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
