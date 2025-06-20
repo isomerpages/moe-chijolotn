@@ -48,7 +48,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Counsellor</p>
+<p>Special Educational Needs Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss June Tham Im Mui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tham_im_mui@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>chool Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Cassie Yung Min</p>
