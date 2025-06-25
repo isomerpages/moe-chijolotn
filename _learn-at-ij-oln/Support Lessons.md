@@ -474,8 +474,8 @@ by teachers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="5">
-<p><sup>**</sup> No P3 &amp; P4 Support lesson</p>
-<p><sup>++</sup> No P4 support lesson</p>
+<p><sup>**</sup> No P3 &amp; P4 Support lesson
+<br><sup>++</sup> No P4 support lesson</p>
 </td>
 </tr>
 </tbody>
@@ -641,12 +641,8 @@ by teachers.</p>
 </tbody>
 </table>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
 <p><strong>Supplementary Lessons Schedule</strong>
 </p>
-</li>
-</ul>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
