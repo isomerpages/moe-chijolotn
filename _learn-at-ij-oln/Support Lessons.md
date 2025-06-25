@@ -7,7 +7,7 @@ variant: tiptap
 <h4><strong>Schedule for Support and Supplementary Lessons 2025</strong></h4>
 <p>Support lessons provide additional academic support to students identified
 by teachers.</p>
-<h4><strong>P1 - P5 Support Lessons 2025 Term 2</strong></h4>
+<h4><strong>P1 - P5 Support Lessons 2025 Sem 2</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Support Lessons Days by Subjects</strong>
@@ -51,10 +51,10 @@ by teachers.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Monday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Tuesday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -359,7 +359,7 @@ by teachers.</p>
 </table>
 </li>
 </ul>
-<h4><strong>P6 Supplementary Lessons 2025 (Term 2)</strong></h4>
+<h4><strong>P6 Supplementary Lessons 2025 (Sem 2)</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Supplementary Lessons Days by Subjects</strong>
