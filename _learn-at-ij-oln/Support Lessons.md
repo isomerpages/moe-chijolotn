@@ -781,7 +781,7 @@ by teachers.</p>
 <p>11 Aug</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12 Aug</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>14 Aug</p>
@@ -795,16 +795,16 @@ by teachers.</p>
 <p>T3, W8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18 Aug</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>19 Aug</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>21 Aug</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>22 Aug</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -839,108 +839,6 @@ by teachers.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5 Sep</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>T4, W1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>15 Sep</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>16 Sep</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>18 Sep</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>19 Sep</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>T4, W2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>22 Sep</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>23 Sep</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>25 Sep</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>26 Sep</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>T4, W3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>29 Sep</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>30 Sep</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 Oct</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 Oct</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>T4, W4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 Oct</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7 Oct</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9 Oct</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10 Oct</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>T4, W5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>13 Oct</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>14 Oct</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>16 Oct</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>17 Oct</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>T4, W6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>20 Oct</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>21 Oct</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>23 Oct</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>24 Oct</p>
 </td>
 </tr>
 <tr>
