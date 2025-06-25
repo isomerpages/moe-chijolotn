@@ -170,6 +170,8 @@ by teachers.</p>
 <li>
 <p><strong>Support Lessons Schedule</strong>
 </p>
+</li>
+</ul>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -201,13 +203,13 @@ by teachers.</p>
 <p>T3, W1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 Jun</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Jul</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 Jul</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4 Jul</p>
@@ -218,13 +220,13 @@ by teachers.</p>
 <p>T3, W2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 Jul</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8 Jul</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10 ul</p>
+<p>10 Jul</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>11 Jul</p>
@@ -303,7 +305,7 @@ by teachers.</p>
 <p>T3, W7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11 Aug</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12 Aug</p>
@@ -354,10 +356,10 @@ by teachers.</p>
 <p>T3, W10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Sep</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 Sep</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4 Sep</p>
@@ -374,7 +376,7 @@ by teachers.</p>
 <p>15 Sep</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16 Sep</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>18 Sep</p>
@@ -439,10 +441,10 @@ by teachers.</p>
 <p>T4, W5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>13 Oct</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14 Oct</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>16 Oct</p>
@@ -456,7 +458,7 @@ by teachers.</p>
 <p>T4, W6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20 Oct</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>21 Oct</p>
@@ -476,8 +478,6 @@ by teachers.</p>
 </tr>
 </tbody>
 </table>
-</li>
-</ul>
 <h4><strong>P6 Supplementary Lessons 2025 (Sem 2)</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
