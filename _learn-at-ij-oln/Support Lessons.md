@@ -243,7 +243,8 @@ by teachers.</p>
 <p>15 Jul</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>17 Jul</p>
+<p>17 Jul<sup>**</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>18 Jul</p>
@@ -472,8 +473,8 @@ by teachers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="5">
-<p><strong>^</strong>
-</p>
+<p><sup>**</sup> No P3 &amp; P4 Support lesson</p>
+<p><sup>++</sup> No P4 support lesson</p>
 </td>
 </tr>
 </tbody>
