@@ -278,7 +278,8 @@ by teachers.</p>
 <p>29 Jul</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 Jul</p>
+<p>31 Jul<sup>++</sup>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
