@@ -1022,7 +1022,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:pang_lin_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Pang Lin Hua</a>
+<p><a href="mailto:poh_wee_hoon_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Poh Wee Hoon</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
