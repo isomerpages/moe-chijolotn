@@ -2189,7 +2189,8 @@ have a default email client setup.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:pang_woei_ru@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Mdm Pang Woei Ru</a> 
+<br>彭伟如</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ler_ser_ling_serene@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Ms Serene Ler</a> 
@@ -2244,8 +2245,8 @@ have a default email client setup.</p>
 <br>杨安琦</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:pang_woei_ru@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Mdm Pang Woei Ru</a> 
-<br>彭伟如</p>
+<p><a href="mailto:poh_wee_hoon_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Poh Wee Hoon</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_yee_hong_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Mr Ng Yee Hong</a>
