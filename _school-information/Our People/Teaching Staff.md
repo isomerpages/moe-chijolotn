@@ -2610,7 +2610,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="5">
-<p>Mdm Hanizah / Mdm Nur Ashikin</p>
+<p>Mdm Hanizah</p>
 </td>
 </tr>
 <tr>
