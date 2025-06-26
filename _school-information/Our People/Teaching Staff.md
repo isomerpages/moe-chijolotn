@@ -2379,7 +2379,7 @@ have a default email client setup.</p>
 <p>Ms Oh Soo Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Pang Li Hua</p>
+<p>Mdm Poh Wee Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Bao Hong</p>
@@ -2597,7 +2597,7 @@ have a default email client setup.</p>
 <p>Mdm Pang Woei Ru</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Pang Lin Hua</p>
+<p>Ms Poh Wee Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Serene Ler</p>
