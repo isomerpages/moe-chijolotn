@@ -680,7 +680,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:laura_ann_netto@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Laura Stephen</a>
+<p><a href="mailto:hazel_cheong_seok_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Hazel Cheong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -688,11 +688,11 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:laura_ann_netto@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Laura Stephen</a>
+<p><a href="mailto:hazel_cheong_seok_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Hazel Cheong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:laura_ann_netto@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Laura Stephen</a>
+<p><a href="mailto:hazel_cheong_seok_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Hazel Cheong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -708,7 +708,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:laura_ann_netto@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Laura Stephen</a>
+<p><a href="mailto:hazel_cheong_seok_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Hazel Cheong</a>
 </p>
 </td>
 </tr>
