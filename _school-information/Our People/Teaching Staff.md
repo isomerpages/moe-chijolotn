@@ -2491,7 +2491,7 @@ have a default email client setup.</p>
 <p>Mdm Ang I-Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Li Ningr</p>
+<p>Mdm Li Ning</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Yong Ann Chie</p>
