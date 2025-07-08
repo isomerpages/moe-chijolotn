@@ -6,7 +6,8 @@ variant: tiptap
 ---
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Info/IJ_BOM_Members_Photo_Chart_Feb2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School Info/IJ_BOM_Members_wef_20250625.jpg">
 </div>
 <p></p>
