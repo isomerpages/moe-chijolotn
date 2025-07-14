@@ -133,7 +133,7 @@ dance programme. These activities include SYF and school performances.</p>
 <td rowspan="1" colspan="1">
 <p>Mdm Stephanie Wu (OIC)
 <br>Mdm Norlela
-<br>Ms Shanthini</p>
+<br>Ms Shaanthyini</p>
 </td>
 </tr>
 <tr>
