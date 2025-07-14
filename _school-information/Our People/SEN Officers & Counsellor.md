@@ -59,7 +59,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>chool Counsellor</p>
+<p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Cassie Yung Min</p>
