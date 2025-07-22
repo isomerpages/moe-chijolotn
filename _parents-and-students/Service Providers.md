@@ -18,7 +18,6 @@ bookshop.
 <br>Singapore 731764
 <br>Tel: 8498 4950
 <br>Email: kwbus@yahoo.com.sg
-<br><a href="/files/Ops/school bus nte prices.pdf" rel="noopener noreferrer nofollow" target="_blank">More details..</a>
 <br><a href="/files/Ops/school bus operator - awarded.pdf" rel="noopener noreferrer nofollow" target="_blank">Bus Service Awarded for 2024 - 2025</a>
 </p>
 <h4><strong>Bookshop</strong></h4>
