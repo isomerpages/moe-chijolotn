@@ -2,5 +2,6 @@ collections:
   kiv2025:
     output: true
     order:
+      - Notice of Absence backupOldPage.md
       - Supp 2025.md
       - temp deployment.md
