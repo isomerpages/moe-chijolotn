@@ -832,7 +832,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yasvanth_G_Vandayar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Yasvanth</a>
+<p><a href="mailto:poh_shi_ling_edna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Edna Poh</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -874,7 +874,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yasvanth_G_Vandayar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Yasvanth</a>
+<p><a href="mailto:foo_weng_heng_fiona@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fiona Foo</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -916,7 +916,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yasvanth_G_Vandayar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Yasvanth</a>
+<p><a href="mailto:foo_weng_heng_fiona@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Fiona Foo</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -958,7 +958,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yasvanth_G_Vandayar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Yasvanth</a>
+<p><a href="mailto:muhammad_nazri_subawi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Nazri</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1220,7 +1220,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yasvanth_G_Vandayar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Yasvanth</a>
+<p><a href="mailto:muhammad_nazri_subawi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Nazri</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1388,7 +1388,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yasvanth_G_Vandayar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Yasvanth</a>
+<p><a href="mailto:zanizam_zaini@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Zanizam Zaini</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1676,7 +1676,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yasvanth_G_Vandayar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Yasvanth</a>
+<p><a href="mailto:ng_yee_hong_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Mr Ng Yee Hong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1692,7 +1692,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yasvanth_G_Vandayar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Yasvanth</a>
+<p><a href="mailto:njoo_kiat_chong_edwin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Edwin Njoo</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2082,7 +2082,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yasvanth_G_Vandayar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Yasvanth</a>
+<p><a href="mailto:kenett_wong_tick_woon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kenett Wong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
