@@ -47,7 +47,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025CCASchedule/Term3/T3___Dance_Inc_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc 2 - International 2</a>
+<p><a href="/files/2025CCASchedule/Term3/T3____Dance_Inc_2_upd.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc 2 - International 2</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
