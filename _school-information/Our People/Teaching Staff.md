@@ -2082,7 +2082,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yasvanth_G_Vandayar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Yasvanth</a>
+<p><a href="mailto:kenett_wong_tick_woon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kenett Wong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
