@@ -1,8 +1,7 @@
 ---
 title: Networking & Presentations
-permalink: /information-for-parents/networking/
+permalink: /information-for-parents/kivnetworking/
 description: Slides Networking Sessions P6 Result Briefing kopi chat
-third_nav_title: Information for Parents
 variant: tiptap
 ---
 <p><strong>Networking Sessions - Slides</strong>

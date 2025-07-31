@@ -1,11 +1,10 @@
 ---
 title: Letters to Parents
-permalink: /information-for-parents/letters-to-parents/
+permalink: /information-for-parents/kivletters-to-parents/
 description: ""
-third_nav_title: Information for Parents
 variant: tiptap
 ---
-<h4><strong>20245</strong></h4>
+<h4><strong>2025</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
