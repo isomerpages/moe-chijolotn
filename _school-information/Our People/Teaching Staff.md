@@ -816,7 +816,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:peh_bee_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Peh Bee Leng</a>
+<p><a href="mailto:deborah_tsung_chung_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Deborah Tsung</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2219,8 +2219,8 @@ have a default email client setup.</p>
 <br>&nbsp;谢淑贞老师</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:peh_bee_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Mdm Peh Bee Leng</a> 
-<br>&nbsp;白美玲老师</p>
+<p><a href="mailto:heng_meow_ern@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Ms Heng Meow Ern</a> 
+<br>王妙恩老师</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:siow_chian@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Mdm Rachel Siow</a>&nbsp;
@@ -2235,14 +2235,14 @@ have a default email client setup.</p>
 <br>&nbsp;杨纯卉老师</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:heng_meow_ern@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Ms Heng Meow Ern</a> 
-<br>王妙恩老师</p>
+<p><a href="mailto:yong_ann_chie@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Ms Yong Ann Chie</a> 
+<br>杨安琦</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yong_ann_chie@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Ms Yong Ann Chie</a> 
-<br>杨安琦</p>
+<p><a href="mailto:deborah_tsung_chung_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Deborah Tsung</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:poh_wee_hoon_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Poh Wee Hoon</a>
@@ -2592,7 +2592,7 @@ have a default email client setup.</p>
 <p>Mdm Bao Hong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Peh Bee Leng</p>
+<p>Mdm Deborah Tsung</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Pang Woei Ru</p>
@@ -2628,7 +2628,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="5">
-<p>Mdm Peh Bee Leng / Mdm Pang Woei Rui</p>
+<p>Mdm Deborah Tsung / Mdm Pang Woei Rui</p>
 </td>
 </tr>
 <tr>
@@ -2717,7 +2717,7 @@ have a default email client setup.</p>
 <p>Mdm Sim Suat Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Peh Bee Leng</p>
+<p>Mdm Deborah Tsung</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Pang Woei Rui</p>
