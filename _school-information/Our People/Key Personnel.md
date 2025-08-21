@@ -57,6 +57,17 @@ variant: tiptap
 <p>wong_yen_ling@moe.edu.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal (Administration)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yeo Wee Pin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yeo_wee_pin_1@moe.edu.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>Year Heads (YH) and School Staff Developer (SSD)</strong></h4>
