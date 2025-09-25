@@ -334,7 +334,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shanthini_ramalingam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Shaanthyini</a>
+<p><a href="mailto:shaanthyini_ramalingam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Shaanthyini</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2276,7 +2276,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="mailto:shanthini_ramalingam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Shaanthyini</a>
+<p>&nbsp;<a href="mailto:shaanthyini_ramalingam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Shaanthyini</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
