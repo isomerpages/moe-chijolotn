@@ -2201,10 +2201,6 @@ have a default email client setup.</p>
 <br>李宁老师</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_hwee_hiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Mrs Ng Kiok Soy</a> 
-<br>陈惠贤老师</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:oh_soo_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Ms Oh Soo Hwee</a> 
 <br>胡素慧老师</p>
 </td>
@@ -2212,12 +2208,12 @@ have a default email client setup.</p>
 <p><a href="mailto:yang_wenxia@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Mdm Yang Wenxia</a> 
 <br>杨文侠老师</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_sok_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Mrs Ong Sok Chin</a> 
 <br>&nbsp;谢淑贞老师</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:heng_meow_ern@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Ms Heng Meow Ern</a> 
 <br>王妙恩老师</p>
@@ -2238,12 +2234,12 @@ have a default email client setup.</p>
 <p><a href="mailto:yong_ann_chie@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Ms Yong Ann Chie</a> 
 <br>杨安琦</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:deborah_tsung_chung_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Deborah Tsung</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:poh_wee_hoon_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Poh Wee Hoon</a>
 </p>
@@ -2265,12 +2261,12 @@ have a default email client setup.</p>
 <p><a href="mailto:norfadilah_sufke@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Mdm Fadilah</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nazurah_ibrahim_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nazurah</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sangeetha_m_suppiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Mrs Jabar</a>
 </p>
@@ -2282,6 +2278,9 @@ have a default email client setup.</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:G_vasantha_devi_naidu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Vansantha</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
