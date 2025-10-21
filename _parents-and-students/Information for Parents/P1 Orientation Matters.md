@@ -8,12 +8,9 @@ variant: tiptap
 <h2>P1 Orientation</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Comms_Networking/P1_STARTING_SCHOOL_IN_2025__P1_Oriention_6Nov2024r1.pdf" rel="noopener noreferrer nofollow" target="_blank">Starting School in 2025 - Primary 1</a>
+<p><a href="/files/P1_STARTING_SCHOOL_IN_2026__information_for_parents_P1_Orientation_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Starting School in 2026 - Primary 1</a>
 </p>
-</li>
-<li>
-<p><a href="/files/Comms_Networking/P1_Orientation_slides_website.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Orientation Slides (6 Nov 2024)</a>
-</p>
+<p></p>
 </li>
 </ul>
 <p></p>
