@@ -175,7 +175,7 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Charmaine Pua</p>
+<p>Mr Koh Kah Chuan</p>
 </td>
 </tr>
 <tr>
