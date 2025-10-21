@@ -17,7 +17,7 @@ variant: tiptap
 <h5>Here are the links to the informative videos about our school:</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.youtube.com/watch?v=krgjCCsAVmk" rel="noopener" target="_blank">Facilities at CHIJ OLN</a>
+<p><a href="https://youtu.be/w_lQELaoGR8" rel="noopener" target="_blank">Facilities at CHIJ OLN</a>
 </p>
 </li>
 <li>
