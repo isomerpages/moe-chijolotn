@@ -8,6 +8,10 @@ variant: tiptap
 <h2>P1 Orientation</h2>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/2025_P1_Orientation_Slides_for_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Slides from P1 (2026) Orientation on 14 November 2025</a>
+</p>
+</li>
+<li>
 <p><a href="/files/P1_STARTING_SCHOOL_IN_2026__P1_Orientation_2025_OLN_website.pdf" rel="noopener noreferrer nofollow" target="_blank">Starting School in 2026 - Primary 1</a>
 </p>
 <p></p>
