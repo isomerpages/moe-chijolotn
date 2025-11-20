@@ -38,7 +38,7 @@ any form of bullying, cyber-bullying, intimidation or retaliation.</p>
 <p>Live up to the school motto, 'Simple in Virtue, Steadfast in Duty'.</p>
 </li>
 </ul>
-<h4>Grooming  and Attire</h4>
+<h4>Grooming and Attire</h4>
 <p>An example on how an IJ OLN girl should be attired is found on page 28-29.</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -153,55 +153,63 @@ in line with the school rules.</p>
 </tr>
 </tbody>
 </table>
-<h4>Handphone and Smart Watch Policy</h4>
+<p></p>
+<h4>Use of electronic Devices</h4>
+<p>Students should not bring electronic devices to school, e.g. tablets,
+laptops, digital cameras, handheld electronic games, etc. The school provides
+students with the use of school-owned ICT devices for technology-enabled
+lessons.</p>
+<h4>Smartphone and Smart Watch Policy</h4>
 <p>The school provides students with the use of school-owned ICT devices
 for technology-enabled lessons. In addition, students should not be distracted
 by notifications from smartphones or smartwatches during school hours.
 Should a student need to contact a family member or caregiver in the case
 of illness or to make transport arrangements, she is to approach the administrative
 staff in our General Office for assistance.</p>
-<p><strong>As such, students are discouraged from bringing personal smartphones and/or smartwatches to schools.</strong>
+<p><strong>Students are discouraged from bringing personal smartphones and/or smartwatches to schools.</strong>
 </p>
-<p>In the event that you require your child to bring her handphone/smart
-watch to school, please submit your request via the request link in Parents
-Gateway sent in January 2025.</p>
+<p>In the event that you require your child to bring her smartphone/smartwatch
+to school, please submit your request via the request link in Parents Gateway
+sent in January 2026.</p>
 <p>Please take note of the following conditions that would then apply should
-your request be approved:</p>
+your child bring a smartphone/smartwatch to school:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Students are not allowed to use personal digital devices like handphone/smart
-watches during school hours which include recess, CCA and after-school
-programme e.g. supplementary/enrichment lessons. Students are not to use
-their devices to make/receive calls or texts, take pictures or make any
-form of recording. The only exception is the POSB Smart Buddy watch which
-can be use during recess.</p>
+<p>Smartphones/smartwatches are to be switched off once students step into
+the school premises.</p>
+</li>
+<li>
+<p>Students are not allowed to use personal digital devices such as smartphones
+and smartwatches during school hours. This includes recess, CCA and after-school
+programmes e.g. support/enrichment lessons. Students are not to use their
+devices to make/receive calls or texts, take pictures or make any form
+of recording. The only exception is the POSB Smart Buddy watch which can
+be use during recess and at lunch.</p>
 </li>
 <li>
 <p>Devices must be switched off when brought to school.</p>
 </li>
 <li>
-<p>Students bear responsibility for the safekeeping of their devices e.g.
-in their lockers/school bags.</p>
+<p>Students bear responsibility for the safekeeping of their devices, e.g.
+in their school bags. This includes smartwatches as they should not be
+worn on the wrist.</p>
 </li>
 <li>
-<p>Students should use their handphone/smart watch after school hours only
+<p>Students should use their smartphone/smartwatch after school hours only
 to call/text their parents/guardians and not for any other purpose e.g.
-gaming, using social media, etc. They are to use their handphone/smart
-watch after school hours at the the two designated areas within the school
-premises:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Foyer</p>
+gaming, using social media, etc. They are to use their smartphone/smartwatch
+after school hours at the Security Guard Post at Side 2 within the school
+premises.</p>
 </li>
 <li>
-<p>Security Guard Post at Side Gate 2</p>
+<p>Should a student need to contact a family member or caregiver in the case
+of illness or to make transport arrangements, she is to approach the administrative
+staff in our General Office for assistance.</p>
 </li>
 </ul>
-</li>
-</ul>
-<p><strong>Should the above conditions not be adhered to, the handphone/smart watch will be confiscated and the permission to bring a handphone/smart watch to school may be revoked.</strong>
+<p><strong>Should the above conditions not be adhered to, the smartphone/smartwatch will be confiscated and the permission to bring a smartphone/smartwatch to school may be revoked.</strong>
 </p>
-<p><strong>The school will not be responsible for any loss or damage to the handphone/smart watch brought to school.</strong>
+<p><strong>The school will not be responsible for any loss or damage to the smartphone/smartwatch brought to school.</strong>
 </p>
 <h4>Assembly and Flag-raising Ceremony</h4>
 <ul data-tight="true" class="tight">
