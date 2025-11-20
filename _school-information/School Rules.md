@@ -38,29 +38,51 @@ any form of bullying, cyber-bullying, intimidation or retaliation.</p>
 <p>Live up to the school motto, 'Simple in Virtue, Steadfast in Duty'.</p>
 </li>
 </ul>
-<h4>Attire</h4>
+<h4>Grooming  and Attire</h4>
+<p>An example on how an IJ OLN girl should be attired is found on page 28-29.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students are to wear the prescribed school uniform and modification to
 the uniform is not allowed.</p>
 </li>
 <li>
-<p>Students are to wear only white school socks and shoes.</p>
+<p>Students are to wear only white socks and shoes. The length of the school
+socks should be appropriate (approximately 2 cm to 5 cm above the ball
+of the ankle).</p>
 </li>
 <li>
-<p>Students must have their name tags ironed onto their school uniform and
-PE attire.</p>
+<p>Students must have their name tags ironed or sewn onto their school uniform
+and PE attire.</p>
 </li>
 <li>
 <p>Students must be neat and properly attired in their school uniform at
 all times, inside and outside school.</p>
 </li>
+<li>
+<p>Students are allowed to wear jackets or cardigans only when the weather
+is cold. They are not to be hung from the waist when not worn and the hood
+section of a hoodies is not allowed to be worn over the head within the
+school premises.</p>
+</li>
+<li>
+<p>Students should have trimmed nails without nail polish.</p>
+</li>
+<li>
+<p>Students should not wear make-up in school. This includes tinted lip balm
+and tinted moisturiser.</p>
+</li>
+<li>
+<p>Students should only have <u>one</u> pair of piercing on the lower lobe
+of each ear.</p>
+</li>
 </ul>
 <h4>School PE T-shirt</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Students are allowed to wear the school’s PE T-shirt the whole day (under
-their pinafore) on days they have PE lessons.</p>
+<p>Students are allowed to wear the school’s PE T-shirt and shorts the whole
+day on days when they have PE or PAL lessons. They must put on their pinafore
+over their PE attire during their arrival at school and during dismissal
+from school.</p>
 </li>
 <li>
 <p>If students attend SwimSafer lessons, they are to change into the school’s
