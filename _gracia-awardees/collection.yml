@@ -1,4 +1,5 @@
 collections:
   gracia-awardees:
     output: true
-    order: []
+    order:
+      - Awardees Photos.md
