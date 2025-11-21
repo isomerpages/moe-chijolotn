@@ -28,17 +28,12 @@ variant: markdown
 	<b style="color:blue;">A</b> Adaptability
 	</p>
 	
-<h4><strong>Learning Dispositions</strong></h4>
-<ul>
-	<li>Collaborative</li>
-	<li>Curious</li>
-	<li>Reflective</li>
-	<li>Resilient</li>
-</ul>
 	
 <h4><strong>Qualities of an IJ OLN Graduate</strong></h4>
-The IJ OLN girl for Tomorrow will Live out the IJ Mission and our GRACIA values as she ...<br>
-<ul><li>Leads with initiative, serves with love.</li>
-<li>Thinks creatively and critically</li>
-<li>Communicates confidently.</li>
-<li>Remains steadfast in the face of challenges.</li></ul>
+A Future-Ready CHIJ OLN Girl For Tomorrow will be ...<br>
+<ul><li>A <b style="color:black;">life-long learner </b>who is grounded in values,
+empowered to lead with initiative and serve with love and purpose. </li>
+<li>A <b style="color:black;">gracious lady </b>who makes a positive difference and uplifts others, 
+	in the spirit of friendship and inclusivity. </li>
+<li>A <b style="color:black;">creative, critical and adaptive thinker</b> who seeks to do good for the community and nation.</li>
+<li>An <b style="color:black;">engaged citizen</b> who understands global issues and support humanitarian and environmental causes. </li></ul>

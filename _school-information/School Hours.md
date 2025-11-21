@@ -56,7 +56,7 @@ variant: tiptap
 <p>Pri 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10.30am - 11.00am</p>
+<p>9.00 am - 9.30 am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Canteen</p>
@@ -67,7 +67,7 @@ variant: tiptap
 <p>Pri 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8.30am - 9.00am</p>
+<p>9.30am - 10.00am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Canteen</p>
@@ -78,7 +78,7 @@ variant: tiptap
 <p>Pri 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.00 am - 9.30 am</p>
+<p>10.00am - 10.30am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Canteen</p>
@@ -100,7 +100,7 @@ variant: tiptap
 <p>Pri 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.30am - 10.00am</p>
+<p>11.30am - 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Canteen</p>
@@ -111,7 +111,7 @@ variant: tiptap
 <p>Pri 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10.00am - 10.30am</p>
+<p>10.30am - 11.00am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Canteen</p>
