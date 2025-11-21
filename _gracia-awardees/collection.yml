@@ -1,5 +1,0 @@
-collections:
-  gracia-awardees:
-    output: true
-    order:
-      - Awardees Photos.md
