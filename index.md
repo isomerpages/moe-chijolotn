@@ -16,6 +16,6 @@ sections:
           url: /SocialMedia/
         - title: G.R.A.C.I.A 2025!
           description: Awardees Photos
-          url: https://go.gov.sg/chijoln-gracia-awards
+          url: https://go.gov.sg/chijoln-gracia-awards-2025
       background: /images/Banner and Logo/herobanner_updjun2023.gif
 ---
