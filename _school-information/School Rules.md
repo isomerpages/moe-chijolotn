@@ -267,8 +267,13 @@ time.</p>
 </li>
 </ul>
 <h4>Guidelines for Late-comers</h4>
-<table style="minWidth: 50px">
+<p></p>
+<table style="minWidth: 150px">
 <colgroup>
+<col>
+<col>
+<col>
+<col>
 <col>
 <col>
 </colgroup>
@@ -280,49 +285,171 @@ time.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>No. of Times Student is Late</p>
 </th>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>Action(s) to be Taken</p>
+</th>
+<th rowspan="1" colspan="2">
+<p><strong>          Consequences</strong>
+</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>1 - 3</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
+<ul data-tight="true" class="tight">
+<li>
 <p>Form Teacher counsels student.</p>
-<p>Student to complete reflection form if she is late for the third time.</p>
+</li>
+<li>
+<p>Students complete a reflection form (3<sup>rd</sup> time).</p>
+</li>
+</ul>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 - 6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Form Teacher calls/meets parents/guardians.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>more than 6 times</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head and Subject Head Discipline/Discipline Mistress to call/meet
-parents/guardians.&nbsp;</p>
+<td rowspan="1" colspan="2">
+<p><strong>    3rd time</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A white warning letter will be issued to be acknowledged by parents/guardians.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>A warning letter will be issued to a student who is late 3 times or more
-in a semester.</p>
-<p>Late-coming data will be reflected in the report book if a child is late
-12 times or more in a semester.</p>
-<p>Students who are frequently late (20% of the number of days in a semester)
-will receive a "Fair" conduct grade.</p>
+<p>4 - 6</p>
+</td>
+<td rowspan="1" colspan="2">
+<ul data-tight="true" class="tight">
+<li>
+<p>Form Teacher to engage the student on actions that she has stated in her
+reflection to improve punctuality and review the actions.</p>
+</li>
+<li>
+<p>Form Teacher calls/meets parents/guardians.</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>6th time</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A yellow warning letter will be issued to be acknowledged by parents/guardians.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>9</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<ul data-tight="true" class="tight">
+<li>
+<p>Year Head to engage parents/guardians and student.</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>9th time</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A red warning letter will be issued to be acknowledged by parents/guardians.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>12</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<ul data-tight="true" class="tight">
+<li>
+<p>Discipline Committee to engage parents/guardians and student.</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="2">
+<ul data-tight="true" class="tight">
+<li>
+<p>Latecoming data to be reflected in report book under HDP remarks.</p>
+</li>
+<li>
+<p>Removal of privileges, e.g. isolated recess or non-participation in school
+events/activities from the 12<sup>th</sup> latecoming incident onwards.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>20% of the number of school days</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<ul data-tight="true" class="tight">
+<li>
+<p>Year Head and Discipline Committee to engage parents/guardians and student.</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="2">
+<ul data-tight="true" class="tight">
+<li>
+<p>Latecoming data to be reflected in report book under HDP remarks.</p>
+</li>
+<li>
+<p>Fair conduct grade.</p>
+</li>
+<li>
+<p>Removal of privileges, e.g. isolated recess or non-participation in school
+events/activities from the 12th latecoming incident onwards.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -336,6 +463,8 @@ intended to be used to cause harm to others. It is a serious reportable
 offence.</p>
 </li>
 </ul>
+<p></p>
+<p></p>
 <h4>School Assessment Rules</h4>
 <ol data-tight="true" class="tight">
 <li>
