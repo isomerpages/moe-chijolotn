@@ -215,7 +215,11 @@ staff in our General Office for assistance.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Be on time for Assembly at 7.30 a.m. from Monday to Friday. Students who
-are not with their class for Assembly at 7.30 a.m. will be considered late.</p>
+are not in the hall or with their class for Assembly at 7.30 a.m. will
+be considered late.</p>
+</li>
+<li>
+<p>All students are to be still and respectful during morning prayers.</p>
 </li>
 <li>
 <p>Students who are Singapore citizens must sing the National Anthem and
@@ -231,7 +235,7 @@ over their heart.</p>
 <li>
 <p>All students are required to attend school daily during the school terms.
 Under the Singapore Compulsory Education Act, " a child of compulsory school
-age shall attend regularly as a pupil at a national primary school" .</p>
+age shall attend regularly as a student at a national primary school" .</p>
 </li>
 <li>
 <p>The school curriculum designed to be implemented over 40 weeks, prepares
@@ -242,19 +246,19 @@ examinations are over. Parents/Guardians are requested to support the school
 in inculcating the values of commitment and responsibility in our students.</p>
 </li>
 <li>
-<p>Students will be considered absent without valid reason should they go
-for holidays overseas or staycation during school term as curriculum time
-is sacrosanct.</p>
+<p>Students will be considered <strong>absent without valid reason </strong>should
+they go for holidays overseas or staycations during school term as curriculum
+time is sacrosanct.</p>
 </li>
 <li>
-<p>Attendance is compulsory on all school days, functions and activities.
-Students who are absent must inform the school of their absence and present
-medical certificates or letters from parents/guardians when they return
-to school.</p>
+<p>Attendance is compulsory on all school days, events and activities. Students
+who are absent must inform the school of their absence and present medical
+certificates or letters from parents/guardians when they return to school.</p>
 </li>
 <li>
-<p>The school will accept a maximum of <strong>10</strong> letters from parents/guardians <strong>per year</strong> for
-their child's/ward's absence from school.</p>
+<p>The school will accept <strong>a maximum of 10 letters</strong> from parents/guardians <strong>per year</strong> for
+their child's/ward's absence from school. For subsequent absences, <strong>Absent Without Valid Reason will be keyed into the Attendance System.</strong>
+</p>
 </li>
 <li>
 <p>Parents/Guardians must sign the "Permission to Leave School" form in the
@@ -328,7 +332,8 @@ will receive a "Fair" conduct grade.</p>
 <li>
 <p>All students are not allowed to have in their possession any weapon. They
 are also not allowed to bring any weapon-like item which can be used or
-intended to be used to cause harm to others.</p>
+intended to be used to cause harm to others. It is a serious reportable
+offence.</p>
 </li>
 </ul>
 <h4>School Assessment Rules</h4>
