@@ -267,7 +267,6 @@ time.</p>
 </li>
 </ul>
 <h4>Guidelines for Late-comers</h4>
-<p></p>
 <table style="minWidth: 150px">
 <colgroup>
 <col>
@@ -306,7 +305,7 @@ time.</p>
 <p>Action(s) to be Taken</p>
 </th>
 <th rowspan="1" colspan="2">
-<p><strong>          Consequences</strong>
+<p><strong>Consequences</strong>
 </p>
 </th>
 </tr>
@@ -325,7 +324,7 @@ time.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>    3rd time</strong>
+<p><strong>3rd time</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -463,8 +462,487 @@ intended to be used to cause harm to others. It is a serious reportable
 offence.</p>
 </li>
 </ul>
+<h4>Discipline Offences and Corrective Actions</h4>
+<p>The table below shows the list of Discipline Offences and Misbehaviours:</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Classification</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Offences</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Description</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p><strong>Minor</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Improper attire &amp;</p>
+<p>grooming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Disobeying school rules on attire, hairdo, jewellery, etc. Please note
+that modification of school uniform will be deemed as a serious offence.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Not doing assignments</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not turning in class work, homework, project work, etc. without a valid
+reason</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Latecoming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Being late for school without a valid reason</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Skipping classes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Being absent from formal lessons without a valid reason</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Littering</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dropping or leaving rubbish in school premises</p>
+</td>
+</tr>
+<tr>
+<td rowspan="26" colspan="1">
+<p><strong>Serious</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>(A)&nbsp; Attendance</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Leaving school grounds without permission</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Leaving school grounds after reporting but before the end of the school
+day without the school’s approval</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Truancy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Being absent from school without a valid reason on school days (Monday
+to Friday)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>(B)&nbsp; Misconduct</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bullying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hurting, frightening or intimidating others to deliberately cause harm,
+distress or humiliation&nbsp; ̶&nbsp; can be cyber, physical, social/relational,
+verbal or psychological in nature</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cheating in assessments/tests/</p>
+<p>examinations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Possessing notes or other prohibited items, copying from others, allowing
+others to copy, tampering with answers and marks</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Disruptive behaviour</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Interfering with the smooth running of class or school events</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Forgery</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Forging signatures, medical certificates, consent forms, etc. with the
+intention to deceive</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Open defiance and/or rudeness</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Refusing to conform to school rules, norms and practices; disobeying teachers’
+instructions; displaying rudeness and disrespect in speech or body language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Extortion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Getting something of monetary value by force or threat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vulgarity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Using vulgar/abusive language or gestures</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Theft/Damage of Property</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Arson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Planting explosives or setting property on fire, whether attempted or
+actual</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Theft</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Stealing school property or property belonging to others</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vandalism</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vandalising school or personal property, writing graffiti&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>(D)&nbsp; Other Serious Offences</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assault/Physical Harm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Attacking others violently, whether causing injury or not</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fighting</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Being involved in a confrontation between individuals or opposing groups
+in which each attempts to harm or gain power over the other, as with bodily
+force or weapons</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gambling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Using money in games, betting, etc</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gangsterism</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Being involved in a gang assault/threat/harassment/extortion, whether
+actual or attempted</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pornography</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Consuming/possessing/distributing/selling pornographic materials</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Possession of weapons</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Possessing weapons that may be used in a crime</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sexual Misconduct</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Being involved in attempted rape, outrage of modesty, underage sex, sexual
+grooming, peeping, etc.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Smoking</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Using/possessing/distributing/selling cigarettes</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vaping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Using/possessing/distributing/selling e-vaporisers and kpods</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Types of Substance Abuse:</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alcohol</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Drug</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inhalant</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Consuming/using/possessing/distributing/ selling alcohol, drugs or inhalants</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>&nbsp;</strong>Corrective Actions by School for Offences</h4>
+<p>When a student has committed an offence, parents/guardians will be informed
+of the offence committed. Parents/guardians are encouraged to work with
+the school to ensure that their child/ward adheres to the school rules.
+Consequences will be meted out according to the nature and severity of
+the offence. The school will take one or more of the corrective actions
+listed below:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Compensation - Paying for Damaged/Stolen Items</p>
+</li>
+<li>
+<p>Confiscation of Restricted Items</p>
+</li>
+<li>
+<p>Counselling by School Personnel</p>
+</li>
+<li>
+<p>Corrective Work</p>
+</li>
+<li>
+<p>Drop in Conduct Grade*</p>
+</li>
+<li>
+<p>Home Involvement</p>
+</li>
+<li>
+<p>Police Assistance</p>
+</li>
+<li>
+<p>Reflective Action</p>
+</li>
+<li>
+<p>Referral to External Agencies</p>
+</li>
+<li>
+<p>Removal of Privileges (Recess active play, school programmes e.g. learning
+journey, post-examination activities, camps, etc.)</p>
+</li>
+<li>
+<p>Removal of leadership positions</p>
+</li>
+<li>
+<p>Restorative Practice with People Concerned</p>
+</li>
+<li>
+<p>Suspension (in-school or out-of-school suspension)</p>
+</li>
+<li>
+<p>Warning - Verbal or written</p>
+</li>
+<li>
+<p>Any other alternative consequences as deemed appropriate by the school.</p>
+</li>
+</ul>
+<p>* The nature and severity of the offences will also be taken into consideration
+when awarding a student's overall Conduct Grade.</p>
+<p></p>
+<h4>Consequences for Vaping</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>Baseline</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Serious Offences</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Very Serious Offences</u></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>First-time offenders</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>1 to 3 days of detention <strong><u>and/or</u> </strong>suspension; <strong><u>and</u></strong>
+</p>
+</li>
+<li>
+<p>Conduct grade adjustment</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>3 to 5 days of detention <strong><u>and/or</u> </strong>suspension; <strong><u>and</u></strong>
+</p>
+</li>
+<li>
+<p>Conduct grade adjustment (no better than ‘Fair’)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Second-time offenders</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>3 to 5 days of detention <strong><u>and/or</u></strong> suspension; <strong><u>and</u></strong>
+</p>
+</li>
+<li>
+<p>Conduct grade adjustment (no better than ‘Fair’)</p>
+</li>
+</ul>
+</td>
+<td rowspan="2" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>5 to 14 days of detention <strong><u>and/or</u></strong>&nbsp;suspension; <strong><u>and</u></strong>
+</p>
+</li>
+<li>
+<p>Conduct grade adjustment (‘Poor’)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subsequent offenders</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>5 to 14 days of detention <strong><u>and/or</u></strong> suspension; <strong><u>and</u></strong>
+</p>
+</li>
+<li>
+<p>Conduct grade adjustment (‘Poor’)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>MOE takes a zero-tolerance stance on vaping. Once caught, the school will
+take action. The school-based&nbsp;disciplinary measures will be <strong>in addition to</strong> the&nbsp;penalties
+that the Health Sciences Authority will impose.</p>
+<p><strong><em>Note: Students with a discipline record and those with a conduct grade of Fair or Poor will not be eligible for any award given by the school and/or MOE.</em></strong>
+</p>
+<hr>
 <h4>School Assessment Rules</h4>
 <ol data-tight="true" class="tight">
 <li>
