@@ -1,0 +1,4 @@
+collections:
+  gracia-awardees:
+    output: true
+    order: []
