@@ -26,7 +26,7 @@ third_nav_title: Information for Parents
 <p>25 Nov 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Comms_Networking/PSLE_Results_Briefing_Slides_for_Parents__Nov_2024__.pdf" rel="noopener noreferrer nofollow" target="_blank">PSLE Result Briefing Presentation Slides</a>
+<p><a href="/files/Comms_Networking/briefing_to_parents_on_psle_results__nov_2025__website.pdf" rel="noopener noreferrer nofollow" target="_blank">PSLE Result Briefing Presentation Slides</a>
 </p>
 </td>
 </tr>
