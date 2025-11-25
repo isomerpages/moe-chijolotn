@@ -23,37 +23,10 @@ third_nav_title: Information for Parents
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20 Nov 2024</p>
+<p>25 Nov 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Comms_Networking/PSLE_Results_Briefing_Slides_for_Parents__Nov_2024__.pdf" rel="noopener noreferrer nofollow" target="_blank">PSLE Result Briefing Presentation Slides</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>05 Aug 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Comms_Networking/kopi_chat_middle_pri_5_aug_2024_for_web.pdf" rel="noopener noreferrer nofollow" target="_blank">Kopi Chat (Middle Primary) Presentation Slides</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>01 Aug 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Comms_Networking/2024_Kopi_Chat_UP_web.pdf" rel="noopener noreferrer nofollow" target="_blank">Kopi Chat (Upper Primary) Presentation Slides</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>04 Jul 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Comms_Networking/kopi_chat_lower_pri_4_july_2024_final_for_web.pdf" rel="noopener noreferrer nofollow" target="_blank">Kopi Chat (Lower Primary) Presentation Slides</a>
 </p>
 </td>
 </tr>
