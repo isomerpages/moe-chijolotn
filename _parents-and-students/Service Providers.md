@@ -12,7 +12,7 @@ variant: tiptap
 <br>Website: <a href="https://www.magdalene.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.magdalene.com.sg</a>
 <br>Sale Method: School uniform and PE attire are available at the school
 bookshop.
-<br>Mon to Fri: 11.30am to 12.30pm</p>
+<br>Mon to Fri: 12pm to 12.30pm</p>
 <h4><strong>Transport</strong></h4>
 <p><strong>KW Bus Pte Ltd<br></strong>764A Woodlands Circle, #10-304
 <br>Singapore 731764
@@ -27,8 +27,7 @@ Bizhub, Singapore 408727
 <br>Email: sales@blmarketing.sg
 <br>Website: <a href="https://www.blmarketing.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.blmarketing.sg</a>
 <br>School Bookshop Opening Hours
-<br>Mon to Fri during school term (excluding public holidays): 11:30am to
-12:30pm
+<br>Mon to Fri during school term (excluding public holidays): 12pm to 12:30pm
 <br><a href="/files/Ops/CHIJOLN_Booklist_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 Booklist</a>
 </p>
 <p>Sale of Name Tags: <a href="https://nametags.stitchwerkz.sg/chijoln" rel="noopener noreferrer nofollow" target="_blank">https://nametags.stitchwerkz.sg/chijoln</a>
