@@ -67,7 +67,7 @@ variant: tiptap
 <p>Pri 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.30am - 10.00am</p>
+<p>10.00am - 10.30am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Canteen</p>
@@ -78,7 +78,7 @@ variant: tiptap
 <p>Pri 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10.00am - 10.30am</p>
+<p>11.00am - 11.30am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Canteen</p>
@@ -89,7 +89,7 @@ variant: tiptap
 <p>Pri 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11.00 am - 11.30 am</p>
+<p>09.30 am - 10.00 am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Canteen</p>
@@ -318,7 +318,7 @@ dismissal should wait at Side gate 2.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mon to Fri<br></strong>6.30 a.m. - 8.00 a.m.&nbsp;(gate will be
+<p><strong>Mon to Fri<br></strong>6.30 a.m. - 7.45 a.m.&nbsp;(gate will be
 opened only if it rains)
 <br>
 <br><strong>Mon to Fri</strong>
@@ -346,12 +346,26 @@ opened only if it rains)
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mon to Fri</strong>
-<br>6.30 a.m. - 8.00 a.m.
+<br>6.30 a.m. - 7.45 a.m.
 <br>1:30pm to 2.00pm
 <br>
 <br><strong>Turnstile (for exit from school only)</strong>
 <br><strong>Mon to Fri</strong>
 <br>1:30pm to 6:00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Side Gate 3</strong>
+</p>
+<p><strong>(Located near the School Main Gate)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mon to Fri</strong>
+<br>6.30 a.m. - 7.45 a.m.</p>
+<p>(This gate will operate exclusively during morning hours for student entry
+only.)</p>
 </td>
 </tr>
 <tr>
