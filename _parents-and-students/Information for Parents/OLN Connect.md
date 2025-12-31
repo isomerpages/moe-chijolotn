@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Information for Parents
 variant: tiptap
 ---
-<h4><strong>2025</strong></h4>
+<h4><strong>2026</strong></h4>
 <table style="minWidth: 150px">
 <colgroup>
 <col>
@@ -18,54 +18,43 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 oln connect/OLN_Connect_P001r2.pdf" rel="noopener noreferrer nofollow" target="_blank">January</a>
+<p><a href="/files/2026 oln connect/OLN_Connect_P001.pdf" rel="noopener noreferrer nofollow" target="_blank">January</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 oln connect/OLN_Connect_P002.pdf" rel="noopener noreferrer nofollow" target="_blank">February</a>
-</p>
+<p>February</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 oln connect/OLN_Connect_P003.pdf" rel="noopener noreferrer nofollow" target="_blank">March</a>
-</p>
+<p>March</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 oln connect/OLN_Connect_P004.pdf" rel="noopener noreferrer nofollow" target="_blank">April</a>
-</p>
+<p>April</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 oln connect/OLN_Connect_P005.pdf" rel="noopener noreferrer nofollow" target="_blank">May</a>
-</p>
+<p>May</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 oln connect/OLN_Connect_P006.pdf" rel="noopener noreferrer nofollow" target="_blank">June</a>
-</p>
+<p>June</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 oln connect/OLN_Connect_P007r1.pdf" rel="noopener noreferrer nofollow" target="_blank">July</a>
-</p>
+<p>July</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 oln connect/OLN_Connect_P008.pdf" rel="noopener noreferrer nofollow" target="_blank">August</a>
-</p>
+<p>August</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 oln connect/OLN_Connect_P009.pdf" rel="noopener noreferrer nofollow" target="_blank">September</a>
-</p>
+<p>September</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 oln connect/OLN_Connect_P010.pdf" rel="noopener noreferrer nofollow" target="_blank">October</a>
-</p>
+<p>October</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 oln connect/OLN_Connect_P011r1.pdf" rel="noopener noreferrer nofollow" target="_blank">November</a>
-</p>
+<p>November</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 oln connect/OLN_Connect_P012.pdf" rel="noopener noreferrer nofollow" target="_blank">December</a>
-</p>
+<p>December</p>
 </td>
 </tr>
 </tbody>
