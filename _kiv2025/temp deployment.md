@@ -2099,7 +2099,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kiranjit_kaur_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Kiranjit Singh</a>
+<p><a href="mailto:wan_yin_seong_angela@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Angela Wan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
