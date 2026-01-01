@@ -40,10 +40,10 @@ variant: tiptap
 <p>Vice-Principal (Academic)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Catherine Michelle Beins</p>
+<p>Mdm Cindy Lum</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>catherine_michelle@moe.edu.sg</p>
+<p>lum_cindy@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -120,6 +120,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>woo_kah_wai@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Ng Chay Shwan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_chay_shwan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -268,10 +279,10 @@ variant: tiptap
 <p>Infocomm Technology (ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Farhanna Zainal</p>
+<p>Mrs Serena Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>farhanna_zainal@moe.edu.sg</p>
+<p>lim_soo_mei_serena@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -294,6 +305,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>sum_qiu_mei_sharon@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NE/Social Studies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Teh Chiew Guek</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>teh_chiew_guek@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
@@ -457,6 +479,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_poh_gek_delphine@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>High Ability Learners</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Arlette Teo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>teo_puay_boon@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
