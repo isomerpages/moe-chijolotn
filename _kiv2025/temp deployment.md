@@ -3454,39 +3454,39 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:neo_wei_keong_alphonsus@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Alphonsus Neo</a>
+<p><a href="mailto:tan_yee_yinn_tracy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Tracy Wong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_soo_mei_serena@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Serena Lee</a>
+<p><a href="mailto:chijoln@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Nazurah</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chong_lai_kuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joanne Chong</a>
+<p><a href="mailto:tan_yee_yinn_tracy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Tracy Wong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:neo_wei_keong_alphonsus@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Alphonsus Neo</a>
+<p><a href="mailto:chong_sheau_huey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Tan Sheau Huey</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_soo_mei_serena@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Serena Lee</a>
+<p><a href="mailto:tan_yee_yinn_tracy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Tracy Wong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:njoo_kiat_chong_edwin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Edwin Njoo</a>
+<p><a href="mailto:kenett_wong_tick_woon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kenett Wong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sum_qiu_mei_sharon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Sharon Lai</a>
+<p><a href="mailto:feng_jingwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Feng Jingwei</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:leong_pei_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Gan Pei Ying</a>
+<p><a href="mailto:lin_yingying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Yap Ying Ying</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_soo_mei_serena@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Serena Lee</a>
+<p><a href="mailto:chew_yin_sy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Kwek Yin Sy</a>
 </p>
 </td>
 </tr>
@@ -3496,40 +3496,40 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:njoo_kiat_chong_edwin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Edwin Njoo</a>
+<p><a href="mailto:sim_fatimah_mohammed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Fatimah Sim</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:joyce_lynn_teo_yahui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Joyce Hong</a>
+<p><a href="mailto:heng_meow_ern@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Ms Heng Meow Ern</a> 
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wan_yin_seong_angela@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Angela Wan</a>
+<p><a href="mailto:sim_fatimah_mohammed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Fatimah Sim</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:joyce_lynn_teo_yahui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Joyce Hong</a>
+<p><a href="mailto:joseph_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Joseph Lim</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_hui_qi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Hui Qi</a>
+<p><a href="mailto:siaw_yee_looi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Elaine Siaw / </a>
+<a href="mailto:zulia_said@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zulia</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:njoo_kiat_chong_edwin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Edwin Njoo</a>
+<p><a href="mailto:zanizam_zaini@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Zanizam Zaini</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sum_qiu_mei_sharon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Sharon La</a>
-<a href="mailto:wong_wendy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">i</a>
+<p><a href="mailto:wong_wendy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Wendy Wong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lin_yingying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Yap Ying Ying</a>
+<p><a href="Mailto:tan_shin_shin_helen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Helen Tan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:joyce_lynn_teo_yahui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Joyce Hong</a>
+<p><a href="mailto:sim_fatimah_mohammed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Fatimah Sim</a>
 </p>
 </td>
 </tr>
