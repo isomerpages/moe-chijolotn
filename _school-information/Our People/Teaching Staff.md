@@ -2130,7 +2130,7 @@ have a default email client setup.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chong_sheau_huey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Tan Sheau Huey</a>
+<p><a href="mailto:joseph_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Joseph Lim</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2140,7 +2140,6 @@ have a default email client setup.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chong_sheau_huey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Tan Sheau Huey</a>
-<br><a href="mailto:tan_lee_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jaslyn Tan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2154,6 +2153,15 @@ have a default email client setup.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P6 Foundation Science (FSCI)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zuwaria_parvin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Parvin</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Foundation English (FEL)</p>
 </td>
 </tr>
 </tbody>
