@@ -39,5 +39,8 @@ an appointment before coming down for any dental issues.</p>
 <p>For assistance, you may contact the School at 63852455.</p>
 <p></p>
 <h4><strong>School-based Student Care Centre</strong></h4>
-<p><strong>Commit Learning Schoolhouse<br></strong>Tel: 6366 3666
-<br>Email: enquiry@commitlearning.com.sg</p>
+<p><strong>YMCA</strong>
+<br>Tel: 9752 2845
+<br>Email: <a href="mailto:ntscc@ymca.edu" rel="noopener noreferrer nofollow" target="_blank">ntscc@ymca.edu.sg </a>
+</p>
+<p></p>

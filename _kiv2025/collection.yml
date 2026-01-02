@@ -2,6 +2,7 @@ collections:
   kiv2025:
     output: true
     order:
+      - Notification of Absence.md
       - Letters to Parents.md
       - Notice of Absence backupOldPage.md
       - Supp 2025.md

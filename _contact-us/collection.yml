@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Contact Information.md
-      - Notification of Absence.md
       - Password Reset Request.md
