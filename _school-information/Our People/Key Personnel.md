@@ -189,7 +189,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Science</p>
+<p>Science / ICT Covering</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Serena Lee</p>
@@ -272,17 +272,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>zanizam_zaini@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Infocomm Technology (ICT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Serena Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_soo_mei_serena@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
