@@ -3374,7 +3374,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ler_ser_ling_serene@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Ms Serene Ler</a> 
+<p><a href="mailto:ler_ser_ling_serene@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Ms Serene Ler</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -3412,27 +3412,27 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:noor_hayati_yusof@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Noor Hayati</a>
+<p><a href="mailto:voo_ke_rui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Joy Voo</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:heng_ai_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Heng Ai Ling</a>
+<p><a href="mailto:wong_chia_suan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Wong Chia Suan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:noor_hayati_yusof@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Noor Hayati</a>
+<p><a href="mailto:voo_ke_rui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Joy Voo</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_lee_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jaslyn Tan</a>
+<p><a href="mailto:elena_ong_yijin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Elena Ong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_yee_yinn_tracy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Tracy Wong</a>
+<p><a href="mailto:voo_ke_rui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Joy Voo</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_nazri_subawi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Muhammad Nazri</a>
+<p><a href="mailto:zanizam_zaini@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Zanizam Zaini</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -3444,7 +3444,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nai_ting-tiang_jacqueline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Jacqueline Nai</a>
+<p><a href="mailto:voo_ke_rui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Joy Voo</a>
 </p>
 </td>
 </tr>
