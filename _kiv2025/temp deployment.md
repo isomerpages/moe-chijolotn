@@ -746,7 +746,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_poh_gek_delphine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Teh Chiew Guek</a>
+<p><a href="mailto:Teh_Chiew_Guek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Teh Chiew Guek</a>
 </p>
 </td>
 </tr>
@@ -863,9 +863,8 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_poh_gek_delphine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Teh Chiew Guek</a>
+<p><a href="mailto:Teh_Chiew_Guek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Teh Chiew Guek</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -978,7 +977,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_poh_gek_delphine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Teh Chiew Guek</a>
+<p><a href="mailto:Teh_Chiew_Guek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Teh Chiew Guek</a>
 </p>
 </td>
 </tr>
