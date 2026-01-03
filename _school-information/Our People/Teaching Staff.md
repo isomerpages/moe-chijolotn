@@ -1043,7 +1043,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_pancy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Pancy Ho</a>
+<p><a href="mailto:elena_ong_yijin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Elena Ong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1263,7 +1263,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:low_tze_lin_vanessa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Vanessa Tan</a>
+<p><a href="mailto:woo_kah_wai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Wendy Woo</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1615,7 +1615,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_cheh_hia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mrs Tan Cheh Hia</u></a>
+<p><a href="mailto:voo_ke_rui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Joy Voo</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1916,7 +1916,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chong_sheau_huey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Tan Sheau Huey</a>
+<p><a href="mailto:low_tze_lin_vanessa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Vanessa Tan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
