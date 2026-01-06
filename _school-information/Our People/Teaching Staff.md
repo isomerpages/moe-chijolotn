@@ -612,7 +612,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lin_yingying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Josephine Neo</a>
+<p><a href="mailto:lin_yingying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Josephine Neo Shu Ling</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -985,12 +985,12 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siaw_yee_looi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Elaine Siaw / </a>
-<a href="mailto:zulia_said@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zulia</a>
+<p><a href="mailto:siaw_yee_looi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Elaine Siaw </a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_sok_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Mrs Ong Sok Chin</a>
+<p><a href="mailto:ong_sok_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Mrs Ong Sok Chin /</a>
+<a href="mailto:zulia_said@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Zulia</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1645,7 +1645,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chong_sheau_huey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Tan Sheau Huey</a>
+<p><a href="mailto:joseph_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Mr Joseph Lim</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2967,7 +2967,7 @@ have a default email client setup.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>P5 CL</strong>
+<p><strong>P6 CL</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2991,7 +2991,7 @@ have a default email client setup.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>P5 ML</strong>
+<p><strong>P6 ML</strong>
 </p>
 </td>
 <td rowspan="1" colspan="5">
@@ -3000,7 +3000,7 @@ have a default email client setup.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>P5 TL</strong>
+<p><strong>P6 TL</strong>
 </p>
 </td>
 <td rowspan="1" colspan="5">
@@ -3009,7 +3009,7 @@ have a default email client setup.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>P5 FCL</strong>
+<p><strong>P6 FCL</strong>
 </p>
 </td>
 <td rowspan="1" colspan="5">
@@ -3018,7 +3018,7 @@ have a default email client setup.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>P5 HCL</strong>
+<p><strong>P6 HCL</strong>
 </p>
 </td>
 <td rowspan="1" colspan="5">
@@ -3027,7 +3027,7 @@ have a default email client setup.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>P5 HML</strong>
+<p><strong>P6 HML</strong>
 </p>
 </td>
 <td rowspan="1" colspan="5">
@@ -3036,7 +3036,7 @@ have a default email client setup.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>P5 HTL</strong>
+<p><strong>P6 HTL</strong>
 </p>
 </td>
 <td rowspan="1" colspan="5">
