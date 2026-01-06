@@ -820,7 +820,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Meng_Xiaolin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Meng Xiaolin</a>
+<p><a href="mailto:peh_boon_teng_sydney@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Mdm Meng Xiao Lin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2242,7 +2242,7 @@ have a default email client setup.</p>
 <br>曹健老师</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sim_suat_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Mdm Meng Xiao Lin</a>
+<p><a href="mailto:peh_boon_teng_sydney@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Mdm Meng Xiao Lin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2264,7 +2264,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_yee_hong_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Ms Sydney Peh</a>
+<p><a href="mailto:peh_boon_teng_sydney@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Ms Sydney Peh</a>
 </p>
 <p></p>
 </td>
