@@ -351,7 +351,8 @@ with others, including those with members of the opposite sex. Students
 are also guided to make wise, informed and responsible decisions to keep
 themselves safe from sexuality-related risks.</p>
 <hr>
-<p></p>
+<p><strong>At CHIJ Our Lady of the Nativity the following Sexuality Education lessons will be taught in 2026:</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/P5_2025_SE_in_CCE.png">
 </div>
