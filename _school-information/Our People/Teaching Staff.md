@@ -866,7 +866,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sim_fatimah_mohammed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Fatimah Sim</a>
+<p><a href="mailto:sim_fatimah_mohammed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sim Fatimah</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -994,7 +994,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sim_fatimah_mohammed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Fatimah Sim</a>
+<p><a href="mailto:sim_fatimah_mohammed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sim Fatimah</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1946,7 +1946,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sim_fatimah_mohammed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Fatimah Sim</a>
+<p><a href="mailto:sim_fatimah_mohammed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sim Fatimah</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1954,7 +1954,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sim_fatimah_mohammed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Fatimah Sim</a>
+<p><a href="mailto:sim_fatimah_mohammed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sim Fatimah</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1979,7 +1979,7 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sim_fatimah_mohammed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Fatimah Sim</a>
+<p><a href="mailto:sim_fatimah_mohammed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sim Fatimah</a>
 </p>
 </td>
 </tr>
