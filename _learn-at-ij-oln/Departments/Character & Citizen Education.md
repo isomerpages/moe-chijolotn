@@ -353,6 +353,8 @@ themselves safe from sexuality-related risks.</p>
 <hr>
 <p><strong>At CHIJ Our Lady of the Nativity the following Sexuality Education lessons will be taught in 2026:</strong>
 </p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/P5_2025_SE_in_CCE.png">
 </div>
