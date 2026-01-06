@@ -23,10 +23,11 @@ third_nav_title: Information for Parents
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25 Nov 2025</p>
+<p>02 Jan 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Comms_Networking/briefing_to_parents_on_psle_results__nov_2025__website.pdf" rel="noopener noreferrer nofollow" target="_blank">PSLE Result Briefing Presentation Slides</a>
+<p><a href="/files/Comms_Networking/2026_P1_Day_1_Briefing_slides__school_website_1.pdf" rel="noopener noreferrer nofollow" target="_blank">P1</a>
+<a href="/files/Comms_Networking/2026_P1_Day_1_Briefing_slides__school_website_1.pdf" rel="noopener nofollow" target="_blank">First Day</a><a href="/files/Comms_Networking/2026_P1_Day_1_Briefing_slides__school_website_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing Slides</a>
 </p>
 </td>
 </tr>
