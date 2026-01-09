@@ -23,7 +23,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025CCASchedule/Term4/T4__Choir_Version_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Choir</a>
+<p><a href="/files/2026 CCA Schedule/T1___Choir.pdf" rel="noopener noreferrer nofollow" target="_blank">Choir</a>
 </p>
 </td>
 </tr>
@@ -37,7 +37,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025CCASchedule/Term4/T4___Brownies.pdf" rel="noopener noreferrer nofollow" target="_blank">Brownies</a>
+<p><a href="/files/2026 CCA Schedule/T1___Brownies.pdf" rel="noopener noreferrer nofollow" target="_blank">Brownies</a>
 </p>
 </td>
 </tr>
@@ -51,7 +51,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025CCASchedule/Term4/T4___Brass_Band.pdf" rel="noopener noreferrer nofollow" target="_blank">Brass Band</a>
+<p><a href="/files/2026 CCA Schedule/T1___Brass_Band___SYF_members__Main_Band__.pdf" rel="noopener noreferrer nofollow" target="_blank">Brass Band (SYF)</a>
 </p>
 </td>
 </tr>
@@ -65,7 +65,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2026 CCA Schedule/T1___Brass_Band___Non_SYF__Junior_Band_.pdf" rel="noopener noreferrer nofollow" target="_blank">Brass Band (Junior, Non SYF)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -78,7 +79,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025CCASchedule/Term4/T4___Creative_Crew_Upd_2Sep.pdf" rel="noopener noreferrer nofollow" target="_blank">Creative Crew (Visual Arts)</a>
+<p><a href="/files/2026 CCA Schedule/T1___Creative_Crew.pdf" rel="noopener noreferrer nofollow" target="_blank">Creative Crew (Visual Arts)</a>
 </p>
 </td>
 </tr>
@@ -101,7 +102,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025CCASchedule/Term4/T4____Dance_Inc_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc 4 - Malay Dance</a>
+<p><a href="/files/2026 CCA Schedule/T1___Dance_Inc_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc 4 - Malay Dance</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
