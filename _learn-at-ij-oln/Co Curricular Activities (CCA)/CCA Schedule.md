@@ -15,7 +15,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025CCASchedule/Term4/T4____P3_Netball.pdf" rel="noopener noreferrer nofollow" target="_blank">Netball - P3</a>
+<p><a href="/files/2026 CCA Schedule/T1___P3_Netball.pdf" rel="noopener noreferrer nofollow" target="_blank">Netball - P3</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -29,7 +29,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025CCASchedule/Term4/T4___P4_Netball.pdf" rel="noopener noreferrer nofollow" target="_blank">Netball - P4</a>
+<p><a href="/files/2026 CCA Schedule/T1___P4_Netball_.pdf" rel="noopener noreferrer nofollow" target="_blank">Netball - P4</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -43,7 +43,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025CCASchedule/Term4/T4___P5_Netball.pdf" rel="noopener noreferrer nofollow" target="_blank">Netball - P5</a>
+<p><a href="/files/2026 CCA Schedule/T1___P5___P6_Netball_.pdf" rel="noopener noreferrer nofollow" target="_blank">Netball - P5 &amp; P6</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -56,7 +56,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025CCASchedule/Term4/T4____Netball_Development.pdf" rel="noopener noreferrer nofollow" target="_blank">Netball - Development Team</a>
+<p><a href="/files/2026 CCA Schedule/T1___Netball_Developmental_Team.pdf" rel="noopener noreferrer nofollow" target="_blank">Netball - Development Team</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -69,7 +69,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025CCASchedule/Term4/T4___P3_5_Floorball_upd.pdf" rel="noopener noreferrer nofollow" target="_blank">Floorball - P3, P4 &amp; P5</a>
+<p><a href="/files/2026 CCA Schedule/T1___P3_P4___P5_Floorball_.pdf" rel="noopener noreferrer nofollow" target="_blank">Floorball - P3, P4 &amp; P5</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -82,7 +82,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025CCASchedule/Term4/T4____Bowling.pdf" rel="noopener noreferrer nofollow" target="_blank">Bowling</a>
+<p><a href="/files/2026 CCA Schedule/T1___P6_Floorball.pdf" rel="noopener noreferrer nofollow" target="_blank">Floorball - P6</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -95,7 +95,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025CCASchedule/Term4/T4___Table_Tennis.pdf" rel="noopener noreferrer nofollow" target="_blank">Table-Tennis</a>
+<p><a href="/files/2025CCASchedule/Term4/T4____Bowling.pdf" rel="noopener noreferrer nofollow" target="_blank">Bowling</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -108,7 +108,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2025CCASchedule/Term4/T4___Table_Tennis.pdf" rel="noopener noreferrer nofollow" target="_blank">Table-Tennis</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
