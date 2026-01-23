@@ -116,15 +116,15 @@ for programmes on a school level.</p>
 <td rowspan="1" colspan="1">
 <p>Primary 3</p>
 </td>
-<td rowspan="2" colspan="1">
-<p>Mondays</p>
+<td rowspan="1" colspan="1">
+<p>Thursdays</p>
 </td>
 <td rowspan="5" colspan="1">
-<p>3.15 pm - 5.15 pm</p>
+<p>3.15 pm - 4.15 pm</p>
+<p>3.15 pm - 4.15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jacqueline Nai (OIC)
-<br>Ms Law Ee Peng</p>
+<p>Ms Law Ee Peng(OIC)</p>
 </td>
 </tr>
 <tr>
@@ -133,9 +133,10 @@ for programmes on a school level.</p>
 <br>Team</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Dennis Chew (OIC)
-<br>Mdm Parvin
-<br>Ms Vasantha</p>
+<p>Mondays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Dennis Chew (OIC)</p>
 </td>
 </tr>
 <tr>
@@ -144,13 +145,12 @@ for programmes on a school level.</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>&nbsp;</p>
-<p>Tuesdays
+<p>Mondays
 <br>&amp;
 <br>Thursdays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kenett Wong (OIC)
-<br>Mrs Joyce Hong</p>
+<p>Mr Kenett Wong (OIC)</p>
 </td>
 </tr>
 <tr>
@@ -158,8 +158,8 @@ for programmes on a school level.</p>
 <p>Primary 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Lee Si Yinn (OIC)
-<br>Mr Yasvanth
+<p>Ms Claire Chia (OIC)
+<br>Ma Xiao Lin
 <br>
 </p>
 </td>
@@ -169,8 +169,7 @@ for programmes on a school level.</p>
 <p>Primary 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Lee Si Yinn (OIC)
-<br>Mrs Laura Stephen</p>
+<p>Miss Lee Si Yinn (OIC)</p>
 </td>
 </tr>
 </tbody>
