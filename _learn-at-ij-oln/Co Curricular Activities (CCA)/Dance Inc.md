@@ -119,11 +119,10 @@ dance programme. These activities include SYF and school performances.</p>
 <p>Mondays</p>
 </td>
 <td rowspan="4" colspan="1">
-<p>3.15 pm - 5.15 pm</p>
+<p>2.15 pm - 4.15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Oh Soo Hwee (OIC)
-<br>Mrs Toh Pei Ling</p>
+<p>Ms Oh Soo Hwee (OIC)</p>
 </td>
 </tr>
 <tr>
@@ -132,8 +131,7 @@ dance programme. These activities include SYF and school performances.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Stephanie Wu (OIC)
-<br>Mdm Norlela
-<br>Ms Shaanthyini</p>
+<br>Mdm Laura Stephen</p>
 </td>
 </tr>
 <tr>
@@ -143,8 +141,7 @@ dance programme. These activities include SYF and school performances.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Li Ning (OIC)
-<br>Mdm Jin Xiumei,
-<br>Mrs Claire Chia</p>
+<br>Ms Yeo Chun Hui</p>
 </td>
 </tr>
 <tr>
@@ -154,8 +151,7 @@ dance programme. These activities include SYF and school performances.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Hidayah Ronny (OIC)
-<br>Mdm Norfadilah
-<br>Mrs Jabar
+<br>Ms Yeo Chun Hui
 <br>
 </p>
 </td>
