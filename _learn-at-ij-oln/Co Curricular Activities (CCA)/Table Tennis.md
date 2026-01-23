@@ -136,7 +136,8 @@ Girls - 3rd Place in Classification Round
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Fiona Foo (OIC)
-<br>Mdm Stephanie Ho</p>
+<br>Mdm Jin Xiumei
+<br>Mrs Faldillah Birkan</p>
 </td>
 </tr>
 <tr>
