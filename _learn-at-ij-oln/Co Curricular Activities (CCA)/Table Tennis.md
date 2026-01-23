@@ -132,12 +132,12 @@ Girls - 3rd Place in Classification Round
 <p>Tuesdays</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>3.15 pm - 5.15 pm</p>
+<p>2.15 pm - 4.15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Fiona Foo (OIC)
-<br>Mdm Adeline Chua
-<br>Mrs Joycelyn Trevor</p>
+<br>Mdm Jin Xiumei
+<br>Mrs Faldillah Birkan</p>
 </td>
 </tr>
 <tr>
@@ -146,12 +146,12 @@ Girls - 3rd Place in Classification Round
 <br>Primary 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thursdays</p>
+<p>Mondays</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Fiona Foo (OIC)
-<br>Ms Edna Poh
-<br>Mdm Lai Meiyu</p>
+<br>Mdm Jin Xiumei
+<br>Mrs Faldillah Birkan</p>
 </td>
 </tr>
 </tbody>

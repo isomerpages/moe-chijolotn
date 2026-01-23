@@ -113,12 +113,26 @@ the newer members during training.</p>
 <p>Mondays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.15 pm - 5.00 pm</p>
+<p>2.15 pm - 4.15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Edna Poh (OIC)
-<br>Ms Bao Hong
 <br>Mdm Hang Yun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 4 to Primary 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thursdays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.15 pm - 4.15 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Edna Poh (OIC)
+<br>Mdm Bao Hong</p>
 </td>
 </tr>
 <tr>

@@ -65,15 +65,15 @@ and traditional marches to contemporary pieces. This exposure to different
 musical styles broadens members’ understanding and appreciation of music.
 Please click on the links to watch some of our recent performances.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/iMtPp8kiO4Y?si=V2Or69_lQIZ6pPtE"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/iMtPp8kiO4Y?si=V2Or69_lQIZ6pPtE"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9ZGTHdo7h2M?si=ut2VvAZsupeXKXBV"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9ZGTHdo7h2M?si=ut2VvAZsupeXKXBV"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lRbgYUmP7fk?si=BvfB8X8LUxJ2ZXuB"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lRbgYUmP7fk?si=BvfB8X8LUxJ2ZXuB"></iframe>
 </div>
 <p>Overall, our school brass band provides an excellent opportunity for members
 to immerse themselves in music, develop their skills as musicians, and
@@ -131,7 +131,7 @@ order in their section during practices and rehearsals.</p>
 <p>Mondays</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>3.15 pm - 5.15 pm</p>
+<p>2.15 pm - 4.15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Gan Pei Ying (OIC)
@@ -149,7 +149,7 @@ order in their section during practices and rehearsals.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Gan Pei Ying (OIC)
-<br>Mdm Ang I-Ling
+<br>Mdm Zuwaria Parwvin
 <br>Mdm Rachel Siow</p>
 </td>
 </tr>

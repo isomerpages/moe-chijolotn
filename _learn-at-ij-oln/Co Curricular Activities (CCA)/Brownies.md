@@ -151,17 +151,17 @@ Pack 1: Gold
 <br>Primary 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thursday</p>
+<p>Thursdays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.15 pm - 4.45 pm</p>
+<p>2.15 pm - 4.15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Kwek Yin Sy (OIC)
-<br>Ms Yeo Chun Hui
 <br>Ms Elena Ong
-<br>Ms Sharon Jodi
-<br>Miss Halena Fonseka</p>
+<br>Miss Sharon Tan
+<br>Miss Halena Fonseka
+<br>Mrs Adeline Enriquez</p>
 </td>
 </tr>
 </tbody>
