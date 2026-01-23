@@ -105,14 +105,13 @@ upholding discipline, forging camaraderie amongst members.</p>
 <br>Primary 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesdays</p>
+<p>Mondays</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>3.15 pm - 4.45 pm</p>
+<p>2.15 pm - 4.15 pm</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Ms Feng Jing Wei (OIC)
-<br>Mrs Sharon Lai
 <br>Ms Wendy Wong</p>
 </td>
 </tr>
@@ -123,11 +122,6 @@ upholding discipline, forging camaraderie amongst members.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thursdays</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Feng Jing Wei (OIC)
-<br>Mrs Sharon Lai
-<br>Ms Wendy Wong</p>
 </td>
 </tr>
 </tbody>
