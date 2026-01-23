@@ -120,16 +120,19 @@ the team.</p>
 <p>Primary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesdays</p>
+<p>Mondays</p>
 </td>
-<td rowspan="3" colspan="1">
-<p>3.15 pm - 5.15 pm</p>
+<td rowspan="1" colspan="1">
+<p>2.15pm - 4pm</p>
 </td>
-<td rowspan="3" colspan="1">
-<p>Mr Nazri (OIC)
-<br>Mrs Azman
-<br>Mrs Stephanie Ho
-<br>Ms Fatimah Sim</p>
+<td rowspan="4" colspan="1">
+<p>Mondays: Mr Nazri (OIC)
+<br>Ms Shaanthyini
+<br>Ms Sim Fatimah</p>
+<p></p>
+<p>Thursdays: Mr Nazri (OIC)
+<br>Mdm Jacqueline Nai
+<br>Mrs Masturah Azman</p>
 <p>
 <br>
 </p>
@@ -140,19 +143,34 @@ the team.</p>
 <p>Primary 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thursday</p>
+<p>Thursdays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.15pm - 4pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Primary 5
-<br>&amp;
-<br>Primary 6</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesdays
-<br>&amp;
-<br>Thursday</p>
+<p>Mondays &amp; Thursdays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.15pm - 3.15pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mondays &amp; Thursdays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15pm - 4pm</p>
 </td>
 </tr>
 </tbody>
