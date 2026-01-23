@@ -109,15 +109,15 @@ the choir with love and to be steadfast in their duties.</p>
 <br>Primary 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesdays</p>
+<p>Thursdays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.15 pm - 5.15 pm</p>
+<p>2.15 pm - 4.15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Yap Yingying (OIC)
 <br>Mrs Cindy Oh
-<br>Mdm Nurul Murny</p>
+<br>Ms Angela Wan</p>
 </td>
 </tr>
 </tbody>
