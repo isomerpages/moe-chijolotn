@@ -86,13 +86,13 @@ thinking and problem-solving skills in our members.</p>
 <br>&amp; Primary 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesdays</p>
+<p>Mondays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.15 pm - 5.15 pm</p>
+<p>2.15 pm - 4.15 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Joy Voo (OIC)
+<p>Mdm Farhanna (OIC)
 <br>Mr Alphonsus Neo</p>
 </td>
 </tr>
