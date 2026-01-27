@@ -6,10 +6,18 @@ third_nav_title: Information for Parents
 variant: tiptap
 ---
 <h4><strong>WhatsApp Messaging System</strong></h4>
-<p>To enhance our communication with parents/guardians, our school uses&nbsp;WhatsApp&nbsp;Business.</p>
-<p>Parents need not install&nbsp;WhatsApp&nbsp;Business on their phones.
-Using our&nbsp;WhatsApp&nbsp;Business numbers, teachers will communicate
-with parents via&nbsp;WhatsApp.</p>
+<p>To enhance our communication with parents/guardians, our school uses WhatsApp
+Business alongside other communication channels.</p>
+<p>Using our WhatsApp Business numbers, teachers will communicate with parents/guardians
+via the regular WhatsApp application on your phones. There is no need to
+install WhatsApp Business separately.</p>
+<p>Please note that WhatsApp Business is one of several communication methods
+we use. We also communicate through the School Organiser, our school general
+office telephone numbers, and official school email addresses. Important
+messages are also sent through Parents Gateway, so please ensure notification
+function on Parents Gateway is enabled to receive alerts. These multiple
+channels ensure that information reaches parents/guardians, providing alternative
+options when needed.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
@@ -25,6 +33,4 @@ with parents via&nbsp;WhatsApp.</p>
 </p>
 </li>
 </ul>
-<p></p>
-<p></p>
 <p></p>
