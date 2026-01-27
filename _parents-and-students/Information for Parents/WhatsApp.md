@@ -10,8 +10,6 @@ variant: tiptap
 <p>Parents need not install&nbsp;WhatsApp&nbsp;Business on their phones.
 Using our&nbsp;WhatsApp&nbsp;Business numbers, teachers will communicate
 with parents via&nbsp;WhatsApp.</p>
-<p>Teachers will share with parents their&nbsp;WhatsApp&nbsp;Business numbers
-for parents to join the groups they have created.&nbsp;</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
