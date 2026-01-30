@@ -351,7 +351,7 @@ gate will only open in the event of rain.)
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mon to Fri</strong>
-<br>6.30 a.m. - 7.45 a.m.&nbsp;&nbsp; <strong><br>(</strong>The gate will remain
+<br>6.30 a.m. - 7.35 a.m.&nbsp;&nbsp; <strong><br>(</strong>The gate will remain
 open until 7.45 am in the event of rain.)
 <br>1:30pm to 2.00pm
 <br>
@@ -373,7 +373,7 @@ open until 7.45 am in the event of rain.)
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mon to Fri</strong>
-<br>6.30 a.m. - 7.45 a.m.&nbsp;&nbsp; <strong><br>(</strong>The gate will remain
+<br>6.30 a.m. - 7.35 a.m.&nbsp;&nbsp; <strong><br>(</strong>The gate will remain
 open until 7.45 am in the event of rain.)</p>
 </td>
 </tr>
