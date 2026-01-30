@@ -296,12 +296,22 @@ via Parents Gateway of any change.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mon to Fri</strong>
-<br><strong>7.00 a.m. - 7.45 a.m.&nbsp;</strong>(<u>only&nbsp;</u>for school
-buses and parents who are driving their children&nbsp;<u>to</u>&nbsp;school)
-<br>Should you arrive earlier than 7.00 a.m., please let your child alight
-at Side Gate 2 near the HDB carpark at Blk 465A.
-<br>Parents who drive to pick up their children&nbsp;from&nbsp;school after
+<br><strong>7.00 a.m. - 7.35 a.m.&nbsp;</strong>(Only for school buses and
+parents who are driving their children to school during this period.)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Should you arrive earlier than 7.00 am, please let your child alight at
+Side Gate 2, located near the HDB carpark at Blk 465A.</p>
+</li>
+<li>
+<p>At 7.35 am, the barrier will be down, and students who arrive late are
+to enter via this gate.</p>
+</li>
+<li>
+<p>Parents who drive to pick up their children&nbsp;from&nbsp;school after
 dismissal should wait at Side gate 2.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -312,19 +322,15 @@ dismissal should wait at Side gate 2.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Side Gate 1</strong>
-</p>
-<p><strong>(behind the bus stop)</strong>
+<br><strong>(Behind the bus stop)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mon to Fri<br></strong>6.30 a.m. - 7.45 a.m.&nbsp;(gate will be
-opened only if it rains)
-<br>
-<br><strong>Mon to Fri</strong>
+<p><strong>Mon to Fri<br></strong>6.30 a.m. - 7.45 a.m.&nbsp;&nbsp; <strong><br></strong>(The
+gate will only open in the event of rain.)
 <br>1.30 p.m. - 2.00 p.m.</p>
-<p></p>
-<p></p>
-<p><strong>Turnstile (for exit from school only)</strong>
+<p>
+<br><strong>Turnstile (for exit from school only)</strong>
 <br><strong>Mon to Fri</strong>
 <br>1.30 p.m. - 6.00 p.m.
 <br>
@@ -339,13 +345,14 @@ opened only if it rains)
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Side Gate 2</strong>
+<br><strong>(Near the HDB car park at blk 465A)</strong>
 </p>
-<p><strong>(Near the HDB car park at blk 465A)</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mon to Fri</strong>
-<br>6.30 a.m. - 7.45 a.m.
+<br>6.30 a.m. - 7.45 a.m.&nbsp;&nbsp; <strong><br>(</strong>The gate will remain
+open until 7.45 am in the event of rain.)
 <br>1:30pm to 2.00pm
 <br>
 <br><strong>Turnstile (for exit from school only)</strong>
@@ -354,17 +361,20 @@ opened only if it rains)
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="2">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Side Gate 3</strong>
-</p>
-<p><strong>(Located near the School Main Gate)</strong>
+<br><strong>(Near the HDB car park at blk 465A)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mon to Fri</strong>
-<br>6.30 a.m. - 7.45 a.m.</p>
-<p>(This gate will operate exclusively during morning hours for student entry
-only.)</p>
+<br>6.30 a.m. - 7.45 a.m.&nbsp;&nbsp; <strong><br>(</strong>The gate will remain
+open until 7.45 am in the event of rain.)</p>
 </td>
 </tr>
 <tr>
