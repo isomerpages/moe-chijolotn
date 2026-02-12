@@ -47,8 +47,7 @@ by teachers.</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Days /
-<br>Levels</p>
+<p>Days / Levels</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Tuesday</p>
@@ -65,30 +64,6 @@ by teachers.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Session 1<sup>*</sup></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Session 2</strong><sup>**</sup>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Session 1</strong><sup>*</sup>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Session 2</strong><sup>**</sup>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -165,7 +140,7 @@ by teachers.</p>
 <p>English</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>MT / HMT</p>
+<p>MTL / HMTL</p>
 </td>
 </tr>
 <tr>
@@ -180,7 +155,7 @@ by teachers.</p>
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MT / HMT</p>
+<p>MTL / HMTL</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Maths</p>
@@ -192,7 +167,7 @@ by teachers.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MT / HMT</p>
+<p>MTL / HMTL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Maths</p>
@@ -206,10 +181,10 @@ by teachers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><sup>*</sup>Session 1 : 2.15pm - 3.15pm</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p><sup>**</sup>Session 2: 3.15pm - 4.15pm</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -666,7 +641,7 @@ by teachers.</p>
 <h4><strong>Schedule for Support and Supplementary Lessons 2026</strong></h4>
 <p>Support lessons provide additional academic support to students identified
 by teachers.</p>
-<h4><strong>P1 - P5 Support Lessons 2026 Sem 1</strong></h4>
+<h4><strong>P1 - P6 Support Lessons 2026 Term 1</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Support Lessons Days by Subjects</strong>
@@ -772,16 +747,19 @@ by teachers.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday</p>
+<p>-</p>
 </td>
-<td rowspan="1" colspan="2">
-<p>Tuesday</p>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -818,6 +796,24 @@ by teachers.</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Friday</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Tuesday</p>
 </td>
 </tr>
 <tr>
