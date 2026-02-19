@@ -111,7 +111,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025CCASchedule/Term4/T4___Table_Tennis.pdf" rel="noopener noreferrer nofollow" target="_blank">Table-Tennis</a>
+<p><a href="/files/2026 CCA Schedule/T1___Table_Tennis.pdf" rel="noopener noreferrer nofollow" target="_blank">Table-Tennis</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

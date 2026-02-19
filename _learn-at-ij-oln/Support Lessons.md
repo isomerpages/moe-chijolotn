@@ -286,23 +286,6 @@ by teachers.</p>
 <p>T1, W3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>T1, W4</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>20 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -317,7 +300,7 @@ by teachers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>T1, W5</p>
+<p>T1, W4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>27 Jan</p>
@@ -334,7 +317,7 @@ by teachers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>T1, W6</p>
+<p>T1, W5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 Feb</p>
@@ -351,7 +334,7 @@ by teachers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>T1, W7</p>
+<p>T1, W6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>10 Feb*</p>
@@ -368,7 +351,7 @@ by teachers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>T1, W8</p>
+<p>T1, W7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -385,7 +368,7 @@ by teachers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>T1, W9</p>
+<p>T1, W8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>24 Feb</p>
@@ -402,7 +385,7 @@ by teachers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>T1, W10</p>
+<p>T1, W9</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 Mar</p>
