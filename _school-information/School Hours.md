@@ -300,7 +300,7 @@ via Parents Gateway of any change.</p>
 parents who are driving their children to school during this period.)</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Should you arrive earlier than 7.00 am, please let your child alight at
+<p>Should you arrive earlier than 6.30 am, please let your child alight at
 Side Gate 2, located near the HDB carpark at Blk 465A.</p>
 </li>
 <li>
