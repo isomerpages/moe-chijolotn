@@ -296,11 +296,11 @@ via Parents Gateway of any change.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mon to Fri</strong>
-<br><strong>7.00 a.m. - 7.35 a.m.&nbsp;</strong>(Only for school buses and
+<br><strong>6.30 a.m. - 7.35 a.m.&nbsp;</strong>(Only for school buses and
 parents who are driving their children to school during this period.)</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Should you arrive earlier than 7.00 am, please let your child alight at
+<p>Should you arrive earlier than 6.30 am, please let your child alight at
 Side Gate 2, located near the HDB carpark at Blk 465A.</p>
 </li>
 <li>
