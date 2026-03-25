@@ -23,7 +23,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026 CCA Schedule/T2___Choir.pdf" rel="noopener noreferrer nofollow" target="_blank">Choir</a>
+<p><a href="/files/2026 CCA Schedule/T2___Brass_Band___SYF_members__Main_Band_.pdf" rel="noopener noreferrer nofollow" target="_blank">Brass Band (SYF)</a>
 </p>
 </td>
 </tr>
@@ -37,7 +37,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026 CCA Schedule/T2___Brownies.pdf" rel="noopener noreferrer nofollow" target="_blank">Brownies</a>
+<p><a href="/files/2026 CCA Schedule/T2___Brass_Band___Non_SYF__Junior_Band_.pdf" rel="noopener noreferrer nofollow" target="_blank">Brass Band (Junior, Non SYF)</a>
 </p>
 </td>
 </tr>
@@ -51,7 +51,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026 CCA Schedule/T2___Brass_Band___SYF_members__Main_Band_.pdf" rel="noopener noreferrer nofollow" target="_blank">Brass Band (SYF)</a>
+<p><a href="/files/2026 CCA Schedule/T2___Creative_Crew.pdf" rel="noopener noreferrer nofollow" target="_blank">Creative Crew (Visual Arts)</a>
 </p>
 </td>
 </tr>
@@ -65,8 +65,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026 CCA Schedule/T2___Brass_Band___Non_SYF__Junior_Band_.pdf" rel="noopener noreferrer nofollow" target="_blank">Brass Band (Junior, Non SYF)</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -75,21 +74,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026 CCA Schedule/T1___Dance_Inc_3___SYF_members.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc 3 - Chinese Dance (SYF)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2026 CCA Schedule/T2___Creative_Crew.pdf" rel="noopener noreferrer nofollow" target="_blank">Creative Crew (Visual Arts)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2026 CCA Schedule/T2___P6_Floorball.pdf" rel="noopener noreferrer nofollow" target="_blank">Floorball - P6</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/2026 CCA Schedule/T2___Dance_Inc_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc 3 - Chinese Dance (non SYF)</a>
+<p><a href="/files/2026 CCA Schedule/T2___Dance_Inc_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc 3 - Chinese Dance </a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -98,7 +83,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026 CCA Schedule/T2___Bowling.pdf" rel="noopener noreferrer nofollow" target="_blank">Bowling</a>
+<p><a href="/files/2026 CCA Schedule/T2___P6_Floorball.pdf" rel="noopener noreferrer nofollow" target="_blank">Floorball - P6</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -111,11 +96,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026 CCA Schedule/T2__Table_Tennis.pdf" rel="noopener noreferrer nofollow" target="_blank">Table-Tennis</a>
+<p><a href="/files/2026 CCA Schedule/T2___Bowling.pdf" rel="noopener noreferrer nofollow" target="_blank">Bowling</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2026 CCA Schedule/T2___Choir.pdf" rel="noopener noreferrer nofollow" target="_blank">Choir</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2026 CCA Schedule/T2__Table_Tennis.pdf" rel="noopener noreferrer nofollow" target="_blank">Table-Tennis</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2026 CCA Schedule/T2___Brownies.pdf" rel="noopener noreferrer nofollow" target="_blank">Brownies</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
