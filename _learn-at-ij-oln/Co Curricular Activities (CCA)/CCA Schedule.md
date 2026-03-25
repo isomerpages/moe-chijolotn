@@ -65,7 +65,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026 CCA Schedule/T1___Brass_Band___Non_SYF__Junior_Band_.pdf" rel="noopener noreferrer nofollow" target="_blank">Brass Band (Junior, Non SYF)</a>
+<p><a href="/files/2026 CCA Schedule/T2___Brass_Band___Non_SYF__Junior_Band_.pdf" rel="noopener noreferrer nofollow" target="_blank">Brass Band (Junior, Non SYF)</a>
 </p>
 </td>
 </tr>
@@ -89,7 +89,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2026 CCA Schedule/T1___Dance_Inc_3__Non_SYF_members____Checked.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc 3 - Chinese Dance (non SYF)</a>
+<p><a href="/files/2026 CCA Schedule/T2___Dance_Inc_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Dance Inc 3 - Chinese Dance (non SYF)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
