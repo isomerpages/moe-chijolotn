@@ -18,7 +18,7 @@ bookshop.
 <br>Singapore 731764
 <br>Tel: 8498 4950
 <br>Email: kwbus@yahoo.com.sg
-<br><a href="/files/Ops/school bus operator - awarded.pdf" rel="noopener noreferrer nofollow" target="_blank">Bus Service Awarded for 2024 - 2025</a>
+<br><a href="/files/Ops/School_Bus_Operator___Awarded_2026_to_2027.pdf" rel="noopener noreferrer nofollow" target="_blank">Bus Service Awarded for 2026 - 2027</a>
 </p>
 <h4><strong>Bookshop</strong></h4>
 <p><strong>BL Marketing Pte Ltd<br></strong>61, Ubi Road 1, #02-02 Oxley
@@ -34,13 +34,13 @@ Bizhub, Singapore 408727
 </p>
 <h4><strong>Dental Clinic</strong></h4>
 <p><strong>Dental Therapist: Ms Lee Xin Fang<br></strong>As the dental therapist
-is roving between schools, please call <strong>8764 6945</strong> to make
-an appointment before coming down for any dental issues.</p>
+is roving between schools, please Whatsapp <strong>8764 6945</strong> to
+make an appointment before coming down for any dental issues.</p>
 <p>For assistance, you may contact the School at 63852455.</p>
 <p></p>
 <h4><strong>School-based Student Care Centre</strong></h4>
 <p><strong>YMCA</strong>
 <br>Tel: 9752 2845
-<br>Email: <a href="mailto:ntscc@ymca.edu" rel="noopener noreferrer nofollow" target="_blank">ntscc@ymca.edu.sg </a>
+<br>Email: <a href="mailto:ntscc@ymca.edu" rel="noopener noreferrer nofollow" target="_blank">ntscc@ymca.edu.sg</a>
 </p>
 <p></p>
