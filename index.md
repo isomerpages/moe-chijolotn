@@ -9,10 +9,10 @@ sections:
   - hero:
       key_highlights:
         - title: Success Stories
-          description: Achievements by Pupils & Staff
+          description: Achievements by Students
           url: /success-stories/students/2024studentss/
         - title: CONNECT WITH US
           description: Catch us on FB & IG
           url: /SocialMedia/
-      background: /images/Banner and Logo/G_R_A_C_I_A_Apr26.gif
+      background: /images/Banner and Logo/herobanner_may2023_nt.gif
 ---
