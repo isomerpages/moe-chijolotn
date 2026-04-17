@@ -9,7 +9,7 @@ sections:
   - hero:
       key_highlights:
         - title: Success Stories
-          description: Achievements by Students
+          description: Achievements by Students/Staff
           url: /success-stories/students/2024studentss/
         - title: CONNECT WITH US
           description: Catch us on FB & IG
