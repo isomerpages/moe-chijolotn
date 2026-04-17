@@ -9,7 +9,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Students are expected to be present during the Google Meet / Zoom sessions.</p>
+<p>Students are expected to be present during the online sessions.</p>
 </li>
 <li>
 <p>No recording of the lesson is permissible as this infringes both copyright
@@ -20,9 +20,8 @@ and privacy issues.</p>
 without knowledge of the teacher.</p>
 </li>
 <li>
-<p>Students who are not able to be present at the stipulated Google Meet
-/ Zoom sessions, are to inform their Subject Teacher, who will then see
-to the necessary follow-up.</p>
+<p>Students who are not able to be present at the stipulated online sessions,
+are to inform their Subject Teachers.</p>
 </li>
 </ul>
 <hr>
