@@ -4,8 +4,8 @@ permalink: /learn-at-ij-oln/home-based-learning/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Google Meet / Zoom Sessions</strong></h4>
-<p><strong><u>Important Notes for Parents</u></strong>
+<h4><strong>Online Sessions</strong></h4>
+<p><strong><u>Important Notes for Parents/Guardians</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -347,7 +347,7 @@ to the necessary follow-up.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>MATHEMATIC</strong>
+<p><strong>MATHEMATICS</strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -390,7 +390,7 @@ to the necessary follow-up.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>MOTHER TONGUE LANGUAGE </strong>
+<p><strong>MOTHER TONGUE LANGUAGES</strong>
 </p>
 <table style="minWidth: 150px">
 <colgroup>
