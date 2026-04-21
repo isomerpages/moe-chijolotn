@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Success Stories
           description: Achievements by Students/Staff
-          url: /2025/
+          url: /success-stories/students/2025/
         - title: CONNECT WITH US
           description: Catch us on FB & IG
           url: /SocialMedia/
