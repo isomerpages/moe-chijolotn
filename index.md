@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Success Stories
           description: Achievements by Students/Staff
-          url: https://chijourladyofthenativity.moe.edu.sg/2025/
+          url: /2025/
         - title: CONNECT WITH US
           description: Catch us on FB & IG
           url: /SocialMedia/
