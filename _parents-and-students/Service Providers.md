@@ -17,7 +17,7 @@ bookshop.
 <p><strong>KW Bus Pte Ltd<br></strong>764A Woodlands Circle, #10-304
 <br>Singapore 731764
 <br>Tel: 8498 4950
-<br>Email: kwbus@yahoo.com.sg
+<br>Email: <a href="mailto:Admin@kwbus.com.sg" rel="noopener noreferrer nofollow" target="_blank">Admin@kwbus.com.sg</a>
 <br><a href="/files/Ops/School_Bus_Operator___Awarded_2026_to_2027.pdf" rel="noopener noreferrer nofollow" target="_blank">Bus Service Awarded for 2026 - 2027</a>
 </p>
 <h4><strong>Bookshop</strong></h4>

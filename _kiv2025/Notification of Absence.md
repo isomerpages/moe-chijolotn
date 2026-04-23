@@ -1,6 +1,6 @@
 ---
 title: Notification of Absence
-permalink: /contact-us/notification-of-absence/
+permalink: /001/abs/
 description: ""
 variant: tiptap
 ---

@@ -2,9 +2,9 @@ collections:
   kiv2025:
     output: true
     order:
-      - 2022.md
-      - 2023.md
-      - 2024.md
+      - 2zerotwo2.md
+      - 2zerotwo3.md
+      - 2zero2four.md
       - Notification of Absence.md
       - Letters to Parents.md
       - Notice of Absence backupOldPage.md

@@ -1,6 +1,6 @@
 ---
-title: "2022"
-permalink: /success-stories/students/2022studentss/
+title: 2zerotwo2
+permalink: /00/
 description: ""
 variant: tiptap
 ---
