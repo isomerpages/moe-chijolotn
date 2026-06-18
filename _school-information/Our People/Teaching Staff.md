@@ -2264,11 +2264,6 @@ have a default email client setup.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:peh_boon_teng_sydney@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Ms Sydney Peh</a>
-</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:neo_shu_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Josephine Neo Shu Ling</a>
 </p>
 </td>
@@ -2284,16 +2279,12 @@ have a default email client setup.</p>
 <p><a href="mailto:norfadilah_sufke@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Mdm Fadilah</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nazurah_ibrahim_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Nazurah</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sangeetha_m_suppiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="">Mrs Jabar</a>
-</p>
-</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>&nbsp;<a href="mailto:shaanthyini_ramalingam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Shaanthyini</a>
 </p>
@@ -2301,6 +2292,12 @@ have a default email client setup.</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:G_vasantha_devi_naidu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Vansantha</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2501,7 +2498,7 @@ have a default email client setup.</p>
 <p>Ms Oh Soo Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sydney Peh/ Ms Shum Wenhui</p>
+<p>Ms Shum Wenhui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Rachel Siow</p>
@@ -2849,7 +2846,7 @@ have a default email client setup.</p>
 <p>Ms Oh Soo Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sydney Peh / Ms Shum Wen Hui</p>
+<p>Ms Shum Wen Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Hang Yun</p>
