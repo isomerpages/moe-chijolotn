@@ -14,5 +14,5 @@ sections:
         - title: CONNECT WITH US
           description: Catch us on FB & IG
           url: /SocialMedia/
-      background: /images/Banner and Logo/G_R_A_C_I_A_Apr2026.gif
+      background: /images/Banner and Logo/jun_G_R_A_C_I_A.gif
 ---
