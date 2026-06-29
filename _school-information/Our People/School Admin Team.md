@@ -51,7 +51,7 @@ variant: tiptap
 <p>Infocomm Technology Associate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Ain Khahar</p>
+<p>Mdm Nur Ain</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nur_ain_khahar@moe.edu.sg</p>
@@ -117,17 +117,6 @@ variant: tiptap
 <p>Operation Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lim Kim Tia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operation Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Ang Toh Whatt</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -175,7 +164,7 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Koh Kah Chuan</p>
+<p>Mr Abuzar</p>
 </td>
 </tr>
 <tr>
