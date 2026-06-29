@@ -231,6 +231,17 @@ variant: tiptap
 <p>low_tze_lin_vanessa@moe.edu.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Kezia Ler</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ler_bee_pheng@moe.edu.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>Subject Heads (SH)</strong></h4>
@@ -265,6 +276,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>PE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Lay Peng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lee_lay_peng_a@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Student Leadership Development</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -283,17 +305,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>sum_qiu_mei_sharon@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NE/Social Studies</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Teh Chiew Guek</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>teh_chiew_guek@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
