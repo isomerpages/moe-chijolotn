@@ -7,8 +7,7 @@ variant: markdown
 #### Useful Links:
 
 1. [Student Learning Space](https://vle.learning.moe.edu.sg/login)
-2.
-[Chinese Learning Space via SLS](https://drive.google.com/file/d/1taKIDHbVFU9iapHfvKxpQACH4-doZ9_M/view) 
+2. [Chinese Learning Space via SLS](https://drive.google.com/file/d/1taKIDHbVFU9iapHfvKxpQACH4-doZ9_M/view) 
 4. [eZhiShi](https://www.ezhishi.net/Contents/)
 5. [Vaandu](https://vaandu.sg/index.html)
 6. [Koobits](https://www.koobits.com/)
