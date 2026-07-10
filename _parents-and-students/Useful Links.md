@@ -12,7 +12,7 @@ variant: markdown
 4. [eZhiShi](https://www.ezhishi.net/Contents/)
 5. [Vaandu](https://vaandu.sg/index.html)
 6. [Koobits](https://www.koobits.com/)
-7. [[和书一起飞小图书系列 家长导读指引（一上）]](https://drive.google.com/drive/folders/1goohYuuxsZDbHlkanjX0yw_kXGn79uJx?usp=sharing)
+7. [Parents' Guide for Chinese Language reading](https://drive.google.com/drive/folders/1DL6nBLQUTB6LwhTZc98FUaX2C4pwClM3?usp=sharing)
 8. [Typing Club](https://chij-oln.typingclub.com/)
 9. [CHIJ Our Lady Of The Nativity Library](https://schoolibrary.moe.edu.sg/chijourladyofthenativity/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 10. [Ministry of Education (MOE)](https://www.moe.gov.sg/)
